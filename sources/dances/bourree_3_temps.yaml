@@ -1,0 +1,16 @@
+id: bourree_3_temps
+name: "Bourrée 3 temps"
+tags:
+  - _in_pairs
+  - _contactless
+links:
+  examples:
+    - link: https://www.youtube.com/watch?v=8S_jL0XEMvE
+  playlists:
+    - link: https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  tracks:
+    - artist: "Sylvain Quere"
+      track_name:  "BOURREE 3 TEMPS"
+      links:
+        - portal: Soundcloud
+          link: https://soundcloud.com/lasialyre/bourree-3-temps

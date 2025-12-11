@@ -1,0 +1,15 @@
+keywords:
+  name: Nazwa
+  tags: Charakterystyka
+  links: Odnosniki
+  examples: Przykład
+  playlists: Playlisty
+  tracks: Utwory
+translatable:
+  _in_pairs: "W parach"
+  _contactless: "Bez trzymania"
+  _in_english: "Po angielsku"
+  _around_circle: "Po kole"
+  _mixer: "Mikser (taniec ze zmianą partnerów)"
+alt_names:
+  bourree_3_temps: "Bourree na 3"

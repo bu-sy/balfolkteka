@@ -1,8 +1,25 @@
 id: chapelloise
-tags: []
-other_links:
-  - keyword: wikipedia_page
-    link: https://pl.wikipedia.org/wiki/Chapelloise
-language:
-  pl:
-    phonetic: szapelłaz
+name: Chapelloise
+tags:
+  - _around_circle
+  - _in_pairs
+  - _mixer
+links:
+  instructions:
+    - link: https://www.youtube.com/watch?v=A8AO1zcHD1o
+      additional_information: _in_english
+  examples:
+    - link: https://www.youtube.com/watch?v=oeqQZKvSyNE
+  tracks:
+    - artist: Paracetamol
+      track_name:  'IF # = 4 THEN Go!'
+      links:
+        - portal: YouTube
+          link: https://www.youtube.com/watch?v=Od2vY8ithiY
+        - portal: Spotify
+          link: https://open.spotify.com/track/0Uu8qMhYWK5Vewurxoe3ZM
+    - artist: Mr. Foxlide
+      track_name: "Sittin' On The Top Of The World"
+      links:
+        - portal: Spotify
+          link: https://open.spotify.com/track/1KhIf1WkPZnkYFItHlruNI

@@ -1,6 +1,7 @@
 import os
 import yaml
 import glob
+from renderer import render_dance, render_aggregated_dances
 
 def remove_suffix(text, suffix):
     if text.endswith(suffix):
@@ -18,6 +19,10 @@ class YamlDefinedEntity(object):
             with open(self.file_path) as file_obj:
                 self.contents = yaml.safe_load(file_obj.read())
 
+    def get(self, value):
+        return self.contents[value]
+
+
 class TranslationFile(YamlDefinedEntity):
     def __init__(self, file_path):
         super(TranslationFile, self).__init__(file_path)
@@ -28,14 +33,6 @@ class TranslationFile(YamlDefinedEntity):
     def get_alt_name(self, dance_name):
         return self.contents['alt_names'].get(dance_name)
 
-def render_dance(loaded_dance, loaded_translation):
-    lines = [
-        f"# {loaded_dance.contents['name']}",
-        f"**{loaded_translation.get_keyword('name')}**: {loaded_dance.contents['name']}"
-    ]
-    if alt_name := loaded_translation.get_alt_name(loaded_dance.contents['id']):
-        lines.append(f"**{loaded_translation.get_keyword('alt_name')}**: {alt_name}")
-    return '\n\n'.join(lines)
 
 #TODO group paths in one object with all paths
 my_path = os.path.realpath(__file__)
@@ -70,4 +67,14 @@ for translation in all_translations:
             file_obj.write(
                 render_dance(dance, translation)
             )
+
+    aggregated_pages_path = os.path.join(translation_parent_path, 'aggregated')
+    os.makedirs(aggregated_pages_path, exist_ok=True)
+    aggregated_dances_pages_path = os.path.join(aggregated_pages_path, 'aggregated_dances.md')
+    with open(aggregated_dances_pages_path, 'w') as file_obj:
+        file_obj.write(
+            render_aggregated_dances(all_dances, translation)
+        )
+
     print(f"Done translation {translation.name}")
+

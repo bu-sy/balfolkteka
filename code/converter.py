@@ -59,8 +59,11 @@ class DirectoryStructureForTranslation(object):
             self.aggregated_pages_directory
         ]
 
-    def get_dance_file_path(self, dance_obj):
-        return os.path.join(self.translated_dances_directory, dance_obj.name + '.md')
+    def get_dance_file_path(self, dance_obj, relative_to=None):
+        if not relative_to:
+            return os.path.join(self.translated_dances_directory, dance_obj.name + '.md')
+        else:
+            return self._get_relative_path(relative_to, self.get_dance_file_path(dance_obj))
 
     def get_home_page_path(self, relative_to=None):
         if not relative_to:
@@ -99,20 +102,10 @@ for translation in all_translations:
 
     for dance in all_dances:
         dance.load()
-        with open(directory_structure_for_translation.get_dance_file_path(dance), 'w') as file_obj:
-            file_obj.write(
-                render_dance(dance, translation, directory_structure_for_translation)
-            )
+        render_dance(dance, translation, directory_structure_for_translation)
 
-    with open(directory_structure_for_translation.get_aggregated_dances_path(), 'w') as file_obj:
-        file_obj.write(
-            render_aggregated_dances(all_dances, translation, directory_structure_for_translation)
-        )
-
-    with open(directory_structure_for_translation.get_home_page_path(), 'w') as file_obj:
-        file_obj.write(
-            render_home_page(translation, directory_structure_for_translation)
-        )
+    render_aggregated_dances(all_dances, translation, directory_structure_for_translation)
+    render_home_page(translation, directory_structure_for_translation)
 
     print(f"Done translation {translation.name}")
 

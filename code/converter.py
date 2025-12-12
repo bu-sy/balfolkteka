@@ -1,7 +1,7 @@
 import os
 import yaml
 import glob
-from renderer import render_dance, render_aggregated_dances
+from renderer import render_dance, render_aggregated_dances, render_home_page
 
 def remove_suffix(text, suffix):
     if text.endswith(suffix):
@@ -30,11 +30,14 @@ class TranslationFile(YamlDefinedEntity):
     def get_keyword(self, keyword):
         return self.contents['keywords'][keyword]
 
+    def get_page_name(self, page_name):
+        return self.contents['pages'][page_name]
+
     def get_alt_name(self, dance_name):
         return self.contents['alt_names'].get(dance_name)
 
 
-#TODO group paths in one object with all paths
+#TODO group paths in one object with all paths, have also class to have all paths per translation
 my_path = os.path.realpath(__file__)
 toplevel_path = os.path.realpath(os.path.join(my_path, '..', '..'))
 sources_path = os.path.join(toplevel_path, 'sources')
@@ -42,6 +45,40 @@ dances_path = os.path.join(sources_path, 'dances')
 translations_path = os.path.join(sources_path, 'translations')
 
 documentations_path = os.path.join(toplevel_path, 'documentation')
+
+class DirectoryStructureForTranslation(object):
+    def __init__(self, translation):
+        self.translation_toplevel_path = os.path.join(documentations_path, translation.name)
+        self.translated_dances_directory = os.path.join(self.translation_toplevel_path, 'dances')
+        self.aggregated_pages_directory = os.path.join(self.translation_toplevel_path, 'aggregated')
+
+    def get_directories_to_create(self):
+        return [
+            self.translation_toplevel_path,
+            self.translated_dances_directory,
+            self.aggregated_pages_directory
+        ]
+
+    def get_dance_file_path(self, dance_obj):
+        return os.path.join(self.translated_dances_directory, dance_obj.name + '.md')
+
+    def get_home_page_path(self, relative_to=None):
+        if not relative_to:
+            return os.path.join(self.translation_toplevel_path, 'home.md')
+        else:
+            return self._get_relative_path(relative_to, self.get_home_page_path())
+
+    def get_aggregated_dances_path(self, relative_to=None):
+        if not relative_to:
+            return os.path.join(self.aggregated_pages_directory, 'aggregated_dances.md')
+        else:
+            return self._get_relative_path(relative_to, self.get_aggregated_dances_path())
+
+    def _get_relative_path(self, from_path, to_path):
+        if from_path.endswith('.md'):  # Assuming this is only possible file extension
+            return os.path.relpath(to_path, os.path.dirname(from_path))
+        else:  # This is directory
+            return os.path.relpath(to_path, from_path)
 
 all_dances = [
     YamlDefinedEntity(dance_file) for dance_file in glob.glob(os.path.join(dances_path, '*.yaml'))
@@ -56,24 +93,25 @@ print(f"Found {len(all_translations)} translations.")
 for translation in all_translations:
     print(f"Processing translation {translation.name}")
     translation.load()
-    translation_parent_path = os.path.join(documentations_path, translation.name)
-    os.makedirs(translation_parent_path, exist_ok=True)
-    translated_dances_path = os.path.join(translation_parent_path, 'dances')
-    os.makedirs(translated_dances_path, exist_ok=True)
+    directory_structure_for_translation = DirectoryStructureForTranslation(translation)
+    for directory_to_create in directory_structure_for_translation.get_directories_to_create():
+        os.makedirs(directory_to_create, exist_ok=True)
+
     for dance in all_dances:
         dance.load()
-        dance_path = os.path.join(translated_dances_path, dance.name + '.md')
-        with open(dance_path, 'w') as file_obj:
+        with open(directory_structure_for_translation.get_dance_file_path(dance), 'w') as file_obj:
             file_obj.write(
-                render_dance(dance, translation)
+                render_dance(dance, translation, directory_structure_for_translation)
             )
 
-    aggregated_pages_path = os.path.join(translation_parent_path, 'aggregated')
-    os.makedirs(aggregated_pages_path, exist_ok=True)
-    aggregated_dances_pages_path = os.path.join(aggregated_pages_path, 'aggregated_dances.md')
-    with open(aggregated_dances_pages_path, 'w') as file_obj:
+    with open(directory_structure_for_translation.get_aggregated_dances_path(), 'w') as file_obj:
         file_obj.write(
-            render_aggregated_dances(all_dances, translation)
+            render_aggregated_dances(all_dances, translation, directory_structure_for_translation)
+        )
+
+    with open(directory_structure_for_translation.get_home_page_path(), 'w') as file_obj:
+        file_obj.write(
+            render_home_page(translation, directory_structure_for_translation)
         )
 
     print(f"Done translation {translation.name}")

@@ -1,0 +1,1 @@
+[Lista wszystkich tańców](aggregated/aggregated_dances.md)

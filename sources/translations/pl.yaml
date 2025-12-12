@@ -2,10 +2,12 @@ keywords:
   name: Nazwa
   alt_name: Nazwa alternatywna
   tags: Charakterystyka
-  links: Odnosniki
+  links: Odnośniki
   examples: Przykład
   playlists: Playlisty
   tracks: Utwory
+pages:
+  main_page: Strona główna
   aggregated_list_of_dances: Lista wszystkich tańców
 translatable:
   _in_pairs: "W parach"

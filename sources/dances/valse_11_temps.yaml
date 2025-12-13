@@ -1,0 +1,18 @@
+id: valse_11_temps
+name: Valse 11
+tags:
+  - _in_pairs
+links:
+#  instructions:
+#    - link: https://www.youtube.com/watch?v=A8AO1zcHD1o
+#  examples:
+#    - link: https://www.youtube.com/watch?v=oeqQZKvSyNE
+#      type: example_video
+  playlists:
+    - link: https://open.spotify.com/playlist/7kW0sWDENcRgwqV1geUjym
+  tracks:
+    - artist: Eric Thézé, Samuel Thézé
+      track_name:  Knicklicht
+      links:
+        - portal: Spotify
+          link: https://open.spotify.com/track/3p1xAyPKUrDXMYUlAup1KZ

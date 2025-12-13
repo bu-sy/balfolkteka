@@ -20,6 +20,12 @@
 
 ## Utwory
 
+<details>
+
+<summary>Kliknij by pokazać listę</summary>
+
 **BOURREE 3 TEMPS** - Sylvain Quere   ([Soundcloud](https://soundcloud.com/lasialyre/bourree-3-temps))
 
 **M'an dit martin** - Cocanha  (acapella) ([Spotify](https://open.spotify.com/track/6fPH9JVJrTAVdHUtlBKEsL))
+
+</details>

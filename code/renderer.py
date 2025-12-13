@@ -5,6 +5,9 @@ def write_file(contents, file_path):
 def link(link_text, link_path):
     return f"[{link_text}]({link_path})"
 
+def secondary_header(text):
+    return f"## {text}"
+
 def render_dance(loaded_dance, loaded_translation, directory_structure):
     lines = [
         f"# {loaded_dance.get('name')}",
@@ -30,11 +33,24 @@ def render_dance(loaded_dance, loaded_translation, directory_structure):
         if len(loaded_examples) != 1:
             raise RuntimeError(f"Error parsing {loaded_dance.get('name')}: ATM supporting only one example of the dance.")
 
-        lines.append(f"## {loaded_translation.get_keyword('examples')}")
+        lines.append(secondary_header(loaded_translation.get_keyword('examples')))
         for example in loaded_examples:
             lines.append(link(
                 loaded_translation.get_keyword(example.type), example.link
             ))
+
+    if loaded_music := loaded_dance.get_music_links():
+        lines.append(secondary_header(loaded_translation.get_keyword('tracks')))
+        for track_record in loaded_music:
+            lines.append(
+                f"**{track_record.track_name}** - {track_record.artist}  " +
+                " ".join([
+                    f"({loaded_translation.get_translated_tag(tag_obj)})" for tag_obj in track_record.tags
+                ]) + " " +
+                " ".join([
+                    f"({link(music_link.portal, music_link.link)})" for music_link in track_record.music_links
+                ])
+            )
 
     write_file('\n\n'.join(lines), directory_structure.get_dance_file_path(loaded_dance))
 

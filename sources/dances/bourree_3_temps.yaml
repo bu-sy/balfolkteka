@@ -15,3 +15,10 @@ links:
       links:
         - portal: Soundcloud
           link: https://soundcloud.com/lasialyre/bourree-3-temps
+    - artist: Cocanha
+      track_name: "M'an dit martin"
+      tags:
+        - _acapella
+      links:
+        - portal: Spotify
+          link: https://open.spotify.com/track/6fPH9JVJrTAVdHUtlBKEsL

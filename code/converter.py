@@ -16,6 +16,44 @@ class ExampleRecord(object):
         self.type = type
         self.link = link
 
+    @classmethod
+    def from_dict(cls, dict_obj):
+        return ExampleRecord(
+            type=dict_obj.get('type'),
+            link=dict_obj.get('link')
+        )
+
+class MusicLinkRecord(object):
+    def __init__(self, portal, link):
+        self.portal = portal
+        self.link = link
+
+    @classmethod
+    def from_dict(cls, dict_obj):
+        return MusicLinkRecord(
+            portal=dict_obj.get('portal'),
+            link=dict_obj.get('link')
+        )
+
+class TrackRecord(object):
+    def __init__(self, artist, track_name, music_links, tags):
+        self.artist = artist
+        self.track_name = track_name
+        self.music_links = music_links
+        self.tags = tags
+
+    @classmethod
+    def from_dict(cls, dict_obj):
+        return TrackRecord(
+            artist=dict_obj.get('artist'),
+            track_name=dict_obj.get('track_name'),
+            music_links=[
+                MusicLinkRecord.from_dict(music_link_record_dict) for music_link_record_dict in dict_obj.get('links')
+            ],
+            tags=dict_obj.get('tags') or []
+        )
+
+
 class YamlDefinedEntity(object):
     def __init__(self, file_path):
         self.file_path = file_path
@@ -27,7 +65,7 @@ class YamlDefinedEntity(object):
             with open(self.file_path) as file_obj:
                 self.contents = yaml.safe_load(file_obj.read())
 
-    def get(self, value, default_value = None):
+    def get(self, value, default_value=None):
         return self.contents.get(value, default_value)
 
 class DanceFile(YamlDefinedEntity):
@@ -39,7 +77,12 @@ class DanceFile(YamlDefinedEntity):
 
     def get_examples(self):
         return [
-            ExampleRecord(type=example['type'], link=example['link']) for example in self.get_links().get('examples', [])
+            ExampleRecord.from_dict(example) for example in self.get_links().get('examples', [])
+        ]
+
+    def get_music_links(self):
+        return [
+            TrackRecord.from_dict(track_obj) for track_obj in self.get_links().get('tracks', [])
         ]
 
 class TranslationFile(YamlDefinedEntity):

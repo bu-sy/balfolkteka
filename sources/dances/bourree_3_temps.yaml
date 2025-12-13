@@ -6,6 +6,7 @@ tags:
 links:
   examples:
     - link: https://www.youtube.com/watch?v=8S_jL0XEMvE
+      type: example_video
   playlists:
     - link: https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
   tracks:

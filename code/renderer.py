@@ -26,6 +26,16 @@ def render_dance(loaded_dance, loaded_translation, directory_structure):
             for tag_name in loaded_dance.get('tags')
         ]))
 
+    if loaded_examples := loaded_dance.get_examples():
+        if len(loaded_examples) != 1:
+            raise RuntimeError(f"Error parsing {loaded_dance.get('name')}: ATM supporting only one example of the dance.")
+
+        lines.append(f"## {loaded_translation.get_keyword('examples')}")
+        for example in loaded_examples:
+            lines.append(link(
+                loaded_translation.get_keyword(example.type), example.link
+            ))
+
     write_file('\n\n'.join(lines), directory_structure.get_dance_file_path(loaded_dance))
 
 def render_aggregated_dances(all_dances, loaded_translation, directory_structure):

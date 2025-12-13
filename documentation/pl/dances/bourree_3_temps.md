@@ -9,3 +9,7 @@
 **Charakterystyka**:
 - W parach
 - Bez trzymania
+
+## Przykłady
+
+[Film z przykładem tańca](https://www.youtube.com/watch?v=8S_jL0XEMvE)

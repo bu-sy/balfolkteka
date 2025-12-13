@@ -8,3 +8,7 @@
 - Po kole
 - W parach
 - Mikser (taniec ze zmianą partnerów)
+
+## Przykłady
+
+[Film z przykładem tańca](https://www.youtube.com/watch?v=oeqQZKvSyNE)

@@ -8,6 +8,14 @@ def remove_suffix(text, suffix):
         return text[:-len(suffix)]
     raise RuntimeError(f"{text} does not end with {suffix}, cannot cut it.")
 
+class ExampleRecord(object):
+    VALID_TYPES = ['example_video']
+    def __init__(self, type, link):
+        if type not in self.VALID_TYPES:
+            raise RuntimeError(f"Example record creation failed! Type {type} is invalid")
+        self.type = type
+        self.link = link
+
 class YamlDefinedEntity(object):
     def __init__(self, file_path):
         self.file_path = file_path
@@ -19,9 +27,20 @@ class YamlDefinedEntity(object):
             with open(self.file_path) as file_obj:
                 self.contents = yaml.safe_load(file_obj.read())
 
-    def get(self, value):
-        return self.contents[value]
+    def get(self, value, default_value = None):
+        return self.contents.get(value, default_value)
 
+class DanceFile(YamlDefinedEntity):
+    def __init__(self, file_path):
+        super(DanceFile, self).__init__(file_path)
+
+    def get_links(self):
+        return self.get('links', {})
+
+    def get_examples(self):
+        return [
+            ExampleRecord(type=example['type'], link=example['link']) for example in self.get_links().get('examples', [])
+        ]
 
 class TranslationFile(YamlDefinedEntity):
     def __init__(self, file_path):
@@ -87,7 +106,7 @@ class DirectoryStructureForTranslation(object):
             return os.path.relpath(to_path, from_path)
 
 all_dances = [
-    YamlDefinedEntity(dance_file) for dance_file in glob.glob(os.path.join(dances_path, '*.yaml'))
+    DanceFile(dance_file) for dance_file in glob.glob(os.path.join(dances_path, '*.yaml'))
 ]
 all_translations = [
     TranslationFile(translation_file) for translation_file in glob.glob(os.path.join(translations_path, '*.yaml'))

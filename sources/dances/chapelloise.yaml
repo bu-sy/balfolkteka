@@ -7,9 +7,9 @@ tags:
 links:
   instructions:
     - link: https://www.youtube.com/watch?v=A8AO1zcHD1o
-      additional_information: _in_english
   examples:
     - link: https://www.youtube.com/watch?v=oeqQZKvSyNE
+      type: example_video
   tracks:
     - artist: Paracetamol
       track_name:  'IF # = 4 THEN Go!'

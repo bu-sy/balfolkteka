@@ -36,6 +36,9 @@ class TranslationFile(YamlDefinedEntity):
     def get_alt_name(self, dance_name):
         return self.contents['alt_names'].get(dance_name)
 
+    def get_translated_tag(self, tag_name):
+        return self.contents['translatable'].get(tag_name)
+
 
 #TODO group paths in one object with all paths, have also class to have all paths per translation
 my_path = os.path.realpath(__file__)

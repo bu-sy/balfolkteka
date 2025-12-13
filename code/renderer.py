@@ -20,6 +20,12 @@ def render_dance(loaded_dance, loaded_translation, directory_structure):
     if alt_name := loaded_translation.get_alt_name(loaded_dance.get('id')):
         lines.append(f"**{loaded_translation.get_keyword('alt_name')}**: {alt_name}")
 
+    if loaded_dance.get('tags'):
+        lines.append(f"**{loaded_translation.get_keyword('tags')}**:\n- " + '\n- '.join([
+            loaded_translation.get_translated_tag(tag_name)
+            for tag_name in loaded_dance.get('tags')
+        ]))
+
     write_file('\n\n'.join(lines), directory_structure.get_dance_file_path(loaded_dance))
 
 def render_aggregated_dances(all_dances, loaded_translation, directory_structure):

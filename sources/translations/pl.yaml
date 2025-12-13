@@ -3,15 +3,22 @@ keywords:
   alt_name: Nazwa alternatywna
   tags: Charakterystyka
   links: Odnośniki
+  how_to_dance: Jak tańczyć
   examples: Przykłady
   playlists: Playlisty
   tracks: Utwory
   example_video: Film z przykładem tańca
+  instructions_video: Filmik instruktażowy
+  variants: Warianty
+  similar_dances: Podobne tańce
 pages:
   main_page: Strona główna
   aggregated_list_of_dances: Lista wszystkich tańców
 translatable:
   _in_pairs: "W parach"
+  _in_fours: "W czwórkach"
+  _in_sixes: "W szóstkach"
+  _in_circle: "W kole"
   _contactless: "Bez trzymania"
   _in_english: "Po angielsku"
   _around_circle: "Po kole"
@@ -19,3 +26,4 @@ translatable:
   _acapella: acapella
 alt_names:
   bourree_3_temps: "Bourree na 3"
+  bourree_2_temps: "Bourree na 2"

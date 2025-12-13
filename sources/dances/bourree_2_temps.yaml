@@ -1,0 +1,31 @@
+id: bourree_2_temps
+name: "Bourrée 2 temps"
+tags:
+  - _contactless
+variants:
+  - _in_pairs
+  - _in_sixes
+  - _in_circle
+similar_dances:
+  - bourree_3_temps
+links:
+  instructions:
+    - link: https://www.youtube.com/watch?v=dDAQ6OFr6Oc
+#  examples:
+#    - link: https://www.youtube.com/watch?v=8S_jL0XEMvE
+#      type: example_video
+#  playlists:
+#    - link: https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+#  tracks: #TODO expand
+#    - artist: "Sylvain Quere"
+#      track_name:  "BOURREE 3 TEMPS"
+#      links:
+#        - portal: Soundcloud
+#          link: https://soundcloud.com/lasialyre/bourree-3-temps
+#    - artist: Cocanha
+#      track_name: "M'an dit martin"
+#      tags:
+#        - _acapella
+#      links:
+#        - portal: Spotify
+#          link: https://open.spotify.com/track/6fPH9JVJrTAVdHUtlBKEsL

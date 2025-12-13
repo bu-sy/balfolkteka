@@ -3,13 +3,15 @@ name: "Bourrée 3 temps"
 tags:
   - _in_pairs
   - _contactless
+similar_dances:
+  - bourree_2_temps
 links:
   examples:
     - link: https://www.youtube.com/watch?v=8S_jL0XEMvE
       type: example_video
   playlists:
     - link: https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
-  tracks:
+  tracks: #TODO expand
     - artist: "Sylvain Quere"
       track_name:  "BOURREE 3 TEMPS"
       links:

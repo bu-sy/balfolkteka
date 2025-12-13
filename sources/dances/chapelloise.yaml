@@ -10,7 +10,7 @@ links:
   examples:
     - link: https://www.youtube.com/watch?v=oeqQZKvSyNE
       type: example_video
-  tracks:
+  tracks: #TODO expand
     - artist: Paracetamol
       track_name:  'IF # = 4 THEN Go!'
       links:

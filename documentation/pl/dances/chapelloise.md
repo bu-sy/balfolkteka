@@ -4,7 +4,7 @@
 
 **Nazwa**: Chapelloise
 
-**Charakterystyka**:
+## Charakterystyka
 - Po kole
 - W parach
 - Mikser (taniec ze zmianą partnerów)
@@ -12,6 +12,10 @@
 ## Przykłady
 
 [Film z przykładem tańca](https://www.youtube.com/watch?v=oeqQZKvSyNE)
+
+## Jak tańczyć
+
+[Filmik instruktażowy](https://www.youtube.com/watch?v=A8AO1zcHD1o)
 
 ## Utwory
 

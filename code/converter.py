@@ -85,6 +85,11 @@ class DanceFile(YamlDefinedEntity):
             TrackRecord.from_dict(track_obj) for track_obj in self.get_links().get('tracks', [])
         ]
 
+    def get_instruction_link(self):
+        return [
+            link for link in self.get_links().get('instructions', [])
+        ]
+
 class TranslationFile(YamlDefinedEntity):
     def __init__(self, file_path):
         super(TranslationFile, self).__init__(file_path)
@@ -155,6 +160,9 @@ all_translations = [
     TranslationFile(translation_file) for translation_file in glob.glob(os.path.join(translations_path, '*.yaml'))
 ]
 
+for dance in all_dances:
+    dance.load()
+
 print(f"Found {len(all_dances)} dance files.")
 print(f"Found {len(all_translations)} translations.")
 
@@ -166,8 +174,7 @@ for translation in all_translations:
         os.makedirs(directory_to_create, exist_ok=True)
 
     for dance in all_dances:
-        dance.load()
-        render_dance(dance, translation, directory_structure_for_translation)
+        render_dance(dance, translation, all_dances, directory_structure_for_translation)
 
     render_aggregated_dances(all_dances, translation, directory_structure_for_translation)
     render_home_page(translation, directory_structure_for_translation)

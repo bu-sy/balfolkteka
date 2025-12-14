@@ -16,6 +16,8 @@ class SpotifyCaller(object):
         all_tracks = []
         for item_in_the_list in result['items']:
             track = item_in_the_list['track']
+            if not track['external_urls'].get('spotify'):# Omit -> track is pulled from spotify
+                continue
             all_tracks.append({
                 'artist': ', '.join(sorted([artist['name'] for artist in track['artists']])),
                 'track_name': track['name'],

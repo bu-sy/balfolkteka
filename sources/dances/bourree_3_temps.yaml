@@ -11,6 +11,7 @@ links:
     type: example_video
   playlists:
   - link: https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  - link: https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
   tracks:
   - artist: Alexandra Lacouchie, Le Bal Brotto Lopez
     track_name: Passat deman - Bourrée
@@ -19,6 +20,111 @@ links:
       link: https://open.spotify.com/track/2zmnD4ltZwsQ9O6LN8XRdU
     from_playlist:
     - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  - artist: Alexandra Lacouchie, Le Bal Brotto Lopez
+    track_name: Suite bourées du limousin - Bourrée
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/47Q6rnDmn181EQ48cdm91Q
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard
+    track_name: Bourrées à 3 temps, duret, chaumes blanches, combien de fois, la rude, la dégagée
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1pVJVQArWVdNbCY5gfnEaw
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Balarù
+    track_name: Mountava la marmitta / A la moddë d'Archamoura
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1H18RejvlkbcMaUBYsymwt
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Bargainatt
+    track_name: Tabouret
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/271NfGZYi9wll5iJjpZ5St
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Basile Brémaud
+    track_name: Se la voulia chausir (bourrée)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/21udQwbUmO1Frit2SsTRgk
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Bastien Fontanille, Carlos Valverde, Christian Mage, Guilhem Boucher, João Arruda
+    track_name: N Ai Cinc Sòs a La Pòcha
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4NuzQatjgBoo4KPrmUyKgh
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Bastien Fontanille, Carlos Valverde, João Arruda, Xavier Vidal
+    track_name: Bourée de Leon Peyrat
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5MkTbFDrEVSEwua8MkUBmm
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Bougnat Sound
+    track_name: La cabrette - Ma maïre
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3gHtIV2pmmNR6LcAmJIbQN
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Bougnat Sound
+    track_name: La mène - La coudercoise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4E3fQw6VyNfgzqh93cRhrd
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Bourrasque
+    track_name: Bourrées coulées à Chabrier
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4VJk6vQlPl3nUZ0N1ySwRB
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Bourrasque
+    track_name: Bourrées de l'Oaş 1
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7Mzwt4j2WPWu21jJxAqbwj
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Bourrasque, Jacques Puech
+    track_name: Bourrée à Lachaud / Bourrée à Gavinet
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2RGK5BpCwmcQsXnm9rUv3p
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Brotto-Lopez
+    track_name: Borrèias - Bourrée de Ribeyrolle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0WSrWMXuHeSLkRcGLfibQH
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Brotto-Lopez
+    track_name: Trinhon de Bergon Para lo lop - Suite de bourrées à 3 temps
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4CniMZZ2kjpFbnQaup2i4i
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Chnoques
+    track_name: La Jeanne sur le banc / Maries-toi Juliette (bourrées)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5tWhAevk8XltLcAJYTK7jA
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
   - artist: Cocanha
     track_name: M'an dit martin
     tags:
@@ -28,6 +134,49 @@ links:
       link: https://open.spotify.com/track/6fPH9JVJrTAVdHUtlBKEsL
     from_playlist:
     - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Cocanha
+    track_name: Se sabiatz / Que son aüros
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6ICTiXPeffqvqyvfVUoQLa
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Coriandre
+    track_name: Lo Parpalhon - Le papillon
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1UE04hvsikYMnR0ZB2bfvS
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: DCA Trio
+    track_name: La caille, La Calha, Crosada d'Alpuech
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0STC8tg5PONi0YJeOwaERX
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Didier Champion
+    track_name: Bourrée 3 temps de Prondines
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1N3SNSp0E2LqhY7xgwYcbD
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Didier Champion
+    track_name: Bourrée 3 temps à Prugnard
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/11bfvQwIRsbdMOFLrXhWWv
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Didier Pauvert, Michel Esbelin
+    track_name: Bourrée à Ranvier, bourrée
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1W6qBFSEnwOJhYo6RteIPO
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
   - artist: Duo Blain-Leyzour
     track_name: Bourrée sur La Si Do - Calarem, calarem pas (Bourrée 3 temps)
     links:
@@ -42,6 +191,27 @@ links:
       link: https://open.spotify.com/track/5k7LiYtcOfeL8qY9CH1w3c
     from_playlist:
     - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  - artist: Duo Oliver-Sentou
+    track_name: Passat Deman
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0NFx84UtrO6hEtnm1HxF4O
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Durif-Champeval
+    track_name: Bourée de l'hôpital, tant pire
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7GgkLKx5PS83Z0h0KHx6g5
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Durif-Champeval
+    track_name: Bourée à Pouget, la Courbiase
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1NhfWXHQ0yhyOrqMT6RcBy
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
   - artist: ERIS
     track_name: Que son aurös / N'ai mai cinc sòus (Bourrée à 3 temps)
     links:
@@ -49,6 +219,62 @@ links:
       link: https://open.spotify.com/track/702VQzvA5Fo5UwEvc9tcZO
     from_playlist:
     - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  - artist: Eric Champion
+    track_name: Giate des Combrailles
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0sRWNnEbwSXHWcYaq3BNWn
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Eric Champion
+    track_name: La canne à Gustou - Jolie musette - La bourrée à Bergheaud
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2oleaumMDmdArUChScIbYL
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Eric Champion
+    track_name: Les garçons maçons - Giate de Coualhon
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/54xZvJmNQDlWLJFSl1FJ6w
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Eric Desgrugillers
+    track_name: Tout le long d'un bois / Dròllas qu'avètz d'auganhas
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7luB0FmglH15ZaniswqlI7
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Faburden
+    track_name: Bourrée du Berry / Bourrée de sauvetage
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6X2V4ybI5BEaA8iljR0Su5
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Flor de Zinc
+    track_name: L'aure de la camba torta / La limanhieira
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3j00NJvJ9pzPmEY1uSzJ8M
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Flor de Zinc
+    track_name: La ricoise / La boriairo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6oxV3dexsvSRqgmaC57Spk
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Francois Vidalenc
+    track_name: Bourrée à Francois
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5uQKsJG3k3gQyIn7Yb4V9j
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
   - artist: Groove Factory
     track_name: Cau Te Mena / La Marion Plora
     links:
@@ -56,6 +282,7 @@ links:
       link: https://open.spotify.com/track/4cOE3sfW3uG3ucqnE3TLQh
     from_playlist:
     - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
   - artist: Hot Griselda
     track_name: Shooting Stars - Christmas All Year
     links:
@@ -63,6 +290,69 @@ links:
       link: https://open.spotify.com/track/6fKIf4q42aUeYY60bPiKI5
     from_playlist:
     - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  - artist: Jean-Pierre Lafitte, Renat Jurie
+    track_name: Ont es passant - Qau te mena bela
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1kLKqeeChMUrsVaQvfb3p6
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Komred
+    track_name: Bourrée de l'infernet
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1G0zJfVA0tOrineKgwPcqY
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Komred
+    track_name: Bourrée des toquées - La chanson du faubourg de Saint-Alyre
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7lsj0MdmPrES9RyDr2hcnI
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Komred
+    track_name: Bourrées trois temps
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6A7M3VIsITpxrjUuGfixJO
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Komred
+    track_name: Fasia petar lo pe la limanhera - Bourrée de Saint-Georges
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3oc7Qc4J1uwlEj4ejlyqac
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Komred
+    track_name: Le jugement des jeunes filles - Bourrée à Mondoly
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/11nqfclAd0oaBxWFLwpyaQ
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Komred
+    track_name: Montagnarde de Pont-Gibaud
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1OK0mcn7rIxvH0quH5MSPS
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Komred
+    track_name: Sous les noyers
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5brx6mgGEEXZqp0EVuV9Jw
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Kreiz Breizh Akademi
+    track_name: La Calha
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1FHeiC58phgSQ6hITRkGjp
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
   - artist: La Forcelle
     track_name: Suite de Bourrées
     links:
@@ -70,6 +360,7 @@ links:
       link: https://open.spotify.com/track/7fEReVlHUcuxyTmCUI4guU
     from_playlist:
     - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
   - artist: Laüsa
     track_name: Lo Carbonier
     links:
@@ -84,6 +375,118 @@ links:
       link: https://open.spotify.com/track/3l0RaXA8LHHhd5GML7syfY
     from_playlist:
     - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  - artist: Le bal de l'éphémère
+    track_name: Déchance (Bourrée 3 temps)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0GhmCa9m4HShcZW7VVGQw4
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Les Brayauds
+    track_name: Bourrée de Saint-Priest & bourrée de Veyssière
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4tONEqyvZ3HkrCBozi1uCq
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Les Brayauds
+    track_name: Bourrées du Falgoux
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4SoQnAAuO7sHbQfXPelklW
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Les Poufs à Cordes
+    track_name: Bourrée d'après Pierre tourret / La liquière
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/37w1cDD6o4JbigJaRxSlyT
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Les Poufs à Cordes
+    track_name: Suite de bourrée coulées
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7jSFSjGK0eLWMqVK76NNvX
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Léon Peyrat
+    track_name: 'Suite de bourrées: la Santarel'
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5TVWcnAghUrSx6yDaydSeL
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Ma petite
+    track_name: La mal mariée (avec Julien Padovani)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6cNt17pfMJbGSiobEiOmoi
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Marthe Tourret, Élisa Trebouville
+    track_name: Lo chapel de palha, Delai lo ribatel / Bourrées
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4113CYLPmmvimh2Vsrjo9i
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Marthe Tourret, Élisa Trebouville
+    track_name: Passant sur la pancheta, Canicule / Bourrées
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6Qc8TDSIC67TR0cooG0C9j
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Marthe Tourret, Élisa Trebouville
+    track_name: Suite de bourrées du Cézallier
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6NzLrszJAQTKCjruI7WPa7
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Massalès Brouff
+    track_name: La crosada, la zoue-crade, bourrées
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1AO4OAdnpn7W5beAZQMLGo
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Massalès Brouff
+    track_name: Le tourniquet de Saint Flour, Le trou niquet de Saint Flour, bourrées
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/72ePx35CszR5GAISLtuuwj
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Mbraia
+    track_name: Passat Deman
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3eNfMpM1uEHIOuJe0bcuL7
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Mickaël Vidal
+    track_name: Cauma tecnica
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/14nctltPyOQdlsjOXOejeE
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Moizbat
+    track_name: Petrocori
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6qYQwhZt7LhXw4xZ9k29Ez
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: NOU
+    track_name: Bourrée trois temps
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3pcclTGhH09z1D0nj4oQlK
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
   - artist: Naragonia, Naragonia Quartet
     track_name: The Naked Welcome / Chimneystork
     links:
@@ -91,6 +494,48 @@ links:
       link: https://open.spotify.com/track/7mxMkDWwfOoxUZDCwrgGIx
     from_playlist:
     - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  - artist: Phonème
+    track_name: Qui veut ouir complainte
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3uN4cewPdxU8B010MRBsdA
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Pèire Boissièra
+    track_name: Flòc de borrèias
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6eLrIWVnfGC9xWFh1ZYDUa
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Raphnin Maurel
+    track_name: Bourrée à Jean Marc Delaunay / Le pan-pan de Mauriac
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0vwGKVcL28srZj03h16ysB
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Raphnin Maurel
+    track_name: Bourrée à la flûte / La relique / Bourrée des environs e Saint-Angel
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4GCI1G6IG6TEorrwofUQkk
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Raphnin Maurel
+    track_name: Le curé de la chapelle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3fzWFjysB3GPr0BnfQBd1B
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Raphnin Maurel
+    track_name: Les poires sont mûres / La Ricoise / Bourrée à Jean Bergheaud / Bourrée d'escudière
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3GrGL4uH2f9y2OrvgmgDjI
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
   - artist: Rémi Geffroy
     track_name: Aleph (bourrées 3 temps)
     links:
@@ -98,11 +543,81 @@ links:
       link: https://open.spotify.com/track/3Qm39GNNTlvv3EM2ZMpTCu
     from_playlist:
     - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  - artist: Rémi Geffroy
+    track_name: Suite de planières
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7EHAbPGccfp5UYlF9m27c0
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Solomalé
+    track_name: Le tailleur de pierre
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4wjWMRTfytnkt23ek176y4
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
   - artist: Sylvain Quere
     track_name: BOURREE 3 TEMPS
     links:
     - portal: Soundcloud
       link: https://soundcloud.com/lasialyre/bourree-3-temps
+  - artist: Sylvie Pulles
+    track_name: La bourrée des furets - Bourree
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0NMEjLiKuux58hTswCGwyd
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Tatu Trio
+    track_name: Ai vist lo lop
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/778tkUKQ1Ri6HNluABe4q1
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Tatu Trio
+    track_name: N'i a mai los faures
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/66Heq1iYsdEqxBx7y0j4Eb
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Tiennet Simonnin
+    track_name: Bourrée de Malbouzon / La San Girbazia - Studio de la Ferme
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5hgicdpJPTEVtGYrm8rbmU
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Tiennet Simonnin
+    track_name: La Justine / La Reyracoise / Bourrée à Marcel Plane / Bourrée à Espeyrou / Bourrée à Ribeyrolle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0UI3o5SnuGpk6CqiNtj8OT
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Tournesol
+    track_name: 'Les souliers bleus: Ma Jeanne'
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0g6xGXCNePlzzRsDSOgPFx
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Tournesol
+    track_name: Presta me lo, quand lo pastre
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1PlQV4uozIoEi2AqAzK4RE
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Traucatèrme
+    track_name: La charranta, El ball del rossinyol
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1etB4s8haGeXiAmlEzzKWM
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
   - artist: Trio Dhoore
     track_name: Special Bullets / Air Force
     links:
@@ -110,3 +625,10 @@ links:
       link: https://open.spotify.com/track/0CvkwqxTWWYSFmpPXxQ0ia
     from_playlist:
     - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  - artist: Vinta
+    track_name: Bourrée Isolée
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2eUrPs8CpvvMuHApQpBQKj
+    from_playlist:
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg

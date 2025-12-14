@@ -20,6 +20,8 @@ class SpotifyCaller(object):
         all_tracks = []
         for item_in_the_list in result['items']:
             track = item_in_the_list['track']
+            if not track['external_urls'].get('spotify'):# Omit -> track is pulled from spotify
+                continue
             all_tracks.append({
                 'artist': ', '.join(sorted([artist['name'] for artist in track['artists']])),
                 'track_name': track['name'],
@@ -65,6 +67,7 @@ def clean_track_list(track_list):
 
 
 yaml = YAML()
+yaml.width = 4096
 
 for file_path in glob.glob(dances_sources_glob):
     print(f"Cleaning file {file_path}")

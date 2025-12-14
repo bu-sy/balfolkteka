@@ -7,11 +7,11 @@
 ## Charakterystyka
 - W parach
 
-## Utwory
+## Utwory (3)
 
 <details>
 
-<summary>Kliknij by pokazać listę</summary>
+<summary>Kliknij by rozwinąć listę</summary>
 
 Eric Thézé, Samuel Thézé - **Knicklicht** ([Spotify](https://open.spotify.com/track/3p1xAyPKUrDXMYUlAup1KZ))
 

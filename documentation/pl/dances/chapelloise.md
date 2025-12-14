@@ -17,11 +17,11 @@
 
 [Filmik instruktażowy](https://www.youtube.com/watch?v=A8AO1zcHD1o)
 
-## Utwory
+## Utwory (11)
 
 <details>
 
-<summary>Kliknij by pokazać listę</summary>
+<summary>Kliknij by rozwinąć listę</summary>
 
 Ballsy Swing - **Les pulls à Lucas (Chapelloise)** ([Spotify](https://open.spotify.com/track/43y78oQHpn5Sizb0EKz0jR))
 

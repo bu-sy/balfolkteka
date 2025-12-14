@@ -50,13 +50,11 @@ def clean_track_list(track_list):
     for track in sorted_track_list[1:]:
         previous_track = new_track_list[-1]
         if track['artist'] == previous_track['artist'] and track['track_name'] == previous_track['track_name']:
-            print(f"Merging records for {track['artist']} - {track['track_name']}")
             previous_track['from_playlist'] = unique_list(previous_track.get('from_playlist', []) + track.get('from_playlist', []))
             for track_link in track['links']:
                 for track_link_in_previous_record in previous_track['links']:
                     if (track_link['portal'] == track_link_in_previous_record['portal']) and (
                             track_link['link'] == track_link_in_previous_record['link']):
-                        print(f"Found duplicate link for {track_link['portal']}: {track_link['link']}")
                         break
                 else:
                     previous_track['links'].append(track_link)

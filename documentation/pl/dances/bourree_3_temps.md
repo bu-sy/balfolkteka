@@ -18,11 +18,11 @@
 
 - [Bourrée 2 temps](bourree_2_temps.md)
 
-## Utwory
+## Utwory (88)
 
 <details>
 
-<summary>Kliknij by pokazać listę</summary>
+<summary>Kliknij by rozwinąć listę</summary>
 
 Alexandra Lacouchie, Le Bal Brotto Lopez - **Passat deman - Bourrée** ([Spotify](https://open.spotify.com/track/2zmnD4ltZwsQ9O6LN8XRdU))
 

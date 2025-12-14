@@ -20,10 +20,6 @@
 
 ## Utwory (88)
 
-<details>
-
-<summary>Kliknij by rozwinąć listę</summary>
-
 Alexandra Lacouchie, Le Bal Brotto Lopez - **Passat deman - Bourrée** ([Spotify](https://open.spotify.com/track/2zmnD4ltZwsQ9O6LN8XRdU))
 
 Alexandra Lacouchie, Le Bal Brotto Lopez - **Suite bourées du limousin - Bourrée** ([Spotify](https://open.spotify.com/track/47Q6rnDmn181EQ48cdm91Q))
@@ -199,5 +195,3 @@ Traucatèrme - **La charranta, El ball del rossinyol** ([Spotify](https://open.s
 Trio Dhoore - **Special Bullets / Air Force** ([Spotify](https://open.spotify.com/track/0CvkwqxTWWYSFmpPXxQ0ia))
 
 Vinta - **Bourrée Isolée** ([Spotify](https://open.spotify.com/track/2eUrPs8CpvvMuHApQpBQKj))
-
-</details>

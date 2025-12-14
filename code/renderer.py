@@ -71,8 +71,6 @@ def render_dance(loaded_dance, loaded_translation, all_dances, directory_structu
 
     if loaded_music := loaded_dance.get_music_links():
         lines.append(secondary_header(loaded_translation.get_keyword('tracks') + f" ({len(loaded_music)})"))
-        lines.append('<details>')
-        lines.append(f"<summary>{loaded_translation.get_keyword('click_to_expand_list')}</summary>")
         for track_record in loaded_music:
             lines.append(
                 f"{track_record.artist} - **{track_record.track_name}**" +
@@ -83,7 +81,6 @@ def render_dance(loaded_dance, loaded_translation, all_dances, directory_structu
                     f"({link(music_link.portal, music_link.link)})" for music_link in track_record.music_links
                 ])
             )
-        lines.append('</details>')
 
     write_file('\n\n'.join(lines), directory_structure.get_dance_file_path(loaded_dance))
 

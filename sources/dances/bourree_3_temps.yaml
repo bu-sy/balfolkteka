@@ -11,7 +11,14 @@ links:
     type: example_video
   playlists:
   - link: https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
-  tracks: #TODO expand
+  tracks:
+  - artist: Alexandra Lacouchie, Le Bal Brotto Lopez
+    track_name: Passat deman - Bourrée
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2zmnD4ltZwsQ9O6LN8XRdU
+    from_playlist:
+    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
   - artist: Cocanha
     track_name: M'an dit martin
     tags:
@@ -19,8 +26,87 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6fPH9JVJrTAVdHUtlBKEsL
+    from_playlist:
+    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  - artist: Duo Blain-Leyzour
+    track_name: Bourrée sur La Si Do - Calarem, calarem pas (Bourrée 3 temps)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4WuUis1yWh2Q40vBOx7NWG
+    from_playlist:
+    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  - artist: Duo Bottasso
+    track_name: Bourrée
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5k7LiYtcOfeL8qY9CH1w3c
+    from_playlist:
+    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  - artist: ERIS
+    track_name: Que son aurös / N'ai mai cinc sòus (Bourrée à 3 temps)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/702VQzvA5Fo5UwEvc9tcZO
+    from_playlist:
+    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  - artist: Groove Factory
+    track_name: Cau Te Mena / La Marion Plora
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4cOE3sfW3uG3ucqnE3TLQh
+    from_playlist:
+    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  - artist: Hot Griselda
+    track_name: Shooting Stars - Christmas All Year
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6fKIf4q42aUeYY60bPiKI5
+    from_playlist:
+    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  - artist: La Forcelle
+    track_name: Suite de Bourrées
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7fEReVlHUcuxyTmCUI4guU
+    from_playlist:
+    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  - artist: Laüsa
+    track_name: Lo Carbonier
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2mx24K3TP1GoWy0pNEdZH9
+    from_playlist:
+    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  - artist: Le Sextet à Claques
+    track_name: Saperlipopette ! - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3l0RaXA8LHHhd5GML7syfY
+    from_playlist:
+    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  - artist: Naragonia, Naragonia Quartet
+    track_name: The Naked Welcome / Chimneystork
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7mxMkDWwfOoxUZDCwrgGIx
+    from_playlist:
+    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  - artist: Rémi Geffroy
+    track_name: Aleph (bourrées 3 temps)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3Qm39GNNTlvv3EM2ZMpTCu
+    from_playlist:
+    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
   - artist: Sylvain Quere
     track_name: BOURREE 3 TEMPS
     links:
     - portal: Soundcloud
       link: https://soundcloud.com/lasialyre/bourree-3-temps
+  - artist: Trio Dhoore
+    track_name: Special Bullets / Air Force
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0CvkwqxTWWYSFmpPXxQ0ia
+    from_playlist:
+    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft

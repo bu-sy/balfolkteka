@@ -12,16 +12,22 @@ links:
   - link: https://open.spotify.com/playlist/7kW0sWDENcRgwqV1geUjym
   tracks:
   - artist: Eric Thézé, Samuel Thézé
+    from_playlist:
+    - https://open.spotify.com/playlist/7kW0sWDENcRgwqV1geUjym
     links:
     - link: https://open.spotify.com/track/3p1xAyPKUrDXMYUlAup1KZ
       portal: Spotify
     track_name: Knicklicht
   - artist: Trio Loubelya
+    from_playlist:
+    - https://open.spotify.com/playlist/7kW0sWDENcRgwqV1geUjym
     links:
     - link: https://open.spotify.com/track/5CSzPeK5nQhwdRpt02f0Yt
       portal: Spotify
     track_name: Vals'Constant
   - artist: Wouter en De Draak
+    from_playlist:
+    - https://open.spotify.com/playlist/7kW0sWDENcRgwqV1geUjym
     links:
     - link: https://open.spotify.com/track/2hLEYIziamOpMzwiSk5P8P
       portal: Spotify

@@ -14,12 +14,23 @@ for file_path in glob.glob(dances_sources_glob):
     track_list = data.get('links', {}).get('tracks', [])
     if not track_list:
         continue
-    track_list = sorted(track_list, key=lambda x: (x['artist'], x['track_name']))
-    data['links']['tracks'] = track_list
+    sorted_track_list = sorted(track_list, key=lambda x: (x['artist'], x['track_name']))
+
+    new_track_list = []
+    new_track_list.append(sorted_track_list[0])
+    for track in sorted_track_list[1:]:
+        previous_track = new_track_list[-1]
+        if track['artist'] == previous_track['artist'] and track['track_name'] == previous_track['track_name']:
+            print(f"Merging records for {track['artist']} - {track['track_name']}")
+            for track_link in track['links']:
+                for track_link_in_previous_record in previous_track['links']:
+                    if (track_link['portal'] == track_link_in_previous_record['portal']) and (track_link['link'] == track_link_in_previous_record['link']):
+                        print(f"Found duplicate link for {track_link['portal']}: {track_link['link']}")
+                        break
+                else:
+                    previous_track['links'].append(track_link)
+        else:
+            new_track_list.append(track)
+
+    data['links']['tracks'] = new_track_list
     yaml.dump(data, file_reference)
-
-    links = [
-        link['link'] for track in track_list for link in track['links']
-    ]
-
-    assert len(links) == len(set(links)), f"Found duplicate links in {file_path}!"

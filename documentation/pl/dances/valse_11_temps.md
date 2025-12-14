@@ -13,10 +13,10 @@
 
 <summary>Kliknij by pokazać listę</summary>
 
-**Knicklicht** - Eric Thézé, Samuel Thézé   ([Spotify](https://open.spotify.com/track/3p1xAyPKUrDXMYUlAup1KZ))
+Eric Thézé, Samuel Thézé - **Knicklicht** ([Spotify](https://open.spotify.com/track/3p1xAyPKUrDXMYUlAup1KZ))
 
-**Vals'Constant** - Trio Loubelya   ([Spotify](https://open.spotify.com/track/5CSzPeK5nQhwdRpt02f0Yt))
+Trio Loubelya - **Vals'Constant** ([Spotify](https://open.spotify.com/track/5CSzPeK5nQhwdRpt02f0Yt))
 
-**He'pter** - Wouter en De Draak   ([Spotify](https://open.spotify.com/track/2hLEYIziamOpMzwiSk5P8P))
+Wouter en De Draak - **He'pter** ([Spotify](https://open.spotify.com/track/2hLEYIziamOpMzwiSk5P8P))
 
 </details>

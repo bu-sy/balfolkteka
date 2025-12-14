@@ -1,7 +1,7 @@
 id: valse_11_temps
 name: Valse 11
 tags:
-  - _in_pairs
+- _in_pairs
 links:
 #  instructions:
 #    - link: https://www.youtube.com/watch?v=A8AO1zcHD1o
@@ -9,20 +9,20 @@ links:
 #    - link: https://www.youtube.com/watch?v=oeqQZKvSyNE
 #      type: example_video
   playlists:
-    - link: https://open.spotify.com/playlist/7kW0sWDENcRgwqV1geUjym
+  - link: https://open.spotify.com/playlist/7kW0sWDENcRgwqV1geUjym
   tracks:
-    - artist: Eric Thézé, Samuel Thézé
-      links:
-      - link: https://open.spotify.com/track/3p1xAyPKUrDXMYUlAup1KZ
-        portal: Spotify
-      track_name: Knicklicht
-    - artist: Trio Loubelya
-      links:
-      - link: https://open.spotify.com/track/5CSzPeK5nQhwdRpt02f0Yt
-        portal: Spotify
-      track_name: Vals'Constant
-    - artist: Wouter en De Draak
-      links:
-      - link: https://open.spotify.com/track/2hLEYIziamOpMzwiSk5P8P
-        portal: Spotify
-      track_name: He'pter
+  - artist: Eric Thézé, Samuel Thézé
+    links:
+    - link: https://open.spotify.com/track/3p1xAyPKUrDXMYUlAup1KZ
+      portal: Spotify
+    track_name: Knicklicht
+  - artist: Trio Loubelya
+    links:
+    - link: https://open.spotify.com/track/5CSzPeK5nQhwdRpt02f0Yt
+      portal: Spotify
+    track_name: Vals'Constant
+  - artist: Wouter en De Draak
+    links:
+    - link: https://open.spotify.com/track/2hLEYIziamOpMzwiSk5P8P
+      portal: Spotify
+    track_name: He'pter

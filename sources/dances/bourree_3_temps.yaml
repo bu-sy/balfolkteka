@@ -1,26 +1,26 @@
 id: bourree_3_temps
-name: "Bourrée 3 temps"
+name: Bourrée 3 temps
 tags:
-  - _in_pairs
-  - _contactless
+- _in_pairs
+- _contactless
 similar_dances:
-  - bourree_2_temps
+- bourree_2_temps
 links:
   examples:
-    - link: https://www.youtube.com/watch?v=8S_jL0XEMvE
-      type: example_video
+  - link: https://www.youtube.com/watch?v=8S_jL0XEMvE
+    type: example_video
   playlists:
-    - link: https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  - link: https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
   tracks: #TODO expand
-    - artist: "Sylvain Quere"
-      track_name:  "BOURREE 3 TEMPS"
-      links:
-        - portal: Soundcloud
-          link: https://soundcloud.com/lasialyre/bourree-3-temps
-    - artist: Cocanha
-      track_name: "M'an dit martin"
-      tags:
-        - _acapella
-      links:
-        - portal: Spotify
-          link: https://open.spotify.com/track/6fPH9JVJrTAVdHUtlBKEsL
+  - artist: Cocanha
+    track_name: M'an dit martin
+    tags:
+    - _acapella
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6fPH9JVJrTAVdHUtlBKEsL
+  - artist: Sylvain Quere
+    track_name: BOURREE 3 TEMPS
+    links:
+    - portal: Soundcloud
+      link: https://soundcloud.com/lasialyre/bourree-3-temps

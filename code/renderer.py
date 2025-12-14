@@ -75,7 +75,7 @@ def render_dance(loaded_dance, loaded_translation, all_dances, directory_structu
         lines.append(f"<summary>{loaded_translation.get_keyword('click_to_expand_list')}</summary>")
         for track_record in loaded_music:
             lines.append(
-                f"**{track_record.track_name}** - {track_record.artist}  " +
+                f"{track_record.artist} - **{track_record.track_name}**" +
                 " ".join([
                     f"({loaded_translation.get_translated_tag(tag_obj)})" for tag_obj in track_record.tags
                 ]) + " " +

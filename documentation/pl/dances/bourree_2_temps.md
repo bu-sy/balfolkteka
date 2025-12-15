@@ -11,6 +11,7 @@
 
 ### Warianty
 - W parach
+- W czwórkach
 - W szóstkach
 - W kole
 
@@ -22,7 +23,7 @@ https://www.youtube.com/watch?v=dDAQ6OFr6Oc
 
 - [Bourrée 3 temps](bourree_3_temps.md)
 
-## Utwory (50)
+## Utwory (52)
 
 'Ndiaz - **Horde** ([Spotify](https://open.spotify.com/track/3K8YVmUf162CaFBq4ebQNI))
 
@@ -107,6 +108,10 @@ Naragonia - **Naya / Castor - Live** ([Spotify](https://open.spotify.com/track/5
 Naragonia, Naragonia Quartet - **Yowjef** ([Spotify](https://open.spotify.com/track/63kLWBk9xN95Z7g4pmbTxt))
 
 Nigel Eaton - **Three Sharks** ([Spotify](https://open.spotify.com/track/60laXLEg23SInqizDjEBJk))
+
+ORAJ - **Père Soleil** ([Spotify](https://open.spotify.com/track/3iVxYsUQWXTkLEJPmhSY6M)) ([YouTube](https://www.youtube.com/watch?v=RPOBnUmBF4I))
+
+ORAJ - **Turbo Fraise** ([Spotify](https://open.spotify.com/track/1Ogqro3a1LAO0TKlztdT5g)) ([YouTube](https://www.youtube.com/watch?v=NVC_JPBBCbk))
 
 Passant Par Paris - **Passant par Paris (bourrée 2 temps)** ([Spotify](https://open.spotify.com/track/5jOk75WxOdi9JbZrwkTShE))
 

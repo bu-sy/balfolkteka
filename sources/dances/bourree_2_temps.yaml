@@ -4,6 +4,7 @@ tags:
 - _contactless
 variants:
 - _in_pairs
+- _in_fours
 - _in_sixes
 - _in_circle
 connected_dances:
@@ -326,6 +327,20 @@ links:
       link: https://open.spotify.com/track/60laXLEg23SInqizDjEBJk
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: ORAJ
+    track_name: Père Soleil
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3iVxYsUQWXTkLEJPmhSY6M
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=RPOBnUmBF4I
+  - artist: ORAJ
+    track_name: Turbo Fraise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1Ogqro3a1LAO0TKlztdT5g
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=NVC_JPBBCbk
   - artist: Passant Par Paris
     track_name: Passant par Paris (bourrée 2 temps)
     links:

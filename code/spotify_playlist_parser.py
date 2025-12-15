@@ -74,12 +74,13 @@ for file_path in glob.glob(dances_sources_glob):
     track_list = data.get('links', {}).get('tracks', [])
     playlists = data.get('links', {}).get('playlists', [])
 
-    if playlists:
-        for playlist in playlists:
-            playlist_id = playlist['link'].split('/')[-1]
-            track_list.extend(
-                spotify_caller.get_tracks(playlist_id)
-            )
+    if not os.getenv('ONLY_CLEAN'):
+        if playlists:
+            for playlist in playlists:
+                playlist_id = playlist['link'].split('/')[-1]
+                track_list.extend(
+                    spotify_caller.get_tracks(playlist_id)
+                )
 
     if not track_list:
         continue

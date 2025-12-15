@@ -86,7 +86,7 @@ def render_aggregated_dances(all_dances, loaded_translation, directory_structure
             link(
                 dance.get('name'),
                 directory_structure.get_dance_file_path(dance, directory_structure.get_aggregated_dances_path())
-            ) for dance in all_dances
+            ) for dance in sorted(all_dances, key=lambda x: x.get('name'))
         ]),
         directory_structure.get_aggregated_dances_path()
     )

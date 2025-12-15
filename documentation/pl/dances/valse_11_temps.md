@@ -1,8 +1,10 @@
-# Valse 11
+# Valse 11 temps
 
 [Strona główna](../home.md)/[Lista wszystkich tańców](../aggregated/aggregated_dances.md)
 
-**Nazwa**: Valse 11
+**Nazwa**: Valse 11 temps
+
+**Nazwa alternatywna**: Walc na 11
 
 ## Charakterystyka
 - W parach

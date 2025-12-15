@@ -11,11 +11,11 @@
 
 ## Przykłady
 
-[Film z przykładem tańca](https://www.youtube.com/watch?v=oeqQZKvSyNE)
+https://www.youtube.com/watch?v=oeqQZKvSyNE
 
 ## Jak tańczyć
 
-[Filmik instruktażowy](https://www.youtube.com/watch?v=A8AO1zcHD1o)
+https://www.youtube.com/watch?v=A8AO1zcHD1o
 
 ## Utwory (11)
 

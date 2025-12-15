@@ -35,24 +35,14 @@ def render_dance(loaded_dance, loaded_translation, all_dances, directory_structu
             ]))
 
     if loaded_examples := loaded_dance.get_examples():
-        if len(loaded_examples) != 1:
-            raise RuntimeError(f"Error parsing {loaded_dance.get('name')}: ATM supporting only one example of the dance.")
-
         lines.append(secondary_header(loaded_translation.get_keyword('examples')))
         for example in loaded_examples:
-            lines.append(link(
-                loaded_translation.get_keyword(example.type), example.link
-            ))
+            lines.append(example.link)
 
     if loaded_instructions := loaded_dance.get_instruction_link():
-        if len(loaded_instructions) != 1:
-            raise RuntimeError(f"Error parsing {loaded_dance.get('name')}: ATM supporting only one example of the dance.")
-
         lines.append(secondary_header(loaded_translation.get_keyword('how_to_dance')))
         for instruction in loaded_instructions:
-            lines.append(link(
-                loaded_translation.get_keyword('instructions_video'), instruction['link']
-            ))
+            lines.append(instruction['link'])
 
     if loaded_dance.get('connected_dances'):
         lines.append(f"### {loaded_translation.get_keyword('connected_dances')}")

@@ -7,6 +7,10 @@
 ## Charakterystyka
 - W parach
 
+## Przykłady
+
+https://www.youtube.com/watch?v=-FVytqqNALo
+
 ## Utwory (3)
 
 Eric Thézé, Samuel Thézé - **Knicklicht** ([Spotify](https://open.spotify.com/track/3p1xAyPKUrDXMYUlAup1KZ))

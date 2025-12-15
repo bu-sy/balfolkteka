@@ -16,7 +16,7 @@
 
 ## Jak tańczyć
 
-[Filmik instruktażowy](https://www.youtube.com/watch?v=dDAQ6OFr6Oc)
+https://www.youtube.com/watch?v=dDAQ6OFr6Oc
 
 ### Powiązane tańce
 

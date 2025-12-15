@@ -133,8 +133,8 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/6fPH9JVJrTAVdHUtlBKEsL
     from_playlist:
-    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
     - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
   - artist: Cocanha
     track_name: Se sabiatz / Que son aüros
     links:
@@ -281,8 +281,8 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/4cOE3sfW3uG3ucqnE3TLQh
     from_playlist:
-    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
     - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
   - artist: Hot Griselda
     track_name: Shooting Stars - Christmas All Year
     links:
@@ -359,8 +359,8 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/7fEReVlHUcuxyTmCUI4guU
     from_playlist:
-    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
     - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
   - artist: Laüsa
     track_name: Lo Carbonier
     links:

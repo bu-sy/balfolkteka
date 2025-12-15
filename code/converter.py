@@ -10,16 +10,12 @@ def remove_suffix(text, suffix):
 
 class ExampleRecord(object):
     VALID_TYPES = ['example_video']
-    def __init__(self, type, link):
-        if type not in self.VALID_TYPES:
-            raise RuntimeError(f"Example record creation failed! Type {type} is invalid")
-        self.type = type
+    def __init__(self, link):
         self.link = link
 
     @classmethod
     def from_dict(cls, dict_obj):
         return ExampleRecord(
-            type=dict_obj.get('type'),
             link=dict_obj.get('link')
         )
 

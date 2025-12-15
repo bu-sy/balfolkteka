@@ -1,2 +1,206 @@
 id: scottish
 name: Scottish
+links:
+  instructions:
+  - link: https://www.youtube.com/watch?v=y1mfTqRCfyg
+  examples:
+  - link: https://www.youtube.com/watch?v=qzuP3u4BtCU
+  - link: https://www.youtube.com/watch?v=rGoECsG3WGk
+  playlists:
+  - link: https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
+  - link: https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  tracks:
+  - artist: Airboxes
+    track_name: Bultkets
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5QtHopsvC9QQ3KbWF62R4O
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Andy Cutting, Nigel Eaton
+    track_name: The Ice House Schottisches
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3ZChscQK7GDjcKusvZS0wA
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Ballsy Swing
+    track_name: Scottish des Aqueducs
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1jNAvGvQGlvyBRbA0ZNFeY
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Bargainatt
+    track_name: Captain Scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/58gbbGBFh2g66fe4gIYJMC
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Bargainatt
+    track_name: Scottish du Moulin
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2aQ1JcDAM7SEngz1bnvG89
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Brotto-Lopez
+    track_name: Diga Figa - Escotticha
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6N0EEJKvs8WJFVw62RPAI1
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Duo Absynthe
+    track_name: British Swing
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7GADPvwHhb2sDgLYbhggb7
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Duo Brotto Milleret
+    track_name: Scottish pour Anatole / Inhibitude
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/53yahU1o62Jw8KcuH8eX00
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Etienne Choquet, Pulcinella, Trio Loubelya
+    track_name: Leo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0nUmDKTDwawyPdqfcBrvDk
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Fahrenheit
+    track_name: Garden swing (scottish)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0cx165K2jvKjzCiIddqG6v
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Hartwin
+    track_name: Laugu - Scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/65796xbRxoTTOy337BEdAz
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Hot Griselda
+    track_name: Schojaseuten
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5Mp1BXI0v1mEOejNZUenPs
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: La Forcelle
+    track_name: Scottish De Åby / Scottish Septentrionale
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1m68csa1EAMTW2K3jB8lxR
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Le Quintet à Claques
+    track_name: British String
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5prACOhX4iH1n9lxmYTdOz
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Les Zéoles
+    track_name: La p'tite bête (Scottish)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6DZf8psO3ua4ylT5c6HByZ
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Loogaroo
+    track_name: La Chiave
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/15bYgfuAWz1QXZxorEsBNq
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Man Encantada
+    track_name: La Calorada
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/20ZUYSRRBk8d7sAuEZEw8n
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Mr. Foxlide
+    track_name: Mind the gap - Scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5uRbx0kPaCb3zPRJ2gTotc
+  - artist: Naragonia
+    track_name: Carabel
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3ZPVhJSZXuYHDgjcnC7OSm
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Naragonia
+    track_name: Lente in Laren / Jane's Boots
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6VSBAYqARiADT2y9UGcAGM
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Naragonia, Naragonia Quartet
+    track_name: Hellebore / Too Late to Sleep
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3z1iq9HZHu5ZevbzaL60JC
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Novar
+    track_name: A Kiss In Berlin / Novar
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2PP1gleh8VpIzAH4SQS1o6
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Snaarmaarwaar
+    track_name: Horlepijp / Castro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6C6Kn4cgziJSXBl61KGH9F
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Tref
+    track_name: Scottische en neige
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/509tV4C5bsGNN8pUxL87WQ
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Tribal Jâze
+    track_name: Scottish à casquette
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7toEcWM9q1jBIuvUX3ZsqN
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Trio Dhoore
+    track_name: Kallis
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3HnPbuR0HfQUvk1letSHZx
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Trio Loubelya
+    track_name: Euforriz ( scottish )
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/40gpuXyjOgMLcMzsjcczuS
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Trio Loubelya
+    track_name: Shantil
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7jr27L7AZTmmryfTFtLCDi
+    from_playlist:
+    - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr

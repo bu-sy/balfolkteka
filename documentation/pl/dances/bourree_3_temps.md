@@ -14,7 +14,7 @@
 
 [Film z przykładem tańca](https://www.youtube.com/watch?v=8S_jL0XEMvE)
 
-### Podobne tańce
+### Powiązane tańce
 
 - [Bourrée 2 temps](bourree_2_temps.md)
 

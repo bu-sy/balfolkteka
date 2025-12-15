@@ -6,7 +6,7 @@ variants:
   - _in_pairs
   - _in_sixes
   - _in_circle
-similar_dances:
+connected_dances:
   - bourree_3_temps
 links:
   instructions:

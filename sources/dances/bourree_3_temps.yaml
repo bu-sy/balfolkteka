@@ -3,7 +3,7 @@ name: Bourrée 3 temps
 tags:
 - _in_pairs
 - _contactless
-similar_dances:
+connected_dances:
 - bourree_2_temps
 links:
   examples:

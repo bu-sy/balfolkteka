@@ -18,6 +18,6 @@
 
 [Filmik instruktażowy](https://www.youtube.com/watch?v=dDAQ6OFr6Oc)
 
-### Podobne tańce
+### Powiązane tańce
 
 - [Bourrée 3 temps](bourree_3_temps.md)

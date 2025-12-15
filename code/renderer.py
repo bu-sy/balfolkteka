@@ -54,9 +54,9 @@ def render_dance(loaded_dance, loaded_translation, all_dances, directory_structu
                 loaded_translation.get_keyword('instructions_video'), instruction['link']
             ))
 
-    if loaded_dance.get('similar_dances'):
-        lines.append(f"### {loaded_translation.get_keyword('similar_dances')}")
-        for similar_dance_name in loaded_dance.get('similar_dances', []):
+    if loaded_dance.get('connected_dances'):
+        lines.append(f"### {loaded_translation.get_keyword('connected_dances')}")
+        for similar_dance_name in loaded_dance.get('connected_dances', []):
             dance_to_link = [
                 searched_dance for searched_dance in all_dances if searched_dance.get('id') == similar_dance_name
             ][0]

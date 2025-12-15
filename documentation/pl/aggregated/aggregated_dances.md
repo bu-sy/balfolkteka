@@ -9,3 +9,5 @@
 [Chapelloise](../dances/chapelloise.md)
 
 [Drumul Dracului](../dances/drumul_dracului.md)
+
+[Scottish](../dances/scottische.md)

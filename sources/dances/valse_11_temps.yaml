@@ -6,8 +6,8 @@ links:
 #  instructions:
 #    - link: https://www.youtube.com/watch?v=A8AO1zcHD1o
   examples:
-    - link: https://www.youtube.com/watch?v=-FVytqqNALo
-      type: example_video
+  - link: https://www.youtube.com/watch?v=-FVytqqNALo
+    type: example_video
   playlists:
   - link: https://open.spotify.com/playlist/7kW0sWDENcRgwqV1geUjym
   tracks:

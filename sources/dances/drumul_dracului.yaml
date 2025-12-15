@@ -1,4 +1,44 @@
 id: drumul_dracului
-name: "Drumul Dracului"
+name: Drumul Dracului
 tags:
-  - _in_circle
+- _in_circle
+links:
+  playlists:
+  - link: https://open.spotify.com/playlist/4Ve2NyYNXOP28f5XAbDh3J
+  tracks:
+  - artist: Bencze Balázs, Benke Grátzy, Hodorog András, Rossa Levente Bors
+    track_name: Ördög Útja - Demo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5vBQRuSNAYSKKLhXi8pASA
+    from_playlist:
+    - https://open.spotify.com/playlist/4Ve2NyYNXOP28f5XAbDh3J
+  - artist: Csürrentő
+    track_name: Ördög útja
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/34t6nz6Ja21kuPMQStCx8v
+    from_playlist:
+    - https://open.spotify.com/playlist/4Ve2NyYNXOP28f5XAbDh3J
+  - artist: PásztorHóra
+    track_name: Az Ördög Útja
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2MoQtRfpSmbIO1Q1x1ltln
+    from_playlist:
+    - https://open.spotify.com/playlist/4Ve2NyYNXOP28f5XAbDh3J
+  - artist: ViatoreS
+    track_name: Drumul Dracului
+    blacklist: yes #track seems to be removed from Spotify
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7i24exEDf5mI6ogpGwGWNI
+    from_playlist:
+    - https://open.spotify.com/playlist/4Ve2NyYNXOP28f5XAbDh3J
+  - artist: Zurgó
+    track_name: Ördög útja - Drumul dracului
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4K8xsANAu80BA7uHKX1ayN
+    from_playlist:
+    - https://open.spotify.com/playlist/4Ve2NyYNXOP28f5XAbDh3J

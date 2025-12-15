@@ -60,8 +60,12 @@ def render_dance(loaded_dance, loaded_translation, all_dances, directory_structu
             )
 
     if loaded_music := loaded_dance.get_music_links():
-        lines.append(secondary_header(loaded_translation.get_keyword('tracks') + f" ({len(loaded_music)})"))
-        for track_record in loaded_music:
+        not_blacklisted_tracks = [
+            track_record for track_record in loaded_music if not track_record.blacklist
+        ]
+
+        lines.append(secondary_header(loaded_translation.get_keyword('tracks') + f" ({len(not_blacklisted_tracks)})"))
+        for track_record in not_blacklisted_tracks:
             lines.append(
                 f"{track_record.artist} - **{track_record.track_name}**" +
                 " ".join([

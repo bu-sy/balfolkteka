@@ -1,0 +1,11 @@
+id: mazurka_irregular
+name: Irregular mazurka
+connected_dances:
+- mazurka
+links:
+  tracks:
+  - artist: Tranen voor Paulo
+    track_name: Nubia
+    links:
+    - link: https://open.spotify.com/track/4iaMV0KXek5a33rFdYwT6b
+      portal: Spotify

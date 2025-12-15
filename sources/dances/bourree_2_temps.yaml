@@ -1,21 +1,21 @@
 id: bourree_2_temps
-name: "Bourrée 2 temps"
+name: Bourrée 2 temps
 tags:
-  - _contactless
+- _contactless
 variants:
-  - _in_pairs
-  - _in_sixes
-  - _in_circle
+- _in_pairs
+- _in_sixes
+- _in_circle
 connected_dances:
-  - bourree_3_temps
+- bourree_3_temps
 links:
   instructions:
-    - link: https://www.youtube.com/watch?v=dDAQ6OFr6Oc
+  - link: https://www.youtube.com/watch?v=dDAQ6OFr6Oc
 #  examples:
 #    - link: https://www.youtube.com/watch?v=8S_jL0XEMvE
 #      type: example_video
-#  playlists:
-#    - link: https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
+  playlists:
+  - link: https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
 #  tracks: #TODO expand
 #    - artist: "Sylvain Quere"
 #      track_name:  "BOURREE 3 TEMPS"
@@ -29,3 +29,356 @@ links:
 #      links:
 #        - portal: Spotify
 #          link: https://open.spotify.com/track/6fPH9JVJrTAVdHUtlBKEsL
+  tracks:
+  - artist: "'Ndiaz"
+    track_name: Horde
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3K8YVmUf162CaFBq4ebQNI
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Airboxes
+    track_name: Confluence - Hurdegaryp
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2KGSiibbJVU77jTTg0O8Mu
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Andy Cutting, Nigel Eaton
+    track_name: Bourrées
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3Ept1XQCbsMO6qPDmRzZG0
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard
+    track_name: Bourrée à 2 temps, rabaterie
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5N8WrmoWvSolZ7dDNS4W3L
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard
+    track_name: Bourrées à 2 temps, chavouisses, le pont, la forge
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2rQUCLYuBm2vwKcEi43ONA
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard
+    track_name: Bourrées à 2 temps, dromadaire, la charge
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3TEoph99nxKSHZ78KVEJQw
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard
+    track_name: Bourrées à 2 temps, malochet, pommier
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3CpSYYBphc7zqdXicnZght
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Arcandela
+    track_name: De Montford (bourrée)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5mKaVH2shRvMAa5fNhubEI
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Broes
+    track_name: Dr. Tweety
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0Bj5aiLs6RvYLby9AzThcy
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Cadène, Camille Raibaud, Julien Barbances, Sylvain Quéré, Tiennet Simonnin, Tradethik Productions
+    track_name: La gaillacoise - Rue de la loge
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/11uIOR3zLZSCinK7wzmS7L
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Clément Rousse, Guillaume Lopez
+    track_name: Canard-Isard
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4Au2h5nlN0HzQES9SM5img
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Clément Rousse, Guillaume Lopez
+    track_name: Le prince de Monferran / Bio Man - Bourrée En Ligne
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/233byYNojZZ1gx1GtGSnnv
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Didier Laloy, Fabian Beghin
+    track_name: The Wooden Legged Sportman
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7dTnbl5eUDVt3iIKyABxro
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Dos
+    track_name: La Calle del Sauce (Bourrée a 2 Tiempos)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5btXnHjLb5Si7BnS69oIWg
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Duo Absynthe
+    track_name: L'ombre verte - Remastered
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6ULBi2lSf83kG6GFzSPZIv
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Duo Pilartz Gielen, Vincent Sionneau
+    track_name: Bourrées à deux et trois temps
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4uHc8YIxQrq9YcGPQPSyox
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Duo Sionneau/Gielen
+    track_name: Berry Tour
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0xTDs3LGdhgKAgw6KTHiUP
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Duo Sionneau/Gielen
+    track_name: La belle Monique
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1H6ysj3ERB8ubuVzAqelF7
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: EHALE
+    track_name: The Limping Frog
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2x8Zhq0toTV8oQz5piFjx4
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Faï Petar
+    track_name: Bourrée de l'enclume
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1VurvapwExjXsmtyqCNOht
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Femme Folk
+    track_name: Bourrée en Motet et Marrakesh
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/46vosTntMtCRZl0RotNb9h
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Hepta Polka
+    track_name: Bourreé De Grande Liberté
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1DFIQQPlzhdcKyWi6WRyKw
+    - portal: Spotify
+      link: https://open.spotify.com/track/6tDd29uZdOUZmohN3vs7pv
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Hotel Palindrone
+    track_name: Maijodler
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0GpnBR369ldYEVbJJpUFDv
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Hotel Palindrone
+    track_name: Nag's bourreé & quoi alors
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1xEJYSsjmhKawEuZmp2pfC
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Illa
+    track_name: L'azerole
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4VqvnDq3g4mohD33Ds8bBR
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Karamaus
+    track_name: La Danse Perdue
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7K3cIEmWzTJM9hndJf7Tw1
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Kv Express
+    track_name: Poedelkes bourrée
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/26loVAdGRMlKu7JtyOkreW
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: La Mesquia
+    track_name: L'ase teston - Bourée 2 temps
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0tnAzTTEd5RS0yTv0B3CQQ
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: La Mesquia
+    track_name: Pastre - Bourée 2 temps
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4glHq83Lgxmrv65t7hsue5
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: La Sauterelle
+    track_name: Derriere chez mon Pere
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/51blzZNkkp4NgyhArk6c3e
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Le Bal en Chantier
+    track_name: La bonne éducation
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1xv4NtREQ63aUag7Gj1OTz
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Le Grand Barouf
+    track_name: Dunk d'ust
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3bxOcyRlGUXZfeal3KMe9J
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Les Zéoles
+    track_name: Dance Machine (Bourrée 2tps)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5LYFQBd9hlLeH4V1ghGtpM
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Lo Truc
+    track_name: Dran, Lo Premier, Sant'ana
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3WlLI6zN1gFzsvEabmZ6tA
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Lou Pitakass
+    track_name: La crous de la montanha + pita lou bosc
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5Zr63xptOD9OARqJtMcKHp
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Man Encantada
+    track_name: Co qu'a don heit de jo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/28xBh1Up1MlhE8zb5loSb9
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Moizbat
+    track_name: Bela mair
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4mPmBiGkH8vBqZEOop243h
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: NIJ
+    track_name: Pandia - Bourrée À 2 Temps
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7AK9PIU5Q8ZbuyICVZSlJV
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Naragonia
+    track_name: Gij Met Mij - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3cdt1hKkYVPxWrhDaLPdF1
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Naragonia
+    track_name: Naya / Castor - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5YxramlYgEfHgUvuCo1pwe
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Naragonia, Naragonia Quartet
+    track_name: Yowjef
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/63kLWBk9xN95Z7g4pmbTxt
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Nigel Eaton
+    track_name: Three Sharks
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/60laXLEg23SInqizDjEBJk
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Passant Par Paris
+    track_name: Passant par Paris (bourrée 2 temps)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5jOk75WxOdi9JbZrwkTShE
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Petit Piment
+    track_name: Bourrée du dromadaire - Les oeufs de Magritte
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2VsQsb737TLAe8teVXreTx
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Peut-être Jeanne
+    track_name: Dobranoc
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/00c6UtrMLqxoM6KosGCbXF
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Rémi Geffroy
+    track_name: Jardins Suspendus
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1yeDqacoyvZFW2XOvW4vLj
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Rémi Geffroy
+    track_name: Jardins suspendus
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4CeqsOCnFofxBmAdmiAR0J
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Stevan Vincendeau, Willy Pichard
+    track_name: Marignolle - Illham - L'écho (bourrée 2 temps)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5kdPASsM58gNvapLPH1uCE
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Thalas
+    track_name: In Good Company
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3CZTp920s7o5c048unL0gB
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Trio Loubelya
+    track_name: Helenash
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7JjKEiM0sr6VsGgwuYnvD7
+    from_playlist:
+    - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ

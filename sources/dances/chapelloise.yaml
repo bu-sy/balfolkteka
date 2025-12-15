@@ -12,7 +12,15 @@ links:
     type: example_video
   playlists:
   - link: https://open.spotify.com/playlist/5IbcMd4YyTBwJuIggoi0dD
+  - link: https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
   tracks:
+  - artist: Alain Pennec
+    track_name: The Withe Petitcoat - La jig de la guilde - Lost By Laggan Moor
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1LrVKtcKJlWv792YkWQaVI
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
   - artist: Ballsy Swing
     track_name: Les pulls à Lucas (Chapelloise)
     links:
@@ -27,6 +35,27 @@ links:
       link: https://open.spotify.com/track/5KaL5cAesDxb3XvIo4YNSG
     from_playlist:
     - https://open.spotify.com/playlist/5IbcMd4YyTBwJuIggoi0dD
+  - artist: Becky Price, Dave Shepherd
+    track_name: Trip to Barnard
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/28b9XaHku9aXZsSQIbPZ2N
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
+  - artist: Duo Sionneau/Gielen
+    track_name: Chaprimont
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7osniTah1mXVmBE1T41DnL
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
+  - artist: Erwan Hamon, Yousef Zayed
+    track_name: Jig africaine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7tq4rIYZehqCLgOewvEF5r
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
   - artist: Fabiola Fernandes, Jo Zanders, Kv Express
     track_name: Six qui prend
     links:
@@ -34,6 +63,83 @@ links:
       link: https://open.spotify.com/track/36GKZp8zP3Bat5p7rOrYP6
     from_playlist:
     - https://open.spotify.com/playlist/5IbcMd4YyTBwJuIggoi0dD
+  - artist: Fahrenheit
+    track_name: Autre Âge
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0emulU7Hq7Cr6rQHLKY3Lz
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
+  - artist: Femme Folk
+    track_name: Locomotive Jiga / Zelda
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6XPnNNNPssfa7XRODZel9U
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
+  - artist: Illa
+    track_name: De verre et de bois / Cardinal monkey
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/69r2w7e1yqhntss6ipe64S
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
+  - artist: Illa
+    track_name: Jigam
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7208kbMwNi7faSwgEjI0sF
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
+  - artist: Jérémie Congrega, Renaud Hibon
+    track_name: La Pacheloise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3pVYPrsE5a76LKOKllJ63H
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
+  - artist: Karamaus
+    track_name: White Beluga's Jig / The Old Tree
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4KkqvGSOrdTVaRVoOlhwWU
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
+  - artist: La Mesquia
+    track_name: Revolucion - Chapelloise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3iQmAb5qLoZjUs4Bq8Vuar
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
+  - artist: Le Bal en Chantier
+    track_name: Faydit Longway
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5LPOv5C6Vum6RvOWrKLa98
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
+  - artist: Le Bal en Chantier
+    track_name: Pour Polo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1OFym9eyUKMz0TN8gSXgqV
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
+  - artist: Le bal de l'éphémère
+    track_name: Le nouvel ordre est là (Chapeloise)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2dvg0I2TLnD8O4lKQbqFSS
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
+  - artist: Le bal de l'éphémère
+    track_name: Les intermittents
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/31Mftz4vNvSrUGsYS3qYaU
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
   - artist: Les Zéoles
     track_name: Cailloux blancs (Chapelloise)
     links:
@@ -41,11 +147,32 @@ links:
       link: https://open.spotify.com/track/7c5xczedEM0nzVdLnEQGqM
     from_playlist:
     - https://open.spotify.com/playlist/5IbcMd4YyTBwJuIggoi0dD
+  - artist: Les Zéoles
+    track_name: Speculoos - My Friend (Chapelloise - Scottish)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0RNbvKUstSW9bPuu0AGPsB
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
   - artist: Mr. Foxlide
     track_name: Sittin' On The Top Of The World
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1KhIf1WkPZnkYFItHlruNI
+  - artist: NIJ
+    track_name: Pasiphaé - Chapelloise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5xfyUmZcQE6uBN7SyMuRNs
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
+  - artist: Nigel Eaton
+    track_name: The Metric Jig / The Imperial Jig
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1kt3hD9gXYsot9UaX3gZO5
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
   - artist: Novar
     track_name: Mathijs In Den Aldi
     links:
@@ -54,12 +181,26 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/5IbcMd4YyTBwJuIggoi0dD
   - artist: Paracetamol
+    track_name: 'IF # = 4 THEN GO!'
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0Uu8qMhYWK5Vewurxoe3ZM
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
+  - artist: Paracetamol
     track_name: 'IF # = 4 THEN Go!'
     links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=Od2vY8ithiY
     - portal: Spotify
       link: https://open.spotify.com/track/0Uu8qMhYWK5Vewurxoe3ZM
+  - artist: Rémi Geffroy
+    track_name: Ek dwi Tin (chapelloise)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2uWP2UqDEU1Dal7BkX8PjR
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
   - artist: Snaarmaarwaar
     track_name: Kadril Van Mechelen
     links:

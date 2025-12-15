@@ -1,0 +1,323 @@
+id: polka
+name: Polka
+links:
+  examples:
+  - link: https://www.youtube.com/watch?v=PpMH_fEafeA
+  playlists:
+  - link: https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  tracks:
+  - artist: Abdelati El Boussehabi, Anne-Lise Foy, Benoit Mager, Gabriel Fernadez, Leonore Grollemund, Patrick Bouffard, Stephane Robert
+    track_name: Polka De L'anglard
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6EijLjyfJ5sbE20HMYRH9f
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard
+    track_name: Polkas, les pommes, berquillouse
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0NNOXWLhQ3FQ24t8Mwbp9k
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Anne-Lise Foy, Clément Rousse, Guillaume Lopez, Simon Portefaix, Thierry Roques
+    track_name: Rififlute / Polklaklem - Polkas
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7xk6tH5Oya9K06yHknPYqW
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Annie Ebrel, Marthe Vassallo, Noluen Le Buhe
+    track_name: Polka manuel
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4Mgl1UZ0Pny9Rl7EuMAuiT
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Cecilia
+    track_name: Ragapolka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2IZYpMJe69Iq9AzIZjv1Fw
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Detchko
+    track_name: Comme à l'habitude
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1DQ91BhWXtJGHshm3kKEmI
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Detchko
+    track_name: Danse ta vie aux 4 saisons
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/03ANvyGm0kl5a1SlVearv8
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Detchko
+    track_name: L'évidence
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6WCBYSZBkCASZQtqbDMIJK
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Detchko
+    track_name: Laisse moi t'aimer
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3DlKypgEocEEULWAUgcEwE
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Duo Absynthe
+    track_name: Monster café
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1pcZUGkZdSpmvMsGbP9ns9
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Duo Pilartz Gielen
+    track_name: Suite de polkas du Centre-France
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/46FuVKTW09Tl5iwy9wFQ6P
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Duo Vargoz
+    track_name: Renveillé - Polka Polonaise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5oStmCq6xyeMrBDgljRNDe
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Eric Champion
+    track_name: Polka à Dodo - Polka à Félix Robillon
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6KtZQp5xsKulC3FQoXPFWQ
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Esquisse
+    track_name: Linda - Polka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3HEDKuvXpICFuouoeBJxzv
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Faï Petar
+    track_name: Polka à Milounet
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5eVJjIhnsF7DPuTxNgaKEv
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Floating Sofa Quartet
+    track_name: Lørdag Aften Polka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2l4Scd5iwxDdM8s1vUkO4z
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Gari Greu, Lou Tapage
+    track_name: Ça va sans dire
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6N8hWMSlAytW1wm2o6be1p
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Gjangsta
+    track_name: Mandoliini polka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2ubW6aH2kVZn8rsqu6WWFw
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Gjangsta
+    track_name: Polka nr. 3
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/347ivnKd8Ib84yfPv067HB
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Gjangsta
+    track_name: Sipelga polka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/323OaweHiEalzabjvKqbEU
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Hajda Banda, Iwona Pawlak, Jędrzej Weber
+    track_name: Od cymbalistów
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3sVzULbx0aItKOHYMRmUeO
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Hotel Palindrone
+    track_name: Ursuppenpolkas
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6EVkQaBOgRKZ1QCzti3BGf
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Josefina Paulson, Sophie Cavez
+    track_name: Dunkla polskor
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5rWWbwik1EaO2KrlLDsOmK
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Justyna Piernik, Kapela Niwińskich
+    track_name: NIE MA CI MATULU
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5X7zzREBTctIxbazYDoOPC
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Kapela Maliszów
+    track_name: Wiązanka Polek
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4q9jHBKil8Xi6oqughEPpt
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Kendirvi
+    track_name: Kazel-ha-kazel - Polka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0NISCS9VcYwwvZIgCxL54R
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: La Sauterelle
+    track_name: Là-Haut
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2Bv5mvHsRRAxjUDhrhGaF8
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Lhi Balòs
+    track_name: Au jardin
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4yBnm2xumSXArkSMJKxzhw
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Ma petite
+    track_name: Petite Antonine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/105KCZS6V82mDt5MnziWK6
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: MandoTrio
+    track_name: Mihkli I polka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6Rl4c4oK48ekXiPXLAMFU3
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: NOU
+    track_name: Polka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/75BI8JelD5l7Zh3AhEXyBi
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Petit Piment
+    track_name: Polka à Gilberte
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2lTXKMklrHtyNfEk9vDlOS
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Plantec
+    track_name: Feulz - Polka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3JCIdE11UkJbWwhZZxWIsM
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Pärlin
+    track_name: Juudipolka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0wUz861nmgk12YnXMi8lDK
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Serge Desaunay
+    track_name: La polka chinoise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0fVQHft73qQBfSihZBRWNP
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Serge Desaunay
+    track_name: La polka des grenouilles
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7zZDYjgIA9Wo33vDdJzG7i
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Skrömta
+    track_name: Festpolka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6eVVuNxiHXwYU3J5NdPuPy
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Sun and Moon Dance
+    track_name: Savitaipaleen polkka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5bmDNOV86LzLd0fRRVWqkJ
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Torcán
+    track_name: Ellin Polka (Live)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6fYhvhkTFXwHFJoxFjxdZ8
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Tołhaje
+    track_name: Polka Na 7
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6N4aIBKGioUNas30Kt5zJ8
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Trolska Polska
+    track_name: Krølle Bølle-polka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/38JmVdv7ZYmbZDiRIiFurU
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Tęgie Chłopy
+    track_name: Polka Żydówka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5L8lDnu2k5uYzGv8tOUzKy
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Warsaw Village Band
+    track_name: Polka Emigrantka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3TUVHdAqK2TuJWVHoExTPh
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Warsaw Village Band
+    track_name: Polka szydłowiecka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2ThGEnBpQSMrdzpVEeJRY8
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Warsaw Village Band
+    track_name: Polka z Sieradzkiego
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0lYTpIo5fptOmMND7BAmdw
+    from_playlist:
+    - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8

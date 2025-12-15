@@ -10,9 +10,13 @@
 
 [Irregular mazurka](../dances/mazurka_irregular.md)
 
+[Mazurka](../dances/mazurka.md)
+
 [Polka](../dances/polka.md)
 
 [Scottish](../dances/scottische.md)
+
+[Scottish impaire](../dances/scottish_impaire.md)
 
 [Valse 11 temps](../dances/valse_11_temps.md)
 
@@ -21,5 +25,3 @@
 [Valse 5 temps](../dances/valse_5_temps.md)
 
 [Valse 8 temps](../dances/valse_8_temps.md)
-
-[mazurka](../dances/mazurka.md)

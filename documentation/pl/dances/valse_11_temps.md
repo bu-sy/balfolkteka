@@ -13,6 +13,14 @@
 
 https://www.youtube.com/watch?v=-FVytqqNALo
 
+### Powiązane tańce
+
+- [Valse 3 temps](valse_3_temps.md)
+
+- [Valse 5 temps](valse_5_temps.md)
+
+- [Valse 11 temps](valse_11_temps.md)
+
 ## Utwory (3)
 
 Eric Thézé, Samuel Thézé - **Knicklicht** ([Spotify](https://open.spotify.com/track/3p1xAyPKUrDXMYUlAup1KZ))

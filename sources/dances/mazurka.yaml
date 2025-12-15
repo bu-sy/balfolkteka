@@ -1,5 +1,5 @@
 id: mazurka
-name: mazurka
+name: Mazurka
 links:
   examples:
   - link: https://www.youtube.com/watch?v=ego-sRUC0a8
@@ -300,8 +300,8 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/1s8r1MXAcffAzoJS0IrOja
     from_playlist:
-    - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
     - https://open.spotify.com/playlist/2hL4rLYe9FdRs1pgbQyyy1
+    - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Le Sextet à Claques
     track_name: La p'tite fée
     links:
@@ -401,8 +401,8 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/0fSZq2A3HX6DfAkPgfcfRn
     from_playlist:
-    - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Naragonia
     track_name: Little Thea
     links:

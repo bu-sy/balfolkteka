@@ -1,0 +1,61 @@
+id: scottish_impaire
+name: Scottish impaire
+connected_dances:
+- scottish
+links:
+  examples:
+  - link: https://www.dailymotion.com/video/x9h1ws
+  playlists:
+  - link: https://open.spotify.com/playlist/1KIwLzhkkthmchVMPoActb
+  - link: https://open.spotify.com/playlist/564LseciVL43fExqhdGAa2
+  tracks:
+  - artist: Adriano Sangineto
+    track_name: Equinox
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0NakvaeWs4KQppervF43WC
+    from_playlist:
+    - https://open.spotify.com/playlist/1KIwLzhkkthmchVMPoActb
+  - artist: Deli Reçel, Kaan Sancakar, Kardelen Pınar
+    track_name: Bosnian Scottish Impaire
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6DUU6EGOxU32PUjaYO2hxK
+    from_playlist:
+    - https://open.spotify.com/playlist/564LseciVL43fExqhdGAa2
+  - artist: Femme Folk
+    track_name: Brume
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3UkpCJbujGX4aUqlPyldtu
+    from_playlist:
+    - https://open.spotify.com/playlist/1KIwLzhkkthmchVMPoActb
+    - https://open.spotify.com/playlist/564LseciVL43fExqhdGAa2
+  - artist: Mr. Folxlide
+    track_name: The Well - Scottish Impaire
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2ODl47ALoq3gfX7wAOGNqJ
+    from_playlist:
+    - https://open.spotify.com/playlist/1KIwLzhkkthmchVMPoActb
+  - artist: Naragonia
+    track_name: Lilac / Dave the Watchman - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0ZFdT5Or7v001MRzS7wYRX
+    from_playlist:
+    - https://open.spotify.com/playlist/564LseciVL43fExqhdGAa2
+  - artist: Paracetamol
+    track_name: McImpaire
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0YjE2zYAmz7oFvYk15Vdkv
+    from_playlist:
+    - https://open.spotify.com/playlist/564LseciVL43fExqhdGAa2
+  - artist: Zlabya
+    track_name: Les Îles Sandwich
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1sSIb3hGvcrN7dVOjz8Owa
+    from_playlist:
+    - https://open.spotify.com/playlist/1KIwLzhkkthmchVMPoActb

@@ -1,2 +1,145 @@
 id: valse_5_temps
 name: Valse 5 temps
+connected_dances:
+- valse_3_temps
+- valse_8_temps
+- valse_11_temps
+links:
+  examples:
+  - link: https://www.youtube.com/watch?v=zcsGkWVz9eI
+  playlists:
+  - link: https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  tracks:
+  - artist: Accordzêam
+    track_name: La lilloise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6ZkwHMonkMkuAlJ4N4JkKH
+    from_playlist:
+    - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Bal O'Gadjo
+    track_name: Valse toi même
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5yvjorfyR2gpWC8YrwFmhP
+    from_playlist:
+    - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Bruno Le Tron, Franck Fagon, Laurent Cabané, Olivier Le Gallo
+    track_name: Mirabelle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4vzhujOMZt4qZhywygXn8h
+    from_playlist:
+    - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Catherine Grimault, Eric Thézé, Jean-Jacques Limeul
+    track_name: Fam
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0cELDaTB7QSE2KqYUlLrrs
+    from_playlist:
+    - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Duo Absynthe
+    track_name: Evening Glory
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5bIugfjRcE3z3jVKFqCNZE
+    from_playlist:
+    - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Duo Absynthe
+    track_name: Torgnoles en cinq - Remastered
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6DGLQ1bqZZSEGVs0zX4eQE
+    from_playlist:
+    - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Duo Massarelli
+    track_name: Mimà
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3DODmRjxHAecqxySY9SmGB
+    from_playlist:
+    - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Eric Thézé, Samuel Thézé
+    track_name: La Motte en Provence
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5bxc5zPgCibxUhsNmpdBrP
+    from_playlist:
+    - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Hot Griselda
+    track_name: Dorpeldanske
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2LKz44yyGCrpi8nRISUq9F
+    from_playlist:
+    - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Kitus
+    track_name: Les mouettes
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0fCshQreHkZa72Z2AZp9Qc
+    from_playlist:
+    - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: La Machine
+    track_name: Valse Éthiopique
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2cwaMIyiHQZCRSFO6rbVo2
+    from_playlist:
+    - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Les Zéoles
+    track_name: Dans un bouton (Valse à 5 temps)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5S47jMWdXuErQRrCxkxGLG
+    from_playlist:
+    - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Monsieur Fruits
+    track_name: Living Stone in Yellowstone
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2qbBOyIfjNN5otWYTmWvc6
+    from_playlist:
+    - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Naragonia
+    track_name: Evening Glory
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/10flVGe7gADPt8ZXxIXJb2
+    from_playlist:
+    - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Rémi Geffroy
+    track_name: Elle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0Kkr0uR5m4NwPiibPbBHF5
+    from_playlist:
+    - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Tribal Jâze
+    track_name: La valseuse
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3dOpSWwpmB9zy0ff2dYbdh
+    from_playlist:
+    - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Trio Loubelya
+    track_name: Cinco tempoush
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0bsoqSu5Rz5Rc7UlABCt2k
+    from_playlist:
+    - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Trio Loubelya
+    track_name: Piclune ( valse à 5 temps )
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1jTVtqKaPiSEK2Xznf8sap
+    from_playlist:
+    - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Wouter en De Draak
+    track_name: Vliegende graafmachine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6afljFv16gVrhptANS4yGk
+    from_playlist:
+    - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6

@@ -8,7 +8,7 @@
 
 ### Powiązane tańce
 
-- [mazurka](mazurka.md)
+- [Mazurka](mazurka.md)
 
 ## Utwory (1)
 

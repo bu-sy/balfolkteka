@@ -2,6 +2,10 @@ id: valse_11_temps
 name: Valse 11 temps
 tags:
 - _in_pairs
+connected_dances:
+- valse_3_temps
+- valse_5_temps
+- valse_11_temps
 links:
 #  instructions:
 #    - link: https://www.youtube.com/watch?v=A8AO1zcHD1o

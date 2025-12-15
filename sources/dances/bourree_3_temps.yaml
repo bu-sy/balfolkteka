@@ -34,8 +34,8 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/1pVJVQArWVdNbCY5gfnEaw
     from_playlist:
-    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
     - https://open.spotify.com/playlist/60rT8z0AbQ5ZQIrWsvSOWq
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
   - artist: Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard
     track_name: Bourrées à 3 temps, mazerier, chevreuils
     links:
@@ -262,8 +262,8 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/5k7LiYtcOfeL8qY9CH1w3c
     from_playlist:
-    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
     - https://open.spotify.com/playlist/60rT8z0AbQ5ZQIrWsvSOWq
+    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
   - artist: Duo Brotto Milleret
     track_name: Le mistigri / Lentille verveine
     links:
@@ -340,16 +340,16 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/2oleaumMDmdArUChScIbYL
     from_playlist:
-    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
     - https://open.spotify.com/playlist/60rT8z0AbQ5ZQIrWsvSOWq
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
   - artist: Eric Champion
     track_name: Les garçons maçons - Giate de Coualhon
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/54xZvJmNQDlWLJFSl1FJ6w
     from_playlist:
-    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
     - https://open.spotify.com/playlist/60rT8z0AbQ5ZQIrWsvSOWq
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
   - artist: Eric Desgrugillers
     track_name: Tout le long d'un bois / Dròllas qu'avètz d'auganhas
     links:
@@ -433,9 +433,9 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/4cOE3sfW3uG3ucqnE3TLQh
     from_playlist:
-    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
-    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
     - https://open.spotify.com/playlist/60rT8z0AbQ5ZQIrWsvSOWq
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
   - artist: Hot Griselda
     track_name: Shooting Stars - Christmas All Year
     links:
@@ -527,8 +527,8 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/2mx24K3TP1GoWy0pNEdZH9
     from_playlist:
-    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
     - https://open.spotify.com/playlist/60rT8z0AbQ5ZQIrWsvSOWq
+    - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
   - artist: Le Bal en Chantier
     track_name: Nous aussi on aime le vin
     links:
@@ -668,16 +668,16 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/6qYQwhZt7LhXw4xZ9k29Ez
     from_playlist:
-    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
     - https://open.spotify.com/playlist/60rT8z0AbQ5ZQIrWsvSOWq
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
   - artist: NOU
     track_name: Bourrée trois temps
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3pcclTGhH09z1D0nj4oQlK
     from_playlist:
-    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
     - https://open.spotify.com/playlist/60rT8z0AbQ5ZQIrWsvSOWq
+    - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
   - artist: Naragonia, Naragonia Quartet
     track_name: The Naked Welcome / Chimneystork
     links:

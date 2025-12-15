@@ -11,3 +11,5 @@
 [Scottish](../dances/scottische.md)
 
 [Valse 11 temps](../dances/valse_11_temps.md)
+
+[mazurka](../dances/mazurka.md)

@@ -80,6 +80,41 @@ links:
       link: https://open.spotify.com/track/0cx165K2jvKjzCiIddqG6v
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Floating Sofa Quartet
+    track_name: Midsommerschottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3kakPLlhfUQYHRTBQhHqhp
+    from_playlist:
+    - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
+  - artist: Floating Sofa Quartet
+    track_name: Själaschottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1oS6I0WhC9NRTTVC9ELXLv
+    from_playlist:
+    - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
+  - artist: Floating Sofa Quartet, Guro Kvifte Nesheim
+    track_name: Itämeri-sottiisit
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0vZZRgdLx69n2peHP8MYyN
+    from_playlist:
+    - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
+  - artist: Floating Sofa Quartet, Lars Lilholt
+    track_name: Kun een Jord
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1wuecyVmkcEpBHeTT8vp5k
+    from_playlist:
+    - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
+  - artist: GUF Gävleborgs Ungdomsfolkband
+    track_name: Vildsvinsschottis
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4CKsX991Nqdx9pUJ34eym8
+    from_playlist:
+    - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
   - artist: Hartwin
     track_name: Laugu - Scottish
     links:
@@ -87,6 +122,13 @@ links:
       link: https://open.spotify.com/track/65796xbRxoTTOy337BEdAz
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Hawktail, Väsen
+    track_name: The Tobogganist
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4sFwTtFtfLCXDOTz9XKYdL
+    from_playlist:
+    - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
   - artist: Hot Griselda
     track_name: Schojaseuten
     links:
@@ -94,6 +136,20 @@ links:
       link: https://open.spotify.com/track/5Mp1BXI0v1mEOejNZUenPs
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Hotel Palindrone
+    track_name: Thernberger Hochzeitsstücke & Branohm
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/46NRAvsSS8gx2OuecCU3Oy
+    from_playlist:
+    - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
+  - artist: Josefina Paulson, Sophie Cavez
+    track_name: Skymningsschottis
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/07b1GRzf3B74VFCQKvfM2k
+    from_playlist:
+    - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
   - artist: La Forcelle
     track_name: Scottish De Åby / Scottish Septentrionale
     links:
@@ -122,6 +178,13 @@ links:
       link: https://open.spotify.com/track/15bYgfuAWz1QXZxorEsBNq
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: MUJI BGM
+    track_name: Schottis från Indal
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7DZ8krBMTCjJMoC4XnVYAu
+    from_playlist:
+    - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
   - artist: Man Encantada
     track_name: La Calorada
     links:
@@ -155,6 +218,13 @@ links:
       link: https://open.spotify.com/track/3z1iq9HZHu5ZevbzaL60JC
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Nina Nordvall Vahlberg
+    track_name: Schottis Till Håge & Hans Vänner
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4eSdsX6rHc7ZhFV93yXCXL
+    from_playlist:
+    - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
   - artist: Novar
     track_name: A Kiss In Berlin / Novar
     links:
@@ -204,3 +274,10 @@ links:
       link: https://open.spotify.com/track/7jr27L7AZTmmryfTFtLCDi
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Vädur
+    track_name: Fusk Olles schottis
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/31P0ovvPrItDf4BXEWZuOM
+    from_playlist:
+    - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs

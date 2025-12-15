@@ -68,7 +68,7 @@ yaml = YAML()
 yaml.width = 4096
 
 for file_path in glob.glob(dances_sources_glob):
-    print(f"Cleaning file {file_path}")
+    print(f"Processing file {file_path}")
     file_reference = Path(file_path)
     data = yaml.load(file_reference)
     track_list = data.get('links', {}).get('tracks', [])
@@ -77,9 +77,10 @@ for file_path in glob.glob(dances_sources_glob):
     if playlists:
         for playlist in playlists:
             playlist_id = playlist['link'].split('/')[-1]
-        track_list.extend(
-            spotify_caller.get_tracks(playlist_id)
-        )
+            track_list.extend(
+                spotify_caller.get_tracks(playlist_id)
+            )
+
     if not track_list:
         continue
 

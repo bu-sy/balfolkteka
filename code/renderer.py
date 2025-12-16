@@ -16,6 +16,8 @@ def embed_youtube(link_text):
     video_id = link_text[len(prefix):]
     return '''<iframe width="560" height="315" src="https://www.youtube.com/embed/''' + video_id + '''?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>'''
 
+def collapsible(summary, contents):
+    return f"<details>\n<summary><big>{summary}</big></summary>\n{contents}\n</details>"
 
 def embed_track(link_object):
     if link_object.portal.lower() == 'spotify':
@@ -57,13 +59,19 @@ def render_dance(loaded_dance, loaded_translation, all_dances, directory_structu
 
     if loaded_examples := loaded_dance.get_examples():
         lines.append(secondary_header(loaded_translation.get_keyword('examples')))
-        for example in loaded_examples:
-            lines.append(embed_youtube(example.link))
+        lines.append(collapsible(
+            loaded_translation.get_keyword('click_to_expand'),
+            '\n'.join([embed_youtube(example.link) for example in loaded_examples])
+        ))
+        lines.append('<br>')
 
     if loaded_instructions := loaded_dance.get_instruction_link():
         lines.append(secondary_header(loaded_translation.get_keyword('how_to_dance')))
-        for instruction in loaded_instructions:
-            lines.append(embed_youtube(instruction['link']))
+        lines.append(collapsible(
+            loaded_translation.get_keyword('click_to_expand'),
+            '\n'.join([embed_youtube(instruction['link']) for instruction in loaded_instructions])
+        ))
+        lines.append('<br>')
 
     if loaded_dance.get('connected_dances'):
         lines.append(f"### {loaded_translation.get_keyword('connected_dances')}")
@@ -88,14 +96,12 @@ def render_dance(loaded_dance, loaded_translation, all_dances, directory_structu
         lines.append(secondary_header(loaded_translation.get_keyword('tracks') + f" ({len(not_blacklisted_tracks)})"))
         for track_record in not_blacklisted_tracks:
             lines.append(
-                "<details>" +
-                f"<summary><big>{track_record.artist} - <b>{track_record.track_name}</b>" +
-                " ".join([
-                    f"({loaded_translation.get_translated_tag(tag_obj)})" for tag_obj in track_record.tags
-                ]) + "</big></summary>" +
-                "\n".join([
-                    f"\n{embed_track(music_link)}" for music_link in track_record.music_links
-                ]) + "</details>"
+                collapsible(
+                    f"{track_record.artist} - <b>{track_record.track_name}</b>",
+                    "\n".join([
+                        f"\n{embed_track(music_link)}" for music_link in track_record.music_links
+                    ])
+                )
             )
 
     write_file('\n\n'.join(lines), directory_structure.get_dance_file_path(loaded_dance))

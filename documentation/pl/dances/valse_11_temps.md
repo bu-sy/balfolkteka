@@ -23,11 +23,11 @@
 
 ## Utwory (3)
 
-<details><summary><h4>Eric Thézé, Samuel Thézé - <b>Knicklicht</b></h4></summary>
+<details><summary><big>Eric Thézé, Samuel Thézé - <b>Knicklicht</b></big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3p1xAyPKUrDXMYUlAup1KZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-<details><summary><h4>Trio Loubelya - <b>Vals'Constant</b></h4></summary>
+<details><summary><big>Trio Loubelya - <b>Vals'Constant</b></big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5CSzPeK5nQhwdRpt02f0Yt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-<details><summary><h4>Wouter en De Draak - <b>He'pter</b></h4></summary>
+<details><summary><big>Wouter en De Draak - <b>He'pter</b></big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2hLEYIziamOpMzwiSk5P8P?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>

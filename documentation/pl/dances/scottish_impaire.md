@@ -10,23 +10,23 @@
 
 ## Utwory (7)
 
-<details><summary><h4>Adriano Sangineto - <b>Equinox</b></h4></summary>
+<details><summary><big>Adriano Sangineto - <b>Equinox</b></big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0NakvaeWs4KQppervF43WC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-<details><summary><h4>Deli Reçel, Kaan Sancakar, Kardelen Pınar - <b>Bosnian Scottish Impaire</b></h4></summary>
+<details><summary><big>Deli Reçel, Kaan Sancakar, Kardelen Pınar - <b>Bosnian Scottish Impaire</b></big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6DUU6EGOxU32PUjaYO2hxK?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-<details><summary><h4>Femme Folk - <b>Brume</b></h4></summary>
+<details><summary><big>Femme Folk - <b>Brume</b></big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3UkpCJbujGX4aUqlPyldtu?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-<details><summary><h4>Mr. Folxlide - <b>The Well - Scottish Impaire</b></h4></summary>
+<details><summary><big>Mr. Folxlide - <b>The Well - Scottish Impaire</b></big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2ODl47ALoq3gfX7wAOGNqJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-<details><summary><h4>Naragonia - <b>Lilac / Dave the Watchman - Live</b></h4></summary>
+<details><summary><big>Naragonia - <b>Lilac / Dave the Watchman - Live</b></big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0ZFdT5Or7v001MRzS7wYRX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-<details><summary><h4>Paracetamol - <b>McImpaire</b></h4></summary>
+<details><summary><big>Paracetamol - <b>McImpaire</b></big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0YjE2zYAmz7oFvYk15Vdkv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-<details><summary><h4>Zlabya - <b>Les Îles Sandwich</b></h4></summary>
+<details><summary><big>Zlabya - <b>Les Îles Sandwich</b></big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1sSIb3hGvcrN7dVOjz8Owa?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>

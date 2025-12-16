@@ -89,10 +89,10 @@ def render_dance(loaded_dance, loaded_translation, all_dances, directory_structu
         for track_record in not_blacklisted_tracks:
             lines.append(
                 "<details>" +
-                f"<summary><h4>{track_record.artist} - <b>{track_record.track_name}</b></h4>" +
+                f"<summary><big>{track_record.artist} - <b>{track_record.track_name}</b>" +
                 " ".join([
                     f"({loaded_translation.get_translated_tag(tag_obj)})" for tag_obj in track_record.tags
-                ]) + "</summary>" +
+                ]) + "</big></summary>" +
                 "\n".join([
                     f"\n{embed_track(music_link)}" for music_link in track_record.music_links
                 ]) + "</details>"

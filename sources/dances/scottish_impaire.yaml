@@ -3,8 +3,8 @@ name: Scottish impaire
 connected_dances:
 - scottish
 links:
-  examples:
-  - link: https://www.dailymotion.com/video/x9h1ws
+#  examples: TODO add support for dailymotion embeds
+#  - link: https://www.dailymotion.com/video/x9h1ws
   playlists:
   - link: https://open.spotify.com/playlist/1KIwLzhkkthmchVMPoActb
   - link: https://open.spotify.com/playlist/564LseciVL43fExqhdGAa2

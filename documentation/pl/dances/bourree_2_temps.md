@@ -17,7 +17,7 @@
 
 ## Jak tańczyć
 
-https://www.youtube.com/watch?v=dDAQ6OFr6Oc
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dDAQ6OFr6Oc?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>
 
 ### Powiązane tańce
 
@@ -25,106 +25,164 @@ https://www.youtube.com/watch?v=dDAQ6OFr6Oc
 
 ## Utwory (52)
 
-'Ndiaz - **Horde** ([Spotify](https://open.spotify.com/track/3K8YVmUf162CaFBq4ebQNI))
+<details><summary><h4>'Ndiaz - <b>Horde</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3K8YVmUf162CaFBq4ebQNI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Airboxes - **Confluence - Hurdegaryp** ([Spotify](https://open.spotify.com/track/2KGSiibbJVU77jTTg0O8Mu))
+<details><summary><h4>Airboxes - <b>Confluence - Hurdegaryp</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2KGSiibbJVU77jTTg0O8Mu?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Andy Cutting, Nigel Eaton - **Bourrées** ([Spotify](https://open.spotify.com/track/3Ept1XQCbsMO6qPDmRzZG0))
+<details><summary><h4>Andy Cutting, Nigel Eaton - <b>Bourrées</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3Ept1XQCbsMO6qPDmRzZG0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard - **Bourrée à 2 temps, rabaterie** ([Spotify](https://open.spotify.com/track/5N8WrmoWvSolZ7dDNS4W3L))
+<details><summary><h4>Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard - <b>Bourrée à 2 temps, rabaterie</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5N8WrmoWvSolZ7dDNS4W3L?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard - **Bourrées à 2 temps, chavouisses, le pont, la forge** ([Spotify](https://open.spotify.com/track/2rQUCLYuBm2vwKcEi43ONA))
+<details><summary><h4>Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard - <b>Bourrées à 2 temps, chavouisses, le pont, la forge</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2rQUCLYuBm2vwKcEi43ONA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard - **Bourrées à 2 temps, dromadaire, la charge** ([Spotify](https://open.spotify.com/track/3TEoph99nxKSHZ78KVEJQw))
+<details><summary><h4>Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard - <b>Bourrées à 2 temps, dromadaire, la charge</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3TEoph99nxKSHZ78KVEJQw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard - **Bourrées à 2 temps, malochet, pommier** ([Spotify](https://open.spotify.com/track/3CpSYYBphc7zqdXicnZght))
+<details><summary><h4>Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard - <b>Bourrées à 2 temps, malochet, pommier</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3CpSYYBphc7zqdXicnZght?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Arcandela - **De Montford (bourrée)** ([Spotify](https://open.spotify.com/track/5mKaVH2shRvMAa5fNhubEI))
+<details><summary><h4>Arcandela - <b>De Montford (bourrée)</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5mKaVH2shRvMAa5fNhubEI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Broes - **Dr. Tweety** ([Spotify](https://open.spotify.com/track/0Bj5aiLs6RvYLby9AzThcy))
+<details><summary><h4>Broes - <b>Dr. Tweety</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0Bj5aiLs6RvYLby9AzThcy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Cadène, Camille Raibaud, Julien Barbances, Sylvain Quéré, Tiennet Simonnin, Tradethik Productions - **La gaillacoise - Rue de la loge** ([Spotify](https://open.spotify.com/track/11uIOR3zLZSCinK7wzmS7L))
+<details><summary><h4>Cadène, Camille Raibaud, Julien Barbances, Sylvain Quéré, Tiennet Simonnin, Tradethik Productions - <b>La gaillacoise - Rue de la loge</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/11uIOR3zLZSCinK7wzmS7L?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Clément Rousse, Guillaume Lopez - **Canard-Isard** ([Spotify](https://open.spotify.com/track/4Au2h5nlN0HzQES9SM5img))
+<details><summary><h4>Clément Rousse, Guillaume Lopez - <b>Canard-Isard</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4Au2h5nlN0HzQES9SM5img?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Clément Rousse, Guillaume Lopez - **Le prince de Monferran / Bio Man - Bourrée En Ligne** ([Spotify](https://open.spotify.com/track/233byYNojZZ1gx1GtGSnnv))
+<details><summary><h4>Clément Rousse, Guillaume Lopez - <b>Le prince de Monferran / Bio Man - Bourrée En Ligne</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/233byYNojZZ1gx1GtGSnnv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Didier Laloy, Fabian Beghin - **The Wooden Legged Sportman** ([Spotify](https://open.spotify.com/track/7dTnbl5eUDVt3iIKyABxro))
+<details><summary><h4>Didier Laloy, Fabian Beghin - <b>The Wooden Legged Sportman</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7dTnbl5eUDVt3iIKyABxro?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Dos - **La Calle del Sauce (Bourrée a 2 Tiempos)** ([Spotify](https://open.spotify.com/track/5btXnHjLb5Si7BnS69oIWg))
+<details><summary><h4>Dos - <b>La Calle del Sauce (Bourrée a 2 Tiempos)</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5btXnHjLb5Si7BnS69oIWg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Duo Absynthe - **L'ombre verte - Remastered** ([Spotify](https://open.spotify.com/track/6ULBi2lSf83kG6GFzSPZIv))
+<details><summary><h4>Duo Absynthe - <b>L'ombre verte - Remastered</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6ULBi2lSf83kG6GFzSPZIv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Duo Pilartz Gielen, Vincent Sionneau - **Bourrées à deux et trois temps** ([Spotify](https://open.spotify.com/track/4uHc8YIxQrq9YcGPQPSyox))
+<details><summary><h4>Duo Pilartz Gielen, Vincent Sionneau - <b>Bourrées à deux et trois temps</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4uHc8YIxQrq9YcGPQPSyox?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Duo Sionneau/Gielen - **Berry Tour** ([Spotify](https://open.spotify.com/track/0xTDs3LGdhgKAgw6KTHiUP))
+<details><summary><h4>Duo Sionneau/Gielen - <b>Berry Tour</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0xTDs3LGdhgKAgw6KTHiUP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Duo Sionneau/Gielen - **La belle Monique** ([Spotify](https://open.spotify.com/track/1H6ysj3ERB8ubuVzAqelF7))
+<details><summary><h4>Duo Sionneau/Gielen - <b>La belle Monique</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1H6ysj3ERB8ubuVzAqelF7?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-EHALE - **The Limping Frog** ([Spotify](https://open.spotify.com/track/2x8Zhq0toTV8oQz5piFjx4))
+<details><summary><h4>EHALE - <b>The Limping Frog</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2x8Zhq0toTV8oQz5piFjx4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Faï Petar - **Bourrée de l'enclume** ([Spotify](https://open.spotify.com/track/1VurvapwExjXsmtyqCNOht))
+<details><summary><h4>Faï Petar - <b>Bourrée de l'enclume</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1VurvapwExjXsmtyqCNOht?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Femme Folk - **Bourrée en Motet et Marrakesh** ([Spotify](https://open.spotify.com/track/46vosTntMtCRZl0RotNb9h))
+<details><summary><h4>Femme Folk - <b>Bourrée en Motet et Marrakesh</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/46vosTntMtCRZl0RotNb9h?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Hepta Polka - **Bourreé De Grande Liberté** ([Spotify](https://open.spotify.com/track/1DFIQQPlzhdcKyWi6WRyKw)) ([Spotify](https://open.spotify.com/track/6tDd29uZdOUZmohN3vs7pv))
+<details><summary><h4>Hepta Polka - <b>Bourreé De Grande Liberté</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1DFIQQPlzhdcKyWi6WRyKw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Hotel Palindrone - **Maijodler** ([Spotify](https://open.spotify.com/track/0GpnBR369ldYEVbJJpUFDv))
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6tDd29uZdOUZmohN3vs7pv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Hotel Palindrone - **Nag's bourreé & quoi alors** ([Spotify](https://open.spotify.com/track/1xEJYSsjmhKawEuZmp2pfC))
+<details><summary><h4>Hotel Palindrone - <b>Maijodler</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0GpnBR369ldYEVbJJpUFDv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Illa - **L'azerole** ([Spotify](https://open.spotify.com/track/4VqvnDq3g4mohD33Ds8bBR))
+<details><summary><h4>Hotel Palindrone - <b>Nag's bourreé & quoi alors</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1xEJYSsjmhKawEuZmp2pfC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Karamaus - **La Danse Perdue** ([Spotify](https://open.spotify.com/track/7K3cIEmWzTJM9hndJf7Tw1))
+<details><summary><h4>Illa - <b>L'azerole</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4VqvnDq3g4mohD33Ds8bBR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Kv Express - **Poedelkes bourrée** ([Spotify](https://open.spotify.com/track/26loVAdGRMlKu7JtyOkreW))
+<details><summary><h4>Karamaus - <b>La Danse Perdue</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7K3cIEmWzTJM9hndJf7Tw1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-La Mesquia - **L'ase teston - Bourée 2 temps** ([Spotify](https://open.spotify.com/track/0tnAzTTEd5RS0yTv0B3CQQ))
+<details><summary><h4>Kv Express - <b>Poedelkes bourrée</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/26loVAdGRMlKu7JtyOkreW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-La Mesquia - **Pastre - Bourée 2 temps** ([Spotify](https://open.spotify.com/track/4glHq83Lgxmrv65t7hsue5))
+<details><summary><h4>La Mesquia - <b>L'ase teston - Bourée 2 temps</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0tnAzTTEd5RS0yTv0B3CQQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-La Sauterelle - **Derriere chez mon Pere** ([Spotify](https://open.spotify.com/track/51blzZNkkp4NgyhArk6c3e))
+<details><summary><h4>La Mesquia - <b>Pastre - Bourée 2 temps</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4glHq83Lgxmrv65t7hsue5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Le Bal en Chantier - **La bonne éducation** ([Spotify](https://open.spotify.com/track/1xv4NtREQ63aUag7Gj1OTz))
+<details><summary><h4>La Sauterelle - <b>Derriere chez mon Pere</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/51blzZNkkp4NgyhArk6c3e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Le Grand Barouf - **Dunk d'ust** ([Spotify](https://open.spotify.com/track/3bxOcyRlGUXZfeal3KMe9J))
+<details><summary><h4>Le Bal en Chantier - <b>La bonne éducation</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1xv4NtREQ63aUag7Gj1OTz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Les Zéoles - **Dance Machine (Bourrée 2tps)** ([Spotify](https://open.spotify.com/track/5LYFQBd9hlLeH4V1ghGtpM))
+<details><summary><h4>Le Grand Barouf - <b>Dunk d'ust</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3bxOcyRlGUXZfeal3KMe9J?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Lo Truc - **Dran, Lo Premier, Sant'ana** ([Spotify](https://open.spotify.com/track/3WlLI6zN1gFzsvEabmZ6tA))
+<details><summary><h4>Les Zéoles - <b>Dance Machine (Bourrée 2tps)</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5LYFQBd9hlLeH4V1ghGtpM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Lou Pitakass - **La crous de la montanha + pita lou bosc** ([Spotify](https://open.spotify.com/track/5Zr63xptOD9OARqJtMcKHp))
+<details><summary><h4>Lo Truc - <b>Dran, Lo Premier, Sant'ana</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3WlLI6zN1gFzsvEabmZ6tA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Man Encantada - **Co qu'a don heit de jo** ([Spotify](https://open.spotify.com/track/28xBh1Up1MlhE8zb5loSb9))
+<details><summary><h4>Lou Pitakass - <b>La crous de la montanha + pita lou bosc</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5Zr63xptOD9OARqJtMcKHp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Moizbat - **Bela mair** ([Spotify](https://open.spotify.com/track/4mPmBiGkH8vBqZEOop243h))
+<details><summary><h4>Man Encantada - <b>Co qu'a don heit de jo</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/28xBh1Up1MlhE8zb5loSb9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-NIJ - **Pandia - Bourrée À 2 Temps** ([Spotify](https://open.spotify.com/track/7AK9PIU5Q8ZbuyICVZSlJV))
+<details><summary><h4>Moizbat - <b>Bela mair</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4mPmBiGkH8vBqZEOop243h?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Naragonia - **Gij Met Mij - Live** ([Spotify](https://open.spotify.com/track/3cdt1hKkYVPxWrhDaLPdF1))
+<details><summary><h4>NIJ - <b>Pandia - Bourrée À 2 Temps</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7AK9PIU5Q8ZbuyICVZSlJV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Naragonia - **Naya / Castor - Live** ([Spotify](https://open.spotify.com/track/5YxramlYgEfHgUvuCo1pwe))
+<details><summary><h4>Naragonia - <b>Gij Met Mij - Live</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3cdt1hKkYVPxWrhDaLPdF1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Naragonia, Naragonia Quartet - **Yowjef** ([Spotify](https://open.spotify.com/track/63kLWBk9xN95Z7g4pmbTxt))
+<details><summary><h4>Naragonia - <b>Naya / Castor - Live</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5YxramlYgEfHgUvuCo1pwe?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Nigel Eaton - **Three Sharks** ([Spotify](https://open.spotify.com/track/60laXLEg23SInqizDjEBJk))
+<details><summary><h4>Naragonia, Naragonia Quartet - <b>Yowjef</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/63kLWBk9xN95Z7g4pmbTxt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-ORAJ - **Père Soleil** ([Spotify](https://open.spotify.com/track/3iVxYsUQWXTkLEJPmhSY6M)) ([YouTube](https://www.youtube.com/watch?v=RPOBnUmBF4I))
+<details><summary><h4>Nigel Eaton - <b>Three Sharks</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/60laXLEg23SInqizDjEBJk?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-ORAJ - **Turbo Fraise** ([Spotify](https://open.spotify.com/track/1Ogqro3a1LAO0TKlztdT5g)) ([YouTube](https://www.youtube.com/watch?v=NVC_JPBBCbk))
+<details><summary><h4>ORAJ - <b>Père Soleil</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3iVxYsUQWXTkLEJPmhSY6M?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Passant Par Paris - **Passant par Paris (bourrée 2 temps)** ([Spotify](https://open.spotify.com/track/5jOk75WxOdi9JbZrwkTShE))
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RPOBnUmBF4I?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe></details>
 
-Petit Piment - **Bourrée du dromadaire - Les oeufs de Magritte** ([Spotify](https://open.spotify.com/track/2VsQsb737TLAe8teVXreTx))
+<details><summary><h4>ORAJ - <b>Turbo Fraise</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1Ogqro3a1LAO0TKlztdT5g?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Peut-être Jeanne - **Dobranoc** ([Spotify](https://open.spotify.com/track/00c6UtrMLqxoM6KosGCbXF))
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NVC_JPBBCbk?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe></details>
 
-Rémi Geffroy - **Jardins Suspendus** ([Spotify](https://open.spotify.com/track/1yeDqacoyvZFW2XOvW4vLj))
+<details><summary><h4>Passant Par Paris - <b>Passant par Paris (bourrée 2 temps)</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5jOk75WxOdi9JbZrwkTShE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Rémi Geffroy - **Jardins suspendus** ([Spotify](https://open.spotify.com/track/4CeqsOCnFofxBmAdmiAR0J))
+<details><summary><h4>Petit Piment - <b>Bourrée du dromadaire - Les oeufs de Magritte</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2VsQsb737TLAe8teVXreTx?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Stevan Vincendeau, Willy Pichard - **Marignolle - Illham - L'écho (bourrée 2 temps)** ([Spotify](https://open.spotify.com/track/5kdPASsM58gNvapLPH1uCE))
+<details><summary><h4>Peut-être Jeanne - <b>Dobranoc</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/00c6UtrMLqxoM6KosGCbXF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Thalas - **In Good Company** ([Spotify](https://open.spotify.com/track/3CZTp920s7o5c048unL0gB))
+<details><summary><h4>Rémi Geffroy - <b>Jardins Suspendus</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1yeDqacoyvZFW2XOvW4vLj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Trio Loubelya - **Helenash** ([Spotify](https://open.spotify.com/track/7JjKEiM0sr6VsGgwuYnvD7))
+<details><summary><h4>Rémi Geffroy - <b>Jardins suspendus</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4CeqsOCnFofxBmAdmiAR0J?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
+
+<details><summary><h4>Stevan Vincendeau, Willy Pichard - <b>Marignolle - Illham - L'écho (bourrée 2 temps)</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5kdPASsM58gNvapLPH1uCE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
+
+<details><summary><h4>Thalas - <b>In Good Company</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3CZTp920s7o5c048unL0gB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
+
+<details><summary><h4>Trio Loubelya - <b>Helenash</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7JjKEiM0sr6VsGgwuYnvD7?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>

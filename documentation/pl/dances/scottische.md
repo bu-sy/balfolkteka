@@ -6,90 +6,129 @@
 
 ## Przykłady
 
-https://www.youtube.com/watch?v=qzuP3u4BtCU
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qzuP3u4BtCU?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>
 
-https://www.youtube.com/watch?v=rGoECsG3WGk
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rGoECsG3WGk?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>
 
 ## Jak tańczyć
 
-https://www.youtube.com/watch?v=y1mfTqRCfyg
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y1mfTqRCfyg?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>
 
 ## Utwory (39)
 
-Airboxes - **Bultkets** ([Spotify](https://open.spotify.com/track/5QtHopsvC9QQ3KbWF62R4O))
+<details><summary><h4>Airboxes - <b>Bultkets</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5QtHopsvC9QQ3KbWF62R4O?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Andy Cutting, Nigel Eaton - **The Ice House Schottisches** ([Spotify](https://open.spotify.com/track/3ZChscQK7GDjcKusvZS0wA))
+<details><summary><h4>Andy Cutting, Nigel Eaton - <b>The Ice House Schottisches</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3ZChscQK7GDjcKusvZS0wA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Ballsy Swing - **Scottish des Aqueducs** ([Spotify](https://open.spotify.com/track/1jNAvGvQGlvyBRbA0ZNFeY))
+<details><summary><h4>Ballsy Swing - <b>Scottish des Aqueducs</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1jNAvGvQGlvyBRbA0ZNFeY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Bargainatt - **Captain Scottish** ([Spotify](https://open.spotify.com/track/58gbbGBFh2g66fe4gIYJMC))
+<details><summary><h4>Bargainatt - <b>Captain Scottish</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/58gbbGBFh2g66fe4gIYJMC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Bargainatt - **Scottish du Moulin** ([Spotify](https://open.spotify.com/track/2aQ1JcDAM7SEngz1bnvG89))
+<details><summary><h4>Bargainatt - <b>Scottish du Moulin</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2aQ1JcDAM7SEngz1bnvG89?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Brotto-Lopez - **Diga Figa - Escotticha** ([Spotify](https://open.spotify.com/track/6N0EEJKvs8WJFVw62RPAI1))
+<details><summary><h4>Brotto-Lopez - <b>Diga Figa - Escotticha</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6N0EEJKvs8WJFVw62RPAI1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Duo Absynthe - **British Swing** ([Spotify](https://open.spotify.com/track/7GADPvwHhb2sDgLYbhggb7))
+<details><summary><h4>Duo Absynthe - <b>British Swing</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7GADPvwHhb2sDgLYbhggb7?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Duo Brotto Milleret - **Scottish pour Anatole / Inhibitude** ([Spotify](https://open.spotify.com/track/53yahU1o62Jw8KcuH8eX00))
+<details><summary><h4>Duo Brotto Milleret - <b>Scottish pour Anatole / Inhibitude</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/53yahU1o62Jw8KcuH8eX00?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Etienne Choquet, Pulcinella, Trio Loubelya - **Leo** ([Spotify](https://open.spotify.com/track/0nUmDKTDwawyPdqfcBrvDk))
+<details><summary><h4>Etienne Choquet, Pulcinella, Trio Loubelya - <b>Leo</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0nUmDKTDwawyPdqfcBrvDk?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Fahrenheit - **Garden swing (scottish)** ([Spotify](https://open.spotify.com/track/0cx165K2jvKjzCiIddqG6v))
+<details><summary><h4>Fahrenheit - <b>Garden swing (scottish)</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0cx165K2jvKjzCiIddqG6v?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Floating Sofa Quartet - **Midsommerschottish** ([Spotify](https://open.spotify.com/track/3kakPLlhfUQYHRTBQhHqhp))
+<details><summary><h4>Floating Sofa Quartet - <b>Midsommerschottish</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3kakPLlhfUQYHRTBQhHqhp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Floating Sofa Quartet - **Själaschottish** ([Spotify](https://open.spotify.com/track/1oS6I0WhC9NRTTVC9ELXLv))
+<details><summary><h4>Floating Sofa Quartet - <b>Själaschottish</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1oS6I0WhC9NRTTVC9ELXLv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Floating Sofa Quartet, Guro Kvifte Nesheim - **Itämeri-sottiisit** ([Spotify](https://open.spotify.com/track/0vZZRgdLx69n2peHP8MYyN))
+<details><summary><h4>Floating Sofa Quartet, Guro Kvifte Nesheim - <b>Itämeri-sottiisit</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0vZZRgdLx69n2peHP8MYyN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Floating Sofa Quartet, Lars Lilholt - **Kun een Jord** ([Spotify](https://open.spotify.com/track/1wuecyVmkcEpBHeTT8vp5k))
+<details><summary><h4>Floating Sofa Quartet, Lars Lilholt - <b>Kun een Jord</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1wuecyVmkcEpBHeTT8vp5k?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-GUF Gävleborgs Ungdomsfolkband - **Vildsvinsschottis** ([Spotify](https://open.spotify.com/track/4CKsX991Nqdx9pUJ34eym8))
+<details><summary><h4>GUF Gävleborgs Ungdomsfolkband - <b>Vildsvinsschottis</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4CKsX991Nqdx9pUJ34eym8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Hartwin - **Laugu - Scottish** ([Spotify](https://open.spotify.com/track/65796xbRxoTTOy337BEdAz))
+<details><summary><h4>Hartwin - <b>Laugu - Scottish</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/65796xbRxoTTOy337BEdAz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Hawktail, Väsen - **The Tobogganist** ([Spotify](https://open.spotify.com/track/4sFwTtFtfLCXDOTz9XKYdL))
+<details><summary><h4>Hawktail, Väsen - <b>The Tobogganist</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4sFwTtFtfLCXDOTz9XKYdL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Hot Griselda - **Schojaseuten** ([Spotify](https://open.spotify.com/track/5Mp1BXI0v1mEOejNZUenPs))
+<details><summary><h4>Hot Griselda - <b>Schojaseuten</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5Mp1BXI0v1mEOejNZUenPs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Hotel Palindrone - **Thernberger Hochzeitsstücke & Branohm** ([Spotify](https://open.spotify.com/track/46NRAvsSS8gx2OuecCU3Oy))
+<details><summary><h4>Hotel Palindrone - <b>Thernberger Hochzeitsstücke & Branohm</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/46NRAvsSS8gx2OuecCU3Oy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Josefina Paulson, Sophie Cavez - **Skymningsschottis** ([Spotify](https://open.spotify.com/track/07b1GRzf3B74VFCQKvfM2k))
+<details><summary><h4>Josefina Paulson, Sophie Cavez - <b>Skymningsschottis</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/07b1GRzf3B74VFCQKvfM2k?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-La Forcelle - **Scottish De Åby / Scottish Septentrionale** ([Spotify](https://open.spotify.com/track/1m68csa1EAMTW2K3jB8lxR))
+<details><summary><h4>La Forcelle - <b>Scottish De Åby / Scottish Septentrionale</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1m68csa1EAMTW2K3jB8lxR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Le Quintet à Claques - **British String** ([Spotify](https://open.spotify.com/track/5prACOhX4iH1n9lxmYTdOz))
+<details><summary><h4>Le Quintet à Claques - <b>British String</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5prACOhX4iH1n9lxmYTdOz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Les Zéoles - **La p'tite bête (Scottish)** ([Spotify](https://open.spotify.com/track/6DZf8psO3ua4ylT5c6HByZ))
+<details><summary><h4>Les Zéoles - <b>La p'tite bête (Scottish)</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6DZf8psO3ua4ylT5c6HByZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Loogaroo - **La Chiave** ([Spotify](https://open.spotify.com/track/15bYgfuAWz1QXZxorEsBNq))
+<details><summary><h4>Loogaroo - <b>La Chiave</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/15bYgfuAWz1QXZxorEsBNq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-MUJI BGM - **Schottis från Indal** ([Spotify](https://open.spotify.com/track/7DZ8krBMTCjJMoC4XnVYAu))
+<details><summary><h4>MUJI BGM - <b>Schottis från Indal</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7DZ8krBMTCjJMoC4XnVYAu?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Man Encantada - **La Calorada** ([Spotify](https://open.spotify.com/track/20ZUYSRRBk8d7sAuEZEw8n))
+<details><summary><h4>Man Encantada - <b>La Calorada</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/20ZUYSRRBk8d7sAuEZEw8n?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Mr. Foxlide - **Mind the gap - Scottish** ([Spotify](https://open.spotify.com/track/5uRbx0kPaCb3zPRJ2gTotc))
+<details><summary><h4>Mr. Foxlide - <b>Mind the gap - Scottish</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5uRbx0kPaCb3zPRJ2gTotc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Naragonia - **Carabel** ([Spotify](https://open.spotify.com/track/3ZPVhJSZXuYHDgjcnC7OSm))
+<details><summary><h4>Naragonia - <b>Carabel</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3ZPVhJSZXuYHDgjcnC7OSm?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Naragonia - **Lente in Laren / Jane's Boots** ([Spotify](https://open.spotify.com/track/6VSBAYqARiADT2y9UGcAGM))
+<details><summary><h4>Naragonia - <b>Lente in Laren / Jane's Boots</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6VSBAYqARiADT2y9UGcAGM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Naragonia, Naragonia Quartet - **Hellebore / Too Late to Sleep** ([Spotify](https://open.spotify.com/track/3z1iq9HZHu5ZevbzaL60JC))
+<details><summary><h4>Naragonia, Naragonia Quartet - <b>Hellebore / Too Late to Sleep</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3z1iq9HZHu5ZevbzaL60JC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Nina Nordvall Vahlberg - **Schottis Till Håge & Hans Vänner** ([Spotify](https://open.spotify.com/track/4eSdsX6rHc7ZhFV93yXCXL))
+<details><summary><h4>Nina Nordvall Vahlberg - <b>Schottis Till Håge & Hans Vänner</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4eSdsX6rHc7ZhFV93yXCXL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Novar - **A Kiss In Berlin / Novar** ([Spotify](https://open.spotify.com/track/2PP1gleh8VpIzAH4SQS1o6))
+<details><summary><h4>Novar - <b>A Kiss In Berlin / Novar</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2PP1gleh8VpIzAH4SQS1o6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Snaarmaarwaar - **Horlepijp / Castro** ([Spotify](https://open.spotify.com/track/6C6Kn4cgziJSXBl61KGH9F))
+<details><summary><h4>Snaarmaarwaar - <b>Horlepijp / Castro</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6C6Kn4cgziJSXBl61KGH9F?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Tref - **Scottische en neige** ([Spotify](https://open.spotify.com/track/509tV4C5bsGNN8pUxL87WQ))
+<details><summary><h4>Tref - <b>Scottische en neige</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/509tV4C5bsGNN8pUxL87WQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Tribal Jâze - **Scottish à casquette** ([Spotify](https://open.spotify.com/track/7toEcWM9q1jBIuvUX3ZsqN))
+<details><summary><h4>Tribal Jâze - <b>Scottish à casquette</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7toEcWM9q1jBIuvUX3ZsqN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Trio Dhoore - **Kallis** ([Spotify](https://open.spotify.com/track/3HnPbuR0HfQUvk1letSHZx))
+<details><summary><h4>Trio Dhoore - <b>Kallis</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3HnPbuR0HfQUvk1letSHZx?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Trio Loubelya - **Euforriz ( scottish )** ([Spotify](https://open.spotify.com/track/40gpuXyjOgMLcMzsjcczuS))
+<details><summary><h4>Trio Loubelya - <b>Euforriz ( scottish )</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/40gpuXyjOgMLcMzsjcczuS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Trio Loubelya - **Shantil** ([Spotify](https://open.spotify.com/track/7jr27L7AZTmmryfTFtLCDi))
+<details><summary><h4>Trio Loubelya - <b>Shantil</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7jr27L7AZTmmryfTFtLCDi?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Vädur - **Fusk Olles schottis** ([Spotify](https://open.spotify.com/track/31P0ovvPrItDf4BXEWZuOM))
+<details><summary><h4>Vädur - <b>Fusk Olles schottis</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/31P0ovvPrItDf4BXEWZuOM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>

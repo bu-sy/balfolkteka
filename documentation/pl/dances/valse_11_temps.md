@@ -11,7 +11,7 @@
 
 ## Przykłady
 
-https://www.youtube.com/watch?v=-FVytqqNALo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-FVytqqNALo?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>
 
 ### Powiązane tańce
 
@@ -23,8 +23,11 @@ https://www.youtube.com/watch?v=-FVytqqNALo
 
 ## Utwory (3)
 
-Eric Thézé, Samuel Thézé - **Knicklicht** ([Spotify](https://open.spotify.com/track/3p1xAyPKUrDXMYUlAup1KZ))
+<details><summary><h4>Eric Thézé, Samuel Thézé - <b>Knicklicht</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3p1xAyPKUrDXMYUlAup1KZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Trio Loubelya - **Vals'Constant** ([Spotify](https://open.spotify.com/track/5CSzPeK5nQhwdRpt02f0Yt))
+<details><summary><h4>Trio Loubelya - <b>Vals'Constant</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5CSzPeK5nQhwdRpt02f0Yt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Wouter en De Draak - **He'pter** ([Spotify](https://open.spotify.com/track/2hLEYIziamOpMzwiSk5P8P))
+<details><summary><h4>Wouter en De Draak - <b>He'pter</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2hLEYIziamOpMzwiSk5P8P?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>

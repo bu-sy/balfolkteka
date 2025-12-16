@@ -8,7 +8,7 @@
 
 ## Przykłady
 
-https://www.youtube.com/watch?v=ukUIXWc3kv8
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ukUIXWc3kv8?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>
 
 ### Powiązane tańce
 
@@ -20,202 +20,302 @@ https://www.youtube.com/watch?v=ukUIXWc3kv8
 
 ## Utwory (100)
 
-Ad Vielle Que Pourra - **L'Agacante/Valse Du Milieu/Valse Du Faucigny** ([Spotify](https://open.spotify.com/track/7K7CmEcTpriB0LjODM3kiX))
+<details><summary><h4>Ad Vielle Que Pourra - <b>L'Agacante/Valse Du Milieu/Valse Du Faucigny</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7K7CmEcTpriB0LjODM3kiX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Ad Vielle Que Pourra - **Valse Minette/Les Patates Ont Germe A St. Amable** ([Spotify](https://open.spotify.com/track/01A3pjvBJPs4X4WhKMgKv1))
+<details><summary><h4>Ad Vielle Que Pourra - <b>Valse Minette/Les Patates Ont Germe A St. Amable</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/01A3pjvBJPs4X4WhKMgKv1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Airboxes - **Rosa** ([Spotify](https://open.spotify.com/track/2kkmsW47g0tJ5Y57VFHUu2))
+<details><summary><h4>Airboxes - <b>Rosa</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2kkmsW47g0tJ5Y57VFHUu2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Alain Pennec - **Deux points virgule** ([Spotify](https://open.spotify.com/track/3z874xqzBRxQ2187lUL1QD))
+<details><summary><h4>Alain Pennec - <b>Deux points virgule</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3z874xqzBRxQ2187lUL1QD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Alain Pennec - **La dame blanche - Valse Clog** ([Spotify](https://open.spotify.com/track/4Xdq5tMUPFgR7r0obNnF7W))
+<details><summary><h4>Alain Pennec - <b>La dame blanche - Valse Clog</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4Xdq5tMUPFgR7r0obNnF7W?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Alain Pennec - **La valse à Robert** ([Spotify](https://open.spotify.com/track/0yIXjMIcp9w9cREb3jc59d))
+<details><summary><h4>Alain Pennec - <b>La valse à Robert</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0yIXjMIcp9w9cREb3jc59d?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Alfons Verreijt, Erno Korpershoek, Gunnar Graafmans, Hans Houckes, Jan-Paul van der Hoeven, Peter Moree, Robert Lobbesteijn, Simon Diaz Diaz, Theo Schuurmans - **Valse Atlantique** ([Spotify](https://open.spotify.com/track/57VsQoIyM388qG8AOfxByT))
+<details><summary><h4>Alfons Verreijt, Erno Korpershoek, Gunnar Graafmans, Hans Houckes, Jan-Paul van der Hoeven, Peter Moree, Robert Lobbesteijn, Simon Diaz Diaz, Theo Schuurmans - <b>Valse Atlantique</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/57VsQoIyM388qG8AOfxByT?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Andy Cutting, Nigel Eaton - **L'autre bout du monde / Adders Waltz** ([Spotify](https://open.spotify.com/track/3wBJEVljPBW1LeFq4KkT0h))
+<details><summary><h4>Andy Cutting, Nigel Eaton - <b>L'autre bout du monde / Adders Waltz</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3wBJEVljPBW1LeFq4KkT0h?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard - **Valse, trois petites notes de musique** ([Spotify](https://open.spotify.com/track/4bHJkiHgXRhivUocYRAypO))
+<details><summary><h4>Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard - <b>Valse, trois petites notes de musique</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4bHJkiHgXRhivUocYRAypO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Antoine Dawans, Ekko Trio, Lorcan Fahy, Pablo Golder - **Chute de Pierres** ([Spotify](https://open.spotify.com/track/1S2uiOCwWDBoXkLVqFzF1L))
+<details><summary><h4>Antoine Dawans, Ekko Trio, Lorcan Fahy, Pablo Golder - <b>Chute de Pierres</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1S2uiOCwWDBoXkLVqFzF1L?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Auka - **Emigrante** ([Spotify](https://open.spotify.com/track/3XItM0I68wegReOBrPPYgU))
+<details><summary><h4>Auka - <b>Emigrante</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3XItM0I68wegReOBrPPYgU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Aziliz Manrow, Denez Prigent, Oxmo Puccino - **Waltz of Life** ([Spotify](https://open.spotify.com/track/3363PsKPOg2gAeJ0fxKpp4))
+<details><summary><h4>Aziliz Manrow, Denez Prigent, Oxmo Puccino - <b>Waltz of Life</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3363PsKPOg2gAeJ0fxKpp4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Bal O'Gadjo - **Valse N'tenere-Adounia** ([Spotify](https://open.spotify.com/track/2P6vkMrVmAqvLJzroz1X3x))
+<details><summary><h4>Bal O'Gadjo - <b>Valse N'tenere-Adounia</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2P6vkMrVmAqvLJzroz1X3x?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Bal O'Gadjo - **Valse nuisette** ([Spotify](https://open.spotify.com/track/5NCEFXx4NI7thU0gFKj8bo))
+<details><summary><h4>Bal O'Gadjo - <b>Valse nuisette</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5NCEFXx4NI7thU0gFKj8bo?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Bon Débarras - **La valse du loup** ([Spotify](https://open.spotify.com/track/1oq5V7j7Ho1Tal53ISH2zf))
+<details><summary><h4>Bon Débarras - <b>La valse du loup</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1oq5V7j7Ho1Tal53ISH2zf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Broes - **Valses Des Palmiers** ([Spotify](https://open.spotify.com/track/3yQtRyoiPrwmtsCPT4fk34))
+<details><summary><h4>Broes - <b>Valses Des Palmiers</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3yQtRyoiPrwmtsCPT4fk34?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Brotto-Lopez - **Vaquì lo polit mes de mai - Valsa trad** ([Spotify](https://open.spotify.com/track/7qmBCrhjbaxCNHOx2Qwnqb))
+<details><summary><h4>Brotto-Lopez - <b>Vaquì lo polit mes de mai - Valsa trad</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7qmBCrhjbaxCNHOx2Qwnqb?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Carlo Massarelli - **La Valse du Metro** ([Spotify](https://open.spotify.com/track/43IGvoF3BE7aLpiNQXaXAP))
+<details><summary><h4>Carlo Massarelli - <b>La Valse du Metro</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/43IGvoF3BE7aLpiNQXaXAP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Carré Manchot - **Valse** ([Spotify](https://open.spotify.com/track/1LggdWOjBoY4luCoNz2438))
+<details><summary><h4>Carré Manchot - <b>Valse</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1LggdWOjBoY4luCoNz2438?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Cecilia - **Amélie** ([Spotify](https://open.spotify.com/track/7M4MzUANdw9k3ZmIOKylXi))
+<details><summary><h4>Cecilia - <b>Amélie</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7M4MzUANdw9k3ZmIOKylXi?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Cecilia - **Le point du jour** ([Spotify](https://open.spotify.com/track/1tLdLO5Bu22xqzTjE66DFC))
+<details><summary><h4>Cecilia - <b>Le point du jour</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1tLdLO5Bu22xqzTjE66DFC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Cecilia - **Walsje voor Veerle** ([Spotify](https://open.spotify.com/track/7ytDZwJq3KKAw4H0FNUZJV))
+<details><summary><h4>Cecilia - <b>Walsje voor Veerle</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7ytDZwJq3KKAw4H0FNUZJV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Celtik'raic - **La valse des craiks** ([Spotify](https://open.spotify.com/track/0oEUNqIUR5sp3aKs4vcEAA))
+<details><summary><h4>Celtik'raic - <b>La valse des craiks</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0oEUNqIUR5sp3aKs4vcEAA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Ciac Boum - **Nous étions mille et cent** ([Spotify](https://open.spotify.com/track/2Nia9CnGLRtKn6lRKCcNaZ))
+<details><summary><h4>Ciac Boum - <b>Nous étions mille et cent</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2Nia9CnGLRtKn6lRKCcNaZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Coriandre - **Si on se cache** ([Spotify](https://open.spotify.com/track/2dYeFEbhEwSSFSVXzCYLwM))
+<details><summary><h4>Coriandre - <b>Si on se cache</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2dYeFEbhEwSSFSVXzCYLwM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Dahù - **Kaya** ([Spotify](https://open.spotify.com/track/3T4t8CHv8mBmd3CJWy9POy))
+<details><summary><h4>Dahù - <b>Kaya</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3T4t8CHv8mBmd3CJWy9POy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Detchko - **Au 19 de l'avenue Descartes** ([Spotify](https://open.spotify.com/track/69QgaPOMo1qHQ6SJCrFuPX))
+<details><summary><h4>Detchko - <b>Au 19 de l'avenue Descartes</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/69QgaPOMo1qHQ6SJCrFuPX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Detchko - **Papé** ([Spotify](https://open.spotify.com/track/02ys1BkFHRWPsdUl4Q1t6U))
+<details><summary><h4>Detchko - <b>Papé</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/02ys1BkFHRWPsdUl4Q1t6U?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Detchko - **Rue Mathilde** ([Spotify](https://open.spotify.com/track/52X6AEY7WCQjXAf2rfBL9J))
+<details><summary><h4>Detchko - <b>Rue Mathilde</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/52X6AEY7WCQjXAf2rfBL9J?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-DiaTon - **Trip to Skye** ([Spotify](https://open.spotify.com/track/6gPY5nCqnkId34OrkdPDSD))
+<details><summary><h4>DiaTon - <b>Trip to Skye</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6gPY5nCqnkId34OrkdPDSD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Didier Laloy - **Valse Musette** ([Spotify](https://open.spotify.com/track/2oG7pZWdLlrRDUxlFjRLb4))
+<details><summary><h4>Didier Laloy - <b>Valse Musette</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2oG7pZWdLlrRDUxlFjRLb4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Didier Laloy, Fabian Beghin - **The Two Pennies Waltz** ([Spotify](https://open.spotify.com/track/5wHT3z2JScre2dgtJXNYrv))
+<details><summary><h4>Didier Laloy, Fabian Beghin - <b>The Two Pennies Waltz</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5wHT3z2JScre2dgtJXNYrv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Djal - **Kalaallit nunaat walz** ([Spotify](https://open.spotify.com/track/25g4BgD9VhtGhSEEfow0FA))
+<details><summary><h4>Djal - <b>Kalaallit nunaat walz</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/25g4BgD9VhtGhSEEfow0FA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Donder in't hooi - **Trip to skye** ([Spotify](https://open.spotify.com/track/1J22BdppBd6wFdfFa85Kda))
+<details><summary><h4>Donder in't hooi - <b>Trip to skye</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1J22BdppBd6wFdfFa85Kda?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Duea - **Lhi carn marinas** ([Spotify](https://open.spotify.com/track/3woeXbQ5YbIc0mGuAR7dNo))
+<details><summary><h4>Duea - <b>Lhi carn marinas</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3woeXbQ5YbIc0mGuAR7dNo?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Duo Absynthe - **Valse à Joseph & valse nouvelle - Remastered** ([Spotify](https://open.spotify.com/track/2BaamUDeAh1iohYYxak0VI))
+<details><summary><h4>Duo Absynthe - <b>Valse à Joseph & valse nouvelle - Remastered</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2BaamUDeAh1iohYYxak0VI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Duo Nello - **La demoiselle aux beaux yeux** ([Spotify](https://open.spotify.com/track/71MKqOK9FgeFAehCuWPx2S))
+<details><summary><h4>Duo Nello - <b>La demoiselle aux beaux yeux</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/71MKqOK9FgeFAehCuWPx2S?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Duo Pilartz Gielen - **Valse sur les salins** ([Spotify](https://open.spotify.com/track/40FfDZc515it16M8S239f0))
+<details><summary><h4>Duo Pilartz Gielen - <b>Valse sur les salins</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/40FfDZc515it16M8S239f0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Duo Sionneau/Gielen - **The Bay Tree** ([Spotify](https://open.spotify.com/track/3gbojqknSzVCUYptWEiFUd))
+<details><summary><h4>Duo Sionneau/Gielen - <b>The Bay Tree</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3gbojqknSzVCUYptWEiFUd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Duo Vargoz - **Valses à Felicien** ([Spotify](https://open.spotify.com/track/4eSb7ya5SCLtMricQP8wI4))
+<details><summary><h4>Duo Vargoz - <b>Valses à Felicien</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4eSb7ya5SCLtMricQP8wI4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Duo Vargoz - **Valses à Roussin - À Escalle - Solo harmonica** ([Spotify](https://open.spotify.com/track/3N1s0VM2lZDvT5UmLEbX6t))
+<details><summary><h4>Duo Vargoz - <b>Valses à Roussin - À Escalle - Solo harmonica</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3N1s0VM2lZDvT5UmLEbX6t?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Erwan Menguy - **Tempus fugit** ([Spotify](https://open.spotify.com/track/0cb0lhcEJFJoFimyYIOzQR))
+<details><summary><h4>Erwan Menguy - <b>Tempus fugit</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0cb0lhcEJFJoFimyYIOzQR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Fahrenheit - **L'océan mène 2 (valse)** ([Spotify](https://open.spotify.com/track/78YMbqwJXGyYgDLmzvDMrd))
+<details><summary><h4>Fahrenheit - <b>L'océan mène 2 (valse)</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/78YMbqwJXGyYgDLmzvDMrd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Faï Petar - **La valse à dédé** ([Spotify](https://open.spotify.com/track/6zzDFHGegqXjVvqoMhvYuY))
+<details><summary><h4>Faï Petar - <b>La valse à dédé</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6zzDFHGegqXjVvqoMhvYuY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Faï Petar - **Un jour peut-être...** ([Spotify](https://open.spotify.com/track/3lDNZ5bGzFRGqbluLvFH9q))
+<details><summary><h4>Faï Petar - <b>Un jour peut-être...</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3lDNZ5bGzFRGqbluLvFH9q?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Femme Folk - **Amélie la dispute / J'y suis jamais allée / La noyée** ([Spotify](https://open.spotify.com/track/7v0SXW5zGCILV0SPyEAV98))
+<details><summary><h4>Femme Folk - <b>Amélie la dispute / J'y suis jamais allée / La noyée</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7v0SXW5zGCILV0SPyEAV98?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Femme Folk - **Mon amant de Saint Jeanne** ([Spotify](https://open.spotify.com/track/5bvhum9jW8lIByi9E1CPOh))
+<details><summary><h4>Femme Folk - <b>Mon amant de Saint Jeanne</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5bvhum9jW8lIByi9E1CPOh?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Fleuves - **Valse à Olga** ([Spotify](https://open.spotify.com/track/4jO0CiiOiGdYLZ40djbg4H))
+<details><summary><h4>Fleuves - <b>Valse à Olga</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4jO0CiiOiGdYLZ40djbg4H?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Floating Sofa Quartet - **Anjalan Sannan Valssi** ([Spotify](https://open.spotify.com/track/4PwFD0q3GSgrKbd3ecw5AF))
+<details><summary><h4>Floating Sofa Quartet - <b>Anjalan Sannan Valssi</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4PwFD0q3GSgrKbd3ecw5AF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Floating Sofa Quartet - **Augustvals** ([Spotify](https://open.spotify.com/track/3lMYuiurRyIGwfZ2ArvRhX))
+<details><summary><h4>Floating Sofa Quartet - <b>Augustvals</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3lMYuiurRyIGwfZ2ArvRhX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Fred Guichen, Par Péron - **Valse à Johan** ([Spotify](https://open.spotify.com/track/7Af9Ch2I79ToZX9Goumykw))
+<details><summary><h4>Fred Guichen, Par Péron - <b>Valse à Johan</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7Af9Ch2I79ToZX9Goumykw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Gilles Chabenat, Patrick Bouffard - **Valse Nouvelle** ([Spotify](https://open.spotify.com/track/74vxQKEjav0AfxucloAX0t))
+<details><summary><h4>Gilles Chabenat, Patrick Bouffard - <b>Valse Nouvelle</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/74vxQKEjav0AfxucloAX0t?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Gilles Le Bigot - **Valse finlandaise** ([Spotify](https://open.spotify.com/track/1AHWGB6v0THLN5WFnNdQNI))
+<details><summary><h4>Gilles Le Bigot - <b>Valse finlandaise</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1AHWGB6v0THLN5WFnNdQNI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Groove Factory - **L'Imprévue** ([Spotify](https://open.spotify.com/track/51swbAZPFJQVwpxNam7le0))
+<details><summary><h4>Groove Factory - <b>L'Imprévue</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/51swbAZPFJQVwpxNam7le0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Hotel Palindrone - **Jodler & Walzer - Live Version** ([Spotify](https://open.spotify.com/track/1KlzvRuDoW8OPdsTLllAgi))
+<details><summary><h4>Hotel Palindrone - <b>Jodler & Walzer - Live Version</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1KlzvRuDoW8OPdsTLllAgi?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Hotel Palindrone - **Passhöhe** ([Spotify](https://open.spotify.com/track/0bwTOdyy8daiQmfH2acLtD))
+<details><summary><h4>Hotel Palindrone - <b>Passhöhe</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0bwTOdyy8daiQmfH2acLtD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Jean-Charles Guichen - **Arvorik Yaouank** ([Spotify](https://open.spotify.com/track/0gAAK7ALU9YyLKIRxor8Hz))
+<details><summary><h4>Jean-Charles Guichen - <b>Arvorik Yaouank</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0gAAK7ALU9YyLKIRxor8Hz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Jean-Pierre Menager - **Broken Promises** ([Spotify](https://open.spotify.com/track/3dPGLC1ljcFsIqX7NdsoyS))
+<details><summary><h4>Jean-Pierre Menager - <b>Broken Promises</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3dPGLC1ljcFsIqX7NdsoyS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Jon Maia, Korrontzi - **Iraun (ft. Jon Maia)** ([Spotify](https://open.spotify.com/track/3hpZG3ENnCpA9S3HukbNBO))
+<details><summary><h4>Jon Maia, Korrontzi - <b>Iraun (ft. Jon Maia)</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3hpZG3ENnCpA9S3HukbNBO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Kaisa Kuslapuu - **Tsooru valss** ([Spotify](https://open.spotify.com/track/7q4sS12ppftB9hG7rjWqj5))
+<details><summary><h4>Kaisa Kuslapuu - <b>Tsooru valss</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7q4sS12ppftB9hG7rjWqj5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Karsu - **Birak Beni Böyle** ([Spotify](https://open.spotify.com/track/5axNoeOxlWmo3ApNZXJwQQ))
+<details><summary><h4>Karsu - <b>Birak Beni Böyle</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5axNoeOxlWmo3ApNZXJwQQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Kendirvi - **La moustache de Poulouche (Valse)** ([Spotify](https://open.spotify.com/track/0KJGevRoREBmJif83J6dbJ))
+<details><summary><h4>Kendirvi - <b>La moustache de Poulouche (Valse)</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0KJGevRoREBmJif83J6dbJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Kendirvi - **Marjolaine et Romarin - Valse** ([Spotify](https://open.spotify.com/track/2ySA6QXOe0rYkYSEFRHkJe))
+<details><summary><h4>Kendirvi - <b>Marjolaine et Romarin - Valse</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2ySA6QXOe0rYkYSEFRHkJe?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Kv Express - **Loulou** ([Spotify](https://open.spotify.com/track/5mqGHMGxqFahGOi0iSHF0I))
+<details><summary><h4>Kv Express - <b>Loulou</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5mqGHMGxqFahGOi0iSHF0I?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Laurent Geoffroy - **Al Yaras Valse** ([Spotify](https://open.spotify.com/track/5XmZ7sysmLmhHJ7BCk1qdF))
+<details><summary><h4>Laurent Geoffroy - <b>Al Yaras Valse</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5XmZ7sysmLmhHJ7BCk1qdF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Le Bal en Chantier - **Trois pour deux** ([Spotify](https://open.spotify.com/track/79X9ihrf4YHSE7nyJcshlL))
+<details><summary><h4>Le Bal en Chantier - <b>Trois pour deux</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/79X9ihrf4YHSE7nyJcshlL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Le Bour Bodros - **La Gisèle - Valse** ([Spotify](https://open.spotify.com/track/5slK0IvFXi05ry36fHAXkE))
+<details><summary><h4>Le Bour Bodros - <b>La Gisèle - Valse</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5slK0IvFXi05ry36fHAXkE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Lhi Balòs - **Nina parte II** ([Spotify](https://open.spotify.com/track/0RxQ4sQ9E43CGvClU5DrH9))
+<details><summary><h4>Lhi Balòs - <b>Nina parte II</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0RxQ4sQ9E43CGvClU5DrH9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Lou Tapage - **Alice** ([Spotify](https://open.spotify.com/track/18Y9AG2J2cbCcnCyfcL3pl))
+<details><summary><h4>Lou Tapage - <b>Alice</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/18Y9AG2J2cbCcnCyfcL3pl?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Lou Tapage - **Valzer del porto** ([Spotify](https://open.spotify.com/track/5N2EL28oupnHDyzpJG4nTs))
+<details><summary><h4>Lou Tapage - <b>Valzer del porto</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5N2EL28oupnHDyzpJG4nTs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Man Encantada - **Sus la montanha** ([Spotify](https://open.spotify.com/track/4xjYqtp6DNzupeXSnHEmcF))
+<details><summary><h4>Man Encantada - <b>Sus la montanha</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4xjYqtp6DNzupeXSnHEmcF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-NOU - **Valse** ([Spotify](https://open.spotify.com/track/7nVWrPmFmUwghZAnMmNQJl))
+<details><summary><h4>NOU - <b>Valse</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7nVWrPmFmUwghZAnMmNQJl?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Nisia, Virginia Maiorana - **Valse des voiles** ([Spotify](https://open.spotify.com/track/6EgYkej1XIyyUpiVLmBheC))
+<details><summary><h4>Nisia, Virginia Maiorana - <b>Valse des voiles</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6EgYkej1XIyyUpiVLmBheC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Novar - **Blue Ciel Belge / Cassie et PJ** ([Spotify](https://open.spotify.com/track/7kvQyee0J1gUK1rOs32iUt))
+<details><summary><h4>Novar - <b>Blue Ciel Belge / Cassie et PJ</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7kvQyee0J1gUK1rOs32iUt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Orfeo - **Night at the Campfire (Waltz)** ([Spotify](https://open.spotify.com/track/464iNnlegtSGwfsNJOtExG))
+<details><summary><h4>Orfeo - <b>Night at the Campfire (Waltz)</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/464iNnlegtSGwfsNJOtExG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Orfeo - **Together (Waltz in 3 and 5 Times)** ([Spotify](https://open.spotify.com/track/1XHgOHF0PmHAP4HFACyl0s))
+<details><summary><h4>Orfeo - <b>Together (Waltz in 3 and 5 Times)</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1XHgOHF0PmHAP4HFACyl0s?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Original Occitana - **Miserere** ([Spotify](https://open.spotify.com/track/2uAgRIR4kE49d3I94rFD7d))
+<details><summary><h4>Original Occitana - <b>Miserere</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2uAgRIR4kE49d3I94rFD7d?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Phonix - **Akk-Vals - Live** ([Spotify](https://open.spotify.com/track/7fg3YQmeYzSAqYxIxiICBC))
+<details><summary><h4>Phonix - <b>Akk-Vals - Live</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7fg3YQmeYzSAqYxIxiICBC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Phonix - **Vals Baglæns / Snesekstur** ([Spotify](https://open.spotify.com/track/6SCY1qE7W6wiffOlIWaDsn))
+<details><summary><h4>Phonix - <b>Vals Baglæns / Snesekstur</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6SCY1qE7W6wiffOlIWaDsn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Phonix - **Vals Til Peter** ([Spotify](https://open.spotify.com/track/3frCO6geGolQOm4ddHAtAZ))
+<details><summary><h4>Phonix - <b>Vals Til Peter</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3frCO6geGolQOm4ddHAtAZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Phonème - **Valse quand même** ([Spotify](https://open.spotify.com/track/1oF1YxpkCoj1NQznAmHzSY))
+<details><summary><h4>Phonème - <b>Valse quand même</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1oF1YxpkCoj1NQznAmHzSY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Roxane Genot - **Rusty Red October Waltz** ([Spotify](https://open.spotify.com/track/4Tdaty940a9Dun3USTK3V2))
+<details><summary><h4>Roxane Genot - <b>Rusty Red October Waltz</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4Tdaty940a9Dun3USTK3V2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Ruth Hunter and Ruthie Dornfeld - **Breton Waltz** ([Spotify](https://open.spotify.com/track/709QQCxZjg0i9or7XzVzmv))
+<details><summary><h4>Ruth Hunter and Ruthie Dornfeld - <b>Breton Waltz</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/709QQCxZjg0i9or7XzVzmv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Ruz Reor - **Valse Ecossaise** ([Spotify](https://open.spotify.com/track/3Y5yCMPLCh8W49ioxERd1R))
+<details><summary><h4>Ruz Reor - <b>Valse Ecossaise</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3Y5yCMPLCh8W49ioxERd1R?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Samurai Accordion - **January Sun** ([Spotify](https://open.spotify.com/track/0tlAsVlJtiuqP2b5jbWUn0))
+<details><summary><h4>Samurai Accordion - <b>January Sun</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0tlAsVlJtiuqP2b5jbWUn0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Socam - **Lo mes de mai (valse)** ([Spotify](https://open.spotify.com/track/6cmiq1gmKrsm8teUiELuiP))
+<details><summary><h4>Socam - <b>Lo mes de mai (valse)</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6cmiq1gmKrsm8teUiELuiP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Solia - **Valse** ([Spotify](https://open.spotify.com/track/3mpzrP1nnIdp81zCbRKhVe))
+<details><summary><h4>Solia - <b>Valse</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3mpzrP1nnIdp81zCbRKhVe?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Startijenn - **Amsked - Vals** ([Spotify](https://open.spotify.com/track/3TZAbjCYAoVytPHBrYduSP))
+<details><summary><h4>Startijenn - <b>Amsked - Vals</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3TZAbjCYAoVytPHBrYduSP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Stevan Vincendeau, Willy Pichard - **Louizon ha Loeïza (valse)** ([Spotify](https://open.spotify.com/track/0zhTF8LraXKHZg21ZdYgJc))
+<details><summary><h4>Stevan Vincendeau, Willy Pichard - <b>Louizon ha Loeïza (valse)</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0zhTF8LraXKHZg21ZdYgJc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Surpluz - **De Blanke Slavin** ([Spotify](https://open.spotify.com/track/0T72bOH5xwLOwIYWLGVQs6))
+<details><summary><h4>Surpluz - <b>De Blanke Slavin</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0T72bOH5xwLOwIYWLGVQs6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Toc de Crida - **Vals d'aigua** ([Spotify](https://open.spotify.com/track/7Gwx4IAeaue88LTu0seoJG))
+<details><summary><h4>Toc de Crida - <b>Vals d'aigua</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7Gwx4IAeaue88LTu0seoJG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Tribu Cendra - **Variaciones ebrias** ([Spotify](https://open.spotify.com/track/1DA4s5jZHc4JdJIx08hROH))
+<details><summary><h4>Tribu Cendra - <b>Variaciones ebrias</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1DA4s5jZHc4JdJIx08hROH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Trobairitz d'Oc - **A stacada d'Brelh (Valsa finala)** ([Spotify](https://open.spotify.com/track/6K5xTTZICiwNSHiE7sA1Fq))
+<details><summary><h4>Trobairitz d'Oc - <b>A stacada d'Brelh (Valsa finala)</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6K5xTTZICiwNSHiE7sA1Fq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Ulman - **Waltz Luberon** ([Spotify](https://open.spotify.com/track/1NmYcXWkcZD8vShR70FYaD))
+<details><summary><h4>Ulman - <b>Waltz Luberon</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1NmYcXWkcZD8vShR70FYaD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Väsen - **Rosenlundsvalsen** ([Spotify](https://open.spotify.com/track/57hpDShornIg9A1j2rlK0X))
+<details><summary><h4>Väsen - <b>Rosenlundsvalsen</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/57hpDShornIg9A1j2rlK0X?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Wouter en De Draak - **Davy's waltz** ([Spotify](https://open.spotify.com/track/6B6EBc22OaSHKZyRTrDvkl))
+<details><summary><h4>Wouter en De Draak - <b>Davy's waltz</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6B6EBc22OaSHKZyRTrDvkl?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Wouter en De Draak - **Sarah's Waltz** ([Spotify](https://open.spotify.com/track/6w41k9dJkJ1SBHzDD1yjC6))
+<details><summary><h4>Wouter en De Draak - <b>Sarah's Waltz</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6w41k9dJkJ1SBHzDD1yjC6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Zef - **Valse de l'Abrenat** ([Spotify](https://open.spotify.com/track/1KBN0w4wXvuscpnctlgHS6))
+<details><summary><h4>Zef - <b>Valse de l'Abrenat</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1KBN0w4wXvuscpnctlgHS6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Zirp - **El Vals** ([Spotify](https://open.spotify.com/track/7e1dEWQGOeMO3AW39ECD7p))
+<details><summary><h4>Zirp - <b>El Vals</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7e1dEWQGOeMO3AW39ECD7p?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Zlabya - **Besac** ([Spotify](https://open.spotify.com/track/4XmNdMCUHawqiX0zDoFzt7))
+<details><summary><h4>Zlabya - <b>Besac</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4XmNdMCUHawqiX0zDoFzt7?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>

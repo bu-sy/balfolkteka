@@ -5,6 +5,27 @@ def write_file(contents, file_path):
 def link(link_text, link_path):
     return f"[{link_text}]({link_path})"
 
+def get_spotify_embed(link_text):
+    assert 'spotify' in link_text
+    track_id = link_text.split('/')[-1]
+    return '''<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/''' + track_id + '''?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'''
+
+def embed_youtube(link_text):
+    prefix = 'https://www.youtube.com/watch?v='
+    assert link_text.startswith(prefix), link_text
+    video_id = link_text[len(prefix):]
+    return '''<iframe width="560" height="315" src="https://www.youtube.com/embed/''' + video_id + '''?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>'''
+
+
+def embed_track(link_object):
+    if link_object.portal.lower() == 'spotify':
+        return get_spotify_embed(link_object.link)
+    elif link_object.portal.lower() == 'youtube':
+        return embed_youtube(link_object.link)
+    else:
+        return f"({link(link_object.portal, link_object.link)})"
+
+
 def secondary_header(text):
     return f"## {text}"
 
@@ -37,12 +58,12 @@ def render_dance(loaded_dance, loaded_translation, all_dances, directory_structu
     if loaded_examples := loaded_dance.get_examples():
         lines.append(secondary_header(loaded_translation.get_keyword('examples')))
         for example in loaded_examples:
-            lines.append(example.link)
+            lines.append(embed_youtube(example.link))
 
     if loaded_instructions := loaded_dance.get_instruction_link():
         lines.append(secondary_header(loaded_translation.get_keyword('how_to_dance')))
         for instruction in loaded_instructions:
-            lines.append(instruction['link'])
+            lines.append(embed_youtube(instruction['link']))
 
     if loaded_dance.get('connected_dances'):
         lines.append(f"### {loaded_translation.get_keyword('connected_dances')}")
@@ -67,13 +88,14 @@ def render_dance(loaded_dance, loaded_translation, all_dances, directory_structu
         lines.append(secondary_header(loaded_translation.get_keyword('tracks') + f" ({len(not_blacklisted_tracks)})"))
         for track_record in not_blacklisted_tracks:
             lines.append(
-                f"{track_record.artist} - **{track_record.track_name}**" +
+                "<details>" +
+                f"<summary><h4>{track_record.artist} - <b>{track_record.track_name}</b></h4>" +
                 " ".join([
                     f"({loaded_translation.get_translated_tag(tag_obj)})" for tag_obj in track_record.tags
-                ]) + " " +
-                " ".join([
-                    f"({link(music_link.portal, music_link.link)})" for music_link in track_record.music_links
-                ])
+                ]) + "</summary>" +
+                "\n".join([
+                    f"\n{embed_track(music_link)}" for music_link in track_record.music_links
+                ]) + "</details>"
             )
 
     write_file('\n\n'.join(lines), directory_structure.get_dance_file_path(loaded_dance))

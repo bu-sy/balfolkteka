@@ -6,174 +6,263 @@
 
 ## Przykłady
 
-https://www.youtube.com/watch?v=ego-sRUC0a8
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ego-sRUC0a8?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>
 
-https://www.youtube.com/watch?v=Dww2fyzFm-I
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dww2fyzFm-I?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>
 
 ## Utwory (83)
 
-Ablaye Cissoko, Cyrille Brotto - **Rencontre** ([Spotify](https://open.spotify.com/track/1zMcjuBw1FmOFS7VnRKvcM))
+<details><summary><h4>Ablaye Cissoko, Cyrille Brotto - <b>Rencontre</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1zMcjuBw1FmOFS7VnRKvcM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Accordzêam - **Natzurka** ([Spotify](https://open.spotify.com/track/01KKzUvn5d4MHoMcIqnJEy))
+<details><summary><h4>Accordzêam - <b>Natzurka</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/01KKzUvn5d4MHoMcIqnJEy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Arnaud Bibonne, Camille Raibaud - **Mazurka D'Après Lothaire Mabru** ([Spotify](https://open.spotify.com/track/51FrOXRF393hke2oygZ1Rl))
+<details><summary><h4>Arnaud Bibonne, Camille Raibaud - <b>Mazurka D'Après Lothaire Mabru</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/51FrOXRF393hke2oygZ1Rl?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Aurélie Dorzée, Michel Massot, Tom Theuns - **Kamazurka** ([Spotify](https://open.spotify.com/track/5K37L0O8vqGaOKvimSSHzt))
+<details><summary><h4>Aurélie Dorzée, Michel Massot, Tom Theuns - <b>Kamazurka</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5K37L0O8vqGaOKvimSSHzt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Aurélien Claranbaux - **Petite hippie - Féline** ([Spotify](https://open.spotify.com/track/7oBHFLDZJSHAE4zGi5ysZs))
+<details><summary><h4>Aurélien Claranbaux - <b>Petite hippie - Féline</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7oBHFLDZJSHAE4zGi5ysZs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Baltazar Montanaro, HEDIYYE, Zabou Guérin - **Maîtresse Maîtresse** ([Spotify](https://open.spotify.com/track/6cCNg6lAKFlxJtWiG0skV4))
+<details><summary><h4>Baltazar Montanaro, HEDIYYE, Zabou Guérin - <b>Maîtresse Maîtresse</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6cCNg6lAKFlxJtWiG0skV4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Bargainatt - **Bun Moussant** ([Spotify](https://open.spotify.com/track/4NjZdjlaqAqLWTU0JNznPi))
+<details><summary><h4>Bargainatt - <b>Bun Moussant</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4NjZdjlaqAqLWTU0JNznPi?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-BellónMaceiras - **Mazurca Piponesa** ([Spotify](https://open.spotify.com/track/7ItEjhaAIDCCY8dVMdYEaK))
+<details><summary><h4>BellónMaceiras - <b>Mazurca Piponesa</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7ItEjhaAIDCCY8dVMdYEaK?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Benoît Michaud, Zabou Guérin - **Bull Dozer** ([Spotify](https://open.spotify.com/track/3eEvFhMyLCyr8wiSicN9eH))
+<details><summary><h4>Benoît Michaud, Zabou Guérin - <b>Bull Dozer</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3eEvFhMyLCyr8wiSicN9eH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Blowzabella - **Camdence** ([Spotify](https://open.spotify.com/track/00wuvkGxAATkwqMJF96JZq))
+<details><summary><h4>Blowzabella - <b>Camdence</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/00wuvkGxAATkwqMJF96JZq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Blue Reed - **Mazurka in blu** ([Spotify](https://open.spotify.com/track/5A7c0bgDuIFOZ2oqvXLIgc))
+<details><summary><h4>Blue Reed - <b>Mazurka in blu</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5A7c0bgDuIFOZ2oqvXLIgc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Bourrasque - **Mazurkas noù** ([Spotify](https://open.spotify.com/track/1UOiy48vGYUApaVBaZQPXY))
+<details><summary><h4>Bourrasque - <b>Mazurkas noù</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1UOiy48vGYUApaVBaZQPXY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Brotto-Lopez - **La Candèla** ([Spotify](https://open.spotify.com/track/6VoT4tQpsrVssKjauFYExW))
+<details><summary><h4>Brotto-Lopez - <b>La Candèla</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6VoT4tQpsrVssKjauFYExW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Brotto-Lopez - **Tres son seroletas - Chant de la vallée d'Ossau** ([Spotify](https://open.spotify.com/track/6fjUfxKRjObiikd8HrQsgo))
+<details><summary><h4>Brotto-Lopez - <b>Tres son seroletas - Chant de la vallée d'Ossau</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6fjUfxKRjObiikd8HrQsgo?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Carlos Beceiro, Martina Quiere Bailar - **Valsurka** ([Spotify](https://open.spotify.com/track/0FxgYLz40ODVimzocCrs3e))
+<details><summary><h4>Carlos Beceiro, Martina Quiere Bailar - <b>Valsurka</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0FxgYLz40ODVimzocCrs3e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Carmelo Russo, Filippo Gambetta, Sergio Caputo - **Mazurka Bordeaux** ([Spotify](https://open.spotify.com/track/39ykufmrCucrOWDcIalGxJ))
+<details><summary><h4>Carmelo Russo, Filippo Gambetta, Sergio Caputo - <b>Mazurka Bordeaux</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/39ykufmrCucrOWDcIalGxJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Corentin Gidrol, Nicolas Canavaggia, Tralala Lovers - **Mazurka du pangolin** ([Spotify](https://open.spotify.com/track/4V7M6qPAxrrCkVzJaNFJe1))
+<details><summary><h4>Corentin Gidrol, Nicolas Canavaggia, Tralala Lovers - <b>Mazurka du pangolin</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4V7M6qPAxrrCkVzJaNFJe1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-DCA Trio - **Mazurka de l'Anglard, Mazurka du Cheix, Suite de polkas piquées** ([Spotify](https://open.spotify.com/track/1i1RSf8LWW9rWMhCTXDdXa))
+<details><summary><h4>DCA Trio - <b>Mazurka de l'Anglard, Mazurka du Cheix, Suite de polkas piquées</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1i1RSf8LWW9rWMhCTXDdXa?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Duo Absynthe - **Candela - Remastered** ([Spotify](https://open.spotify.com/track/703M0LnVJRbXiZM6TpgK4o))
+<details><summary><h4>Duo Absynthe - <b>Candela - Remastered</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/703M0LnVJRbXiZM6TpgK4o?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Duo Absynthe - **Nina** ([Spotify](https://open.spotify.com/track/5FYOeUoSXF4jcm0fpsQr5x)) ([Spotify](https://open.spotify.com/track/2siF9kst5lnKpz35DaXk5Z))
+<details><summary><h4>Duo Absynthe - <b>Nina</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5FYOeUoSXF4jcm0fpsQr5x?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Duo Blain-Leyzour - **Mazurka** ([Spotify](https://open.spotify.com/track/4OQfKpjr6mULLpTWJAVUrz))
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2siF9kst5lnKpz35DaXk5Z?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Duo Gestrikt - **Zebrazurka** ([Spotify](https://open.spotify.com/track/00bqAkOSUnskf0dBHADncY))
+<details><summary><h4>Duo Blain-Leyzour - <b>Mazurka</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4OQfKpjr6mULLpTWJAVUrz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Duo Oliver-Sentou - **The New Land** ([Spotify](https://open.spotify.com/track/2lSLarwBq6EDWWGNrGdRSQ))
+<details><summary><h4>Duo Gestrikt - <b>Zebrazurka</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/00bqAkOSUnskf0dBHADncY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Duo TTC - **Mazurka d'augères basses / Kervigen** ([Spotify](https://open.spotify.com/track/5mKnKKyBt32x7gEU1VEhMm))
+<details><summary><h4>Duo Oliver-Sentou - <b>The New Land</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2lSLarwBq6EDWWGNrGdRSQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Duo Vargoz - **Mazurka à Escalle** ([Spotify](https://open.spotify.com/track/4BgNf629MNREECxmxlyUup))
+<details><summary><h4>Duo TTC - <b>Mazurka d'augères basses / Kervigen</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5mKnKKyBt32x7gEU1VEhMm?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-E-leizh - **La mazur - Mazurka** ([Spotify](https://open.spotify.com/track/2FrIlkPrvf7KhMhJ4r89aD))
+<details><summary><h4>Duo Vargoz - <b>Mazurka à Escalle</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4BgNf629MNREECxmxlyUup?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-EmBRUN - **Yazurka 18** ([Spotify](https://open.spotify.com/track/6EpkZakUTQ6C2MMVzwvs48))
+<details><summary><h4>E-leizh - <b>La mazur - Mazurka</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2FrIlkPrvf7KhMhJ4r89aD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Faburden - **Tres Son Seroletas / Mazurka de Lothbrok** ([Spotify](https://open.spotify.com/track/7cHdU6kvj9YM8DxoO2aAAI))
+<details><summary><h4>EmBRUN - <b>Yazurka 18</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6EpkZakUTQ6C2MMVzwvs48?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Göze - **Mazurka des Tuilleries** ([Spotify](https://open.spotify.com/track/4uVuE4nMuk8kgIgzn0LVcu))
+<details><summary><h4>Faburden - <b>Tres Son Seroletas / Mazurka de Lothbrok</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7cHdU6kvj9YM8DxoO2aAAI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Julien Barbances, Poolidor - **Passera le temps** ([Spotify](https://open.spotify.com/track/4W0wSMvdpzfKXe3yxfHa5u))
+<details><summary><h4>Göze - <b>Mazurka des Tuilleries</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4uVuE4nMuk8kgIgzn0LVcu?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Kitus - **Mazurka de St Alyre** ([Spotify](https://open.spotify.com/track/1CLs01PUjXQBmQHzcACb2g)) ([Spotify](https://open.spotify.com/track/1G7kC4SQdLciFJSYmteKWE))
+<details><summary><h4>Julien Barbances, Poolidor - <b>Passera le temps</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4W0wSMvdpzfKXe3yxfHa5u?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Komred - **La demie-lune** ([Spotify](https://open.spotify.com/track/5plZUAG3ME9LBykUGix9CY))
+<details><summary><h4>Kitus - <b>Mazurka de St Alyre</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1CLs01PUjXQBmQHzcACb2g?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Komred - **Mazurka du bal perdu** ([Spotify](https://open.spotify.com/track/23fI1XjsIWk0WayPEqasfN))
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1G7kC4SQdLciFJSYmteKWE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Kv Express - **Les coccibulles** ([Spotify](https://open.spotify.com/track/5T84diJnMvMgK1dsquiyH9))
+<details><summary><h4>Komred - <b>La demie-lune</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5plZUAG3ME9LBykUGix9CY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Kv Express - **Loulou** ([Spotify](https://open.spotify.com/track/5mqGHMGxqFahGOi0iSHF0I))
+<details><summary><h4>Komred - <b>Mazurka du bal perdu</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/23fI1XjsIWk0WayPEqasfN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Kv Express - **Soli** ([Spotify](https://open.spotify.com/track/44Oy54skM8U51ZdZvdJwiB))
+<details><summary><h4>Kv Express - <b>Les coccibulles</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5T84diJnMvMgK1dsquiyH9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Kv Express - **Zoé** ([Spotify](https://open.spotify.com/track/56I8PN20cc7AXhmAFD7AOO))
+<details><summary><h4>Kv Express - <b>Loulou</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5mqGHMGxqFahGOi0iSHF0I?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-L'Escargot - **La vecchia Singer** ([Spotify](https://open.spotify.com/track/2aM1kBfAeulddGu7YYAkC8))
+<details><summary><h4>Kv Express - <b>Soli</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/44Oy54skM8U51ZdZvdJwiB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-La Bricole - **La manchotte (Mazurka)** ([Spotify](https://open.spotify.com/track/0Lx4oGVd0SiMK28EXx7jgY))
+<details><summary><h4>Kv Express - <b>Zoé</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/56I8PN20cc7AXhmAFD7AOO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-La cuivraille - **Mazurka De Septembre** ([Spotify](https://open.spotify.com/track/7emWSr0Ogwh4RZCFAfp6Sw))
+<details><summary><h4>L'Escargot - <b>La vecchia Singer</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2aM1kBfAeulddGu7YYAkC8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Laüsa - **Beth cèu de Pau** ([Spotify](https://open.spotify.com/track/1s8r1MXAcffAzoJS0IrOja))
+<details><summary><h4>La Bricole - <b>La manchotte (Mazurka)</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0Lx4oGVd0SiMK28EXx7jgY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Le Sextet à Claques - **La p'tite fée** ([Spotify](https://open.spotify.com/track/68g9FzygIxX9aOYflFTARw))
+<details><summary><h4>La cuivraille - <b>Mazurka De Septembre</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7emWSr0Ogwh4RZCFAfp6Sw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Le Sextet à Claques - **Trafic d'orgasmes** ([Spotify](https://open.spotify.com/track/6leivJe3PxJJW4TiQCJJhY))
+<details><summary><h4>Laüsa - <b>Beth cèu de Pau</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1s8r1MXAcffAzoJS0IrOja?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Les Brayauds - **Medley: Mazurka de rivet / La petit baigneuse** ([Spotify](https://open.spotify.com/track/4iGafknvS6jQ3kG0PQwtZw))
+<details><summary><h4>Le Sextet à Claques - <b>La p'tite fée</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/68g9FzygIxX9aOYflFTARw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Les Folkeux de Pie - **Henriette limousin - Mazurka** ([Spotify](https://open.spotify.com/track/3frwlRD2lSOq1lvxk5MulU))
+<details><summary><h4>Le Sextet à Claques - <b>Trafic d'orgasmes</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6leivJe3PxJJW4TiQCJJhY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Les Poufs à Cordes - **Alcione / Albione** ([Spotify](https://open.spotify.com/track/3iu86kU5qIMwiVvYqoyDYX))
+<details><summary><h4>Les Brayauds - <b>Medley: Mazurka de rivet / La petit baigneuse</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4iGafknvS6jQ3kG0PQwtZw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Les Zéoles - **Poppy (Mazurka)** ([Spotify](https://open.spotify.com/track/3sfJwaxJH3NgRcMIUBKGys))
+<details><summary><h4>Les Folkeux de Pie - <b>Henriette limousin - Mazurka</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3frwlRD2lSOq1lvxk5MulU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Lo Cor de la Plana - **Masurka Mafiosa Marselhesa** ([Spotify](https://open.spotify.com/track/16FhEhJsmTsPoXFlqX8iBH))
+<details><summary><h4>Les Poufs à Cordes - <b>Alcione / Albione</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3iu86kU5qIMwiVvYqoyDYX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Lolita Delmonteil-Ayral - **Irène** ([Spotify](https://open.spotify.com/track/19BOxrbLR5bfANx331p6VF))
+<details><summary><h4>Les Zéoles - <b>Poppy (Mazurka)</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3sfJwaxJH3NgRcMIUBKGys?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-LyraDanz - **Abbraccio Di Sale** ([Spotify](https://open.spotify.com/track/7s4WSuijiKjxwnfyYaU3uS))
+<details><summary><h4>Lo Cor de la Plana - <b>Masurka Mafiosa Marselhesa</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/16FhEhJsmTsPoXFlqX8iBH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Mafila Ko - **Mazurkalou** ([Spotify](https://open.spotify.com/track/2sFvqpNSkProEieCoSeTvN))
+<details><summary><h4>Lolita Delmonteil-Ayral - <b>Irène</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/19BOxrbLR5bfANx331p6VF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Marthe Tourret, Noëllie Nioulou, Élisa Trebouville - **Pa'janvier / Mazurka** ([Spotify](https://open.spotify.com/track/4Y9qPFxTfdL6TduVplCjHA))
+<details><summary><h4>LyraDanz - <b>Abbraccio Di Sale</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7s4WSuijiKjxwnfyYaU3uS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Martina Quiere Bailar - **La Schigera** ([Spotify](https://open.spotify.com/track/2ScjqIPhF4KQPfNjhyOAzS))
+<details><summary><h4>Mafila Ko - <b>Mazurkalou</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2sFvqpNSkProEieCoSeTvN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Moizbat - **La pechardière** ([Spotify](https://open.spotify.com/track/0HLwcBceGAjHes51aOMnqh))
+<details><summary><h4>Marthe Tourret, Noëllie Nioulou, Élisa Trebouville - <b>Pa'janvier / Mazurka</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4Y9qPFxTfdL6TduVplCjHA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Naragonia - **Alio** ([Spotify](https://open.spotify.com/track/7f35DXbpoDzXnFRIbdH3Xc)) ([Spotify](https://open.spotify.com/track/0fSZq2A3HX6DfAkPgfcfRn))
+<details><summary><h4>Martina Quiere Bailar - <b>La Schigera</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2ScjqIPhF4KQPfNjhyOAzS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Naragonia - **Little Thea** ([Spotify](https://open.spotify.com/track/1i4EBsE0McqVuFetI8E83C))
+<details><summary><h4>Moizbat - <b>La pechardière</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0HLwcBceGAjHes51aOMnqh?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Naragonia - **So Fröhlich** ([Spotify](https://open.spotify.com/track/6s52uf47lr4FPNjEfw71qd))
+<details><summary><h4>Naragonia - <b>Alio</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7f35DXbpoDzXnFRIbdH3Xc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Naragonia Quartet - **Momento Pierrot** ([Spotify](https://open.spotify.com/track/4mOKDWizLuMSWKt1Q6LI3T))
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0fSZq2A3HX6DfAkPgfcfRn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Naragonia, Naragonia Quartet - **The Lilly Ponds** ([Spotify](https://open.spotify.com/track/0WOKTrHKBPs8OqHEdrSTm1))
+<details><summary><h4>Naragonia - <b>Little Thea</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1i4EBsE0McqVuFetI8E83C?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Ormuz - **Chère Marguerite** ([Spotify](https://open.spotify.com/track/1api4W4ITn3gWRA5DEuIST))
+<details><summary><h4>Naragonia - <b>So Fröhlich</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6s52uf47lr4FPNjEfw71qd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Pichard Vincendeau, Stevan Vincendeau, Willy Pichard - **Vermel** ([Spotify](https://open.spotify.com/track/4KZ8BU9FnCRvwLR6NGrl3h))
+<details><summary><h4>Naragonia Quartet - <b>Momento Pierrot</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4mOKDWizLuMSWKt1Q6LI3T?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Rachel Averly - **Mazurka à rigal** ([Spotify](https://open.spotify.com/track/1uwTqqIOIxKBZYJ5qcgta9))
+<details><summary><h4>Naragonia, Naragonia Quartet - <b>The Lilly Ponds</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0WOKTrHKBPs8OqHEdrSTm1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Rémi Geffroy - **Au bord de l'eau (mazurka)** ([Spotify](https://open.spotify.com/track/0UjQjTQulF7gGizsAH6LXr))
+<details><summary><h4>Ormuz - <b>Chère Marguerite</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1api4W4ITn3gWRA5DEuIST?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Skolvan - **Coquin cherche coquine - Mazurka** ([Spotify](https://open.spotify.com/track/7mNEmDAmx97ub5bgIwX3c2))
+<details><summary><h4>Pichard Vincendeau, Stevan Vincendeau, Willy Pichard - <b>Vermel</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4KZ8BU9FnCRvwLR6NGrl3h?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Snaarmaarwaar - **Nightrider** ([Spotify](https://open.spotify.com/track/4FbLMh3TotPrRDeyJK5twq))
+<details><summary><h4>Rachel Averly - <b>Mazurka à rigal</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1uwTqqIOIxKBZYJ5qcgta9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Socam - **Pa Janvier (mazurka)** ([Spotify](https://open.spotify.com/track/3duOiq0HUMMURRpNASwNvR))
+<details><summary><h4>Rémi Geffroy - <b>Au bord de l'eau (mazurka)</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0UjQjTQulF7gGizsAH6LXr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Solia - **Mazurka** ([Spotify](https://open.spotify.com/track/0kQUKMTNQIsvTkUU6U4BiO))
+<details><summary><h4>Skolvan - <b>Coquin cherche coquine - Mazurka</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7mNEmDAmx97ub5bgIwX3c2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Sylvain Butté - **La paire de Saulxures** ([Spotify](https://open.spotify.com/track/7ozqgxw0P8mTYIqJT1C4wC))
+<details><summary><h4>Snaarmaarwaar - <b>Nightrider</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4FbLMh3TotPrRDeyJK5twq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Tournesol - **Virginie la mazurka des maris** ([Spotify](https://open.spotify.com/track/5YDSeiuXc7QAICX92hVf9a))
+<details><summary><h4>Socam - <b>Pa Janvier (mazurka)</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3duOiq0HUMMURRpNASwNvR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Tref - **Dorothée** ([Spotify](https://open.spotify.com/track/29fxol1nYZcsHTGzZ6RD71))
+<details><summary><h4>Solia - <b>Mazurka</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0kQUKMTNQIsvTkUU6U4BiO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Tribal Jâze - **Les poissons** ([Spotify](https://open.spotify.com/track/7diAL640b1DpXT5Pwonsy4))
+<details><summary><h4>Sylvain Butté - <b>La paire de Saulxures</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7ozqgxw0P8mTYIqJT1C4wC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Tribal Jâze - **Masure gat's** ([Spotify](https://open.spotify.com/track/26Jtc5JVx3piB8fQnEDIbS))
+<details><summary><h4>Tournesol - <b>Virginie la mazurka des maris</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5YDSeiuXc7QAICX92hVf9a?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Trio 14 - **Mazurka** ([Spotify](https://open.spotify.com/track/4vd6TDt6sW1hZEkA7owUyr))
+<details><summary><h4>Tref - <b>Dorothée</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/29fxol1nYZcsHTGzZ6RD71?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Trio Dhoore - **Coffee Break** ([Spotify](https://open.spotify.com/track/5bwkT4mfItGuv71dIv7qK0))
+<details><summary><h4>Tribal Jâze - <b>Les poissons</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7diAL640b1DpXT5Pwonsy4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Trio Dhoore - **Parachute** ([Spotify](https://open.spotify.com/track/7s9DcMjG8fUVho3p0rodcr))
+<details><summary><h4>Tribal Jâze - <b>Masure gat's</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/26Jtc5JVx3piB8fQnEDIbS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Trio Dhoore - **Vihmazurka / Kodumaa** ([Spotify](https://open.spotify.com/track/1E6OdBKQJrjx17NtMJv4FJ))
+<details><summary><h4>Trio 14 - <b>Mazurka</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4vd6TDt6sW1hZEkA7owUyr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Trio Loubelya - **Il neige à porto** ([Spotify](https://open.spotify.com/track/2BAnVAGXpfy5g2dlwOSMDC))
+<details><summary><h4>Trio Dhoore - <b>Coffee Break</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5bwkT4mfItGuv71dIv7qK0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Trio Loubelya - **Mazurkamille ( Mazurka )** ([Spotify](https://open.spotify.com/track/0jhUqPZXGxHlIVM2KLPhsr))
+<details><summary><h4>Trio Dhoore - <b>Parachute</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7s9DcMjG8fUVho3p0rodcr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Trio Loubelya - **Mouchti ( mazurka )** ([Spotify](https://open.spotify.com/track/3aLUFOPwdUCVGInKsxglls))
+<details><summary><h4>Trio Dhoore - <b>Vihmazurka / Kodumaa</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1E6OdBKQJrjx17NtMJv4FJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Valentin Barray - **Mazurkina** ([Spotify](https://open.spotify.com/track/26di9pd9zYzRKgOa5E9bmJ))
+<details><summary><h4>Trio Loubelya - <b>Il neige à porto</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2BAnVAGXpfy5g2dlwOSMDC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Wouter en De Draak - **Mazurmeau** ([Spotify](https://open.spotify.com/track/5jCx77SPBbksaxumxwBcGZ))
+<details><summary><h4>Trio Loubelya - <b>Mazurkamille ( Mazurka )</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0jhUqPZXGxHlIVM2KLPhsr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Wouter en De Draak - **Monsieur 7** ([Spotify](https://open.spotify.com/track/7sbaZX9uDlvUSAvYsfyFx5))
+<details><summary><h4>Trio Loubelya - <b>Mouchti ( mazurka )</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3aLUFOPwdUCVGInKsxglls?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
 
-Zef, zffrs - **Solitude** ([Spotify](https://open.spotify.com/track/3fCV922epAkPaUvkfcQzzB))
+<details><summary><h4>Valentin Barray - <b>Mazurkina</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/26di9pd9zYzRKgOa5E9bmJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
+
+<details><summary><h4>Wouter en De Draak - <b>Mazurmeau</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5jCx77SPBbksaxumxwBcGZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
+
+<details><summary><h4>Wouter en De Draak - <b>Monsieur 7</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7sbaZX9uDlvUSAvYsfyFx5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>
+
+<details><summary><h4>Zef, zffrs - <b>Solitude</b></h4></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3fCV922epAkPaUvkfcQzzB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></details>

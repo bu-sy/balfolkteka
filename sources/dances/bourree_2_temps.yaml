@@ -17,25 +17,14 @@ links:
 #      type: example_video
   playlists:
   - link: https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
-#  tracks: #TODO expand
-#    - artist: "Sylvain Quere"
-#      track_name:  "BOURREE 3 TEMPS"
-#      links:
-#        - portal: Soundcloud
-#          link: https://soundcloud.com/lasialyre/bourree-3-temps
-#    - artist: Cocanha
-#      track_name: "M'an dit martin"
-#      tags:
-#        - _acapella
-#      links:
-#        - portal: Spotify
-#          link: https://open.spotify.com/track/6fPH9JVJrTAVdHUtlBKEsL
   tracks:
   - artist: "'Ndiaz"
     track_name: Horde
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3K8YVmUf162CaFBq4ebQNI
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=6ZY43kus7x0
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
   - artist: Airboxes
@@ -43,6 +32,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2KGSiibbJVU77jTTg0O8Mu
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_08P89MHpvo
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
   - artist: Andy Cutting, Nigel Eaton
@@ -50,6 +41,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3Ept1XQCbsMO6qPDmRzZG0
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=wLK4cSJQ9z4
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
   - artist: Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard
@@ -57,6 +50,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5N8WrmoWvSolZ7dDNS4W3L
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=8qshwKrff9I
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
   - artist: Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard
@@ -64,6 +59,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2rQUCLYuBm2vwKcEi43ONA
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ZBjCi2xWWGc
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
   - artist: Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard
@@ -71,6 +68,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3TEoph99nxKSHZ78KVEJQw
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=hr-y4MVmL5Q
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
   - artist: Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard
@@ -78,6 +77,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3CpSYYBphc7zqdXicnZght
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=zBnIV6oW_lo
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
   - artist: Arcandela

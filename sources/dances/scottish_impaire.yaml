@@ -29,8 +29,8 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/3UkpCJbujGX4aUqlPyldtu
     from_playlist:
-    - https://open.spotify.com/playlist/564LseciVL43fExqhdGAa2
     - https://open.spotify.com/playlist/1KIwLzhkkthmchVMPoActb
+    - https://open.spotify.com/playlist/564LseciVL43fExqhdGAa2
   - artist: Mr. Folxlide
     track_name: The Well - Scottish Impaire
     links:

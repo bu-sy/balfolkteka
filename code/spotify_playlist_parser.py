@@ -40,8 +40,8 @@ spotify_caller = SpotifyCaller(token_id)
 
 
 def clean_track_list(track_list):
-    def unique_list(some_list):
-        return list(set(some_list))
+    def unique_sorted_list(some_list):
+        return sorted(list(set(some_list)))
 
     sorted_track_list = sorted(track_list, key=lambda x: (x['artist'], x['track_name']))
 
@@ -50,7 +50,7 @@ def clean_track_list(track_list):
     for track in sorted_track_list[1:]:
         previous_track = new_track_list[-1]
         if track['artist'] == previous_track['artist'] and track['track_name'] == previous_track['track_name']:
-            previous_track['from_playlist'] = unique_list(previous_track.get('from_playlist', []) + track.get('from_playlist', []))
+            previous_track['from_playlist'] = unique_sorted_list(previous_track.get('from_playlist', []) + track.get('from_playlist', []))
             for track_link in track['links']:
                 for track_link_in_previous_record in previous_track['links']:
                     if (track_link['portal'] == track_link_in_previous_record['portal']) and (

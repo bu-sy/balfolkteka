@@ -25,8 +25,8 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/6t9abFt0vROeQXz9xVSsxq
     from_playlist:
-    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
     - https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
   - artist: Dazkarieh
     track_name: Repasseado da calçada
     links:
@@ -61,8 +61,8 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/1HeZnlCZHCLFCCbXnwuHE8
     from_playlist:
-    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
     - https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
   - artist: La Bazanca, Paco Díez
     track_name: Repasseado Portugués y Brincaos Alistanos
     links:
@@ -85,8 +85,8 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/5B1v2S8WpVnyeQX26SUw1v
     from_playlist:
-    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
     - https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
   - artist: OMIRI
     track_name: Repasseado
     links:
@@ -95,8 +95,8 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/6tSetqRSUWwQRxUZqMpIp3
     from_playlist:
-    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
     - https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
   - artist: OMIRI
     track_name: Repasseado de S. Facundo
     links:
@@ -114,8 +114,8 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/2JOHqlFd10nN48YTRgMwzH
     from_playlist:
-    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
     - https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
   - artist: Seiva
     track_name: Repasseado dos Casais
     links:
@@ -145,8 +145,8 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/6zEU9BFh5Nil5osILl84Wm
     from_playlist:
-    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
     - https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
   - artist: Velha Gaiteira
     track_name: Repasseado + Antigo Baile Agarrado
     links:

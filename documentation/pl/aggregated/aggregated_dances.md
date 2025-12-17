@@ -4,6 +4,8 @@
 
 [Bourrée 3 temps](../dances/bourree_3_temps.md)
 
+[Cercle Circassien](../dances/cercle_circassien.md)
+
 [Chapelloise](../dances/chapelloise.md)
 
 [Drumul Dracului](../dances/drumul_dracului.md)

@@ -1,5 +1,9 @@
 tance_w_parach: yes
-mixery: no
+mixery:
+  chapelloise: yes
+  circle_circassien: no
+  branlou: no
+  regadinho: no
 bourree: no
 breton_dances: no
 poitou_dances: no

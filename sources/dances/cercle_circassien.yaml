@@ -1,0 +1,438 @@
+id: cercle_circassien
+name: Cercle Circassien
+links:
+  examples:
+  - link: https://www.youtube.com/watch?v=BbLJ4z5EiE4
+  - link: https://www.youtube.com/watch?v=X8iQtOlS8YI
+  playlists:
+  - link: https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+  - link: https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  tracks:
+  - artist: "'Ndiaz"
+    track_name: Moud - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1oolCRymTR4oUB8S5zsPow
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: "'Ndiaz, François Corneloup"
+    track_name: Uviéu
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6aHuOFvJqGM54uv1ByCBMQ
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Abdel Bouzbiba, Clément Rousse, Guillaume Lopez, Jocelyn Papon, Sébastien Gisbert
+    track_name: Cercle de Thoux - Cercle Circassien
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3Um35y05tF8DZlHXFPo5rA
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Airboxes
+    track_name: La Vida Loca - Tit
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0zlNYgp0llYbX9BrV4zAPw
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Airboxes
+    track_name: Mr. Muller - Bruxas
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/29EF07YqjuZWSz4pHoUIiM
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Alain Pennec
+    track_name: Bals à quatre
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4cieuqKdeeRDgcXuE6IaFC
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Ampouailh
+    track_name: Serr-noz (cercles)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2LHoX8WDMpi5B7tmQZXvtB
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Aurélien Claranbaux
+    track_name: Arrow in the Milkyway - La poule et la bombe
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5KFLgYhlYmNvwezsoGnKsu
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Bargainatt
+    track_name: Banana Circle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7B6sHYlRvF74Gn058bauaZ
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Bargainatt
+    track_name: Penne - Al dente
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4szvJu7x3g5KzQiS908NYk
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Beat Bouet Trio
+    track_name: La bamboche
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0uZv4RxVbOtrRV1qyWrmML
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Bernard Loffet, Lionel Neyssenssas
+    track_name: Cercle Circassien - Feat. Lionel Neyssenssas
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2Avgrz3p1kn7ptaVHnkSau
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Brotto-Lopez
+    track_name: Se vòls venir ambe ieu - Cercle circassien
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3qG0WSZ2cp8B8dSAcUYJfJ
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Dahù
+    track_name: '3106'
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0RgXZw36ZDWOziPtiFi8Ze
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: DiaTon
+    track_name: Le Funambule
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/11VkUyNnzgvdfbvBgHtPCd
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: DiaTon
+    track_name: Soleil d'Été/Hypnoticus
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1zoHyRvHD2Zg7YZVxGirXS
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Didier Laloy, Fabian Beghin
+    track_name: Ambroise's Forest Party
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4GR1OkOD1o1gwDFMJrQc7e
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Didier Oliver, Le Bal en Chantier
+    track_name: Magic Circus
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1k8shHGwK3qbuTk76WutZu
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Dos
+    track_name: Perpetuum Mobile (Círculo Circasiano)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4xlbnn5KvKQ6uAY7e9iRDj
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Duo Absynthe
+    track_name: Boite à Blicks
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3UarIldU9KLFDVURvu9VXq
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Duo Sciapò
+    track_name: Gau's Jig
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1jqestIT7x7QZYHppE8dcy
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Duo Sionneau/Gielen
+    track_name: Vas-y Gabin !
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3JipO7wcfucDbA83ThkMy9
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Eben
+    track_name: Dañs ar bleiz
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0EMxGqOSf9k449By4CE3HY
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Elanor
+    track_name: Blown Away - Nuit Noire
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5Vx1IVSEAXpcJMya4PkpWF
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Erwan Hamon, Janick Martin, Orchestre national de Bretagne
+    track_name: Banian's jig (Cercle circassien)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6oCK3riB2SwsiEikbhO1W5
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Fahrenheit
+    track_name: La plaine (cercle circassien)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5SuwdesmqyFs0nUun5enLB
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Femme Folk
+    track_name: Circo circasso
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2B935u23pUbxDdYabpEQkw
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Fleuves
+    track_name: Cercle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/44MI29NAi4YAPHVp2XsBuq
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Gaëtan Samson, Le Bour Bodros
+    track_name: Café vert
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/01LaIig29B2XFEErQlPMcL
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Hidrae
+    track_name: Cercle Pour Jonathan
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2FcG1bwiq2kzDjDMZlF0dz
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Hotel Palindrone
+    track_name: Cercles "Nobody´s Perfect" - Live Version
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2pDWf77VA5VZJA8LuPflRR
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Hotel Palindrone
+    track_name: Philosophen-Jigs
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/10uWCBt8t68XgMGFQjdQ1E
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Jean-Charles Guichen
+    track_name: Breizh Nevez
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6A3yimsQ5HRXg4hHoqJHvl
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: La Bottines Artistiques
+    track_name: Zieke Kiek
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7KgmMgPtXu85w5fZi1DK1D
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: La Forcelle
+    track_name: Cercle de Barbastro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0ZEJmPWnXomQOVkqpezsw2
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+  - artist: La Sauterelle
+    track_name: A nos amis
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5G152zQgmNrVL2zB47hLbT
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Le Bour Bodros
+    track_name: Saouzan - Cercle Circassien
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4qeTrw4M5YAIHbnoxKaTjv
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Le Sextet à Claques
+    track_name: Laryngo-rhino-phraryngite - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6BtFEbORKf2F7hVr68cZVO
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Les Zéoles
+    track_name: Macadam' pyjama (Cercle circassien)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0P5PoFXTuuM5nL9007ccnM
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Marian Iacob Maciuca, Ronan Robert, Simon Mary
+    track_name: Patience infuse
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5EoYnqBvBMelGmotVCuQfz
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Mister Klof
+    track_name: Sleeping Tortoise / The Orphan / Deule douce
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0KMOFEUspau0tEkHet98uV
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Mister Klof
+    track_name: Trip to moreda - jigam
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6QZuCXa4EpKsct5DrLZLzw
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Modkozmik
+    track_name: Na deus kostez Jupiter (Cercle circassien)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3wg6TaDEE9KDBn0BpC77hV
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Naragonia
+    track_name: Andanças / Shake Hans / Le Petit Tarré
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6RIUh84Pa3A2mlBg1FKAzf
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Paracetamol
+    track_name: Taka Takata
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/534Xdf8xX8JMckkKAe6ddd
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Plantec
+    track_name: Kihaus Woods - Cercle circassien
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3dmcpmkZOGAEeY2wGs1wja
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Pärlin
+    track_name: I buried my wife
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6NGntK2v7E7rYtTCsGDMZd
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Ruz Reor
+    track_name: Cercle Circassien
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5OFmT0nPNyvPAniOwqnQBb
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Rémi Geffroy
+    track_name: Laboratorium
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/03Gj4btFhKYRBPbh8ZyMYp
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Rémi Geffroy
+    track_name: Tara's Set (cercle circassien)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/69AKCOGAd9cCrCnvsBAYXk
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Startijenn
+    track_name: Backpaker
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2gXaADPS3lkOyiAwHK76fh
+    from_playlist:
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Tribal Jâze
+    track_name: Circus
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0v3QRap3lLNbPAisF0DM6n
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Trio Loubelya
+    track_name: La quadrature du cercle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4CRFQsb88x9kar8BulOdky
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Trio Loubelya
+    track_name: Viccirclette / Love-Love pigeons ( cercle circassien )
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6Kb0vmh5vSUvkyJClDz9jl
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Wouter en De Draak
+    track_name: New Horizons, New Adventures
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2o757mVyRZqQ5j04fChcwa
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: ZLABYA
+    track_name: Jammin
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3aZIqAONM9NpTEpCj1bKnQ
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Zlabya
+    track_name: Circulo - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3ErmPmkEAHbBymzvsSCrUd
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: ba.fnu
+    track_name: Cirque cirkusy jen (cercle)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0Sm3CRX3hA487jk6w3f6Fy
+    from_playlist:
+    - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+    - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz

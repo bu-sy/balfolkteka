@@ -1,0 +1,156 @@
+id: repasseado
+name: Repasseado
+links:
+  instructions:
+  - link: https://www.youtube.com/watch?v=mlELdda0XNE
+  - link: https://www.youtube.com/watch?v=ggSZ6DNmme4
+  - link: https://www.youtube.com/watch?v=vvqlDD7OalM
+  - link: https://www.youtube.com/watch?v=x990IJWbm38
+  playlists:
+  - link: https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
+  - link: https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
+  tracks:
+  - artist: Charanga
+    track_name: Repasseado sem Fronteiras
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0UBZ72JqCpzP4aUExuPZfp
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
+  - artist: Dazkarieh
+    track_name: Quase um Repasseado
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/59LkygCcuhaSjARIVUI3yb
+    - portal: Spotify
+      link: https://open.spotify.com/track/6t9abFt0vROeQXz9xVSsxq
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
+    - https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
+  - artist: Dazkarieh
+    track_name: Repasseado da calçada
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0w2Es6iKe9duHdd9AB4E4U
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
+  - artist: Dazkarieh, Velha Gaiteira
+    track_name: Repasseado da Calçada
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5PHqP2jpu8uIUNfyrdVTcH
+    from_playlist:
+    - https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
+  - artist: Dazkarieh, Velha Gaiteira
+    track_name: Repasseado da Calçada - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2Pmj3sS82S6hxbFBF0VM1y
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
+  - artist: Domingos Alfredo Flacão, Paulina José Raoso, Paulino Pereira João
+    track_name: Repasseado
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2dNqLfnAll7FVaPyc87Tf1
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
+  - artist: Galandum Galundaina
+    track_name: Repasseado
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1HeZnlCZHCLFCCbXnwuHE8
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
+    - https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
+  - artist: La Bazanca, Paco Díez
+    track_name: Repasseado Portugués y Brincaos Alistanos
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1gp23svbjWkvEEYKPoAORo
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
+  - artist: Mauro Passos
+    track_name: Repasseado de Rio de Onor
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5VJt5LVJoyCfXqZteT8rSA
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
+  - artist: OMIRI
+    track_name: O Segundo Repasseado
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3ebmdlgzfLFAIkHnr1U7kb
+    - portal: Spotify
+      link: https://open.spotify.com/track/5B1v2S8WpVnyeQX26SUw1v
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
+    - https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
+  - artist: OMIRI
+    track_name: Repasseado
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3SglwLAiEInknWdziyLSPI
+    - portal: Spotify
+      link: https://open.spotify.com/track/6tSetqRSUWwQRxUZqMpIp3
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
+    - https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
+  - artist: OMIRI
+    track_name: Repasseado de S. Facundo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2xdUzfLmUZnEyhRI8R2P8o
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
+  - artist: Roncos do Diabo
+    track_name: Repasseado
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3RL1rZDA8OX5U2UhsO4PbR
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ehu4JU2OaT8
+    - portal: Spotify
+      link: https://open.spotify.com/track/2JOHqlFd10nN48YTRgMwzH
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
+    - https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
+  - artist: Seiva
+    track_name: Repasseado dos Casais
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/13XSNRKO1KKOgRvuhe2TdM
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
+  - artist: Trasga
+    track_name: Repasseado - Ao vivo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1I438QBpn44djzulvMpXgM
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
+  - artist: UXU Kalhus
+    track_name: Repasseado do Coelhinho
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4ZLbdW5RZFRu2aRyxFTSlK
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
+  - artist: Urze de Lume
+    track_name: Repasseado Da Urze
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5jMueHtgi8HcBhEru6yc0Y
+    - portal: Spotify
+      link: https://open.spotify.com/track/6zEU9BFh5Nil5osILl84Wm
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
+    - https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
+  - artist: Velha Gaiteira
+    track_name: Repasseado + Antigo Baile Agarrado
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1Bj5012BLCH3IeTg6dbfbK
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe

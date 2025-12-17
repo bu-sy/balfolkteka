@@ -14,6 +14,8 @@
 
 [Polka](../dances/polka.md)
 
+[Repasseado](../dances/repasseado.md)
+
 [Scottish](../dances/scottische.md)
 
 [Scottish impaire](../dances/scottish_impaire.md)

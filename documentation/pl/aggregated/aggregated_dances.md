@@ -1,4 +1,4 @@
-# Lista wszystkich tańców
+# Lista wszystkich tańców (22)
 
 [An Dro](../dances/an_dro.md)
 

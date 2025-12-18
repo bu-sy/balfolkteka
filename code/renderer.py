@@ -109,7 +109,7 @@ def render_dance(loaded_dance, loaded_translation, all_dances, directory_structu
 def render_aggregated_dances(all_dances, loaded_translation, directory_structure):
     write_file(
         "\n\n".join([
-           f"# {loaded_translation.get_page_name('aggregated_list_of_dances') }"
+           f"# {loaded_translation.get_page_name('aggregated_list_of_dances') } ({len(all_dances)})"
         ] + [
             link(
                 dance.get('name'),

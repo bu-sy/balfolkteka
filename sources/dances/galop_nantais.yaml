@@ -14,6 +14,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6peVRISkrx5UuRVZHb3Pia
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ZfYrTAvwfP8
     from_playlist:
     - https://open.spotify.com/playlist/7uoH9qLbb4EZPb76n38v1A
   - artist: Esquisse
@@ -21,6 +23,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2ZhvLTWlujq4wEX3JSHKqR
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=rAv4qBB-s_c
     from_playlist:
     - https://open.spotify.com/playlist/7uoH9qLbb4EZPb76n38v1A
   - artist: Esquisse, François Badeau, Gweltaz Herve, Pierre Le Normand, Thomas Badeau
@@ -28,6 +32,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/19h7Cax0zRxYRNhCkK7rUP
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=JikxYcVhWw4
     from_playlist:
     - https://open.spotify.com/playlist/7uoH9qLbb4EZPb76n38v1A
   - artist: FLOCH Fabio
@@ -35,6 +41,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4RAyTD8pLczJy23oYkqP6F
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=zPfIWSXAnnU
     from_playlist:
     - https://open.spotify.com/playlist/7uoH9qLbb4EZPb76n38v1A
   - artist: Trio Aman

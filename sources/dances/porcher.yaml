@@ -1,0 +1,15 @@
+id: porcher
+name: Porcher
+connected_dances:
+- zwiefacher
+links:
+  examples:
+  - link: https://www.youtube.com/watch?v=bv6VaKMZk8c
+  tracks:
+  - artist: Les Zéoles
+    track_name: Les Haricots Mange-Tout (Porcher)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5MogZSnaLJKa4MhqcesjeN
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=W1XcHhmcSuI

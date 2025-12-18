@@ -1,0 +1,46 @@
+id: galop_nantais
+name: Galop Nantais
+tags:
+- _in_pairs
+- _breton_dance
+links:
+  examples:
+  - link: https://www.youtube.com/watch?v=xaD8e46hFV4
+  playlists:
+  - link: https://open.spotify.com/playlist/7uoH9qLbb4EZPb76n38v1A
+  tracks:
+  - artist: Bernard Loffet
+    track_name: Galop Nantais
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6peVRISkrx5UuRVZHb3Pia
+    from_playlist:
+    - https://open.spotify.com/playlist/7uoH9qLbb4EZPb76n38v1A
+  - artist: Esquisse
+    track_name: Oh non! - Galop nantais
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2ZhvLTWlujq4wEX3JSHKqR
+    from_playlist:
+    - https://open.spotify.com/playlist/7uoH9qLbb4EZPb76n38v1A
+  - artist: Esquisse, François Badeau, Gweltaz Herve, Pierre Le Normand, Thomas Badeau
+    track_name: Oh non! - Galop nantais - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/19h7Cax0zRxYRNhCkK7rUP
+    from_playlist:
+    - https://open.spotify.com/playlist/7uoH9qLbb4EZPb76n38v1A
+  - artist: FLOCH Fabio
+    track_name: Walkirie (Galop nantais)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4RAyTD8pLczJy23oYkqP6F
+    from_playlist:
+    - https://open.spotify.com/playlist/7uoH9qLbb4EZPb76n38v1A
+  - artist: Trio Aman
+    track_name: Galop Nantais
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5edZ7IlRblYWli3FDmYb07
+    from_playlist:
+    - https://open.spotify.com/playlist/7uoH9qLbb4EZPb76n38v1A

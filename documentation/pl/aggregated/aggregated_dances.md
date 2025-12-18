@@ -1,5 +1,7 @@
 # Lista wszystkich tańców
 
+[An Dro](../dances/an_dro.md)
+
 [Bourrée 2 temps](../dances/bourree_2_temps.md)
 
 [Bourrée 3 temps](../dances/bourree_3_temps.md)
@@ -10,13 +12,23 @@
 
 [Drumul Dracului](../dances/drumul_dracului.md)
 
+[Galop Nantais](../dances/galop_nantais.md)
+
+[Hanter Dro](../dances/hanter_dro.md)
+
 [Irregular mazurka](../dances/mazurka_irregular.md)
 
 [Mazurka](../dances/mazurka.md)
 
 [Polka](../dances/polka.md)
 
+[Porcher](../dances/porcher.md)
+
 [Repasseado](../dances/repasseado.md)
+
+[Rond de Landéda](../dances/rond_de_landeda.md)
+
+[Rond de Saint-Vincent](../dances/rond_de_saint_vincent.md)
 
 [Scottish](../dances/scottische.md)
 
@@ -29,3 +41,5 @@
 [Valse 5 temps](../dances/valse_5_temps.md)
 
 [Valse 8 temps](../dances/valse_8_temps.md)
+
+[Zwiefacher](../dances/zwiefacher.md)

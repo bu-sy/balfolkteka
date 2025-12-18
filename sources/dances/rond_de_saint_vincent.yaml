@@ -1,0 +1,219 @@
+id: rond_de_saint_vincent
+name: Rond de Saint-Vincent
+tags:
+- _in_circle
+- _breton_dance
+links:
+  instructions:
+  - link: https://www.youtube.com/watch?v=6xnQiuljAWM
+  examples:
+  - link: https://www.youtube.com/watch?v=azmxWUkRAgw
+  playlists:
+  - link: https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+  - link: https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  tracks:
+  - artist: "'Ndiaz"
+    track_name: Hanv Yen
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0wuB1TYzMukURWXqzAfCJu
+    from_playlist:
+    - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  - artist: Ampouailh
+    track_name: Tri bali 41vet (Ronds de Saint-Vincent)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4wSi9BZ3ctQqM6C1d8qLTI
+    from_playlist:
+    - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+  - artist: Ampouailh
+    track_name: Tri bali 41vet (Ronds de saint-Vincent) - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3AhdFAJ7HzN9HdscUIuWTu
+    from_playlist:
+    - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  - artist: BAROK, Ronan Pellen
+    track_name: Les pies se pavanent (Rond de Saint-Vincent)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7yg6AEjsqzmw7u5ovf6nWn
+    from_playlist:
+    - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+  - artist: Beat Bouet Trio, Fabs
+    track_name: Ce Travail (Rond de St Vincent)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/48fDhSrERJXLG6AJEQjFch
+    from_playlist:
+    - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  - artist: Carré Manchot
+    track_name: Rond de Saint-Vincent
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5mBCXcKMkpdQHxGiR8Uacv
+    from_playlist:
+    - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  - artist: Carré Manchot
+    track_name: Ronds de Saint Vincent
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/27P6YTMUCOHhNjczGXHIup
+    from_playlist:
+    - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+  - artist: Duo Absynthe
+    track_name: Azilia
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5S9s5CSmxaFBOI6sjICyrY
+    from_playlist:
+    - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  - artist: Edgar Trio, Regis Huiban
+    track_name: Le chant des lucioles (Rond de Saint-Vincent)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2PflZd83ZeZRJxgi9NMV4q
+    from_playlist:
+    - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+  - artist: Esquisse
+    track_name: Une grosse faim - Rond saint vincent sur oust
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5YpNAfx92ky9hgvrVxGHli
+    from_playlist:
+    - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  - artist: Femme Folk
+    track_name: Ronde de st. Vincent
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6qGrB5K4dzEWqWVRy7kaCs
+    from_playlist:
+    - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  - artist: Fleuves
+    track_name: Rond de Saint-Vincent
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5JxfA0FXkwQaOlT9rkbYwy
+    from_playlist:
+    - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+    - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  - artist: Forj
+    track_name: Galaunt pourr lonten (Rond de Saint Vincent)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4lrBVOp6MiONgyTOv5tPrO
+    from_playlist:
+    - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+    - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  - artist: Hamon Martin Quartet
+    track_name: T'en souviens-tu mignonne ?
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1oTBB1N7VaVY2k2f2QImjV
+    from_playlist:
+    - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+  - artist: Hamon Martin Quintet
+    track_name: La nousille
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/52kb0BE1X3h4iFYiJTXkSC
+    from_playlist:
+    - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+  - artist: Hotel Palindrone
+    track_name: Ronds de Saint-Vincent - Live Version
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3xnvckxeub9nFm1qHbyr8v
+    from_playlist:
+    - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  - artist: Jean-Charles Guichen
+    track_name: The Breton Roots
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/13b5dIYNo4sXSyw2R1yi9P
+    from_playlist:
+    - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  - artist: Kendirvi
+    track_name: Le géant qui voulait danser - Rond de St Vincent
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6W3L7qadjgoIotPnQHDrbG
+    from_playlist:
+    - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  - artist: Kendirvi
+    track_name: Les Noces d'hier au soir (Rond de Saint-Vincent)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6YVxQXef2sdzlsAXogoHyR
+    from_playlist:
+    - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  - artist: Kerbedig
+    track_name: 'Rond de Saint-Vincent : Kerbedig majik - Live'
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2gCQ87wIA9Fbf2V1Hfo1fW
+    from_playlist:
+    - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  - artist: Kornog
+    track_name: Ronds De St. Vincent
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/30dQBYM2YmW8nvlBy84mvU
+    from_playlist:
+    - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  - artist: Le Bour Bodros
+    track_name: Ar Stolier - Rond De Saint Vincent
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/29vLGLgPzNQmjYFggf5d0Z
+    from_playlist:
+    - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  - artist: Plantec
+    track_name: Nouson dia (Rond de st Vincent)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0BK2EE2XHkeOJAeMXff0uT
+    from_playlist:
+    - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+  - artist: Ruz Reor
+    track_name: Rond de Saint-Vincent
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7Iy99nemXdzIsEBoGvqEbw
+    from_playlist:
+    - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  - artist: Skolvan
+    track_name: Rond de Saint Vincent - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/68TNwv6OSBgSnSZ0s0ATqd
+    from_playlist:
+    - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+  - artist: Sterne
+    track_name: Rond De Saint-Vincent
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5g5RxkE4cwNNUg9kL67C2C
+    from_playlist:
+    - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+  - artist: Stevan Vincendeau, Thomas Felder
+    track_name: Bouic - Ronds de Saint Vincent sur Oust
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/46wD3jAhgO1xBwEkiwoIfn
+    from_playlist:
+    - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+  - artist: Tud
+    track_name: Rond de Saint Vincent
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4Ts0DwN8uE4mQvS96qoR8A
+    from_playlist:
+    - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+  - artist: Wipidoup
+    track_name: Mademoiselle Ficelle - Rond De Saint-Vincent
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5kbdhZZ8oHRnjZHKMLqOeD
+    from_playlist:
+    - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M

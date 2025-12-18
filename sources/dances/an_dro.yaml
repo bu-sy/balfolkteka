@@ -1,0 +1,174 @@
+id: an_dro
+name: An Dro
+tags:
+- _breton_dance
+links:
+  instructions:
+  - link: https://www.youtube.com/watch?v=BkHmazIAdVY
+  examples:
+  - link: https://www.youtube.com/watch?v=R7LHVOv-8iY
+  playlists:
+  - link: https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - link: https://open.spotify.com/playlist/2zoeLgbEClTkOeNnyqzVoV
+  tracks:
+  - artist: Abnoba
+    track_name: Andro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1IoAy6IiQqsBvIHQYWXOR5
+    from_playlist:
+    - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Adeline Ghilain, Duo Pilartz Gielen
+    track_name: Tryptique (Andro)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/41W7vGXiM0SV2Xs1aAaH6q
+    from_playlist:
+    - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Ampouailh
+    track_name: Lang(u)ages (An dro)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1rLr0W5TyLdPd2cfbGt85c
+    from_playlist:
+    - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Archam
+    track_name: Menez Andro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/14TYqJauzogXtYkO4LUJy7
+    from_playlist:
+    - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Bran
+    track_name: An dro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2ocOthpQmjM6uesN9TwIVg
+    from_playlist:
+    - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Carré Manchot
+    track_name: An dro / neg la cho
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6VkSg9EfvR1LMjGrfoYIP9
+    from_playlist:
+    - https://open.spotify.com/playlist/2zoeLgbEClTkOeNnyqzVoV
+  - artist: Denez Prigent
+    track_name: Android 56 - Live à Yaouank
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3A98kQX6dFvVUlgwCkKeTL
+    from_playlist:
+    - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Duo Sionneau/Gielen
+    track_name: Blaretudan
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7By6Vo3saxKlsYotmvInOd
+    from_playlist:
+    - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Femme Folk
+    track_name: Arno'dro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3gu8phgqnhQELBnccsGjIw
+    from_playlist:
+    - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Fleuves
+    track_name: Andro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7y5LoxJkNWxZUmpmEcWT2b
+    from_playlist:
+    - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Groove Factory
+    track_name: First Glitch
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6jBBNSV097bVUngn2KgYTO
+    from_playlist:
+    - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Hotel Palindrone
+    track_name: 'Andro: Samo Riba - Live Version'
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7ByBIjZjrVkzCFhyjaI1QC
+    from_playlist:
+    - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Illa
+    track_name: Thé au gingembre / La tortue et la chenille
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1fMw7vmJmzB1U8LdD5UUON
+    from_playlist:
+    - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Jean-Charles Guichen
+    track_name: Skouarnel
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7lS57hqvmYDG3ohEYbfghM
+    from_playlist:
+    - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Kendirvi
+    track_name: Plac'hig Bro-Gwened - An dro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0bcYrxgTzfQHBzreNilXfn
+    from_playlist:
+    - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Kornog
+    track_name: Dans An Dro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/17vANUFP9C42ZOxeSF66ub
+    from_playlist:
+    - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Les Frères Paranthoën
+    track_name: Lœiz - En dro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/44zzQwB3qCoqdlo5YSzvhs
+    from_playlist:
+    - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Plantec
+    track_name: Androïde (Andro)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/47hAn5vCRDl7tXuKCd2Pev
+    from_playlist:
+    - https://open.spotify.com/playlist/2zoeLgbEClTkOeNnyqzVoV
+  - artist: Skolvan
+    track_name: Le retour (An dro) - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1RpmWyW30t0rd6kC1LjGsK
+    from_playlist:
+    - https://open.spotify.com/playlist/2zoeLgbEClTkOeNnyqzVoV
+  - artist: Sterne
+    track_name: Andro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6eq6dPiUhnnGzstcoVs9qj
+    from_playlist:
+    - https://open.spotify.com/playlist/2zoeLgbEClTkOeNnyqzVoV
+  - artist: Trio Loubelya
+    track_name: Andrò a torino e poi a casa
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7saufzB3HDzuQDCY1VagfN
+    from_playlist:
+    - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Trio Loubelya, Tristan Le Breton
+    track_name: Andromac
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/68ziu9YPRutpgwJnN7O2Xs
+    from_playlist:
+    - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Tud
+    track_name: An dro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5OaUzEHzB5KQBFAgL3QQwC
+    from_playlist:
+    - https://open.spotify.com/playlist/2zoeLgbEClTkOeNnyqzVoV

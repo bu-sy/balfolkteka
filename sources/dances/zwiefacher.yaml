@@ -1,0 +1,57 @@
+id: zwiefacher
+name: Zwiefacher
+connected_dances:
+- porcher
+- scottish
+- valse_3_temps
+links:
+  examples:
+  - link: https://www.youtube.com/watch?v=Fq-hjwDeJ5A
+  playlists:
+  - link: https://open.spotify.com/playlist/5vpFddq3vnlAQIfoWUcjbV
+  tracks:
+  - artist: Hajda Banda, Jędrzej Weber
+    track_name: Niepraudzivaya kalina
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/30VjSyyUIysAGRs4hypONI
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_io-ZWscD8c
+    from_playlist:
+    - https://open.spotify.com/playlist/5vpFddq3vnlAQIfoWUcjbV
+  - artist: Les Zéoles
+    track_name: Les haricots mange-tout (Porcher)
+    blacklist: true #This is porcher
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5MogZSnaLJKa4MhqcesjeN
+    from_playlist:
+    - https://open.spotify.com/playlist/5vpFddq3vnlAQIfoWUcjbV
+  - artist: Litha
+    track_name: Zwiefache
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4gJm0d6RBp7dXKB0E9iPHe
+    from_playlist:
+    - https://open.spotify.com/playlist/5vpFddq3vnlAQIfoWUcjbV
+  - artist: Quetschn Academy
+    track_name: Unsre alte Kath - BEsAsDes
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3BqxI4PfxrTNOPPL6FPLJ7
+    from_playlist:
+    - https://open.spotify.com/playlist/5vpFddq3vnlAQIfoWUcjbV
+  - artist: Radůza
+    track_name: Na sever (Forde)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1urG5k67g8M7LeCan7BvlX
+    from_playlist:
+    - https://open.spotify.com/playlist/5vpFddq3vnlAQIfoWUcjbV
+  - artist: Radůza
+    track_name: Půjdu, Kam Chci
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1SlRTBbqg8rhmVegXBzY6K
+    from_playlist:
+    - https://open.spotify.com/playlist/5vpFddq3vnlAQIfoWUcjbV

@@ -1,11 +1,29 @@
 tance_w_parach: yes
 mixery:
   chapelloise: yes
-  circle_circassien: no
+  circle_circassien: yes
   branlou: no
   regadinho: no
 bourree: no
-breton_dances: no
+breton_dances:
+  rond_de_saint_vincent: yes
+  hanter_dro: yes
+  an_dro: yes
+  an_dro_retournee: no
+  rond_de_landeda: yes
+  plinn: no
+  gavotte_des_montagnes: no
+  ridee_6_temps: no
+  laride_8_temps: no
+  kost_ar_c_hoad: no
+  galop_nantais: yes
+  cochinchine: no
+  rond_suite_de_loudeac: no
+  kas_a_barh: no
+  tour: no
+  trikot: no
+  gavotte_de_l_aven: no
+  pile_menu: no
 poitou_dances: no
 gascon_dances: no
 basque_dances: no

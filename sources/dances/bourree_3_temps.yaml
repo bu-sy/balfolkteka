@@ -545,6 +545,7 @@ links:
     - https://open.spotify.com/playlist/60rT8z0AbQ5ZQIrWsvSOWq
   - artist: Le Sextet à Claques
     track_name: Saperlipopette ! - Live
+    blacklist: true #This looks like a duplicate record in spotify
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3l0RaXA8LHHhd5GML7syfY

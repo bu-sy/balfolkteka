@@ -23,7 +23,7 @@
 
 - [Bourrée 2 temps](bourree_2_temps.md)
 
-## Utwory (126)
+## Utwory (125)
 
 <details>
 <summary><big>Alexandra Lacouchie, Le Bal Brotto Lopez - <b>Passat deman - Bourrée</b></big></summary>
@@ -467,12 +467,6 @@
 <summary><big>Le Sextet à Claques - <b>Saperlipopette ! (Live)</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0gpwiYhKswSLwDhS90Ayi4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</details>
-
-<details>
-<summary><big>Le Sextet à Claques - <b>Saperlipopette ! - Live</b></big></summary>
-
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3l0RaXA8LHHhd5GML7syfY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>

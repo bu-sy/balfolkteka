@@ -1,4 +1,4 @@
-# Lista wszystkich utworów (754)
+# Lista wszystkich utworów (753)
 
 <details>
 <summary><big>'Ndiaz - <b>Hanv Yen</b> (Rond de Saint-Vincent)</big></summary>
@@ -2730,12 +2730,6 @@
 <summary><big>Le Sextet à Claques - <b>Saperlipopette ! (Live)</b> (Bourrée 3 temps)</big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0gpwiYhKswSLwDhS90Ayi4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</details>
-
-<details>
-<summary><big>Le Sextet à Claques - <b>Saperlipopette ! - Live</b> (Bourrée 3 temps)</big></summary>
-
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3l0RaXA8LHHhd5GML7syfY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>

@@ -127,29 +127,27 @@ class DirectoryStructureForTranslation(object):
             self.aggregated_pages_directory
         ]
 
-    def get_dance_file_path(self, dance_obj, relative_to=None):
+    def _get_path(self, full_path, relative_to=None):
         if not relative_to:
-            return os.path.join(self.translated_dances_directory, dance_obj.name + '.md')
+            return full_path
         else:
-            return self._get_relative_path(relative_to, self.get_dance_file_path(dance_obj))
-
-    def get_home_page_path(self, relative_to=None):
-        if not relative_to:
-            return os.path.join(self.translation_toplevel_path, 'home.md')
-        else:
-            return self._get_relative_path(relative_to, self.get_home_page_path())
-
-    def get_aggregated_dances_path(self, relative_to=None):
-        if not relative_to:
-            return os.path.join(self.aggregated_pages_directory, 'aggregated_dances.md')
-        else:
-            return self._get_relative_path(relative_to, self.get_aggregated_dances_path())
+            return self._get_relative_path(relative_to, full_path)
 
     def _get_relative_path(self, from_path, to_path):
         if from_path.endswith('.md'):  # Assuming this is only possible file extension
             return os.path.relpath(to_path, os.path.dirname(from_path))
         else:  # This is directory
             return os.path.relpath(to_path, from_path)
+
+    def get_dance_file_path(self, dance_obj, relative_to=None):
+        return self._get_path(os.path.join(self.translated_dances_directory, dance_obj.name + '.md'), relative_to)
+
+    def get_home_page_path(self, relative_to=None):
+        return self._get_path(os.path.join(self.translation_toplevel_path, 'home.md'), relative_to)
+
+    def get_aggregated_dances_path(self, relative_to=None):
+        return self._get_path(os.path.join(self.aggregated_pages_directory, 'aggregated_dances.md'), relative_to)
+
 
 all_dances = [
     DanceFile(dance_file) for dance_file in glob.glob(os.path.join(dances_path, '*.yaml'))

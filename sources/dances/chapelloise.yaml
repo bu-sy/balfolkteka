@@ -183,17 +183,12 @@ links:
   - artist: Paracetamol
     track_name: 'IF # = 4 THEN GO!'
     links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/0Uu8qMhYWK5Vewurxoe3ZM
-    from_playlist:
-    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
-  - artist: Paracetamol
-    track_name: 'IF # = 4 THEN Go!'
-    links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=Od2vY8ithiY
     - portal: Spotify
       link: https://open.spotify.com/track/0Uu8qMhYWK5Vewurxoe3ZM
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
   - artist: Rémi Geffroy
     track_name: Ek dwi Tin (chapelloise)
     links:

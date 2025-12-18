@@ -1,6 +1,6 @@
 # Irregular mazurka
 
-[Strona główna](../home.md)/[Lista wszystkich tańców](../aggregated/aggregated_dances.md)
+[Lista wszystkich tańców](../aggregated/aggregated_dances.md)
 
 **Nazwa**: Irregular mazurka
 

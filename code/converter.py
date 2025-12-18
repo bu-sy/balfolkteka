@@ -1,7 +1,7 @@
 import os
 import yaml
 import glob
-from renderer import render_dance, render_aggregated_dances, render_home_page
+from renderer import render_dance, render_aggregated_dances, render_home_page, render_aggregated_music
 
 def remove_suffix(text, suffix):
     if text.endswith(suffix):
@@ -38,6 +38,7 @@ class TrackRecord(object):
         self.music_links = music_links
         self.tags = tags
         self.blacklist = blacklist
+        self.dance = None
 
     @classmethod
     def from_dict(cls, dict_obj):
@@ -50,6 +51,10 @@ class TrackRecord(object):
             tags=dict_obj.get('tags') or [],
             blacklist=dict_obj.get('blacklist', False)
         )
+
+    def set_dance(self, dance):
+        self.dance = dance
+
 
 
 class YamlDefinedEntity(object):
@@ -148,6 +153,9 @@ class DirectoryStructureForTranslation(object):
     def get_aggregated_dances_path(self, relative_to=None):
         return self._get_path(os.path.join(self.aggregated_pages_directory, 'aggregated_dances.md'), relative_to)
 
+    def get_aggregated_music_path(self, relative_to=None):
+        return self._get_path(os.path.join(self.aggregated_pages_directory, 'aggregated_music.md'), relative_to)
+
 
 all_dances = [
     DanceFile(dance_file) for dance_file in glob.glob(os.path.join(dances_path, '*.yaml'))
@@ -169,10 +177,16 @@ for translation in all_translations:
     for directory_to_create in directory_structure_for_translation.get_directories_to_create():
         os.makedirs(directory_to_create, exist_ok=True)
 
+    all_music = []
     for dance in all_dances:
         render_dance(dance, translation, all_dances, directory_structure_for_translation)
+        for music in dance.get_music_links():
+            if not music.blacklist:
+                music.set_dance(dance.get('name'))
+                all_music.append(music)
 
     render_aggregated_dances(all_dances, translation, directory_structure_for_translation)
+    render_aggregated_music(all_music, translation, directory_structure_for_translation)
     render_home_page(translation, directory_structure_for_translation)
 
     print(f"Done translation {translation.name}")

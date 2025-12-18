@@ -35,9 +35,6 @@ def render_dance(loaded_dance, loaded_translation, all_dances, directory_structu
     lines = [
         f"# {loaded_dance.get('name')}",
         link(
-            loaded_translation.get_page_name('main_page'),
-            directory_structure.get_home_page_path(directory_structure.get_dance_file_path(loaded_dance))
-        ) + '/' + link(
             loaded_translation.get_page_name('aggregated_list_of_dances'),
             directory_structure.get_aggregated_dances_path(directory_structure.get_dance_file_path(loaded_dance))
         ),
@@ -119,11 +116,32 @@ def render_aggregated_dances(all_dances, loaded_translation, directory_structure
         directory_structure.get_aggregated_dances_path()
     )
 
+def render_aggregated_music(all_music, loaded_translation, directory_structure):
+    write_file(
+        "\n\n".join([
+            f"# {loaded_translation.get_page_name('aggregated_list_of_music')} ({len(all_music)})"
+        ] + [
+            collapsible(
+                f"{music.artist} - <b>{music.track_name}</b> ({music.dance})",
+                "\n".join([
+                    f"\n{embed_track(music_link)}" for music_link in music.music_links
+                ])
+            ) for music in sorted(all_music, key=lambda x: (x.artist, x.track_name))
+        ]),
+        directory_structure.get_aggregated_music_path()
+    )
+
 def render_home_page(loaded_translation, directory_structure):
     write_file(
+        '\n\n'.join([
         link(
             loaded_translation.get_page_name('aggregated_list_of_dances'),
             directory_structure.get_aggregated_dances_path(directory_structure.get_home_page_path())
         ),
+        link(
+            loaded_translation.get_page_name('aggregated_list_of_music'),
+            directory_structure.get_aggregated_music_path(directory_structure.get_home_page_path())
+        )
+        ]),
         directory_structure.get_home_page_path()
     )

@@ -3,6 +3,11 @@ import requests
 from ruamel.yaml import YAML
 from pathlib import Path
 import webbrowser
+import glob
+import sys
+
+my_dir = os.path.realpath(os.path.dirname(__file__))
+dances_sources_glob = os.path.realpath(os.path.join(my_dir, '..', 'sources', 'dances', "*.yaml"))
 
 NO_YOUTUBE_LINK_MARKER = 'no_youtube_link'
 
@@ -71,17 +76,30 @@ def interactive_youtube_searcher(track_list):
                 search_youtube_video(track)
     except:
         print("Some error occurred. Saving and exiting")
-    return track_list
+        return track_list, 1
+    return track_list, 0
+
+
+def update_file(file_path):
+    print(f"Processing {file_path}")
+    dance_name = file_path.split('/')[-1].split('.')[0]
+    print(" ".join([dance_name.upper()] * 5))
+    yaml = YAML()
+    yaml.width = 4096
+    file_reference = Path(file_path)
+    data = yaml.load(file_reference)
+    track_list = data.get('links', {}).get('tracks', [])
+    data['links']['tracks'], rc = interactive_youtube_searcher(track_list)
+    print(f"Saving {dance_name}")
+    yaml.dump(data, file_reference)
+    if rc == 1:
+        print("Exiting prematurely")
+        sys.exit(1)
+
 
 file_path = os.environ.get('FILE_PATH')
-assert file_path
-print(f"Processing {file_path}")
-yaml = YAML()
-yaml.width = 4096
-file_reference = Path(file_path)
-data = yaml.load(file_reference)
-track_list = data.get('links', {}).get('tracks', [])
-playlists = data.get('links', {}).get('playlists', [])
-data['links']['tracks'] = interactive_youtube_searcher(track_list)
-print("Saving")
-yaml.dump(data, file_reference)
+if file_path:
+    update_file(file_path)
+else:
+    for file_path in glob.glob(dances_sources_glob):
+        update_file(file_path)

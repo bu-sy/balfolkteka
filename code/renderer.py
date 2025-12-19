@@ -126,7 +126,7 @@ def render_aggregated_music(all_music, loaded_translation, directory_structure):
                 "\n".join([
                     f"\n{embed_track(music_link)}" for music_link in music.music_links
                 ])
-            ) for music in sorted(all_music, key=lambda x: (x.artist, x.track_name))
+            ) for music in sorted(all_music, key=lambda x: (x.artist.lower(), x.track_name.lower()))
         ]),
         directory_structure.get_aggregated_music_path()
     )

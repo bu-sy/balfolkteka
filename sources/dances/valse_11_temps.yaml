@@ -13,6 +13,13 @@ links:
   playlists:
   - link: https://open.spotify.com/playlist/7kW0sWDENcRgwqV1geUjym
   tracks:
+  - artist: Aurélien Claranbaux
+    track_name: Les 11
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3sTY7dlDuieXjPh8WauIHT
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=J_0hli2OrgA
   - artist: Eric Thézé, Samuel Thézé
     from_playlist:
     - https://open.spotify.com/playlist/7kW0sWDENcRgwqV1geUjym
@@ -40,10 +47,3 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=23xU_iGYHxw
     track_name: He'pter
-  - artist: Aurélien Claranbaux
-    track_name: Les 11
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/3sTY7dlDuieXjPh8WauIHT
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=J_0hli2OrgA

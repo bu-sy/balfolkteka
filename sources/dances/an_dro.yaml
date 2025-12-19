@@ -16,6 +16,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1IoAy6IiQqsBvIHQYWXOR5
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=bt5_m-A2wVw
     from_playlist:
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
   - artist: Adeline Ghilain, Duo Pilartz Gielen

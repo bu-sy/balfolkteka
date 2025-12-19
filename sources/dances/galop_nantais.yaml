@@ -52,3 +52,4 @@ links:
       link: https://open.spotify.com/track/5edZ7IlRblYWli3FDmYb07
     from_playlist:
     - https://open.spotify.com/playlist/7uoH9qLbb4EZPb76n38v1A
+    no_youtube_link: true

@@ -19,6 +19,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2zmnD4ltZwsQ9O6LN8XRdU
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=jIbe7NjalQo
     from_playlist:
     - https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
   - artist: Alexandra Lacouchie, Le Bal Brotto Lopez

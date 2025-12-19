@@ -35,7 +35,7 @@ class SpotifyCaller(object):
 
 
 token_id = os.environ.get('SPOTIFY_TOKEN_ID')
-assert token_id
+assert token_id or os.environ.get('ONLY_CLEAN')
 spotify_caller = SpotifyCaller(token_id)
 
 

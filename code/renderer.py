@@ -14,7 +14,7 @@ def embed_youtube(link_text):
     prefix = 'https://www.youtube.com/watch?v='
     assert link_text.startswith(prefix), link_text
     video_id = link_text[len(prefix):]
-    return '''<iframe width="100%" height="315" src="https://www.youtube.com/embed/''' + video_id + '''?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>'''
+    return '''<iframe width="100%" height="315" src="https://www.youtube.com/embed/''' + video_id + '''?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>'''
 
 def collapsible(summary, contents):
     return f"<details>\n<summary><big>{summary}</big></summary>\n{contents}\n</details>"

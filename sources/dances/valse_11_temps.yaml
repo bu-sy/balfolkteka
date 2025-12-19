@@ -7,8 +7,6 @@ connected_dances:
 - valse_5_temps
 - valse_11_temps
 links:
-#  instructions:
-#    - link: https://www.youtube.com/watch?v=A8AO1zcHD1o
   examples:
   - link: https://www.youtube.com/watch?v=-FVytqqNALo
     type: example_video
@@ -21,6 +19,8 @@ links:
     links:
     - link: https://open.spotify.com/track/3p1xAyPKUrDXMYUlAup1KZ
       portal: Spotify
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=4qmyuIoY-qQ
     track_name: Knicklicht
   - artist: Trio Loubelya
     from_playlist:
@@ -28,6 +28,8 @@ links:
     links:
     - link: https://open.spotify.com/track/5CSzPeK5nQhwdRpt02f0Yt
       portal: Spotify
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=1TT0g-S9wds
     track_name: Vals'Constant
   - artist: Wouter en De Draak
     from_playlist:
@@ -35,9 +37,13 @@ links:
     links:
     - link: https://open.spotify.com/track/2hLEYIziamOpMzwiSk5P8P
       portal: Spotify
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=23xU_iGYHxw
     track_name: He'pter
   - artist: Aurélien Claranbaux
     track_name: Les 11
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3sTY7dlDuieXjPh8WauIHT
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=J_0hli2OrgA

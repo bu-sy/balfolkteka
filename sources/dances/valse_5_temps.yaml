@@ -16,6 +16,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6ZkwHMonkMkuAlJ4N4JkKH
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=2kccDtj8Mpo
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Bal O'Gadjo
@@ -23,6 +25,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5yvjorfyR2gpWC8YrwFmhP
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=841EBWlcn28
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Bruno Le Tron, Franck Fagon, Laurent Cabané, Olivier Le Gallo
@@ -30,6 +34,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4vzhujOMZt4qZhywygXn8h
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=U3EuI1eCX0M
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Catherine Grimault, Eric Thézé, Jean-Jacques Limeul
@@ -37,6 +43,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0cELDaTB7QSE2KqYUlLrrs
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Xl3LB_lTi04
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Duo Absynthe
@@ -44,6 +52,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5bIugfjRcE3z3jVKFqCNZE
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=FAHwc5_uk0k
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Duo Absynthe
@@ -51,6 +61,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6DGLQ1bqZZSEGVs0zX4eQE
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=UTnMfdbMEm0
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Duo Massarelli
@@ -58,6 +70,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3DODmRjxHAecqxySY9SmGB
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=BDhPsA0_plk
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Eric Thézé, Samuel Thézé
@@ -65,6 +79,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5bxc5zPgCibxUhsNmpdBrP
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=jQJLMaIJqCQ
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Hot Griselda
@@ -72,6 +88,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2LKz44yyGCrpi8nRISUq9F
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=rv-ms80bJa0
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Kitus
@@ -81,11 +99,14 @@ links:
       link: https://open.spotify.com/track/0fCshQreHkZa72Z2AZp9Qc
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+    no_youtube_link: true
   - artist: La Machine
     track_name: Valse Éthiopique
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2cwaMIyiHQZCRSFO6rbVo2
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=xqUSEYp_zwU
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Les Zéoles
@@ -93,6 +114,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5S47jMWdXuErQRrCxkxGLG
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=gMONZbAExeg
     from_playlist:
     - https://open.spotify.com/playlist/0hnXz6KqlM4B9yph9dwwUj
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
@@ -101,6 +124,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2qbBOyIfjNN5otWYTmWvc6
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=v86tco1a_90
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Naragonia
@@ -108,6 +133,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/10flVGe7gADPt8ZXxIXJb2
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=FAHwc5_uk0k
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Rémi Geffroy
@@ -117,6 +144,8 @@ links:
       link: https://open.spotify.com/track/0Kkr0uR5m4NwPiibPbBHF5
     - portal: Spotify
       link: https://open.spotify.com/track/1YxJNZS6jW41wX98vCut8J
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=8ouJERpc40M
     from_playlist:
     - https://open.spotify.com/playlist/0hnXz6KqlM4B9yph9dwwUj
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
@@ -125,6 +154,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4SLG1MO5Soj4WAiRTFQunu
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=-z7t8fPXctM
     from_playlist:
     - https://open.spotify.com/playlist/0hnXz6KqlM4B9yph9dwwUj
   - artist: Tribal Jâze
@@ -132,6 +163,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3dOpSWwpmB9zy0ff2dYbdh
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=1Bh1ulD_IEM
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Trio Loubelya
@@ -139,6 +172,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0bsoqSu5Rz5Rc7UlABCt2k
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=2pmXei-u3D4
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Trio Loubelya
@@ -146,6 +181,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1jTVtqKaPiSEK2Xznf8sap
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=U69m1_zVXVo
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Wouter en De Draak
@@ -153,5 +190,7 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6afljFv16gVrhptANS4yGk
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Dw1BEBcZi0o
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6

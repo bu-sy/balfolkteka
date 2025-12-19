@@ -8,6 +8,8 @@ links:
   - link: https://open.spotify.com/playlist/2hL4rLYe9FdRs1pgbQyyy1
   - link: https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - link: https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+  - link: https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+  - link: https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   tracks:
   - artist: Ablaye Cissoko, Cyrille Brotto
     track_name: Rencontre
@@ -23,6 +25,13 @@ links:
       link: https://open.spotify.com/track/01KKzUvn5d4MHoMcIqnJEy
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+  - artist: Airboxes
+    track_name: Bosvelden
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3bg6ZlLX458Gb5bPF5WNrB
+    from_playlist:
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Arnaud Bibonne, Camille Raibaud
     track_name: Mazurka D'Après Lothaire Mabru
     links:
@@ -44,6 +53,20 @@ links:
       link: https://open.spotify.com/track/7oBHFLDZJSHAE4zGi5ysZs
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+  - artist: Bagad de Lann Bihoué
+    track_name: Mazurka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6d22ACPjsHP8cycJZX8epF
+    from_playlist:
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
+  - artist: Ballsy Swing
+    track_name: Mazurka des gaziers - Britany
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3UhNwfpxcex2xVSexu9OWi
+    from_playlist:
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Baltazar Montanaro, HEDIYYE, Zabou Guérin
     track_name: Maîtresse Maîtresse
     links:
@@ -100,6 +123,14 @@ links:
       link: https://open.spotify.com/track/6VoT4tQpsrVssKjauFYExW
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
+  - artist: Brotto-Lopez
+    track_name: Noche en Vela - Mazurkà
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0nG6QQalk8XR7HoqM0qFER
+    from_playlist:
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Brotto-Lopez
     track_name: Tres son seroletas - Chant de la vallée d'Ossau
     links:
@@ -121,6 +152,13 @@ links:
       link: https://open.spotify.com/track/39ykufmrCucrOWDcIalGxJ
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+  - artist: Ciac Boum
+    track_name: Mazurka des aimants
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6btx9KUPvSqLHpAgU74qzD
+    from_playlist:
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Corentin Gidrol, Nicolas Canavaggia, Tralala Lovers
     track_name: Mazurka du pangolin
     links:
@@ -157,8 +195,18 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4OQfKpjr6mULLpTWJAVUrz
+    - portal: Spotify
+      link: https://open.spotify.com/track/3Fs6Fe7Sj2ZhP2VuwTLyGp
     from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     - https://open.spotify.com/playlist/2hL4rLYe9FdRs1pgbQyyy1
+  - artist: Duo Blain-Leyzour
+    track_name: Sur la grand'route (Mazurka)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0sF9Vj1WlTCNowdkQY357z
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Duo Gestrikt
     track_name: Zebrazurka
     links:
@@ -201,6 +249,20 @@ links:
       link: https://open.spotify.com/track/6EpkZakUTQ6C2MMVzwvs48
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+  - artist: Fabio Colussi
+    track_name: L'attesa di Camilla
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1j5dKGOx8I2OefT3EJFjEy
+    from_playlist:
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
+  - artist: Fabio Colussi
+    track_name: Mazumar
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/59yyjSWjBWiutnTAAM6ceD
+    from_playlist:
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Faburden
     track_name: Tres Son Seroletas / Mazurka de Lothbrok
     links:
@@ -208,6 +270,21 @@ links:
       link: https://open.spotify.com/track/7cHdU6kvj9YM8DxoO2aAAI
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+  - artist: Geronimo
+    track_name: The Grashopper
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3XtskMVwq5dbZGO9NiOeYu
+    from_playlist:
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
+  - artist: Groove Factory
+    track_name: À l'Ombre des Cèdres
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4zbN0GVTLywake6UYaNfHM
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Göze
     track_name: Mazurka des Tuilleries
     links:
@@ -260,6 +337,13 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
   - artist: Kv Express
+    track_name: Nu niet later, niet elders maar hier
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6N9E2Hi22w9Rfeba3fvtL5
+    from_playlist:
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
+  - artist: Kv Express
     track_name: Soli
     links:
     - portal: Spotify
@@ -302,6 +386,20 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/2hL4rLYe9FdRs1pgbQyyy1
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+  - artist: Laüsa
+    track_name: Lo Melic
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3oaMJT3TLYHAuMxfCXheo2
+    from_playlist:
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
+  - artist: Le Sextet à Claques
+    track_name: Derniers sourires
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7E017JD6lw5WWW5L8ISzVh
+    from_playlist:
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Le Sextet à Claques
     track_name: La p'tite fée
     links:
@@ -365,6 +463,13 @@ links:
       link: https://open.spotify.com/track/7s4WSuijiKjxwnfyYaU3uS
     from_playlist:
     - https://open.spotify.com/playlist/2hL4rLYe9FdRs1pgbQyyy1
+  - artist: LyraDanz
+    track_name: Daydreamer
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2b6lEQ7WKTOgIboEkE0m1r
+    from_playlist:
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Mafila Ko
     track_name: Mazurkalou
     links:
@@ -372,6 +477,13 @@ links:
       link: https://open.spotify.com/track/2sFvqpNSkProEieCoSeTvN
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+  - artist: Marta Maślanka, WoWaKin
+    track_name: TamTa Dyna
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6D9IXDCSphOhUkGsFk7JtT
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Marthe Tourret, Noëllie Nioulou, Élisa Trebouville
     track_name: Pa'janvier / Mazurka
     links:
@@ -393,6 +505,14 @@ links:
       link: https://open.spotify.com/track/0HLwcBceGAjHes51aOMnqh
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+  - artist: Mr. Folxlide
+    track_name: Come to Sleep - Mazurka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7py28Gf8DfbDA6ryQGuQgH
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Naragonia
     track_name: Alio
     links:
@@ -400,9 +520,13 @@ links:
       link: https://open.spotify.com/track/7f35DXbpoDzXnFRIbdH3Xc
     - portal: Spotify
       link: https://open.spotify.com/track/0fSZq2A3HX6DfAkPgfcfRn
+    - portal: Spotify
+      link: https://open.spotify.com/track/4UCUSTPHsGAGmMAjX5zslO
     from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Naragonia
     track_name: Little Thea
     links:
@@ -424,6 +548,13 @@ links:
       link: https://open.spotify.com/track/4mOKDWizLuMSWKt1Q6LI3T
     from_playlist:
     - https://open.spotify.com/playlist/2hL4rLYe9FdRs1pgbQyyy1
+  - artist: Naragonia Quartet
+    track_name: The Lilly Ponds
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3Uv5efsDtt0ak3f0vTIUzG
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Naragonia, Naragonia Quartet
     track_name: The Lilly Ponds
     links:
@@ -431,6 +562,20 @@ links:
       link: https://open.spotify.com/track/0WOKTrHKBPs8OqHEdrSTm1
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+  - artist: Nubia
+    track_name: Tranen voor Paulo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4iaMV0KXek5a33rFdYwT6b
+    from_playlist:
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
+  - artist: ORAJ
+    track_name: Décharmée
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/52l9Z51zSxHsEgm5Voj7Oi
+    from_playlist:
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Ormuz
     track_name: Chère Marguerite
     links:
@@ -438,6 +583,13 @@ links:
       link: https://open.spotify.com/track/1api4W4ITn3gWRA5DEuIST
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+  - artist: Petit Piment
+    track_name: La fille du roi dans la tour
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1cGvvoxkex1CJR1hR7Rb8q
+    from_playlist:
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Pichard Vincendeau, Stevan Vincendeau, Willy Pichard
     track_name: Vermel
     links:
@@ -473,6 +625,7 @@ links:
       link: https://open.spotify.com/track/4FbLMh3TotPrRDeyJK5twq
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Socam
     track_name: Pa Janvier (mazurka)
     links:
@@ -487,6 +640,13 @@ links:
       link: https://open.spotify.com/track/0kQUKMTNQIsvTkUU6U4BiO
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+  - artist: Stefano Baldan
+    track_name: In Punta di Piedi
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1Ff20LVxpjzJLdsYyH2sw1
+    from_playlist:
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Sylvain Butté
     track_name: La paire de Saulxures
     links:
@@ -508,6 +668,7 @@ links:
       link: https://open.spotify.com/track/29fxol1nYZcsHTGzZ6RD71
     from_playlist:
     - https://open.spotify.com/playlist/2hL4rLYe9FdRs1pgbQyyy1
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Tribal Jâze
     track_name: Les poissons
     links:
@@ -534,8 +695,11 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5bwkT4mfItGuv71dIv7qK0
+    - portal: Spotify
+      link: https://open.spotify.com/track/6iMxJXYjHlE9TEmzHLcdsD
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Trio Dhoore
     track_name: Parachute
     links:
@@ -557,6 +721,7 @@ links:
       link: https://open.spotify.com/track/2BAnVAGXpfy5g2dlwOSMDC
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Trio Loubelya
     track_name: Mazurkamille ( Mazurka )
     links:
@@ -578,6 +743,13 @@ links:
       link: https://open.spotify.com/track/26di9pd9zYzRKgOa5E9bmJ
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+  - artist: Walt Adams
+    track_name: Things to Sort Out
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6n8o26g7k60c7qgoTJpFi2
+    from_playlist:
+    - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Wouter en De Draak
     track_name: Mazurmeau
     links:
@@ -599,3 +771,10 @@ links:
       link: https://open.spotify.com/track/3fCV922epAkPaUvkfcQzzB
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+  - artist: ba.fnu
+    track_name: Ej lásko (mazurka valse)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3tWJs58nCds7cgI4MXyMga
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT

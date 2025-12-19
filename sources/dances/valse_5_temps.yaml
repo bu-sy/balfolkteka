@@ -9,6 +9,7 @@ links:
   - link: https://www.youtube.com/watch?v=zcsGkWVz9eI
   playlists:
   - link: https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - link: https://open.spotify.com/playlist/0hnXz6KqlM4B9yph9dwwUj
   tracks:
   - artist: Accordzêam
     track_name: La lilloise
@@ -93,6 +94,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/5S47jMWdXuErQRrCxkxGLG
     from_playlist:
+    - https://open.spotify.com/playlist/0hnXz6KqlM4B9yph9dwwUj
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Monsieur Fruits
     track_name: Living Stone in Yellowstone
@@ -113,8 +115,18 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0Kkr0uR5m4NwPiibPbBHF5
+    - portal: Spotify
+      link: https://open.spotify.com/track/1YxJNZS6jW41wX98vCut8J
     from_playlist:
+    - https://open.spotify.com/playlist/0hnXz6KqlM4B9yph9dwwUj
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Sous les quais
+    track_name: Valse à 5 temps
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4SLG1MO5Soj4WAiRTFQunu
+    from_playlist:
+    - https://open.spotify.com/playlist/0hnXz6KqlM4B9yph9dwwUj
   - artist: Tribal Jâze
     track_name: La valseuse
     links:

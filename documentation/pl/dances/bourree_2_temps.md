@@ -28,7 +28,7 @@
 
 - [Bourrée 3 temps](bourree_3_temps.md)
 
-## Utwory (52)
+## Utwory (55)
 
 <details>
 <summary><big>'Ndiaz - <b>Horde</b></big></summary>
@@ -257,6 +257,12 @@
 </details>
 
 <details>
+<summary><big>LyraDanz - <b>Croissant bourrée</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1DTToRgP6avVrnke3QiG4t?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
 <summary><big>Man Encantada - <b>Co qu'a don heit de jo</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/28xBh1Up1MlhE8zb5loSb9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -333,6 +339,12 @@
 </details>
 
 <details>
+<summary><big>Rémi Geffroy - <b>Dansarem (bourrées 2 temps)</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1WdlRztXWy8MISbnI6xC89?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
 <summary><big>Rémi Geffroy - <b>Jardins Suspendus</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1yeDqacoyvZFW2XOvW4vLj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -354,6 +366,12 @@
 <summary><big>Thalas - <b>In Good Company</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3CZTp920s7o5c048unL0gB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Tref - <b>Allez, bourrés!</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4d1CTmVWRbg2RGXhcnCqQ5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>

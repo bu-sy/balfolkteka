@@ -10,6 +10,7 @@ links:
   playlists:
   - link: https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
   - link: https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
+  - link: https://open.spotify.com/playlist/25fWKPzv5TegVwGq4DrWTb
   tracks:
   - artist: Ad Vielle Que Pourra
     track_name: Chupad Melen/Hanterdro Tid' Poc'h
@@ -172,6 +173,13 @@ links:
       link: https://open.spotify.com/track/0CSiGL1rRdtibKoQskL3OM
     from_playlist:
     - https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
+  - artist: Celina Da Piedade
+    track_name: Calimero e a Pêra Verde
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1E5WcTKHElU9GpDcrBm48M
+    from_playlist:
+    - https://open.spotify.com/playlist/25fWKPzv5TegVwGq4DrWTb
   - artist: Christian Anneix, Hervé l'Hyver, Jean Baron
     track_name: Hanter dro
     links:
@@ -269,6 +277,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/61nPHJ41Ljp76jmdAfp80V
     from_playlist:
+    - https://open.spotify.com/playlist/25fWKPzv5TegVwGq4DrWTb
     - https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
   - artist: Fest Noz
     track_name: Hanter Dro

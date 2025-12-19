@@ -27,7 +27,7 @@
 
 <br>
 
-## Utwory (30)
+## Utwory (33)
 
 <details>
 <summary><big>Alain Pennec - <b>The Withe Petitcoat - La jig de la guilde - Lost By Laggan Moor</b></big></summary>
@@ -51,6 +51,12 @@
 <summary><big>Becky Price, Dave Shepherd - <b>Trip to Barnard</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/28b9XaHku9aXZsSQIbPZ2N?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Castanha é Vinovèl - <b>Femna pichona - Chapeloise</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5NVSIki5NSmG5WNJd0ygqR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>
@@ -147,6 +153,18 @@
 <summary><big>Les Zéoles - <b>Speculoos - My Friend (Chapelloise - Scottish)</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0RNbvKUstSW9bPuu0AGPsB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Les genoux - <b>La carpe velloise / Chapelloise</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3V4fI8zdTqoONUTIMHUKLo?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Mr. Folxlide - <b>Sittin' on the Top of the World - Chapelloise</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1KhIf1WkPZnkYFItHlruNI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>

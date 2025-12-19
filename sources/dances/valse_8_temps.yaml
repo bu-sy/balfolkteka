@@ -9,6 +9,7 @@ links:
   - link: https://www.youtube.com/watch?v=FoNg0I3L9Q8
   playlists:
   - link: https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
+  - link: https://open.spotify.com/playlist/3tHeYUx1eIrQraUTOEeGec
   tracks:
   - artist: Accordzêam
     track_name: Obsession
@@ -24,6 +25,15 @@ links:
       link: https://open.spotify.com/track/0GfLUTeD8aobiZ1nUKizo0
     from_playlist:
     - https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
+    - https://open.spotify.com/playlist/3tHeYUx1eIrQraUTOEeGec
+  - artist: Aurélien Claranbaux
+    blacklist: true #This is valse 11 temps
+    track_name: Les 11
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3sTY7dlDuieXjPh8WauIHT
+    from_playlist:
+    - https://open.spotify.com/playlist/3tHeYUx1eIrQraUTOEeGec
   - artist: Catherine Grimault, Eric Thézé, Jean-Jacques Limeul
     track_name: Gabriel
     links:
@@ -66,6 +76,13 @@ links:
       link: https://open.spotify.com/track/3mBfrxwQYKwBGHJJf14P3x
     from_playlist:
     - https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
+  - artist: Psapp
+    track_name: Glove
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5n5SpWZYSN5g1iJIKKmlHf
+    from_playlist:
+    - https://open.spotify.com/playlist/3tHeYUx1eIrQraUTOEeGec
   - artist: Rémi Geffroy
     track_name: Tornade blanche (valse 8 temps)
     links:
@@ -94,3 +111,10 @@ links:
       link: https://open.spotify.com/track/6zkbbKfkgtYcL8zTx35kyh
     from_playlist:
     - https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
+  - artist: Zero 7
+    track_name: Look Up
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1FuJxcc6eB2Kot2m7LtITF
+    from_playlist:
+    - https://open.spotify.com/playlist/3tHeYUx1eIrQraUTOEeGec

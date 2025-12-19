@@ -1,0 +1,35 @@
+id: bal_keff
+name: Bal Keff
+connected_dances:
+- dans_keff
+tags:
+- _breton_dance
+links:
+  instructions:
+  - link: https://www.youtube.com/watch?v=0H5PQkqkElc
+  examples:
+  - link: https://www.youtube.com/watch?v=Hn5SAbFGOVE
+  playlists:
+  - link: https://open.spotify.com/playlist/69jxBdkZeiRERsiYiIJyyD
+  tracks:
+  - artist: Diou Flo
+    track_name: Bal Kef
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7ErBNbcJfxkWqF4RdzPKUZ
+    from_playlist:
+    - https://open.spotify.com/playlist/69jxBdkZeiRERsiYiIJyyD
+  - artist: Kastelodenn
+    track_name: Bal Keff
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4b4xLlweT89YHYOoipArJO
+    from_playlist:
+    - https://open.spotify.com/playlist/69jxBdkZeiRERsiYiIJyyD
+  - artist: Korriganed
+    track_name: An Durzhunell (Bal Keff)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2bbcnryTJXVTBXmdfyD8vU
+    from_playlist:
+    - https://open.spotify.com/playlist/69jxBdkZeiRERsiYiIJyyD

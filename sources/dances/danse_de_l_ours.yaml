@@ -1,0 +1,43 @@
+id: danse_de_l_ours
+name: Danse de l'Ours
+links:
+  examples:
+  - link: https://www.youtube.com/watch?v=X9za_AMxhtM
+  playlists:
+  - link: https://open.spotify.com/playlist/0wgFA5FZvEomzQqUct5CbQ
+  tracks:
+  - artist: Brick A Drac
+    track_name: Danse de l'ours
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/28Ora30cEFuHXFsSP78iiu
+    from_playlist:
+    - https://open.spotify.com/playlist/0wgFA5FZvEomzQqUct5CbQ
+  - artist: Coriandre
+    track_name: Danse de l'ours
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1FlSAeXc8iAq3EejNFStga
+    from_playlist:
+    - https://open.spotify.com/playlist/0wgFA5FZvEomzQqUct5CbQ
+  - artist: Fiesta Noz
+    track_name: La Danse de L'ours
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1NXXgkOO0uyuABdc07KiWB
+    from_playlist:
+    - https://open.spotify.com/playlist/0wgFA5FZvEomzQqUct5CbQ
+  - artist: L'Art À Tatouille
+    track_name: La danse de l'ours
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6skerr0E3HAZ3ucqlIojF4
+    from_playlist:
+    - https://open.spotify.com/playlist/0wgFA5FZvEomzQqUct5CbQ
+  - artist: Les Cuisiniers Musiciens
+    track_name: Danse de l'Ours
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2X6OgXCs6fNJUxsa2AKfFJ
+    from_playlist:
+    - https://open.spotify.com/playlist/0wgFA5FZvEomzQqUct5CbQ

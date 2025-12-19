@@ -9,6 +9,7 @@ links:
   playlists:
   - link: https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
   - link: https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - link: https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   tracks:
   - artist: Airboxes
     track_name: Bultkets
@@ -45,6 +46,13 @@ links:
       link: https://open.spotify.com/track/2aQ1JcDAM7SEngz1bnvG89
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Bran
+    track_name: Shottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7ujz94spkQONi2JzFD3M4K
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Brotto-Lopez
     track_name: Diga Figa - Escotticha
     links:
@@ -52,6 +60,13 @@ links:
       link: https://open.spotify.com/track/6N0EEJKvs8WJFVw62RPAI1
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Cédric Aguila, Le Bal Brotto Lopez
+    track_name: Adiu miladiu ! - Scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6rpZyyQh14xHzcgBlild3l
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Duo Absynthe
     track_name: British Swing
     links:
@@ -87,6 +102,7 @@ links:
       link: https://open.spotify.com/track/3kakPLlhfUQYHRTBQhHqhp
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Floating Sofa Quartet
     track_name: Själaschottish
     links:
@@ -94,6 +110,7 @@ links:
       link: https://open.spotify.com/track/1oS6I0WhC9NRTTVC9ELXLv
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Floating Sofa Quartet, Guro Kvifte Nesheim
     track_name: Itämeri-sottiisit
     links:
@@ -115,6 +132,13 @@ links:
       link: https://open.spotify.com/track/4CKsX991Nqdx9pUJ34eym8
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
+  - artist: Groove Factory
+    track_name: Supernaire
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/53qZfg0pa5krtC7orfs2s1
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Hartwin
     track_name: Laugu - Scottish
     links:
@@ -165,6 +189,13 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Les Zéoles
+    track_name: 93 (Scottish)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5T9UauQppvB7Tbvr432Yjo
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Les Zéoles
     track_name: La p'tite bête (Scottish)
     links:
     - portal: Spotify
@@ -192,6 +223,13 @@ links:
       link: https://open.spotify.com/track/20ZUYSRRBk8d7sAuEZEw8n
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Mr. Folxlide
+    track_name: Mind the Gap - Scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5uRbx0kPaCb3zPRJ2gTotc
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Mr. Foxlide
     track_name: Mind the gap - Scottish
     links:
@@ -232,6 +270,13 @@ links:
       link: https://open.spotify.com/track/2PP1gleh8VpIzAH4SQS1o6
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Phonix
+    track_name: Nordlys Schottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/39VqgIc0FUyyGudZkXOOr2
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Snaarmaarwaar
     track_name: Horlepijp / Castro
     links:

@@ -9,6 +9,7 @@ links:
   - link: https://www.youtube.com/watch?v=ukUIXWc3kv8
   playlists:
   - link: https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - link: https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
   tracks:
   - artist: Ad Vielle Que Pourra
     track_name: L'Agacante/Valse Du Milieu/Valse Du Faucigny
@@ -360,6 +361,13 @@ links:
       link: https://open.spotify.com/track/3lMYuiurRyIGwfZ2ArvRhX
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Floating Sofa Quartet
+    track_name: Näckens vals
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/005ipeb8PXPhcdnimaY1oY
+    from_playlist:
+    - https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
   - artist: Fred Guichen, Par Péron
     track_name: Valse à Johan
     links:
@@ -381,6 +389,13 @@ links:
       link: https://open.spotify.com/track/1AHWGB6v0THLN5WFnNdQNI
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Gipsy Kings
+    track_name: Valse gitane
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1mGxwdtl1482JPROlHbXF6
+    from_playlist:
+    - https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
   - artist: Groove Factory
     track_name: L'Imprévue
     links:
@@ -416,6 +431,20 @@ links:
       link: https://open.spotify.com/track/3dPGLC1ljcFsIqX7NdsoyS
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Jim Croce
+    track_name: Time in a Bottle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/561F1zqRwGPCTMRsLsXVtL
+    from_playlist:
+    - https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
+  - artist: Johnny Flynn, Laura Marling
+    track_name: The Water
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4sfxlJnfTMhlLjhbuRJtqm
+    from_playlist:
+    - https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
   - artist: Jon Maia, Korrontzi
     track_name: Iraun (ft. Jon Maia)
     links:
@@ -465,6 +494,13 @@ links:
       link: https://open.spotify.com/track/5XmZ7sysmLmhHJ7BCk1qdF
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Le Bal Brotto Lopez
+    track_name: Fèsta d'uèi - Valse
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2nuwA5mOlzjN1bLmU5HjFn
+    from_playlist:
+    - https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
   - artist: Le Bal en Chantier
     track_name: Trois pour deux
     links:
@@ -479,6 +515,13 @@ links:
       link: https://open.spotify.com/track/5slK0IvFXi05ry36fHAXkE
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Les Zéoles
+    track_name: La reine ailée (Valse Lente)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/29Dh2IwReW4lwTDiVmPaV7
+    from_playlist:
+    - https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
   - artist: Lhi Balòs
     track_name: Nina parte II
     links:
@@ -514,6 +557,27 @@ links:
       link: https://open.spotify.com/track/7nVWrPmFmUwghZAnMmNQJl
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Naragonia
+    track_name: -17o C
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6WjymPlQxxQ5crcZeI1olR
+    from_playlist:
+    - https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
+  - artist: Naragonia Quartet
+    track_name: Batiska
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4k1w0hYtRSyRqGfw7lEGRi
+    from_playlist:
+    - https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
+  - artist: Naragonia Quartet
+    track_name: Wals Voor Lynn
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/69jR9cmspH1G90GGvIlxT6
+    from_playlist:
+    - https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
   - artist: Nisia, Virginia Maiorana
     track_name: Valse des voiles
     links:
@@ -577,6 +641,34 @@ links:
       link: https://open.spotify.com/track/1oF1YxpkCoj1NQznAmHzSY
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Plantec
+    track_name: Mojo (valse)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/32dHITWzWnOLkojDeyOWYl
+    from_playlist:
+    - https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
+  - artist: Radůza
+    track_name: Ať Není Mi Líto
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5YBeZCJSZTOedLPsZSoTFr
+    from_playlist:
+    - https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
+  - artist: Radůza
+    track_name: Jednou To Pomine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6KiANdFO1Zejssdk0VaEeT
+    from_playlist:
+    - https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
+  - artist: Rodrigo Leão
+    track_name: Tardes de Bolonha
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5jpOqWXPK3EpNFRjsADfow
+    from_playlist:
+    - https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
   - artist: Roxane Genot
     track_name: Rusty Red October Waltz
     links:

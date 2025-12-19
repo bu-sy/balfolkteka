@@ -1,0 +1,35 @@
+id: dans_keff
+name: Dañs Keff
+connected_dances:
+- bal_keff
+tags:
+- _breton_dance
+links:
+  instructions:
+  - link: https://www.youtube.com/watch?v=0H5PQkqkElc
+  examples:
+  - link: https://www.youtube.com/watch?v=2fYyRstD07k
+  playlists:
+  - link: https://open.spotify.com/playlist/2dpaO8c3uUnuwL066wXawn
+  tracks:
+  - artist: Bagad de Vannes
+    track_name: Keff
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/03kYvAqDRlmq1gbDHZr2n8
+    from_playlist:
+    - https://open.spotify.com/playlist/2dpaO8c3uUnuwL066wXawn
+  - artist: Christian Anneix, Jean Baron
+    track_name: Danse Keff - Bal keff
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7lvGZa8QGZAChZuehi9yIK
+    from_playlist:
+    - https://open.spotify.com/playlist/2dpaO8c3uUnuwL066wXawn
+  - artist: Diou Flo
+    track_name: Dans Kef
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6JYHUe0OQEZJeMp0NfmsXy
+    from_playlist:
+    - https://open.spotify.com/playlist/2dpaO8c3uUnuwL066wXawn

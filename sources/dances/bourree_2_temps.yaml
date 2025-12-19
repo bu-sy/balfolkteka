@@ -12,11 +12,9 @@ connected_dances:
 links:
   instructions:
   - link: https://www.youtube.com/watch?v=dDAQ6OFr6Oc
-#  examples:
-#    - link: https://www.youtube.com/watch?v=8S_jL0XEMvE
-#      type: example_video
   playlists:
   - link: https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - link: https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
   tracks:
   - artist: "'Ndiaz"
     track_name: Horde
@@ -279,6 +277,13 @@ links:
       link: https://open.spotify.com/track/5Zr63xptOD9OARqJtMcKHp
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: LyraDanz
+    track_name: Croissant bourrée
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1DTToRgP6avVrnke3QiG4t
+    from_playlist:
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
   - artist: Man Encantada
     track_name: Co qu'a don heit de jo
     links:
@@ -342,6 +347,8 @@ links:
       link: https://open.spotify.com/track/1Ogqro3a1LAO0TKlztdT5g
     - portal: YouTube
       link: https://www.youtube.com/watch?v=NVC_JPBBCbk
+    from_playlist:
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
   - artist: Passant Par Paris
     track_name: Passant par Paris (bourrée 2 temps)
     links:
@@ -363,6 +370,13 @@ links:
       link: https://open.spotify.com/track/00c6UtrMLqxoM6KosGCbXF
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Rémi Geffroy
+    track_name: Dansarem (bourrées 2 temps)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1WdlRztXWy8MISbnI6xC89
+    from_playlist:
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
   - artist: Rémi Geffroy
     track_name: Jardins Suspendus
     links:
@@ -391,6 +405,13 @@ links:
       link: https://open.spotify.com/track/3CZTp920s7o5c048unL0gB
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Tref
+    track_name: Allez, bourrés!
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4d1CTmVWRbg2RGXhcnCqQ5
+    from_playlist:
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
   - artist: Trio Loubelya
     track_name: Helenash
     links:

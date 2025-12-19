@@ -25,7 +25,7 @@
 
 <br>
 
-## Utwory (88)
+## Utwory (89)
 
 <details>
 <summary><big>Ad Vielle Que Pourra - <b>Chupad Melen/Hanterdro Tid' Poc'h</b></big></summary>
@@ -161,6 +161,12 @@
 <summary><big>Cassard - <b>La bataille de Syracuse</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0CSiGL1rRdtibKoQskL3OM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Celina Da Piedade - <b>Calimero e a Pêra Verde</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1E5WcTKHElU9GpDcrBm48M?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>

@@ -13,6 +13,7 @@ links:
   playlists:
   - link: https://open.spotify.com/playlist/5IbcMd4YyTBwJuIggoi0dD
   - link: https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
+  - link: https://open.spotify.com/playlist/0MCGnArGMUQeEiaDFBG95y
   tracks:
   - artist: Alain Pennec
     track_name: The Withe Petitcoat - La jig de la guilde - Lost By Laggan Moor
@@ -27,6 +28,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/43y78oQHpn5Sizb0EKz0jR
     from_playlist:
+    - https://open.spotify.com/playlist/0MCGnArGMUQeEiaDFBG95y
     - https://open.spotify.com/playlist/5IbcMd4YyTBwJuIggoi0dD
   - artist: Bargainatt
     track_name: Napiello
@@ -42,6 +44,13 @@ links:
       link: https://open.spotify.com/track/28b9XaHku9aXZsSQIbPZ2N
     from_playlist:
     - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
+  - artist: Castanha é Vinovèl
+    track_name: Femna pichona - Chapeloise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5NVSIki5NSmG5WNJd0ygqR
+    from_playlist:
+    - https://open.spotify.com/playlist/0MCGnArGMUQeEiaDFBG95y
   - artist: Duo Sionneau/Gielen
     track_name: Chaprimont
     links:
@@ -146,6 +155,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/7c5xczedEM0nzVdLnEQGqM
     from_playlist:
+    - https://open.spotify.com/playlist/0MCGnArGMUQeEiaDFBG95y
     - https://open.spotify.com/playlist/5IbcMd4YyTBwJuIggoi0dD
   - artist: Les Zéoles
     track_name: Speculoos - My Friend (Chapelloise - Scottish)
@@ -153,7 +163,22 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/0RNbvKUstSW9bPuu0AGPsB
     from_playlist:
+    - https://open.spotify.com/playlist/0MCGnArGMUQeEiaDFBG95y
     - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
+  - artist: Les genoux
+    track_name: La carpe velloise / Chapelloise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3V4fI8zdTqoONUTIMHUKLo
+    from_playlist:
+    - https://open.spotify.com/playlist/0MCGnArGMUQeEiaDFBG95y
+  - artist: Mr. Folxlide
+    track_name: Sittin' on the Top of the World - Chapelloise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1KhIf1WkPZnkYFItHlruNI
+    from_playlist:
+    - https://open.spotify.com/playlist/0MCGnArGMUQeEiaDFBG95y
   - artist: Mr. Foxlide
     track_name: Sittin' On The Top Of The World
     links:

@@ -1,6 +1,8 @@
-# Lista wszystkich tańców (22)
+# Lista wszystkich tańców (26)
 
 [An Dro](../dances/an_dro.md)
+
+[Bal Keff](../dances/bal_keff.md)
 
 [Bourrée 2 temps](../dances/bourree_2_temps.md)
 
@@ -9,6 +11,10 @@
 [Cercle Circassien](../dances/cercle_circassien.md)
 
 [Chapelloise](../dances/chapelloise.md)
+
+[Danse de l'Ours](../dances/danse_de_l_ours.md)
+
+[Dañs Keff](../dances/dans_keff.md)
 
 [Drumul Dracului](../dances/drumul_dracului.md)
 
@@ -19,6 +25,8 @@
 [Irregular mazurka](../dances/mazurka_irregular.md)
 
 [Mazurka](../dances/mazurka.md)
+
+[Pas de Sept](../dances/pas_de_sept.md)
 
 [Polka](../dances/polka.md)
 

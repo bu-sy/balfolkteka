@@ -16,13 +16,18 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5gGW87URyaZ20eYBSxzGwe
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=eRox8HfyEgo
     from_playlist:
     - https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
+    no_youtube_link: true
   - artist: Airboxes
     track_name: Reflection on the Past
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0GfLUTeD8aobiZ1nUKizo0
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=qtL0PJ-nqGc
     from_playlist:
     - https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
     - https://open.spotify.com/playlist/3tHeYUx1eIrQraUTOEeGec
@@ -32,6 +37,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3sTY7dlDuieXjPh8WauIHT
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=J_0hli2OrgA
     from_playlist:
     - https://open.spotify.com/playlist/3tHeYUx1eIrQraUTOEeGec
   - artist: Catherine Grimault, Eric Thézé, Jean-Jacques Limeul
@@ -39,6 +46,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6Z1uv2pEp53hvFP1yeOHxR
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ewIgUduQNjs
     from_playlist:
     - https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
   - artist: Hartwin
@@ -46,6 +55,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6XhDwaVl2GeKnzSHHC32ut
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=WsmY61YCdTo
     from_playlist:
     - https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
   - artist: Lirio
@@ -53,6 +64,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1ZtxpARsXJFi3h7Lwnj9F6
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=RqsvVKpg9Bc
     from_playlist:
     - https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
   - artist: Monsieur Fruits
@@ -60,6 +73,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7xhSLAunXTjPTHSgyxRil7
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=9sQm_Vt-1sU
     from_playlist:
     - https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
   - artist: Monsieur Fruits
@@ -67,6 +82,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5AY8v52baqtk2Z0So99T0Y
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=puQ1iQrWhe0
     from_playlist:
     - https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
   - artist: Naragonia
@@ -74,6 +91,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3mBfrxwQYKwBGHJJf14P3x
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=E1r4V61oeic
     from_playlist:
     - https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
   - artist: Psapp
@@ -81,6 +100,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5n5SpWZYSN5g1iJIKKmlHf
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=-hy9JRa25Dg
     from_playlist:
     - https://open.spotify.com/playlist/3tHeYUx1eIrQraUTOEeGec
   - artist: Rémi Geffroy
@@ -88,6 +109,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/204LEIayoAW6HX3saYNeFh
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=tUgBoMMIFv8
     from_playlist:
     - https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
   - artist: Trio Dhoore
@@ -95,6 +118,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0UjJhwY7GNnH6ag8o3fip0
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=fbip_nFKhP8
     from_playlist:
     - https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
   - artist: Trio Loubelya
@@ -102,6 +127,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3IrmycqpxeH1zoFykLtrGS
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=BU1aUVwWYio
     from_playlist:
     - https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
   - artist: Wouter en De Draak
@@ -109,6 +136,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6zkbbKfkgtYcL8zTx35kyh
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Lhvd3vC_M-g
     from_playlist:
     - https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
   - artist: Zero 7
@@ -116,5 +145,7 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1FuJxcc6eB2Kot2m7LtITF
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=4rvq3LfIm-8
     from_playlist:
     - https://open.spotify.com/playlist/3tHeYUx1eIrQraUTOEeGec

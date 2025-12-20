@@ -17,7 +17,7 @@
 
 <br>
 
-## Utwory (8)
+## Utwory (7)
 
 <details>
 <summary><big>Bernard Loffet - <b>Rond de Landéda</b></big></summary>
@@ -47,14 +47,6 @@
 <summary><big>La cuivraille - <b>Rond De Landéda</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/229Us9TuzrSL48nqmv2MOE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</details>
-
-<details>
-<summary><big>Nostrad - <b>Rond de Landéda (Live)</b></big></summary>
-
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5sMNYHsc0rlyQ0DiKHTZdr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/zXgYHQa-Eac?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <details>

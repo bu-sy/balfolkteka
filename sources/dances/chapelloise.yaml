@@ -61,6 +61,13 @@ links:
       link: https://www.youtube.com/watch?v=bFuiuNQICkA
     from_playlist:
     - https://open.spotify.com/playlist/0MCGnArGMUQeEiaDFBG95y
+  - artist: Duivelspack
+    track_name: Chapelloise (feat. Das Niveau & Anette Gebauer)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6PtrPIFE5l9vOIIA7wdSVx
+    from_playlist:
+    - https://open.spotify.com/playlist/0MCGnArGMUQeEiaDFBG95y
   - artist: Duo Sionneau/Gielen
     track_name: Chaprimont
     links:
@@ -204,6 +211,13 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1KhIf1WkPZnkYFItHlruNI
+  - artist: Musica calamus
+    track_name: Chapelloise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0oWqZNVMQfgh67LorSKd3O
+    from_playlist:
+    - https://open.spotify.com/playlist/0MCGnArGMUQeEiaDFBG95y
   - artist: NIJ
     track_name: Pasiphaé - Chapelloise
     links:
@@ -240,6 +254,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/2uWP2UqDEU1Dal7BkX8PjR
     from_playlist:
+    - https://open.spotify.com/playlist/0MCGnArGMUQeEiaDFBG95y
     - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
   - artist: Snaarmaarwaar
     track_name: Kadril Van Mechelen

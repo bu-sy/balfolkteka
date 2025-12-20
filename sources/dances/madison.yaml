@@ -1,0 +1,17 @@
+id: madison
+name: Madison
+links:
+  examples:
+  - link: https://www.youtube.com/watch?v=l5zsims0z2E
+  playlists:
+  - link: https://open.spotify.com/playlist/0kKA9T0iakbZIq1ADHc9jE
+  tracks:
+  - artist: Electrad
+    track_name: Laridé Monesque (Laridé à 8 temps/Madison)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6xeJARMamcFJgf3QNHApMY
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=sTonRVC8xWA
+    from_playlist:
+    - https://open.spotify.com/playlist/0kKA9T0iakbZIq1ADHc9jE

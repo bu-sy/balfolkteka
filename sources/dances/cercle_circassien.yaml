@@ -7,6 +7,7 @@ links:
   playlists:
   - link: https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
   - link: https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - link: https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
   tracks:
   - artist: "'Ndiaz"
     track_name: Moud - Live
@@ -58,6 +59,13 @@ links:
       link: https://open.spotify.com/track/2LHoX8WDMpi5B7tmQZXvtB
     from_playlist:
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Androneda
+    track_name: Midzomercirkel - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2qqAY08YllakNkV4URduke
+    from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
   - artist: Aurélien Claranbaux
     track_name: Arrow in the Milkyway - La poule et la bombe
     links:
@@ -95,15 +103,45 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/2Avgrz3p1kn7ptaVHnkSau
     from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Blue Reed
+    track_name: Cerclelloise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4ZIq4hmY8b3y6Igtw8zswS
+    from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
+  - artist: Boubacar Souleymane, Le Bour Bodros
+    track_name: Surmañ - Cercle circassien
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0fgQLMHo9t8ouMGYfZxLz4
+    from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
+  - artist: Brotto Lopez Sextet
+    track_name: Cercle de Thoux
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3hywqFtg499Hss3FBUpDkO
+    from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
   - artist: Brotto-Lopez
     track_name: Se vòls venir ambe ieu - Cercle circassien
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3qG0WSZ2cp8B8dSAcUYJfJ
     from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Carré Manchot
+    track_name: Cercle circassien
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1inw7X9svbXH5GEbaG85DD
+    from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
   - artist: Dahù
     track_name: '3106'
     links:
@@ -380,6 +418,13 @@ links:
       link: https://open.spotify.com/track/2gXaADPS3lkOyiAwHK76fh
     from_playlist:
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Sterne
+    track_name: Cercle circassien
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5uESgcCjS7J8pe1TOw9NW1
+    from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
   - artist: Tribal Jâze
     track_name: Circus
     links:
@@ -394,6 +439,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/4CRFQsb88x9kar8BulOdky
     from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
   - artist: Trio Loubelya
@@ -404,6 +450,13 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Vach'inton.g
+    track_name: Morricone jig, Cercle circassien
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/43qvwK0LZVefTeHhjWM18t
+    from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
   - artist: Wouter en De Draak
     track_name: New Horizons, New Adventures
     links:

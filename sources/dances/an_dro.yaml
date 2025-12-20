@@ -10,6 +10,7 @@ links:
   playlists:
   - link: https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
   - link: https://open.spotify.com/playlist/2zoeLgbEClTkOeNnyqzVoV
+  - link: https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   tracks:
   - artist: Abnoba
     track_name: Andro
@@ -34,6 +35,13 @@ links:
       link: https://open.spotify.com/track/1rLr0W5TyLdPd2cfbGt85c
     from_playlist:
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Ar Re Yaouank
+    track_name: M-a-l (an-dro)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4ljP1S4PWkBoJEjtyIStHT
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Archam
     track_name: Menez Andro
     links:
@@ -62,6 +70,13 @@ links:
       link: https://open.spotify.com/track/3A98kQX6dFvVUlgwCkKeTL
     from_playlist:
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Didier Squiban, Yann-Fañch Kemener
+    track_name: An dro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0OijnJV69bVXsTzUMu4oe2
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Duo Sionneau/Gielen
     track_name: Blaretudan
     links:
@@ -83,6 +98,13 @@ links:
       link: https://open.spotify.com/track/7y5LoxJkNWxZUmpmEcWT2b
     from_playlist:
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Follia
+    track_name: Andro decancq
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1fs6FLCdqRRfWaLhqaaVjT
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Groove Factory
     track_name: First Glitch
     links:
@@ -188,3 +210,4 @@ links:
       link: https://open.spotify.com/track/5OaUzEHzB5KQBFAgL3QQwC
     from_playlist:
     - https://open.spotify.com/playlist/2zoeLgbEClTkOeNnyqzVoV
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO

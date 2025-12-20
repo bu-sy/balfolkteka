@@ -16,7 +16,7 @@
 
 <br>
 
-## Utwory (58)
+## Utwory (65)
 
 <details>
 <summary><big>'Ndiaz - <b>Moud - Live</b></big></summary>
@@ -61,6 +61,12 @@
 </details>
 
 <details>
+<summary><big>Androneda - <b>Midzomercirkel - Live</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2qqAY08YllakNkV4URduke?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
 <summary><big>Aurélien Claranbaux - <b>Arrow in the Milkyway - La poule et la bombe</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5KFLgYhlYmNvwezsoGnKsu?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -91,9 +97,33 @@
 </details>
 
 <details>
+<summary><big>Blue Reed - <b>Cerclelloise</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4ZIq4hmY8b3y6Igtw8zswS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Boubacar Souleymane, Le Bour Bodros - <b>Surmañ - Cercle circassien</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0fgQLMHo9t8ouMGYfZxLz4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Brotto Lopez Sextet - <b>Cercle de Thoux</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3hywqFtg499Hss3FBUpDkO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
 <summary><big>Brotto-Lopez - <b>Se vòls venir ambe ieu - Cercle circassien</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3qG0WSZ2cp8B8dSAcUYJfJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Carré Manchot - <b>Cercle circassien</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1inw7X9svbXH5GEbaG85DD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>
@@ -325,6 +355,12 @@
 </details>
 
 <details>
+<summary><big>Sterne - <b>Cercle circassien</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5uESgcCjS7J8pe1TOw9NW1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
 <summary><big>Tribal Jâze - <b>Circus</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0v3QRap3lLNbPAisF0DM6n?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -340,6 +376,12 @@
 <summary><big>Trio Loubelya - <b>Viccirclette / Love-Love pigeons ( cercle circassien )</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6Kb0vmh5vSUvkyJClDz9jl?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Vach'inton.g - <b>Morricone jig, Cercle circassien</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/43qvwK0LZVefTeHhjWM18t?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>

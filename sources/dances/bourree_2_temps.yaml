@@ -26,6 +26,24 @@ links:
       link: https://www.youtube.com/watch?v=6ZY43kus7x0
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Accordzêam
+    track_name: Allez, bourrés
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/18gBRtQGSWKbT5P3SEwi44
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=AE2tuIaFmTA
+    from_playlist:
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
+  - artist: Accordzêam
+    track_name: Bourraph
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3jjqNGgQW5V11g7saFCx8W
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=1-FmhGgdZV0
+    from_playlist:
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
   - artist: Airboxes
     track_name: Bourrée S'y D'dans - Troyes
     links:
@@ -151,6 +169,15 @@ links:
       link: https://www.youtube.com/watch?v=X2Rx32WezQw
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Die Irrlichter
+    track_name: Bourré Abière
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1AlM2gxOCTA1aMQ086jZFe
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Mo2ltoKu7-c
+    from_playlist:
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
   - artist: Dos
     track_name: La Calle del Sauce (Bourrée a 2 Tiempos)
     links:
@@ -315,6 +342,15 @@ links:
       link: https://www.youtube.com/watch?v=ORFqDaWEG2E
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Le Bal Brotto Lopez
+    track_name: Le dansarem pas pus - Bourrée de 2 temps
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1VOZM6RsEJLNpoKkVTwhwm
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=GUE0Oh1ch1I
+    from_playlist:
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
   - artist: Le Bal en Chantier
     track_name: La bonne éducation
     links:
@@ -563,6 +599,15 @@ links:
       link: https://www.youtube.com/watch?v=kGNSXS_cIic
     from_playlist:
     - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
+  - artist: Trilla
+    track_name: Bourrée
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0UY5Yy6xW5sKIZZj9KxChC
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=wZAP9f7B20s
+    from_playlist:
     - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
   - artist: Trio Loubelya
     track_name: Helenash

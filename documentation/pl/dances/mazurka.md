@@ -14,7 +14,7 @@
 
 <br>
 
-## Utwory (108)
+## Utwory (112)
 
 <details>
 <summary><big>Ablaye Cissoko, Cyrille Brotto - <b>Rencontre</b></big></summary>
@@ -125,6 +125,12 @@
 </details>
 
 <details>
+<summary><big>Bruno Le Tron, François Heim - <b>Tessazurka</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0ZbxmTZBm1a74CAnBqwMcN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
 <summary><big>Carlos Beceiro, Martina Quiere Bailar - <b>Valsurka</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0FxgYLz40ODVimzocCrs3e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -180,6 +186,12 @@
 <summary><big>Duo Blain-Leyzour - <b>Sur la grand'route (Mazurka)</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0sF9Vj1WlTCNowdkQY357z?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Duo Bottasso, Simone Sims Longo - <b>Samarazurka</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7M2BST3bHprXMTNEwSypt8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>
@@ -380,6 +392,12 @@
 <summary><big>Les Zéoles - <b>Poppy (Mazurka)</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3sfJwaxJH3NgRcMIUBKGys?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Lirio - <b>Afke's mazurka</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1pUlnhPZPP1rgAwPHB47ok?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>
@@ -654,6 +672,12 @@
 <summary><big>Walt Adams - <b>Things to Sort Out</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6n8o26g7k60c7qgoTJpFi2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Wim te Groen - <b>Wat Een Leuk Walsje (Mazurka)</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3iv5r39QeiOMepyHNeEK5D?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>

@@ -11,6 +11,7 @@ links:
   playlists:
   - link: https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
   - link: https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  - link: https://open.spotify.com/playlist/3Jrp8mpVQZusdrG98oSCSO
   tracks:
   - artist: "'Ndiaz"
     track_name: Hanv Yen
@@ -61,6 +62,7 @@ links:
       link: https://open.spotify.com/track/27P6YTMUCOHhNjczGXHIup
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+    - https://open.spotify.com/playlist/3Jrp8mpVQZusdrG98oSCSO
   - artist: Duo Absynthe
     track_name: Azilia
     links:
@@ -217,6 +219,7 @@ links:
       link: https://open.spotify.com/track/4Ts0DwN8uE4mQvS96qoR8A
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+    - https://open.spotify.com/playlist/3Jrp8mpVQZusdrG98oSCSO
   - artist: Wipidoup
     track_name: Mademoiselle Ficelle - Rond De Saint-Vincent
     links:

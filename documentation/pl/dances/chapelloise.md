@@ -27,7 +27,7 @@
 
 <br>
 
-## Utwory (33)
+## Utwory (35)
 
 <details>
 <summary><big>Alain Pennec - <b>The Withe Petitcoat - La jig de la guilde - Lost By Laggan Moor</b></big></summary>
@@ -67,6 +67,12 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5NVSIki5NSmG5WNJd0ygqR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/bFuiuNQICkA?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Duivelspack - <b>Chapelloise (feat. Das Niveau & Anette Gebauer)</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6PtrPIFE5l9vOIIA7wdSVx?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>
@@ -191,6 +197,12 @@
 <summary><big>Mr. Foxlide - <b>Sittin' On The Top Of The World</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1KhIf1WkPZnkYFItHlruNI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Musica calamus - <b>Chapelloise</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0oWqZNVMQfgh67LorSKd3O?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>

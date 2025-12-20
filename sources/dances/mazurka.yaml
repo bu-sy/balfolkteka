@@ -24,6 +24,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/01KKzUvn5d4MHoMcIqnJEy
     from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
   - artist: Airboxes
     track_name: Bosvelden
@@ -138,6 +139,13 @@ links:
       link: https://open.spotify.com/track/6fjUfxKRjObiikd8HrQsgo
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+  - artist: Bruno Le Tron, François Heim
+    track_name: Tessazurka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0ZbxmTZBm1a74CAnBqwMcN
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Carlos Beceiro, Martina Quiere Bailar
     track_name: Valsurka
     links:
@@ -151,6 +159,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/39ykufmrCucrOWDcIalGxJ
     from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
   - artist: Ciac Boum
     track_name: Mazurka des aimants
@@ -205,6 +214,13 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0sF9Vj1WlTCNowdkQY357z
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+  - artist: Duo Bottasso, Simone Sims Longo
+    track_name: Samarazurka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7M2BST3bHprXMTNEwSypt8
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Duo Gestrikt
@@ -442,6 +458,13 @@ links:
       link: https://open.spotify.com/track/3sfJwaxJH3NgRcMIUBKGys
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+  - artist: Lirio
+    track_name: Afke's mazurka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1pUlnhPZPP1rgAwPHB47ok
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Lo Cor de la Plana
     track_name: Masurka Mafiosa Marselhesa
     links:
@@ -766,12 +789,20 @@ links:
       link: https://open.spotify.com/track/6n8o26g7k60c7qgoTJpFi2
     from_playlist:
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
+  - artist: Wim te Groen
+    track_name: Wat Een Leuk Walsje (Mazurka)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3iv5r39QeiOMepyHNeEK5D
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Wouter en De Draak
     track_name: Mazurmeau
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5jCx77SPBbksaxumxwBcGZ
     from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
   - artist: Wouter en De Draak
     track_name: Monsieur 7

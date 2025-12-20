@@ -26,6 +26,13 @@ links:
       link: https://open.spotify.com/track/0c6XAxqNxfc8zpVG7yforU
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
+  - artist: Ad Vielle Que Pourra
+    track_name: Schottische Du Stockfish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6MmqCO8RLNRj4mBHkUGbM1
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Airboxes
     track_name: Bultkets
     links:
@@ -54,6 +61,7 @@ links:
       link: https://open.spotify.com/track/58gbbGBFh2g66fe4gIYJMC
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Bargainatt
     track_name: Scottish du Moulin
     links:
@@ -68,6 +76,13 @@ links:
       link: https://open.spotify.com/track/7ujz94spkQONi2JzFD3M4K
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Brotto Lopez Sextet
+    track_name: Avenueschottis
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4NxM96aa9SwJWb8j1Qp4er
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Brotto-Lopez
     track_name: Diga Figa - Escotticha
     links:
@@ -75,6 +90,21 @@ links:
       link: https://open.spotify.com/track/6N0EEJKvs8WJFVw62RPAI1
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Coriandre
+    track_name: Scottish a Gozar
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4N2ih4ISJ0cjdeYnKwg4Ku
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Cyrille Brotto, Groove Factory, Stéphane Milleret
+    track_name: Hypernaire
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/701o0ON1JwLkdE33ERpVqY
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Cédric Aguila, Le Bal Brotto Lopez
     track_name: Adiu miladiu ! - Scottish
     links:
@@ -82,6 +112,13 @@ links:
       link: https://open.spotify.com/track/6rpZyyQh14xHzcgBlild3l
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Diwall
+    track_name: Scotch brein
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2FR6ETv6XpOwooKgdQ93Z8
+    from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Duo Absynthe
     track_name: British Swing
@@ -91,12 +128,20 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Duo Absynthe
+    track_name: Scottish du quintet - Remastered
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0TCND7DuS8m1f0N9A92f7T
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Duo Absynthe
     track_name: Scottish urbaine - Remastered
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2Aqm9Ah0suxBu7tSDppIjr
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Duo Brotto Milleret
     track_name: Scottish pour Anatole / Inhibitude
     links:
@@ -118,6 +163,14 @@ links:
       link: https://open.spotify.com/track/0cx165K2jvKjzCiIddqG6v
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Fior
+    track_name: Schottisch nach H.N. Philipp
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7bPS8e9ghtfglfaXVxGeoL
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Floating Sofa Quartet
     track_name: Midsommerschottish
     links:
@@ -204,6 +257,27 @@ links:
       link: https://open.spotify.com/track/07b1GRzf3B74VFCQKvfM2k
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
+  - artist: Kadril
+    track_name: Scottish on the Rocks
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0Y3VKpRfDwUpyG424i5QKR
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Koun
+    track_name: Scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2GzwOwo8H5Tm51rzUus5cE
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Kv Express
+    track_name: Scottish des Boiteux
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4HJMz6BCdPZJBu4uiKoanO
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: La Bottines Artistiques
     track_name: Demons
     links:
@@ -225,6 +299,13 @@ links:
       link: https://open.spotify.com/track/5prACOhX4iH1n9lxmYTdOz
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Le Sextet à Claques
+    track_name: Scottish du point du jour, Ramon y Cornichon, Dark Lemon - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/09C3NIr6HZ1Vu0h8xUKx6K
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Les Zéoles
     track_name: 93 (Scottish)
     links:
@@ -239,6 +320,28 @@ links:
       link: https://open.spotify.com/track/6DZf8psO3ua4ylT5c6HByZ
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Lirio
+    track_name: Scottish à Bruno & Scottish Vreeswijk
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1TrJzjSUgIQXNaGB72hJQ7
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Lirio
+    track_name: Skascottisch
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4NEM8Gkex8BTg7UeJQSkhA
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Lirio
+    track_name: Skascottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6pHTgI2S8xAJ7FLJBgINf4
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Loogaroo
     track_name: La Chiave
     links:
@@ -329,6 +432,20 @@ links:
       link: https://open.spotify.com/track/39VqgIc0FUyyGudZkXOOr2
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Plantec
+    track_name: Skediñ (Scottish)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3m9V71oGeounfDJncLh5zp
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Rémi Geffroy
+    track_name: Cranberrie (scottish)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7gkCOxra3lvoU2gsfYhUKD
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Rémi Geffroy
     track_name: Les larmes de sable
     links:
@@ -388,6 +505,13 @@ links:
       link: https://open.spotify.com/track/7jr27L7AZTmmryfTFtLCDi
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Vandiekomsa
+    track_name: Schots In Cm
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7g7IOtYmZsMd901TlSG442
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Vädur
     track_name: Fusk Olles schottis
     links:
@@ -395,3 +519,24 @@ links:
       link: https://open.spotify.com/track/31P0ovvPrItDf4BXEWZuOM
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
+  - artist: Zef
+    track_name: Scottish a Julo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2EqKt3BBQaw5HnrW5a4Pg6
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: ba.fnu
+    track_name: L'orient express (scottish)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7Jww510x8GODJ2LHrFnE8E
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: ba.fnu
+    track_name: Skočíš
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4s5i5D66XW1fDd50uiON5R
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c

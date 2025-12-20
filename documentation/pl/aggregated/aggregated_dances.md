@@ -1,4 +1,4 @@
-# Lista wszystkich tańców (28)
+# Lista wszystkich tańców (29)
 
 [An Dro](../dances/an_dro.md)
 
@@ -25,6 +25,8 @@
 [Hanter Dro](../dances/hanter_dro.md)
 
 [Irregular mazurka](../dances/mazurka_irregular.md)
+
+[Madison](../dances/madison.md)
 
 [Mazurka](../dances/mazurka.md)
 

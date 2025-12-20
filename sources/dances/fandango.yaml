@@ -7,6 +7,13 @@ links:
   playlists:
   - link: https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
   tracks:
+  - artist: Accordzêam
+    track_name: Fandango go
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2QKiZrlUJQJFKEGV6jzEOC
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=oYQE9KlnIaY
   - artist: Alberto Varillas, Anabel Santiago, Ástura
     track_name: Fandangu d'Uviéu
     links:

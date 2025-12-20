@@ -308,6 +308,13 @@ links:
       link: https://open.spotify.com/track/4eSdsX6rHc7ZhFV93yXCXL
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
+  - artist: Nostrad
+    track_name: La Sansonnette (Scottish) - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0cSf78q3p0qnpVZyUpkgnb
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Novar
     track_name: A Kiss In Berlin / Novar
     links:

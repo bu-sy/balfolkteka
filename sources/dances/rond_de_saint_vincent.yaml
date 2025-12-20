@@ -168,6 +168,13 @@ links:
       link: https://open.spotify.com/track/29vLGLgPzNQmjYFggf5d0Z
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  - artist: Nostrad
+    links:
+    - link: https://www.youtube.com/watch?v=qLupCk9NEIQ
+      portal: YouTube
+    - link: https://open.spotify.com/track/30rV2S3KWOT9g7V8XPcOqO
+      portal: Spotify
+    track_name: Lundi Mardi danse & Sous la feuille du bois (Rond de Saint-Vincent) - Live
   - artist: Plantec
     track_name: Nouson dia (Rond de st Vincent)
     links:

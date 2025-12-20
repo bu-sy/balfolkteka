@@ -433,6 +433,13 @@ links:
       link: https://www.youtube.com/watch?v=wL9WGOxeYWo
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Nostrad
+    links:
+    - link: https://www.youtube.com/watch?v=4QlMooprx4w
+      portal: YouTube
+    - link: https://open.spotify.com/track/19kXhyhI1BcYjF7zbcNuqI
+      portal: Spotify
+    track_name: Derrière chez nous & Bourrée d'Aurore Sand (Bourrée à 2 temps) - Live
   - artist: OMNIA
     track_name: Fee Ra Huri - Live
     links:

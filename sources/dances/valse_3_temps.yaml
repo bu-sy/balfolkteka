@@ -717,6 +717,20 @@ links:
       link: https://open.spotify.com/track/6EgYkej1XIyyUpiVLmBheC
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Nostrad
+    links:
+    - link: https://www.youtube.com/watch?v=4yDUbuaEaXg
+      portal: YouTube
+    - link: https://open.spotify.com/track/1cZvcRjq8TJ4J08wiokYuA
+      portal: Spotify
+    track_name: Both sides the Tweed (Valse écossaise) - Live
+  - artist: Nostrad
+    links:
+    - link: https://www.youtube.com/watch?v=qjWmhZY1WyA
+      portal: YouTube
+    - link: https://open.spotify.com/track/7HgLt1MQP4qCG1cPR9Ruzw
+      portal: Spotify
+    track_name: Valse du Milieu & Valse de Faucigny (Valse à 3 temps) - Live
   - artist: Novar
     track_name: Blue Ciel Belge / Cassie et PJ
     links:
@@ -724,6 +738,13 @@ links:
       link: https://open.spotify.com/track/7kvQyee0J1gUK1rOs32iUt
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: ORAJ
+    links:
+    - link: https://www.youtube.com/watch?v=_iu5I_LyaG0
+      portal: YouTube
+    - link: https://open.spotify.com/track/0uIvQUspwPwwaVKbSM7qOZ
+      portal: Spotify
+    track_name: Unborn
   - artist: Orfeo
     track_name: Night at the Campfire (Waltz)
     links:

@@ -23,7 +23,7 @@
 
 - [Valse 11 temps](valse_11_temps.md)
 
-## Utwory (140)
+## Utwory (143)
 
 <details>
 <summary><big>Ad Vielle Que Pourra - <b>L'Agacante/Valse Du Milieu/Valse Du Faucigny</b></big></summary>
@@ -628,9 +628,33 @@
 </details>
 
 <details>
+<summary><big>Nostrad - <b>Both sides the Tweed (Valse écossaise) - Live</b></big></summary>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/4yDUbuaEaXg?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1cZvcRjq8TJ4J08wiokYuA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Nostrad - <b>Valse du Milieu & Valse de Faucigny (Valse à 3 temps) - Live</b></big></summary>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/qjWmhZY1WyA?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7HgLt1MQP4qCG1cPR9Ruzw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
 <summary><big>Novar - <b>Blue Ciel Belge / Cassie et PJ</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7kvQyee0J1gUK1rOs32iUt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>ORAJ - <b>Unborn</b></big></summary>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/_iu5I_LyaG0?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0uIvQUspwPwwaVKbSM7qOZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>

@@ -25,7 +25,7 @@
 
 <br>
 
-## Utwory (24)
+## Utwory (25)
 
 <details>
 <summary><big>Abnoba - <b>Andro</b></big></summary>
@@ -129,6 +129,14 @@
 <summary><big>Les Frères Paranthoën - <b>Lœiz - En dro</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/44zzQwB3qCoqdlo5YSzvhs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Nostrad - <b>En Dro - Live</b></big></summary>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/EeCi52CgBYA?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6jHaSHeaNRcZFlT3XW4ScK?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>

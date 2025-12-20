@@ -132,6 +132,13 @@ links:
       link: https://open.spotify.com/track/44zzQwB3qCoqdlo5YSzvhs
     from_playlist:
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Nostrad
+    links:
+    - link: https://www.youtube.com/watch?v=EeCi52CgBYA
+      portal: YouTube
+    - link: https://open.spotify.com/track/6jHaSHeaNRcZFlT3XW4ScK
+      portal: Spotify
+    track_name: En Dro - Live
   - artist: Plantec
     track_name: Androïde (Andro)
     links:

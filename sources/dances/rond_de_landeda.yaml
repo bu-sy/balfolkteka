@@ -53,6 +53,13 @@ links:
       link: https://open.spotify.com/track/5sMNYHsc0rlyQ0DiKHTZdr
     - portal: YouTube
       link: https://www.youtube.com/watch?v=zXgYHQa-Eac
+  - artist: Nostrad
+    links:
+    - link: https://www.youtube.com/watch?v=zXgYHQa-Eac
+      portal: YouTube
+    - link: https://open.spotify.com/track/5sMNYHsc0rlyQ0DiKHTZdr
+      portal: Spotify
+    track_name: Rond de Landéda - Live
   - artist: Plantec
     track_name: Skorn - Rond de landéda
     links:

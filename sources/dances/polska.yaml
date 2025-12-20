@@ -1,0 +1,20 @@
+id: polska
+name: Polska
+links:
+  examples:
+  - link: https://www.youtube.com/watch?v=sqCEV5OA3yM
+  tracks:
+  - artist: Les Zéoles
+    from_playlist:
+    - https://open.spotify.com/playlist/5cCY4elHzy96xmNLD9EaaZ
+    links:
+    - link: https://open.spotify.com/track/38Dw0iVdhxLnpt2Ezis6Z1
+      portal: Spotify
+    track_name: Blue Magma (Polska)
+  - artist: Tref
+    links:
+    - link: https://www.youtube.com/watch?v=ZZy4Vp3OpKQ
+      portal: YouTube
+    - link: https://open.spotify.com/track/6kTrlRT7pqIhuZQWQjImEN
+      portal: Spotify
+    track_name: Plasko ö polska

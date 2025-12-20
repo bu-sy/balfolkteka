@@ -146,6 +146,13 @@ links:
       link: https://open.spotify.com/track/1RpmWyW30t0rd6kC1LjGsK
     from_playlist:
     - https://open.spotify.com/playlist/2zoeLgbEClTkOeNnyqzVoV
+  - artist: Sonerien Du
+    track_name: L'artilleur - "50 ans anniversary" [Remastered]
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4UBk3ZypPPz7KrN9T37Ytm
+    from_playlist:
+    - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
   - artist: Sterne
     track_name: Andro
     links:

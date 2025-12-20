@@ -25,7 +25,7 @@
 
 <br>
 
-## Utwory (23)
+## Utwory (24)
 
 <details>
 <summary><big>Abnoba - <b>Andro</b></big></summary>
@@ -141,6 +141,12 @@
 <summary><big>Skolvan - <b>Le retour (An dro) - Live</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1RpmWyW30t0rd6kC1LjGsK?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Sonerien Du - <b>L'artilleur - "50 ans anniversary" [Remastered]</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4UBk3ZypPPz7KrN9T37Ytm?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>

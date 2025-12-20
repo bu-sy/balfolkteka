@@ -1,4 +1,4 @@
-# Lista wszystkich tańców (26)
+# Lista wszystkich tańców (28)
 
 [An Dro](../dances/an_dro.md)
 
@@ -18,6 +18,8 @@
 
 [Drumul Dracului](../dances/drumul_dracului.md)
 
+[Fandango & Arin Arin](../dances/fandango.md)
+
 [Galop Nantais](../dances/galop_nantais.md)
 
 [Hanter Dro](../dances/hanter_dro.md)
@@ -29,6 +31,8 @@
 [Pas de Sept](../dances/pas_de_sept.md)
 
 [Polka](../dances/polka.md)
+
+[Polska](../dances/polska.md)
 
 [Porcher](../dances/porcher.md)
 

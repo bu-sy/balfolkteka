@@ -15,6 +15,7 @@ links:
   playlists:
   - link: https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
   - link: https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
+  - link: https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
   tracks:
   - artist: "'Ndiaz"
     track_name: Horde
@@ -25,6 +26,13 @@ links:
       link: https://www.youtube.com/watch?v=6ZY43kus7x0
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Airboxes
+    track_name: Bourrée S'y D'dans - Troyes
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1FQaTbjqg55akjk7pBaDn5
+    from_playlist:
+    - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
   - artist: Airboxes
     track_name: Confluence - Hurdegaryp
     links:
@@ -88,6 +96,13 @@ links:
       link: https://www.youtube.com/watch?v=_hY0rowgEtY
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Bal O'Gadjo
+    track_name: Bourrée au ouzo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/71DmmjNXZX8YQMs9GBC9vj
+    from_playlist:
+    - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
   - artist: Broes
     track_name: Dr. Tweety
     links:
@@ -203,6 +218,13 @@ links:
       link: https://www.youtube.com/watch?v=k1HqqzLxdL4
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Gonnagles
+    track_name: Bourrée de las Hojas del Otoño
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7MuGkDb9OMzT44V9XvxEhn
+    from_playlist:
+    - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
   - artist: Hepta Polka
     track_name: Bourreé De Grande Liberté
     links:
@@ -259,6 +281,7 @@ links:
       link: https://www.youtube.com/watch?v=VZKqg2J7djM
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+    - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
   - artist: La Mesquia
     track_name: L'ase teston - Bourée 2 temps
     links:
@@ -304,6 +327,13 @@ links:
       link: https://www.youtube.com/watch?v=HfKpfhG5Saw
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Le Mange Bal, Snaamaarwaar
+    track_name: Le pays des gens sans mémoire - Snaamaarwaar Remix
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2XXUvSMeWGloyK6atvdmfo
+    from_playlist:
+    - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
   - artist: Les Zéoles
     track_name: Dance Machine (Bourrée 2tps)
     links:
@@ -339,6 +369,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=RkYAlVRn9i4
     from_playlist:
+    - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
     - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
   - artist: Man Encantada
     track_name: Co qu'a don heit de jo
@@ -402,6 +433,13 @@ links:
       link: https://www.youtube.com/watch?v=wL9WGOxeYWo
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: OMNIA
+    track_name: Fee Ra Huri - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5Ox6cVMhvW5nl3UForWFHa
+    from_playlist:
+    - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
   - artist: ORAJ
     track_name: Père Soleil
     links:
@@ -417,6 +455,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=NVC_JPBBCbk
     from_playlist:
+    - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
     - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
   - artist: Passant Par Paris
     track_name: Passant par Paris (bourrée 2 temps)
@@ -452,6 +491,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=KTXzaHWTWJw
     from_playlist:
+    - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
     - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
   - artist: Rémi Geffroy
     track_name: Jardins Suspendus
@@ -471,6 +511,13 @@ links:
       link: https://www.youtube.com/watch?v=aFYRQ6mKVjo
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Rémi Geffroy
+    track_name: L'estropié
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/38R8CWj5EuRQo5SyXQygnj
+    from_playlist:
+    - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
   - artist: Stevan Vincendeau, Willy Pichard
     track_name: Marignolle - Illham - L'écho (bourrée 2 temps)
     links:
@@ -497,6 +544,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=kGNSXS_cIic
     from_playlist:
+    - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
     - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
   - artist: Trio Loubelya
     track_name: Helenash

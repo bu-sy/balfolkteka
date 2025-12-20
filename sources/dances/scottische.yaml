@@ -10,7 +10,22 @@ links:
   - link: https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
   - link: https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - link: https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - link: https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
   tracks:
+  - artist: Accordzêam
+    track_name: Hotel California
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2nN35LJzAF1dfzqPCu9gS7
+    from_playlist:
+    - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
+  - artist: Accordzêam
+    track_name: Mario
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0c6XAxqNxfc8zpVG7yforU
+    from_playlist:
+    - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
   - artist: Airboxes
     track_name: Bultkets
     links:
@@ -66,6 +81,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/6rpZyyQh14xHzcgBlild3l
     from_playlist:
+    - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Duo Absynthe
     track_name: British Swing
@@ -74,6 +90,13 @@ links:
       link: https://open.spotify.com/track/7GADPvwHhb2sDgLYbhggb7
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Duo Absynthe
+    track_name: Scottish urbaine - Remastered
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2Aqm9Ah0suxBu7tSDppIjr
+    from_playlist:
+    - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
   - artist: Duo Brotto Milleret
     track_name: Scottish pour Anatole / Inhibitude
     links:
@@ -111,6 +134,13 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Floating Sofa Quartet
+    track_name: Vill du flyga?
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/46R3YJjjoHd9ML4TrpCEv3
+    from_playlist:
+    - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
   - artist: Floating Sofa Quartet, Guro Kvifte Nesheim
     track_name: Itämeri-sottiisit
     links:
@@ -174,6 +204,13 @@ links:
       link: https://open.spotify.com/track/07b1GRzf3B74VFCQKvfM2k
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
+  - artist: La Bottines Artistiques
+    track_name: Demons
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3yHvvHNC3cYjkrAQn0qDnF
+    from_playlist:
+    - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
   - artist: La Forcelle
     track_name: Scottish De Åby / Scottish Septentrionale
     links:
@@ -241,6 +278,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/3ZPVhJSZXuYHDgjcnC7OSm
     from_playlist:
+    - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Naragonia
     track_name: Lente in Laren / Jane's Boots
@@ -249,6 +287,13 @@ links:
       link: https://open.spotify.com/track/6VSBAYqARiADT2y9UGcAGM
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Naragonia
+    track_name: Martin-Pêcheur / Pink Molly
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3YBmhIeE8CtPpNZ4gRGw7e
+    from_playlist:
+    - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
   - artist: Naragonia, Naragonia Quartet
     track_name: Hellebore / Too Late to Sleep
     links:
@@ -277,6 +322,13 @@ links:
       link: https://open.spotify.com/track/39VqgIc0FUyyGudZkXOOr2
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Rémi Geffroy
+    track_name: Les larmes de sable
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0Hnm1MjWQP9gEIOt2nLTGr
+    from_playlist:
+    - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
   - artist: Snaarmaarwaar
     track_name: Horlepijp / Castro
     links:
@@ -284,6 +336,13 @@ links:
       link: https://open.spotify.com/track/6C6Kn4cgziJSXBl61KGH9F
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Snaarmaarwaar
+    track_name: Pentland
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/17a8Xqtrs4ySZzRlKKFB7z
+    from_playlist:
+    - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
   - artist: Tref
     track_name: Scottische en neige
     links:
@@ -303,7 +362,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3HnPbuR0HfQUvk1letSHZx
+    - portal: Spotify
+      link: https://open.spotify.com/track/6wWhlgZFXRB42insBl9vWM
     from_playlist:
+    - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Trio Loubelya
     track_name: Euforriz ( scottish )

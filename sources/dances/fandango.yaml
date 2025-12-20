@@ -1,0 +1,165 @@
+id: fandango_arin_arin
+name: Fandango & Arin Arin
+links:
+  examples:
+  - link: https://www.youtube.com/watch?v=gvc9sJWClFg
+  - link: https://www.youtube.com/watch?v=vNesYhKl1B8
+  playlists:
+  - link: https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  tracks:
+  - artist: Alberto Varillas, Anabel Santiago, Ástura
+    track_name: Fandangu d'Uviéu
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2QKiZrlUJQJFKEGV6jzEOC
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Bal O'Gadjo, Julie Mary, Vassilli
+    track_name: Petits secrets des garrigues
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5qqUHQvYlledQKEM2YjE6P
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Carlo Massarelli
+    track_name: Arin Arin
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/56sDI4hOQ8Vmvq5CY57WFp
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Carlo Massarelli
+    track_name: Fandango Soleado
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2VudabHFw8oAbleIRiTuyh
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Casals Sabaté
+    track_name: L’arinyarin
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/42i76m0Y7dWDrIEZU6QYlX
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Duo Absynthe
+    track_name: Albitzur
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7BpZau8DsOjFPx59hhli1B
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Duo Absynthe
+    track_name: Arin-Arin
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6rEsciYj1hjOODKUtuJMks
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Fandango
+    track_name: Fandango
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6w7mlUKzM9A5eUfxFDyye9
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Kepa Junkera, Melonious Quartet
+    track_name: Fandango
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5iRhyITM45Dg7k42Hfq79p
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Korrontzi
+    track_name: Arin latin
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/14Qr9QgcyRVHxqg9lu2T74
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Korrontzi
+    track_name: Arin-Latin
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6CRMZugaWjsXrTpJPzfV1I
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Korrontzi
+    track_name: Fandango
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3XTzR9WbYmgOM2aJjrxrNi
+    - portal: Spotify
+      link: https://open.spotify.com/track/1mRS5lfq9OYc5XkT1QmGwr
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Lo Truc
+    track_name: Libertat
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7eXx2fnriIlvK2SKKSSKqU
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Lou Pitakass
+    track_name: Nivolet
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0sfcfBQyWwINbSKAvjVVGy
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Martina Quiere Bailar
+    track_name: La Guarida Arin-Arin
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7q6WjSwIjEYe2N2YxPFu3f
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Martina Quiere Bailar
+    track_name: La Guarida Fandango
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5AjjHoImMxd8KZOIK32h9p
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Orquestrina Trama
+    track_name: Beharrezkoa
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6YXkJWmBynkBiSKWdrq2Ud
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Patxi eta Batbiru
+    track_name: Albiztur (Fandango)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4uU4ZFGrBcYKCVpnm95H0j
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Patxi eta Batbiru
+    track_name: Antzina (Fandango)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7fiQaPmI1AdJS8hNfwkkes
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Patxi eta konpania
+    track_name: Fandangoa
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/34s9drIYYdeix6wVHuj6Xr
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Rémi Geffroy
+    track_name: Kixmi
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6JGQlYSzoXe2MKyg45Iez4
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Sons d'Embat
+    track_name: Albiztur
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6vyqPyRvQ2U8cMDJJ7rn70
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL

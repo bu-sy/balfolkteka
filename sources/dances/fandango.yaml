@@ -12,6 +12,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2QKiZrlUJQJFKEGV6jzEOC
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=KXDd8AgwiK0
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
   - artist: Bal O'Gadjo, Julie Mary, Vassilli
@@ -19,6 +21,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5qqUHQvYlledQKEM2YjE6P
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=xlMV-HjKdok
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
   - artist: Carlo Massarelli

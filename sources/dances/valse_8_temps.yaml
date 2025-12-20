@@ -27,6 +27,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2RCrlcHlWf45Y25jfVWIaR
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=mr2BhIbBUoY
     from_playlist:
     - https://open.spotify.com/playlist/5ENzeSmn9biGAsXGYGyTN2
   - artist: Airboxes
@@ -57,11 +59,14 @@ links:
       link: https://open.spotify.com/track/6UeFhnq5HpWZurHVO6HfSL
     from_playlist:
     - https://open.spotify.com/playlist/5ENzeSmn9biGAsXGYGyTN2
+    no_youtube_link: true
   - artist: Blue Reed
     track_name: Gennetines
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3ehMzKEN7QJ6KBiMOg6Vox
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_g5ZXkfuN58
     from_playlist:
     - https://open.spotify.com/playlist/5ENzeSmn9biGAsXGYGyTN2
   - artist: Catherine Grimault, Eric Thézé, Jean-Jacques Limeul
@@ -78,6 +83,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3QiAxy9K06yImXnbunnUd6
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=VMfpvSS4QgY
     from_playlist:
     - https://open.spotify.com/playlist/5ENzeSmn9biGAsXGYGyTN2
   - artist: Hartwin
@@ -95,6 +102,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6ZnVuBIymkGGQa4LbI1jcx
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=WjrVUi8uXSc
     from_playlist:
     - https://open.spotify.com/playlist/5ENzeSmn9biGAsXGYGyTN2
   - artist: Lirio

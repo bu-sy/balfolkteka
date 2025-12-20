@@ -30,6 +30,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/56sDI4hOQ8Vmvq5CY57WFp
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=yRJ_7BmEm1A
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
   - artist: Carlo Massarelli
@@ -37,6 +39,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2VudabHFw8oAbleIRiTuyh
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=AHJlk6iUBeU
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
   - artist: Casals Sabaté
@@ -44,6 +48,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/42i76m0Y7dWDrIEZU6QYlX
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=JoB9M_bboJ4
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
   - artist: Duo Absynthe
@@ -51,6 +57,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7BpZau8DsOjFPx59hhli1B
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=PHK0kysNDNE
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
   - artist: Duo Absynthe
@@ -58,6 +66,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6rEsciYj1hjOODKUtuJMks
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Ke5xspgeJcg
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
   - artist: Fandango
@@ -67,11 +77,14 @@ links:
       link: https://open.spotify.com/track/6w7mlUKzM9A5eUfxFDyye9
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+    no_youtube_link: true
   - artist: Kepa Junkera, Melonious Quartet
     track_name: Fandango
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5iRhyITM45Dg7k42Hfq79p
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=rwOnoMH8BQI
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
   - artist: Korrontzi
@@ -79,13 +92,17 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/14Qr9QgcyRVHxqg9lu2T74
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=0OS9KD2ZtS4
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
   - artist: Korrontzi
-    track_name: Arin-Latin
+    track_name: Arin-Latin #TODO this seems to be a duplicate
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6CRMZugaWjsXrTpJPzfV1I
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=0OS9KD2ZtS4
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
   - artist: Korrontzi
@@ -95,6 +112,8 @@ links:
       link: https://open.spotify.com/track/3XTzR9WbYmgOM2aJjrxrNi
     - portal: Spotify
       link: https://open.spotify.com/track/1mRS5lfq9OYc5XkT1QmGwr
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=RttA2SWwlTk
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
   - artist: Lo Truc
@@ -104,11 +123,14 @@ links:
       link: https://open.spotify.com/track/7eXx2fnriIlvK2SKKSSKqU
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+    no_youtube_link: true
   - artist: Lou Pitakass
     track_name: Nivolet
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0sfcfBQyWwINbSKAvjVVGy
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ABuNv8D8ymA
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
   - artist: Martina Quiere Bailar
@@ -116,6 +138,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7q6WjSwIjEYe2N2YxPFu3f
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=tEK5keXYPC0
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
   - artist: Martina Quiere Bailar
@@ -123,6 +147,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5AjjHoImMxd8KZOIK32h9p
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=pkeH7EaWvz4
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
   - artist: Orquestrina Trama
@@ -130,6 +156,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6YXkJWmBynkBiSKWdrq2Ud
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Ta3LdUmGYYo
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
   - artist: Patxi eta Batbiru
@@ -137,6 +165,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4uU4ZFGrBcYKCVpnm95H0j
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=L_7IMheewZ8
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
   - artist: Patxi eta Batbiru
@@ -144,6 +174,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7fiQaPmI1AdJS8hNfwkkes
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=kCD8xRBHNiM
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
   - artist: Patxi eta konpania
@@ -151,6 +183,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/34s9drIYYdeix6wVHuj6Xr
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=cvR5E7kzs00
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
   - artist: Rémi Geffroy
@@ -160,10 +194,13 @@ links:
       link: https://open.spotify.com/track/6JGQlYSzoXe2MKyg45Iez4
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+    no_youtube_link: true
   - artist: Sons d'Embat
     track_name: Albiztur
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6vyqPyRvQ2U8cMDJJ7rn70
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=OMNaYK4w6sw
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL

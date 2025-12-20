@@ -20,6 +20,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1LrVKtcKJlWv792YkWQaVI
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=fwzhkB1e4Jk
     from_playlist:
     - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
   - artist: Ballsy Swing
@@ -27,6 +29,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/43y78oQHpn5Sizb0EKz0jR
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=FjUQldPvIjE
     from_playlist:
     - https://open.spotify.com/playlist/0MCGnArGMUQeEiaDFBG95y
     - https://open.spotify.com/playlist/5IbcMd4YyTBwJuIggoi0dD
@@ -35,6 +39,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5KaL5cAesDxb3XvIo4YNSG
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ACQ3lWQCw8k
     from_playlist:
     - https://open.spotify.com/playlist/5IbcMd4YyTBwJuIggoi0dD
   - artist: Becky Price, Dave Shepherd
@@ -42,6 +48,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/28b9XaHku9aXZsSQIbPZ2N
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=8_aPqMrjvjU
     from_playlist:
     - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
   - artist: Castanha é Vinovèl
@@ -49,6 +57,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5NVSIki5NSmG5WNJd0ygqR
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=bFuiuNQICkA
     from_playlist:
     - https://open.spotify.com/playlist/0MCGnArGMUQeEiaDFBG95y
   - artist: Duo Sionneau/Gielen
@@ -56,6 +66,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7osniTah1mXVmBE1T41DnL
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=4BDTZZ2_oD8
     from_playlist:
     - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
   - artist: Erwan Hamon, Yousef Zayed
@@ -63,6 +75,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7tq4rIYZehqCLgOewvEF5r
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=4nkBcFD5bN4
     from_playlist:
     - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
   - artist: Fabiola Fernandes, Jo Zanders, Kv Express
@@ -70,6 +84,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/36GKZp8zP3Bat5p7rOrYP6
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=H_3l4olm67w
     from_playlist:
     - https://open.spotify.com/playlist/5IbcMd4YyTBwJuIggoi0dD
   - artist: Fahrenheit
@@ -77,6 +93,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0emulU7Hq7Cr6rQHLKY3Lz
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=vySssytwI3w
     from_playlist:
     - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
   - artist: Femme Folk
@@ -84,6 +102,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6XPnNNNPssfa7XRODZel9U
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=yBebM6TueyQ
     from_playlist:
     - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
   - artist: Illa

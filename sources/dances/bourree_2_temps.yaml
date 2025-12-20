@@ -31,6 +31,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1FQaTbjqg55akjk7pBaDn5
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=r5BqxtABL-Q
     from_playlist:
     - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
   - artist: Airboxes
@@ -101,6 +103,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/71DmmjNXZX8YQMs9GBC9vj
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=lHUKOtIW7MQ
     from_playlist:
     - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
   - artist: Broes
@@ -223,6 +227,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7MuGkDb9OMzT44V9XvxEhn
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=qm-ohMU3ULI
     from_playlist:
     - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
   - artist: Hepta Polka
@@ -332,6 +338,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2XXUvSMeWGloyK6atvdmfo
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=JRkUkXTuMDI
     from_playlist:
     - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
   - artist: Les Zéoles
@@ -445,6 +453,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5Ox6cVMhvW5nl3UForWFHa
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=nYppjK1CGo0
     from_playlist:
     - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
   - artist: ORAJ
@@ -525,6 +535,7 @@ links:
       link: https://open.spotify.com/track/38R8CWj5EuRQo5SyXQygnj
     from_playlist:
     - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
+    no_youtube_link: true
   - artist: Stevan Vincendeau, Willy Pichard
     track_name: Marignolle - Illham - L'écho (bourrée 2 temps)
     links:

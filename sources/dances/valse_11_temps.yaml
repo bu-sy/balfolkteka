@@ -26,6 +26,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/07lMtXDfDbkwRgmKHASy8S
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=7qAovpDCt20
     from_playlist:
     - https://open.spotify.com/playlist/2ZaR5jzwvQo3ZSPw8QsYfs
   - artist: Eric Thézé, Samuel Thézé

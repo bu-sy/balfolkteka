@@ -1,8 +1,9 @@
-id: polska
-name: Polska
+id: rund_polska
+name: Polska (rund polska)
 links:
   examples:
   - link: https://www.youtube.com/watch?v=sqCEV5OA3yM
+  - link: https://www.youtube.com/watch?v=jA3vZhKZyU0
   tracks:
   - artist: Les Zéoles
     from_playlist:

@@ -32,7 +32,7 @@
 
 [Polka](../dances/polka.md)
 
-[Polska](../dances/polska.md)
+[Polska (rund polska)](../dances/rund_polska.md)
 
 [Porcher](../dances/porcher.md)
 

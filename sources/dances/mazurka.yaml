@@ -620,6 +620,13 @@ links:
       link: https://open.spotify.com/track/0UjQjTQulF7gGizsAH6LXr
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+  - artist: Rémi Geffroy
+    links:
+    - link: https://www.youtube.com/watch?v=k-LYoHP0Wy4
+      portal: YouTube
+    - link: https://open.spotify.com/track/3tIL31eLQ69ZQc33BXP1j1
+      portal: Spotify
+    track_name: Matin D'automne (mazurka)
   - artist: Skolvan
     track_name: Coquin cherche coquine - Mazurka
     links:

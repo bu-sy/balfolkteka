@@ -1,4 +1,4 @@
-# Lista wszystkich utworów (913)
+# Lista wszystkich utworów (914)
 
 <details>
 <summary><big>'Ndiaz - <b>Hanv Yen</b> (Rond de Saint-Vincent)</big></summary>
@@ -3615,7 +3615,7 @@
 </details>
 
 <details>
-<summary><big>Les Zéoles - <b>Blue Magma (Polska)</b> (Polska)</big></summary>
+<summary><big>Les Zéoles - <b>Blue Magma (Polska)</b> (Polska (rund polska))</big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/38Dw0iVdhxLnpt2Ezis6Z1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
@@ -5001,6 +5001,14 @@
 </details>
 
 <details>
+<summary><big>Rémi Geffroy - <b>Matin D'automne (mazurka)</b> (Mazurka)</big></summary>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/k-LYoHP0Wy4?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3tIL31eLQ69ZQc33BXP1j1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
 <summary><big>Rémi Geffroy - <b>Suite de planières</b> (Bourrée 3 temps)</big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7EHAbPGccfp5UYlF9m27c0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -5463,7 +5471,7 @@
 </details>
 
 <details>
-<summary><big>Tref - <b>Plasko ö polska</b> (Polska)</big></summary>
+<summary><big>Tref - <b>Plasko ö polska</b> (Polska (rund polska))</big></summary>
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ZZy4Vp3OpKQ?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 

@@ -10,6 +10,7 @@ links:
   playlists:
   - link: https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
   - link: https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
+  - link: https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   tracks:
   - artist: Ad Vielle Que Pourra
     track_name: L'Agacante/Valse Du Milieu/Valse Du Faucigny
@@ -25,6 +26,13 @@ links:
       link: https://open.spotify.com/track/01A3pjvBJPs4X4WhKMgKv1
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Airboxes
+    track_name: Puntje Puntje
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4B5SNCriNzNE6mRCpCP087
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - artist: Airboxes
     track_name: Rosa
     links:
@@ -88,6 +96,13 @@ links:
       link: https://open.spotify.com/track/3XItM0I68wegReOBrPPYgU
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Aurélien Claranbaux
+    track_name: Valse à Julie
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5O7Z0C8ma6fZS2bWexQl7g
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - artist: Aziliz Manrow, Denez Prigent, Oxmo Puccino
     track_name: Waltz of Life
     links:
@@ -109,6 +124,13 @@ links:
       link: https://open.spotify.com/track/5NCEFXx4NI7thU0gFKj8bo
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Bargainatt
+    track_name: Buisson fleuri - La valsette
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2C8Z6zyGxf4gQ85Ci7r8B8
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - artist: Bon Débarras
     track_name: La valse du loup
     links:
@@ -144,6 +166,13 @@ links:
       link: https://open.spotify.com/track/1LggdWOjBoY4luCoNz2438
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Carré Manchot
+    track_name: Valse en G
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1MhGkJcCI4p4NbH03sa0u2
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - artist: Cecilia
     track_name: Amélie
     links:
@@ -179,6 +208,13 @@ links:
       link: https://open.spotify.com/track/2Nia9CnGLRtKn6lRKCcNaZ
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Cocanha
+    track_name: La valsa d'emiliana
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3Ul1HSpTM51PxPjJZ7yrt8
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - artist: Coriandre
     track_name: Si on se cache
     links:
@@ -192,6 +228,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/3T4t8CHv8mBmd3CJWy9POy
     from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
   - artist: Detchko
     track_name: Au 19 de l'avenue Descartes
@@ -257,12 +294,34 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
   - artist: Duo Absynthe
+    track_name: Petekindjewals (Depardu)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2NwEjmv2Zw4NgGbnF58nKi
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
+  - artist: Duo Absynthe
     track_name: Valse à Joseph & valse nouvelle - Remastered
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2BaamUDeAh1iohYYxak0VI
     from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Duo Brotto Milleret
+    track_name: Troisieme z
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5U88fn1oYeZ0VP96qQqbXN
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
+  - artist: Duo Cozian Oberlé
+    track_name: Valsa « Aléa Mineur »
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3O1DD99WnRUNgDpMsG7RFJ
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - artist: Duo Nello
     track_name: La demoiselle aux beaux yeux
     links:
@@ -284,6 +343,13 @@ links:
       link: https://open.spotify.com/track/3gbojqknSzVCUYptWEiFUd
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Duo TTC
+    track_name: La valse à viseur
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4b3ezLZvC9vmkRvSZjPTsJ
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - artist: Duo Vargoz
     track_name: Valses à Felicien
     links:
@@ -305,6 +371,13 @@ links:
       link: https://open.spotify.com/track/0cb0lhcEJFJoFimyYIOzQR
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Erwan Moal, Jacques Pellen, Julien Stevenin, Tangi Le Gall-Carre
+    track_name: Enez (Vals)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6PLvXisVB1iIQ16YuYdQx9
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - artist: Fahrenheit
     track_name: L'océan mène 2 (valse)
     links:
@@ -487,6 +560,13 @@ links:
       link: https://open.spotify.com/track/5mqGHMGxqFahGOi0iSHF0I
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Kv Express
+    track_name: Valse Pado - To the Edges
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/51Qwpw0EydyAjFobfb85d9
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - artist: Laurent Geoffroy
     track_name: Al Yaras Valse
     links:
@@ -515,6 +595,20 @@ links:
       link: https://open.spotify.com/track/5slK0IvFXi05ry36fHAXkE
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Le bal de l'éphémère
+    track_name: La valse du Salus
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2kb3s6FuQJR4NMGe1fnQQ6
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
+  - artist: Les Zéoles
+    track_name: L'impatiente (Valse à 3 temps)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0LbLOOHvSphIwyNkKRhgXi
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - artist: Les Zéoles
     track_name: La reine ailée (Valse Lente)
     links:
@@ -550,6 +644,20 @@ links:
       link: https://open.spotify.com/track/4xjYqtp6DNzupeXSnHEmcF
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Mister Klof
+    track_name: Valse des rosiers - genovalse
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3XwUSqd8ritqZv5nc6kLXp
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
+  - artist: Monsieur Fruits
+    track_name: Héliotrope
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6lN5vLr0kcZbxaO3JoZEPs
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - artist: NOU
     track_name: Valse
     links:
@@ -562,8 +670,18 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6WjymPlQxxQ5crcZeI1olR
+    - portal: Spotify
+      link: https://open.spotify.com/track/09V2Xojy3pX4GXnuzyGAsz
     from_playlist:
     - https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
+  - artist: Naragonia
+    track_name: Samen Op de Tractor
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6yhl8l1aLRD76ZhTvWoVL3
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - artist: Naragonia Quartet
     track_name: Batiska
     links:
@@ -578,6 +696,20 @@ links:
       link: https://open.spotify.com/track/69jR9cmspH1G90GGvIlxT6
     from_playlist:
     - https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
+  - artist: Naragonia, Naragonia Quartet
+    track_name: Angiolino - Valzer di Monticello
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0wvilogjIVHw4OSzk0oywP
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
+  - artist: Naragonia, Naragonia Quartet
+    track_name: Batiska
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4YZLOo9utKw918coIWYYsz
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - artist: Nisia, Virginia Maiorana
     track_name: Valse des voiles
     links:
@@ -690,6 +822,20 @@ links:
       link: https://open.spotify.com/track/3Y5yCMPLCh8W49ioxERd1R
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Rémi Geffroy
+    track_name: Comme une fin d'été
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0ujQalNlgxU0g9IIGCujkv
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
+  - artist: Rémi Geffroy
+    track_name: Evanescence (valse)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/06a8b1BcOG64djBJNX6LTG
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - artist: Samurai Accordion
     track_name: January Sun
     links:
@@ -697,6 +843,20 @@ links:
       link: https://open.spotify.com/track/0tlAsVlJtiuqP2b5jbWUn0
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Shillelagh
+    track_name: 13 Wals voor Polle - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/776CTsBI2EYYIUk6dR4yit
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
+  - artist: Shillelagh
+    track_name: Lievtallig Walsje
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4ggCUeGpMTRQQjrcXq9O5G
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - artist: Socam
     track_name: Lo mes de mai (valse)
     links:
@@ -732,6 +892,13 @@ links:
       link: https://open.spotify.com/track/0T72bOH5xwLOwIYWLGVQs6
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Tangi Le Gall-Carre
+    track_name: Neus
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3NwqmweTEFdP5VFnGgNiGi
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - artist: Toc de Crida
     track_name: Vals d'aigua
     links:
@@ -739,6 +906,20 @@ links:
       link: https://open.spotify.com/track/7Gwx4IAeaue88LTu0seoJG
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Tribal Jâze
+    track_name: L'autre valse
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0bXOu1rnbDRdMdXsgkTG0G
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
+  - artist: Tribal Jâze
+    track_name: Petite valse
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0pokcdKb7r6e8X3cIvRx9F
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - artist: Tribu Cendra
     track_name: Variaciones ebrias
     links:
@@ -746,6 +927,20 @@ links:
       link: https://open.spotify.com/track/1DA4s5jZHc4JdJIx08hROH
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Trio Loubelya
+    track_name: Jeanne ( valse à 3 temps )
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4u9tcqNoB9tR1SRBadItG5
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
+  - artist: Trio Loubelya
+    track_name: Marie
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7AhQmFJFzemK4XYcnkDawt
+    from_playlist:
+    - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - artist: Trobairitz d'Oc
     track_name: A stacada d'Brelh (Valsa finala)
     links:

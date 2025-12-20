@@ -12,6 +12,7 @@ links:
     type: example_video
   playlists:
   - link: https://open.spotify.com/playlist/7kW0sWDENcRgwqV1geUjym
+  - link: https://open.spotify.com/playlist/2ZaR5jzwvQo3ZSPw8QsYfs
   tracks:
   - artist: Aurélien Claranbaux
     track_name: Les 11
@@ -20,6 +21,13 @@ links:
       link: https://open.spotify.com/track/3sTY7dlDuieXjPh8WauIHT
     - portal: YouTube
       link: https://www.youtube.com/watch?v=J_0hli2OrgA
+  - artist: Dos
+    track_name: Alma de Pícea (Vals a 11 Tiempos)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/07lMtXDfDbkwRgmKHASy8S
+    from_playlist:
+    - https://open.spotify.com/playlist/2ZaR5jzwvQo3ZSPw8QsYfs
   - artist: Eric Thézé, Samuel Thézé
     from_playlist:
     - https://open.spotify.com/playlist/7kW0sWDENcRgwqV1geUjym

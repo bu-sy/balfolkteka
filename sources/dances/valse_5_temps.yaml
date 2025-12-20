@@ -10,6 +10,7 @@ links:
   playlists:
   - link: https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - link: https://open.spotify.com/playlist/0hnXz6KqlM4B9yph9dwwUj
+  - link: https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   tracks:
   - artist: Accordzêam
     track_name: La lilloise
@@ -20,6 +21,13 @@ links:
       link: https://www.youtube.com/watch?v=2kccDtj8Mpo
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Alexis Chauvelier, Le Bal en Chantier
+    track_name: Montagne Sainte Lucile
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5CiM5bWv189t0wBEP97aPF
+    from_playlist:
+    - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Bal O'Gadjo
     track_name: Valse toi même
     links:
@@ -29,6 +37,13 @@ links:
       link: https://www.youtube.com/watch?v=841EBWlcn28
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Beat Bouet Trio
+    track_name: Itinéraires
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0Tp3hCokMXp4Vlp4KWiBru
+    from_playlist:
+    - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Bruno Le Tron, Franck Fagon, Laurent Cabané, Olivier Le Gallo
     track_name: Mirabelle
     links:
@@ -38,6 +53,13 @@ links:
       link: https://www.youtube.com/watch?v=U3EuI1eCX0M
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Bruno Le Tron, François Heim
+    track_name: Bréhattitude
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6X8wqW1eZKa53Lv0Ar9WZX
+    from_playlist:
+    - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Catherine Grimault, Eric Thézé, Jean-Jacques Limeul
     track_name: Fam
     links:
@@ -47,6 +69,20 @@ links:
       link: https://www.youtube.com/watch?v=Xl3LB_lTi04
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Ciac Boum
+    track_name: BB
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2Dheoi8YGRVMOnQRS0U6Sg
+    from_playlist:
+    - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
+  - artist: Dos
+    track_name: Birlibirloque (Vals a 5 Tiempos)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1UHwc4kmIbFRn6z4AsT14E
+    from_playlist:
+    - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Duo Absynthe
     track_name: Evening Glory
     links:
@@ -55,6 +91,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=FAHwc5_uk0k
     from_playlist:
+    - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Duo Absynthe
     track_name: Torgnoles en cinq - Remastered
@@ -83,6 +120,13 @@ links:
       link: https://www.youtube.com/watch?v=jQJLMaIJqCQ
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Femme Folk
+    track_name: Viola
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7s9lJTX3DXg0JojG3PpbhM
+    from_playlist:
+    - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Hot Griselda
     track_name: Dorpeldanske
     links:
@@ -92,6 +136,13 @@ links:
       link: https://www.youtube.com/watch?v=rv-ms80bJa0
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Hotel Palindrone
+    track_name: Fünferwalzer - Live Version
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/26xPU1bBjlUDfUe7nRZPjO
+    from_playlist:
+    - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Kitus
     track_name: Les mouettes
     links:
@@ -109,6 +160,20 @@ links:
       link: https://www.youtube.com/watch?v=xqUSEYp_zwU
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: La Mesquia
+    track_name: Vendre solelh per chatar luna - Valzer 5 tempi
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4AYwjKkNg169GhSRGQKIYz
+    from_playlist:
+    - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
+  - artist: Le Grand Barouf
+    track_name: Le plus bel âge
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4Dj89im66055Pc42htr9k6
+    from_playlist:
+    - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Les Zéoles
     track_name: Dans un bouton (Valse à 5 temps)
     links:
@@ -118,6 +183,7 @@ links:
       link: https://www.youtube.com/watch?v=gMONZbAExeg
     from_playlist:
     - https://open.spotify.com/playlist/0hnXz6KqlM4B9yph9dwwUj
+    - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Monsieur Fruits
     track_name: Living Stone in Yellowstone
@@ -128,6 +194,13 @@ links:
       link: https://www.youtube.com/watch?v=v86tco1a_90
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: NIJ
+    track_name: Ersa - Valse À 5 Temps
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0rUjRRNaz1ogUiCNy0bT9r
+    from_playlist:
+    - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Naragonia
     track_name: Evening Glory
     links:
@@ -137,6 +210,27 @@ links:
       link: https://www.youtube.com/watch?v=FAHwc5_uk0k
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Naragonia
+    track_name: Sahzi - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3RlP4IQGCQyyy8QWzDEXg6
+    from_playlist:
+    - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
+  - artist: Oîma
+    track_name: Xirar Hei!
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1y7gxaUIB6z1p2uWsTElBS
+    from_playlist:
+    - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
+  - artist: Paracetamol
+    track_name: Hunker
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6RHJw0vHc7yWv21Lu81dQJ
+    from_playlist:
+    - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Rémi Geffroy
     track_name: Elle
     links:
@@ -158,6 +252,13 @@ links:
       link: https://www.youtube.com/watch?v=-z7t8fPXctM
     from_playlist:
     - https://open.spotify.com/playlist/0hnXz6KqlM4B9yph9dwwUj
+  - artist: Tralala Lovers
+    track_name: Les jours de grandes marées
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3bpehlWDJ6AeMEakBsveSz
+    from_playlist:
+    - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Tribal Jâze
     track_name: La valseuse
     links:
@@ -184,7 +285,15 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=U69m1_zVXVo
     from_playlist:
+    - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Trio Patrick Bouffard
+    track_name: Valse A 5 Temps
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7mDQLcKClHZbf03EgZ4FAq
+    from_playlist:
+    - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Wouter en De Draak
     track_name: Vliegende graafmachine
     links:

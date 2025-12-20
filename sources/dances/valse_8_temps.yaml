@@ -10,6 +10,7 @@ links:
   playlists:
   - link: https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
   - link: https://open.spotify.com/playlist/3tHeYUx1eIrQraUTOEeGec
+  - link: https://open.spotify.com/playlist/5ENzeSmn9biGAsXGYGyTN2
   tracks:
   - artist: Accordzêam
     track_name: Obsession
@@ -22,6 +23,13 @@ links:
     - https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
     no_youtube_link: true
   - artist: Airboxes
+    track_name: Dy
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2RCrlcHlWf45Y25jfVWIaR
+    from_playlist:
+    - https://open.spotify.com/playlist/5ENzeSmn9biGAsXGYGyTN2
+  - artist: Airboxes
     track_name: Reflection on the Past
     links:
     - portal: Spotify
@@ -31,6 +39,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
     - https://open.spotify.com/playlist/3tHeYUx1eIrQraUTOEeGec
+    - https://open.spotify.com/playlist/5ENzeSmn9biGAsXGYGyTN2
   - artist: Aurélien Claranbaux
     blacklist: true #This is valse 11 temps
     track_name: Les 11
@@ -41,6 +50,20 @@ links:
       link: https://www.youtube.com/watch?v=J_0hli2OrgA
     from_playlist:
     - https://open.spotify.com/playlist/3tHeYUx1eIrQraUTOEeGec
+  - artist: Beat Bouet Trio
+    track_name: Encore 10 ans a tirer
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6UeFhnq5HpWZurHVO6HfSL
+    from_playlist:
+    - https://open.spotify.com/playlist/5ENzeSmn9biGAsXGYGyTN2
+  - artist: Blue Reed
+    track_name: Gennetines
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3ehMzKEN7QJ6KBiMOg6Vox
+    from_playlist:
+    - https://open.spotify.com/playlist/5ENzeSmn9biGAsXGYGyTN2
   - artist: Catherine Grimault, Eric Thézé, Jean-Jacques Limeul
     track_name: Gabriel
     links:
@@ -50,6 +73,13 @@ links:
       link: https://www.youtube.com/watch?v=ewIgUduQNjs
     from_playlist:
     - https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
+  - artist: Djal
+    track_name: Ebenine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3QiAxy9K06yImXnbunnUd6
+    from_playlist:
+    - https://open.spotify.com/playlist/5ENzeSmn9biGAsXGYGyTN2
   - artist: Hartwin
     track_name: Lepatriinu - Waltz 8t
     links:
@@ -59,6 +89,14 @@ links:
       link: https://www.youtube.com/watch?v=WsmY61YCdTo
     from_playlist:
     - https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
+    - https://open.spotify.com/playlist/5ENzeSmn9biGAsXGYGyTN2
+  - artist: Hotel Palindrone
+    track_name: Infinity Waltz
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6ZnVuBIymkGGQa4LbI1jcx
+    from_playlist:
+    - https://open.spotify.com/playlist/5ENzeSmn9biGAsXGYGyTN2
   - artist: Lirio
     track_name: Wals en een beetje
     links:

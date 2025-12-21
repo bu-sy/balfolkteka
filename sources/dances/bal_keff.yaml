@@ -17,6 +17,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7ErBNbcJfxkWqF4RdzPKUZ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_5xfHToH2o8
     from_playlist:
     - https://open.spotify.com/playlist/69jxBdkZeiRERsiYiIJyyD
   - artist: Kastelodenn
@@ -24,6 +26,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4b4xLlweT89YHYOoipArJO
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=92RpHzKv-Yk
     from_playlist:
     - https://open.spotify.com/playlist/69jxBdkZeiRERsiYiIJyyD
   - artist: Korriganed
@@ -31,5 +35,7 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2bbcnryTJXVTBXmdfyD8vU
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ikm5GwPgXTA
     from_playlist:
     - https://open.spotify.com/playlist/69jxBdkZeiRERsiYiIJyyD

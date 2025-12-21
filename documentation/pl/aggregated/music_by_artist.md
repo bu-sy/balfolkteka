@@ -700,8 +700,6 @@
 
 [Mr. Folxlide (4)](music_by_artist/mr_folxlide.md)
 
-[Mr. Foxlide (2)](music_by_artist/mr_foxlide.md)
-
 [MUJI BGM (2)](music_by_artist/muji_bgm.md)
 
 [Musica calamus (1)](music_by_artist/musica_calamus.md)

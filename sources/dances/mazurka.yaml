@@ -16,6 +16,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1zMcjuBw1FmOFS7VnRKvcM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=WeIpzI7lv5w
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Accordzêam
@@ -23,6 +25,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/01KKzUvn5d4MHoMcIqnJEy
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=QoD9j4qE_Io
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
@@ -31,6 +35,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3bg6ZlLX458Gb5bPF5WNrB
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=3T7vYPmKgso
     from_playlist:
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Arnaud Bibonne, Camille Raibaud
@@ -38,6 +44,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/51FrOXRF393hke2oygZ1Rl
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=3BBQVEsd63U
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Aurélie Dorzée, Michel Massot, Tom Theuns
@@ -45,6 +53,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5K37L0O8vqGaOKvimSSHzt
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=z0TY_p9rtPk
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Aurélien Claranbaux
@@ -52,6 +62,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7oBHFLDZJSHAE4zGi5ysZs
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=sS44qp99NEY
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
   - artist: Bagad de Lann Bihoué
@@ -59,6 +71,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6d22ACPjsHP8cycJZX8epF
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ZcL_PYMsgyI
     from_playlist:
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Ballsy Swing
@@ -66,6 +80,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3UhNwfpxcex2xVSexu9OWi
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=PRQ04VlAui0
     from_playlist:
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Baltazar Montanaro, HEDIYYE, Zabou Guérin
@@ -73,6 +89,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6cCNg6lAKFlxJtWiG0skV4
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=oj2NePDjpyQ
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Bargainatt
@@ -80,6 +98,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4NjZdjlaqAqLWTU0JNznPi
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=I1s2X2o8U-w
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: BellónMaceiras
@@ -87,6 +107,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7ItEjhaAIDCCY8dVMdYEaK
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=oXkG4RQhr2g
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Benoît Michaud, Zabou Guérin
@@ -94,6 +116,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3eEvFhMyLCyr8wiSicN9eH
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=4OWXytJdBpo
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Blowzabella
@@ -101,6 +125,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/00wuvkGxAATkwqMJF96JZq
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=PGfn3kTFznY
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Blue Reed

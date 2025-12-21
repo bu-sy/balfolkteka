@@ -134,6 +134,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5A7c0bgDuIFOZ2oqvXLIgc
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=AOyFJngAe4o
     from_playlist:
     - https://open.spotify.com/playlist/2hL4rLYe9FdRs1pgbQyyy1
   - artist: Bourrasque
@@ -141,6 +143,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1UOiy48vGYUApaVBaZQPXY
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=gCfyCYhaalc
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Brotto-Lopez
@@ -148,6 +152,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6VoT4tQpsrVssKjauFYExW
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=weNVc1G8cYY
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
@@ -156,6 +162,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0nG6QQalk8XR7HoqM0qFER
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=DOPRZFhWihU
     from_playlist:
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Brotto-Lopez
@@ -163,6 +171,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6fjUfxKRjObiikd8HrQsgo
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=8v6PIAFhkVc
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Bruno Le Tron, François Heim
@@ -170,6 +180,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0ZbxmTZBm1a74CAnBqwMcN
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=4_wB8KKoxGc
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Carlos Beceiro, Martina Quiere Bailar
@@ -177,6 +189,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0FxgYLz40ODVimzocCrs3e
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=APOIIEkDHqU
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
   - artist: Carmelo Russo, Filippo Gambetta, Sergio Caputo
@@ -184,6 +198,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/39ykufmrCucrOWDcIalGxJ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=j6cjkqt63BY
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
@@ -192,6 +208,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6btx9KUPvSqLHpAgU74qzD
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=IXYCPv1Sq4Y
     from_playlist:
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Corentin Gidrol, Nicolas Canavaggia, Tralala Lovers
@@ -199,6 +217,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4V7M6qPAxrrCkVzJaNFJe1
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=HB-Oko5Et3A
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: DCA Trio
@@ -206,6 +226,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1i1RSf8LWW9rWMhCTXDdXa
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Dp_e-n-tDhs
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Duo Absynthe
@@ -213,6 +235,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/703M0LnVJRbXiZM6TpgK4o
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_Xf0TRJvXYo
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
   - artist: Duo Absynthe
@@ -222,6 +246,8 @@ links:
       link: https://open.spotify.com/track/5FYOeUoSXF4jcm0fpsQr5x
     - portal: Spotify
       link: https://open.spotify.com/track/2siF9kst5lnKpz35DaXk5Z
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=NxODhU7wn78
     from_playlist:
     - https://open.spotify.com/playlist/2hL4rLYe9FdRs1pgbQyyy1
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
@@ -232,6 +258,8 @@ links:
       link: https://open.spotify.com/track/4OQfKpjr6mULLpTWJAVUrz
     - portal: Spotify
       link: https://open.spotify.com/track/3Fs6Fe7Sj2ZhP2VuwTLyGp
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=SExl9HJNr3c
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     - https://open.spotify.com/playlist/2hL4rLYe9FdRs1pgbQyyy1
@@ -240,6 +268,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0sF9Vj1WlTCNowdkQY357z
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=p8T7PsfesH8
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Duo Bottasso, Simone Sims Longo
@@ -247,6 +277,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7M2BST3bHprXMTNEwSypt8
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=eWm51twuiEY
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Duo Gestrikt
@@ -256,11 +288,14 @@ links:
       link: https://open.spotify.com/track/00bqAkOSUnskf0dBHADncY
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+    no_youtube_link: true
   - artist: Duo Oliver-Sentou
     track_name: The New Land
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2lSLarwBq6EDWWGNrGdRSQ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=SF_5G27EPyQ
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Duo TTC
@@ -268,6 +303,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5mKnKKyBt32x7gEU1VEhMm
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=cd_Ye80CdIU
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
   - artist: Duo Vargoz
@@ -275,6 +312,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4BgNf629MNREECxmxlyUup
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=AXbp9Hr9g7M
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: E-leizh
@@ -282,6 +321,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2FrIlkPrvf7KhMhJ4r89aD
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=oiSf7YoSDAg
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Electrad
@@ -289,6 +330,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0jEQnJ1AQSSGhcnXS8DJzL
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=t0ArCV1Nx7k
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: EmBRUN
@@ -296,6 +339,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6EpkZakUTQ6C2MMVzwvs48
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=oLpo8q0O9Qw
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Fabio Colussi
@@ -305,6 +350,7 @@ links:
       link: https://open.spotify.com/track/1j5dKGOx8I2OefT3EJFjEy
     from_playlist:
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
+    no_youtube_link: true
   - artist: Fabio Colussi
     track_name: Mazumar
     links:
@@ -312,11 +358,14 @@ links:
       link: https://open.spotify.com/track/59yyjSWjBWiutnTAAM6ceD
     from_playlist:
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
+    no_youtube_link: true
   - artist: Faburden
     track_name: Tres Son Seroletas / Mazurka de Lothbrok
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7cHdU6kvj9YM8DxoO2aAAI
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=yxpVAsOWhi0
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Geronimo
@@ -326,11 +375,14 @@ links:
       link: https://open.spotify.com/track/3XtskMVwq5dbZGO9NiOeYu
     from_playlist:
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
+    no_youtube_link: true
   - artist: Groove Factory
     track_name: À l'Ombre des Cèdres
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4zbN0GVTLywake6UYaNfHM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=SUIGlO-N1-I
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
@@ -339,6 +391,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4uVuE4nMuk8kgIgzn0LVcu
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=YaGOAetu2YI
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
   - artist: Julien Barbances, Poolidor
@@ -346,6 +400,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4W0wSMvdpzfKXe3yxfHa5u
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=uXQCfhvDdVc
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Kitus
@@ -357,6 +413,7 @@ links:
       link: https://open.spotify.com/track/1G7kC4SQdLciFJSYmteKWE
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    no_youtube_link: true
   - artist: Komred
     track_name: La demie-lune
     links:

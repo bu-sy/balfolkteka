@@ -18,12 +18,16 @@
 <summary><big>Brotto-Lopez - <b>La Candèla</b> (Mazurka)</big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6VoT4tQpsrVssKjauFYExW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/weNVc1G8cYY?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <details>
 <summary><big>Brotto-Lopez - <b>Noche en Vela - Mazurkà</b> (Mazurka)</big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0nG6QQalk8XR7HoqM0qFER?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/DOPRZFhWihU?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <details>
@@ -36,6 +40,8 @@
 <summary><big>Brotto-Lopez - <b>Tres son seroletas - Chant de la vallée d'Ossau</b> (Mazurka)</big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6fjUfxKRjObiikd8HrQsgo?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/8v6PIAFhkVc?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <details>

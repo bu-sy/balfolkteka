@@ -140,15 +140,15 @@ def render_aggregated_music(all_music, loaded_translation, directory_structure):
 def render_music_by_artist(all_music, loaded_translation, directory_structure):
     artists = {}
     for music in all_music:
-        artists_for_that_music = music.artist.split(',')
+        artists_for_that_music = [record.strip() for record in music.artist.split(',')]
         for found_artist in artists_for_that_music:
-            artists[found_artist.strip()] = artists.get(found_artist, []) + [music]
+            artists[found_artist] = artists.get(found_artist, []) + [music]
     for artist, artists_music in artists.items():
         write_file(
             "\n\n".join([
                 f"# {artist} ({len(artists_music)})"
             ] + [
-                music_collapsible_section(music, True) for music in sorted(artists_music, key=lambda x: x.track_name.lower())
+                music_collapsible_section(music, True) for music in sorted(artists_music, key=lambda x: unidecode(x.track_name.lower()))
             ]),
             directory_structure.get_music_by_artist(artist)
         )

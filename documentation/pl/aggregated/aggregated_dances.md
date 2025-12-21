@@ -12,9 +12,9 @@
 
 [Chapelloise](../dances/chapelloise.md)
 
-[Danse de l'Ours](../dances/danse_de_l_ours.md)
-
 [Dañs Keff](../dances/dans_keff.md)
+
+[Danse de l'Ours](../dances/danse_de_l_ours.md)
 
 [Drumul Dracului](../dances/drumul_dracului.md)
 

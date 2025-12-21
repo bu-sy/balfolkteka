@@ -1,5 +1,8 @@
 from unidecode import unidecode
 
+def normalize(string_val):
+    return unidecode(string_val.lower())
+
 def write_file(contents, file_path):
     with open(file_path, 'w') as file_obj:
         file_obj.write(contents)
@@ -120,7 +123,7 @@ def render_aggregated_dances(all_dances, loaded_translation, directory_structure
             link(
                 dance_line(dance),
                 directory_structure.get_dance_file_path(dance, directory_structure.get_aggregated_dances_path())
-            ) for dance in sorted(all_dances, key=lambda x: x.get('name'))
+            ) for dance in sorted(all_dances, key=lambda x: normalize(x.get('name')))
         ]),
         directory_structure.get_aggregated_dances_path()
     )
@@ -132,7 +135,7 @@ def render_aggregated_music(all_music, loaded_translation, directory_structure):
         ] + [
             music_collapsible_section(music, True)
             for music
-            in sorted(all_music, key=lambda x: (x.artist.lower(), x.track_name.lower()))
+            in sorted(all_music, key=lambda x: (normalize(x.artist), normalize(x.track_name)))
         ]),
         directory_structure.get_aggregated_music_path()
     )
@@ -148,7 +151,7 @@ def render_music_by_artist(all_music, loaded_translation, directory_structure):
             "\n\n".join([
                 f"# {artist} ({len(artists_music)})"
             ] + [
-                music_collapsible_section(music, True) for music in sorted(artists_music, key=lambda x: unidecode(x.track_name.lower()))
+                music_collapsible_section(music, True) for music in sorted(artists_music, key=lambda x: normalize(x.track_name))
             ]),
             directory_structure.get_music_by_artist(artist)
         )
@@ -158,7 +161,7 @@ def render_music_by_artist(all_music, loaded_translation, directory_structure):
             link(f"{artist} ({len(artists_music)})", directory_structure.get_music_by_artist(
                 artist,
                 relative_to=directory_structure.get_aggregated_music_by_artist())
-             ) for artist, artists_music in sorted(artists.items(), key=lambda x: unidecode(x[0].lower()))
+             ) for artist, artists_music in sorted(artists.items(), key=lambda x: normalize(x[0]))
         ]),
         directory_structure.get_aggregated_music_by_artist()
     )

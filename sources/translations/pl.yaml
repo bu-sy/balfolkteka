@@ -16,6 +16,7 @@ pages:
   main_page: Strona główna
   aggregated_list_of_dances: Lista wszystkich tańców
   aggregated_list_of_music: Lista wszystkich utworów
+  list_of_music_by_artist: Muzyka pogrupowana po artystach
 translatable:
   _in_pairs: "W parach"
   _in_fours: "W czwórkach"

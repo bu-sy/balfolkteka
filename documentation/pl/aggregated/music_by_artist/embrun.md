@@ -1,0 +1,7 @@
+# EmBRUN (1)
+
+<details>
+<summary><big>EmBRUN - <b>Yazurka 18</b> (Mazurka)</big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6EpkZakUTQ6C2MMVzwvs48?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>

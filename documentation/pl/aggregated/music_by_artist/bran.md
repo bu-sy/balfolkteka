@@ -1,0 +1,13 @@
+# Bran (2)
+
+<details>
+<summary><big>Bran - <b>An dro</b> (An Dro)</big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2ocOthpQmjM6uesN9TwIVg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Bran - <b>Shottish</b> (Scottish)</big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7ujz94spkQONi2JzFD3M4K?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>

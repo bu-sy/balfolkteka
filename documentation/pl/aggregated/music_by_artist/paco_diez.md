@@ -1,0 +1,7 @@
+# Paco Díez (1)
+
+<details>
+<summary><big>La Bazanca, Paco Díez - <b>Repasseado Portugués y Brincaos Alistanos</b> (Repasseado)</big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1gp23svbjWkvEEYKPoAORo?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>

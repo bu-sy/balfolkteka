@@ -1,7 +1,9 @@
 import os
 import yaml
 import glob
-from renderer import render_dance, render_aggregated_dances, render_home_page, render_aggregated_music
+from renderer import render_dance, render_aggregated_dances, render_home_page, render_aggregated_music, render_music_by_artist
+from unidecode import unidecode
+import re
 
 def remove_suffix(text, suffix):
     if text.endswith(suffix):
@@ -124,12 +126,14 @@ class DirectoryStructureForTranslation(object):
         self.translation_toplevel_path = os.path.join(documentations_path, translation.name)
         self.translated_dances_directory = os.path.join(self.translation_toplevel_path, 'dances')
         self.aggregated_pages_directory = os.path.join(self.translation_toplevel_path, 'aggregated')
+        self.music_by_artist_directory = os.path.join(self.aggregated_pages_directory, 'music_by_artist')
 
     def get_directories_to_create(self):
         return [
             self.translation_toplevel_path,
             self.translated_dances_directory,
-            self.aggregated_pages_directory
+            self.aggregated_pages_directory,
+            self.music_by_artist_directory
         ]
 
     def _get_path(self, full_path, relative_to=None):
@@ -156,6 +160,12 @@ class DirectoryStructureForTranslation(object):
     def get_aggregated_music_path(self, relative_to=None):
         return self._get_path(os.path.join(self.aggregated_pages_directory, 'aggregated_music.md'), relative_to)
 
+    def get_aggregated_music_by_artist(self, relative_to=None):
+        return self._get_path(os.path.join(self.aggregated_pages_directory, 'music_by_artist.md'), relative_to)
+
+    def get_music_by_artist(self, artist, relative_to=None):
+        file_name = re.sub(r'\W+', '_', unidecode(artist.lower()))
+        return self._get_path(os.path.join(self.music_by_artist_directory, f"{file_name}.md"), relative_to)
 
 all_dances = [
     DanceFile(dance_file) for dance_file in glob.glob(os.path.join(dances_path, '*.yaml'))
@@ -187,6 +197,7 @@ for translation in all_translations:
 
     render_aggregated_dances(all_dances, translation, directory_structure_for_translation)
     render_aggregated_music(all_music, translation, directory_structure_for_translation)
+    render_music_by_artist(all_music, translation, directory_structure_for_translation)
     render_home_page(translation, directory_structure_for_translation)
 
     print(f"Done translation {translation.name}")

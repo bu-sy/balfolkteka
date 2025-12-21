@@ -1,0 +1,15 @@
+# Erwan Hamon (2)
+
+<details>
+<summary><big>Erwan Hamon, Janick Martin, Orchestre national de Bretagne - <b>Banian's jig (Cercle circassien)</b> (Cercle Circassien)</big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6oCK3riB2SwsiEikbhO1W5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Erwan Hamon, Yousef Zayed - <b>Jig africaine</b> (Chapelloise)</big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7tq4rIYZehqCLgOewvEF5r?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/4nkBcFD5bN4?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>

@@ -1,0 +1,7 @@
+# Ronan Pellen (1)
+
+<details>
+<summary><big>BAROK, Ronan Pellen - <b>Les pies se pavanent (Rond de Saint-Vincent)</b> (Rond de Saint-Vincent)</big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7yg6AEjsqzmw7u5ovf6nWn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>

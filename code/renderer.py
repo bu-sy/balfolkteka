@@ -1,3 +1,5 @@
+from unidecode import unidecode
+
 def write_file(contents, file_path):
     with open(file_path, 'w') as file_obj:
         file_obj.write(contents)
@@ -30,6 +32,14 @@ def embed_track(link_object):
 
 def secondary_header(text):
     return f"## {text}"
+
+def music_collapsible_section(music, display_dance_name):
+    return collapsible(
+        f"{music.artist} - <b>{music.track_name}</b>" + (f" ({music.dance})" if display_dance_name else ""),
+        "\n".join([
+            f"\n{embed_track(music_link)}" for music_link in music.music_links
+        ])
+    )
 
 def render_dance(loaded_dance, loaded_translation, all_dances, directory_structure):
     lines = [
@@ -91,15 +101,9 @@ def render_dance(loaded_dance, loaded_translation, all_dances, directory_structu
         ]
 
         lines.append(secondary_header(loaded_translation.get_keyword('tracks') + f" ({len(not_blacklisted_tracks)})"))
-        for track_record in not_blacklisted_tracks:
-            lines.append(
-                collapsible(
-                    f"{track_record.artist} - <b>{track_record.track_name}</b>",
-                    "\n".join([
-                        f"\n{embed_track(music_link)}" for music_link in track_record.music_links
-                    ])
-                )
-            )
+        lines.extend(
+            music_collapsible_section(track_record, False) for track_record in not_blacklisted_tracks
+        )
 
     write_file('\n\n'.join(lines), directory_structure.get_dance_file_path(loaded_dance))
 
@@ -126,14 +130,37 @@ def render_aggregated_music(all_music, loaded_translation, directory_structure):
         "\n\n".join([
             f"# {loaded_translation.get_page_name('aggregated_list_of_music')} ({len(all_music)})"
         ] + [
-            collapsible(
-                f"{music.artist} - <b>{music.track_name}</b> ({music.dance})",
-                "\n".join([
-                    f"\n{embed_track(music_link)}" for music_link in music.music_links
-                ])
-            ) for music in sorted(all_music, key=lambda x: (x.artist.lower(), x.track_name.lower()))
+            music_collapsible_section(music, True)
+            for music
+            in sorted(all_music, key=lambda x: (x.artist.lower(), x.track_name.lower()))
         ]),
         directory_structure.get_aggregated_music_path()
+    )
+
+def render_music_by_artist(all_music, loaded_translation, directory_structure):
+    artists = {}
+    for music in all_music:
+        artists_for_that_music = music.artist.split(',')
+        for found_artist in artists_for_that_music:
+            artists[found_artist.strip()] = artists.get(found_artist, []) + [music]
+    for artist, artists_music in artists.items():
+        write_file(
+            "\n\n".join([
+                f"# {artist} ({len(artists_music)})"
+            ] + [
+                music_collapsible_section(music, True) for music in sorted(artists_music, key=lambda x: x.track_name.lower())
+            ]),
+            directory_structure.get_music_by_artist(artist)
+        )
+
+    write_file(
+        "\n\n".join([
+            link(f"{artist} ({len(artists_music)})", directory_structure.get_music_by_artist(
+                artist,
+                relative_to=directory_structure.get_aggregated_music_by_artist())
+             ) for artist, artists_music in sorted(artists.items(), key=lambda x: unidecode(x[0].lower()))
+        ]),
+        directory_structure.get_aggregated_music_by_artist()
     )
 
 def render_home_page(loaded_translation, directory_structure):
@@ -146,6 +173,10 @@ def render_home_page(loaded_translation, directory_structure):
         link(
             loaded_translation.get_page_name('aggregated_list_of_music'),
             directory_structure.get_aggregated_music_path(directory_structure.get_home_page_path())
+        ),
+        link(
+            loaded_translation.get_page_name('list_of_music_by_artist'),
+            directory_structure.get_aggregated_music_by_artist(directory_structure.get_home_page_path())
         )
         ]),
         directory_structure.get_home_page_path()

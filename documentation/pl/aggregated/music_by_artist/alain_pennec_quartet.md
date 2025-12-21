@@ -1,0 +1,7 @@
+# Alain Pennec Quartet (1)
+
+<details>
+<summary><big>Alain Pennec Quartet - <b>Hanterdroide - Je vous le demande - Hanter Dro</b> (Hanter Dro)</big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4tkN0IijKWT5aOAdylhs1N?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>

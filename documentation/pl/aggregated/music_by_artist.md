@@ -1,4 +1,4 @@
-# Lista wszystkich artystów (556)
+# Lista wszystkich artystów (555)
 
 [Powrót do listy stron](../home.md)
 
@@ -950,9 +950,7 @@
 
 [Sylvain Butté (1)](music_by_artist/sylvain_butte.md)
 
-[Sylvain Quéré (2)](music_by_artist/sylvain_quere.md)
-
-[Sylvain Quere (1)](music_by_artist/sylvain_quere.md)
+[Sylvain Quéré (3)](music_by_artist/sylvain_quere.md)
 
 [Sylvie Pulles (1)](music_by_artist/sylvie_pulles.md)
 

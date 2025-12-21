@@ -26,6 +26,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5CiM5bWv189t0wBEP97aPF
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=-o99sAaN9m4
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Bal O'Gadjo
@@ -44,6 +46,7 @@ links:
       link: https://open.spotify.com/track/0Tp3hCokMXp4Vlp4KWiBru
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
+    no_youtube_link: true
   - artist: Bruno Le Tron, Franck Fagon, Laurent Cabané, Olivier Le Gallo
     track_name: Mirabelle
     links:
@@ -58,6 +61,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6X8wqW1eZKa53Lv0Ar9WZX
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=K6TtEDTncuc
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Catherine Grimault, Eric Thézé, Jean-Jacques Limeul
@@ -74,6 +79,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2Dheoi8YGRVMOnQRS0U6Sg
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=KTwehQ-n6RY
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Dos
@@ -81,6 +88,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1UHwc4kmIbFRn6z4AsT14E
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=71i2eNeQZrY
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Duo Absynthe
@@ -125,6 +134,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7s9lJTX3DXg0JojG3PpbhM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=RbyU2EGxe1A
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Hot Griselda
@@ -141,6 +152,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/26xPU1bBjlUDfUe7nRZPjO
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=rBfDmNgxPmk
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Kitus
@@ -165,6 +178,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4AYwjKkNg169GhSRGQKIYz
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=mS7Yj-aOfKo
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Le Grand Barouf
@@ -172,6 +187,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4Dj89im66055Pc42htr9k6
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=YC6yo7RxK4w
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Les Zéoles
@@ -199,6 +216,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0rUjRRNaz1ogUiCNy0bT9r
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=G4WZF8yp2ks
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Naragonia
@@ -215,6 +234,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3RlP4IQGCQyyy8QWzDEXg6
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=VZ2etjtpSTk
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Oîma
@@ -222,6 +243,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1y7gxaUIB6z1p2uWsTElBS
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=RQgEnzAlwco
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Paracetamol
@@ -229,6 +252,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6RHJw0vHc7yWv21Lu81dQJ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=OTZDPS0dOwE
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Rémi Geffroy
@@ -257,6 +282,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3bpehlWDJ6AeMEakBsveSz
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=f-Jj1YG5dM0
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Tribal Jâze
@@ -292,6 +319,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7mDQLcKClHZbf03EgZ4FAq
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=mq0mZb-WDQE
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Wouter en De Draak

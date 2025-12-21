@@ -17,6 +17,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/03kYvAqDRlmq1gbDHZr2n8
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=PMwmrs-vB-8
     from_playlist:
     - https://open.spotify.com/playlist/2dpaO8c3uUnuwL066wXawn
   - artist: Christian Anneix, Jean Baron
@@ -24,6 +26,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7lvGZa8QGZAChZuehi9yIK
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=mDhne-T-ncQ
     from_playlist:
     - https://open.spotify.com/playlist/2dpaO8c3uUnuwL066wXawn
   - artist: Diou Flo
@@ -31,5 +35,7 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6JYHUe0OQEZJeMp0NfmsXy
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=JPFjOaVimw8
     from_playlist:
     - https://open.spotify.com/playlist/2dpaO8c3uUnuwL066wXawn

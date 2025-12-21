@@ -11,6 +11,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5vBQRuSNAYSKKLhXi8pASA
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=2j0T6e-JJtc
     from_playlist:
     - https://open.spotify.com/playlist/4Ve2NyYNXOP28f5XAbDh3J
   - artist: Csürrentő
@@ -18,6 +20,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/34t6nz6Ja21kuPMQStCx8v
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=iosBxnT1GM8
     from_playlist:
     - https://open.spotify.com/playlist/4Ve2NyYNXOP28f5XAbDh3J
   - artist: PásztorHóra
@@ -25,6 +29,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2MoQtRfpSmbIO1Q1x1ltln
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=G4bgGkdsBaA
     from_playlist:
     - https://open.spotify.com/playlist/4Ve2NyYNXOP28f5XAbDh3J
   - artist: ViatoreS
@@ -35,6 +41,7 @@ links:
       link: https://open.spotify.com/track/7i24exEDf5mI6ogpGwGWNI
     from_playlist:
     - https://open.spotify.com/playlist/4Ve2NyYNXOP28f5XAbDh3J
+    no_youtube_link: true
   - artist: Zurgó
     track_name: Ördög útja - Drumul dracului
     links:
@@ -42,3 +49,4 @@ links:
       link: https://open.spotify.com/track/4K8xsANAu80BA7uHKX1ayN
     from_playlist:
     - https://open.spotify.com/playlist/4Ve2NyYNXOP28f5XAbDh3J
+    no_youtube_link: true

@@ -16,6 +16,7 @@ links:
       link: https://open.spotify.com/track/0NakvaeWs4KQppervF43WC
     from_playlist:
     - https://open.spotify.com/playlist/1KIwLzhkkthmchVMPoActb
+    no_youtube_link: true
   - artist: Deli Reçel, Kaan Sancakar, Kardelen Pınar
     track_name: Bosnian Scottish Impaire
     links:
@@ -23,11 +24,14 @@ links:
       link: https://open.spotify.com/track/6DUU6EGOxU32PUjaYO2hxK
     from_playlist:
     - https://open.spotify.com/playlist/564LseciVL43fExqhdGAa2
+    no_youtube_link: true
   - artist: Femme Folk
     track_name: Brume
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3UkpCJbujGX4aUqlPyldtu
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=0vbrgmqx0es
     from_playlist:
     - https://open.spotify.com/playlist/1KIwLzhkkthmchVMPoActb
     - https://open.spotify.com/playlist/564LseciVL43fExqhdGAa2
@@ -38,11 +42,14 @@ links:
       link: https://open.spotify.com/track/2ODl47ALoq3gfX7wAOGNqJ
     from_playlist:
     - https://open.spotify.com/playlist/1KIwLzhkkthmchVMPoActb
+    no_youtube_link: true
   - artist: Naragonia
     track_name: Lilac / Dave the Watchman - Live
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0ZFdT5Or7v001MRzS7wYRX
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=E1Cu-2v8LhA
     from_playlist:
     - https://open.spotify.com/playlist/564LseciVL43fExqhdGAa2
   - artist: Paracetamol
@@ -50,6 +57,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0YjE2zYAmz7oFvYk15Vdkv
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=pbyVqKnXC5A
     from_playlist:
     - https://open.spotify.com/playlist/564LseciVL43fExqhdGAa2
   - artist: Zlabya
@@ -57,5 +66,7 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1sSIb3hGvcrN7dVOjz8Owa
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=yqLjZUlltU4
     from_playlist:
     - https://open.spotify.com/playlist/1KIwLzhkkthmchVMPoActb

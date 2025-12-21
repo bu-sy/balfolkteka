@@ -54,6 +54,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2D4sbRxqERzVcJ1AVuwrZf
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Oz8rcs2lHls
     from_playlist:
     - https://open.spotify.com/playlist/3Jrp8mpVQZusdrG98oSCSO
   - artist: Beat Bouet Trio, Fabs
@@ -70,6 +72,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5mBCXcKMkpdQHxGiR8Uacv
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=BhxSnKw0TM4
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
   - artist: Carré Manchot
@@ -77,6 +81,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/27P6YTMUCOHhNjczGXHIup
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=jNPHwE3fnG4
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
     - https://open.spotify.com/playlist/3Jrp8mpVQZusdrG98oSCSO
@@ -85,6 +91,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5S9s5CSmxaFBOI6sjICyrY
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=GPzZLGUAKHk
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
   - artist: Edgar Trio, Regis Huiban
@@ -92,6 +100,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2PflZd83ZeZRJxgi9NMV4q
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=RjD19I6q4NM
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
   - artist: Esquisse
@@ -99,6 +109,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5YpNAfx92ky9hgvrVxGHli
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=6w1xcIi8u0s
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
   - artist: Femme Folk
@@ -106,6 +118,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6qGrB5K4dzEWqWVRy7kaCs
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=VEWNggd6ark
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
   - artist: Fleuves
@@ -113,6 +127,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5JxfA0FXkwQaOlT9rkbYwy
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=O55Hd8sIDj8
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
@@ -121,6 +137,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4lrBVOp6MiONgyTOv5tPrO
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ASY3ZBFi9fk
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
@@ -129,6 +147,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1oTBB1N7VaVY2k2f2QImjV
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=8p4s1UtDCx0
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
   - artist: Hamon Martin Quintet
@@ -136,6 +156,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/52kb0BE1X3h4iFYiJTXkSC
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=N8JSI5IhtI0
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
   - artist: Hotel Palindrone
@@ -143,6 +165,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3xnvckxeub9nFm1qHbyr8v
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=N68yTV4SJeY
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
   - artist: Jean-Charles Guichen
@@ -150,6 +174,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/13b5dIYNo4sXSyw2R1yi9P
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=rBLXCtOBSTs
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
   - artist: Kendirvi
@@ -157,6 +183,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6W3L7qadjgoIotPnQHDrbG
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=H3gyM1Pow-Q
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
   - artist: Kendirvi
@@ -164,6 +192,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6YVxQXef2sdzlsAXogoHyR
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=sULMjckrd5w
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
   - artist: Kerbedig
@@ -171,6 +201,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2gCQ87wIA9Fbf2V1Hfo1fW
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=cZsDH8CTui4
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
   - artist: Kornog
@@ -178,6 +210,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/30dQBYM2YmW8nvlBy84mvU
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=n1p-fR5Zfe8
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
   - artist: Le Bour Bodros
@@ -185,6 +219,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/29vLGLgPzNQmjYFggf5d0Z
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Zi6RQowJJoI
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
   - artist: Nostrad
@@ -199,6 +235,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0BK2EE2XHkeOJAeMXff0uT
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_divdAgthSw
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
   - artist: Ruz Reor
@@ -206,6 +244,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7Iy99nemXdzIsEBoGvqEbw
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=YSPAjSwWt9o
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
   - artist: Skolvan
@@ -213,6 +253,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/68TNwv6OSBgSnSZ0s0ATqd
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=7AS-RFocbKM
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
   - artist: Sterne
@@ -220,6 +262,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5g5RxkE4cwNNUg9kL67C2C
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=7JazMPfG5SU
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
   - artist: Stevan Vincendeau, Thomas Felder
@@ -227,6 +271,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/46wD3jAhgO1xBwEkiwoIfn
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Cw-PgTIK9Ys
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
   - artist: Tud
@@ -234,6 +280,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4Ts0DwN8uE4mQvS96qoR8A
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=6TROPQeut94
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
     - https://open.spotify.com/playlist/3Jrp8mpVQZusdrG98oSCSO
@@ -244,3 +292,4 @@ links:
       link: https://open.spotify.com/track/5kbdhZZ8oHRnjZHKMLqOeD
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+    no_youtube_link: true

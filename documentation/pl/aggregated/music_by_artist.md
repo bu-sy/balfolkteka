@@ -834,7 +834,7 @@
 
 [Rachel Averly (1)](music_by_artist/rachel_averly.md)
 
-[Radůza (4)](music_by_artist/raduza.md)
+[Radůza (2)](music_by_artist/raduza.md)
 
 [Raphnin Maurel (4)](music_by_artist/raphnin_maurel.md)
 
@@ -912,7 +912,7 @@
 
 [Solomalé (1)](music_by_artist/solomale.md)
 
-[Sonerien Du (3)](music_by_artist/sonerien_du.md)
+[Sonerien Du (2)](music_by_artist/sonerien_du.md)
 
 [Sons d'Embat (1)](music_by_artist/sons_d_embat.md)
 

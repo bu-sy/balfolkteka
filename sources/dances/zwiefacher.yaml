@@ -25,6 +25,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5MogZSnaLJKa4MhqcesjeN
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=W1XcHhmcSuI
     from_playlist:
     - https://open.spotify.com/playlist/5vpFddq3vnlAQIfoWUcjbV
   - artist: Litha
@@ -32,6 +34,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4gJm0d6RBp7dXKB0E9iPHe
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=wfQRTNmg6gw
     from_playlist:
     - https://open.spotify.com/playlist/5vpFddq3vnlAQIfoWUcjbV
   - artist: Quetschn Academy
@@ -39,19 +43,27 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3BqxI4PfxrTNOPPL6FPLJ7
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=-6iRLJwqVcE
     from_playlist:
     - https://open.spotify.com/playlist/5vpFddq3vnlAQIfoWUcjbV
   - artist: Radůza
     track_name: Na sever (Forde)
+    blacklist: true #not a zweifacher
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1urG5k67g8M7LeCan7BvlX
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=GeegqOFdhNU
     from_playlist:
     - https://open.spotify.com/playlist/5vpFddq3vnlAQIfoWUcjbV
   - artist: Radůza
     track_name: Půjdu, Kam Chci
+    blacklist: true #not a zweifacher
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1SlRTBbqg8rhmVegXBzY6K
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=sscZWZNBWh8
     from_playlist:
     - https://open.spotify.com/playlist/5vpFddq3vnlAQIfoWUcjbV

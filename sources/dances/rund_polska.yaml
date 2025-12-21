@@ -11,6 +11,8 @@ links:
     links:
     - link: https://open.spotify.com/track/38Dw0iVdhxLnpt2Ezis6Z1
       portal: Spotify
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=pgPU0x71cPI
     track_name: Blue Magma (Polska)
   - artist: Tref
     links:

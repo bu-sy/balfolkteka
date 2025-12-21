@@ -43,16 +43,16 @@ def render_dance(loaded_dance, loaded_translation, all_dances, directory_structu
     if alt_name := loaded_translation.get_alt_name(loaded_dance.get('id')):
         lines.append(f"**{loaded_translation.get_keyword('alt_name')}**: {alt_name}")
 
-    if loaded_dance.get('tags') or loaded_dance.get('variants'):
-        lines.append(f"## {loaded_translation.get_keyword('tags')}\n- " + '\n- '.join([
-            loaded_translation.get_translated_tag(tag_name)
-            for tag_name in loaded_dance.get('tags', [])
-        ]))
-        if loaded_dance.get('variants'):
-            lines.append(f"### {loaded_translation.get_keyword('variants')}\n- " + '\n- '.join([
-                loaded_translation.get_translated_tag(tag_name)
-                for tag_name in loaded_dance.get('variants', [])
-            ]))
+    # if loaded_dance.get('tags') or loaded_dance.get('variants'):
+    #     lines.append(f"## {loaded_translation.get_keyword('tags')}\n- " + '\n- '.join([
+    #         loaded_translation.get_translated_tag(tag_name)
+    #         for tag_name in loaded_dance.get('tags', [])
+    #     ]))
+    #     if loaded_dance.get('variants'):
+    #         lines.append(f"### {loaded_translation.get_keyword('variants')}\n- " + '\n- '.join([
+    #             loaded_translation.get_translated_tag(tag_name)
+    #             for tag_name in loaded_dance.get('variants', [])
+    #         ]))
 
     if loaded_examples := loaded_dance.get_examples():
         lines.append(secondary_header(loaded_translation.get_keyword('examples')))
@@ -104,12 +104,17 @@ def render_dance(loaded_dance, loaded_translation, all_dances, directory_structu
     write_file('\n\n'.join(lines), directory_structure.get_dance_file_path(loaded_dance))
 
 def render_aggregated_dances(all_dances, loaded_translation, directory_structure):
+    def dance_line(dance_obj):
+        dance_name = dance_obj.get('name')
+        dance_alt_name = loaded_translation.get_alt_name(dance_obj.get('id'))
+        return f"{dance_name} ({dance_alt_name})" if dance_alt_name else dance_name
+
     write_file(
         "\n\n".join([
            f"# {loaded_translation.get_page_name('aggregated_list_of_dances') } ({len(all_dances)})"
         ] + [
             link(
-                dance.get('name'),
+                dance_line(dance),
                 directory_structure.get_dance_file_path(dance, directory_structure.get_aggregated_dances_path())
             ) for dance in sorted(all_dances, key=lambda x: x.get('name'))
         ]),

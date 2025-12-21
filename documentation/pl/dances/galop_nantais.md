@@ -4,10 +4,6 @@
 
 **Nazwa**: Galop Nantais
 
-## Charakterystyka
-- W parach
-- Taniec Bretoński
-
 ## Przykłady
 
 <details>

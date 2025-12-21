@@ -4,10 +4,6 @@
 
 **Nazwa**: Rond de Saint-Vincent
 
-## Charakterystyka
-- W kole
-- Taniec Bretoński
-
 ## Przykłady
 
 <details>

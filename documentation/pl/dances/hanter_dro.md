@@ -4,9 +4,6 @@
 
 **Nazwa**: Hanter Dro
 
-## Charakterystyka
-- Taniec Bretoński
-
 ## Przykłady
 
 <details>

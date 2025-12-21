@@ -6,9 +6,6 @@
 
 **Nazwa alternatywna**: Walc na 11
 
-## Charakterystyka
-- W parach
-
 ## Przykłady
 
 <details>

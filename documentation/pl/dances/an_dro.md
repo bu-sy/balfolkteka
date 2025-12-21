@@ -4,9 +4,6 @@
 
 **Nazwa**: An Dro
 
-## Charakterystyka
-- Taniec Bretoński
-
 ## Przykłady
 
 <details>

@@ -4,11 +4,11 @@
 
 [Bal Keff](../dances/bal_keff.md)
 
-[Bourrée 2 temps](../dances/bourree_2_temps.md)
+[Bourrée 2 temps (Bourree na 2)](../dances/bourree_2_temps.md)
 
-[Bourrée 3 temps](../dances/bourree_3_temps.md)
+[Bourrée 3 temps (Bourree na 3)](../dances/bourree_3_temps.md)
 
-[Cercle Circassien](../dances/cercle_circassien.md)
+[Cercle Circassien (Cyrkiel)](../dances/cercle_circassien.md)
 
 [Chapelloise](../dances/chapelloise.md)
 
@@ -24,7 +24,7 @@
 
 [Hanter Dro](../dances/hanter_dro.md)
 
-[Irregular mazurka](../dances/mazurka_irregular.md)
+[Irregular mazurka (Nieregularna mazurka)](../dances/mazurka_irregular.md)
 
 [Madison](../dances/madison.md)
 
@@ -48,12 +48,12 @@
 
 [Scottish impaire](../dances/scottish_impaire.md)
 
-[Valse 11 temps](../dances/valse_11_temps.md)
+[Valse 11 temps (Walc na 11)](../dances/valse_11_temps.md)
 
-[Valse 3 temps](../dances/valse_3_temps.md)
+[Valse 3 temps (Walc na 3)](../dances/valse_3_temps.md)
 
-[Valse 5 temps](../dances/valse_5_temps.md)
+[Valse 5 temps (Walc na 5)](../dances/valse_5_temps.md)
 
-[Valse 8 temps](../dances/valse_8_temps.md)
+[Valse 8 temps (Walc na 8)](../dances/valse_8_temps.md)
 
 [Zwiefacher](../dances/zwiefacher.md)

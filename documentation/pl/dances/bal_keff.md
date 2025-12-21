@@ -4,9 +4,6 @@
 
 **Nazwa**: Bal Keff
 
-## Charakterystyka
-- Taniec Bretoński
-
 ## Przykłady
 
 <details>

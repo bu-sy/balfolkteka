@@ -4,9 +4,6 @@
 
 **Nazwa**: Drumul Dracului
 
-## Charakterystyka
-- W kole
-
 ## Utwory (4)
 
 <details>

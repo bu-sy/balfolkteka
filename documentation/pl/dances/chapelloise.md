@@ -4,11 +4,6 @@
 
 **Nazwa**: Chapelloise
 
-## Charakterystyka
-- Po kole
-- W parach
-- Mikser (taniec ze zmianą partnerów)
-
 ## Przykłady
 
 <details>

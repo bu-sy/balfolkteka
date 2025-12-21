@@ -4,10 +4,6 @@
 
 **Nazwa**: Rond de Landéda
 
-## Charakterystyka
-- W kole
-- Taniec Bretoński
-
 ## Przykłady
 
 <details>

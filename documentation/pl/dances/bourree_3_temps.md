@@ -6,10 +6,6 @@
 
 **Nazwa alternatywna**: Bourree na 3
 
-## Charakterystyka
-- W parach
-- Bez trzymania
-
 ## Przykłady
 
 <details>

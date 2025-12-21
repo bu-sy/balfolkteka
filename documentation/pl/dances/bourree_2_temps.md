@@ -6,15 +6,6 @@
 
 **Nazwa alternatywna**: Bourree na 2
 
-## Charakterystyka
-- Bez trzymania
-
-### Warianty
-- W parach
-- W czwórkach
-- W szóstkach
-- W kole
-
 ## Jak tańczyć
 
 <details>

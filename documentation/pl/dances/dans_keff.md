@@ -4,9 +4,6 @@
 
 **Nazwa**: Dañs Keff
 
-## Charakterystyka
-- Taniec Bretoński
-
 ## Przykłady
 
 <details>

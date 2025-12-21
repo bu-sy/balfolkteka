@@ -258,6 +258,13 @@ links:
       link: https://www.youtube.com/watch?v=qm-ohMU3ULI
     from_playlist:
     - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
+  - artist: Gonnagles
+    track_name: Honderd Harphaakjes Bourrée
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6W5e0u9DTvwdj1kQODCDWo
+    from_playlist:
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
   - artist: Hepta Polka
     track_name: Bourreé De Grande Liberté
     links:

@@ -23,7 +23,7 @@
 
 <br>
 
-## Utwory (73)
+## Utwory (74)
 
 <details>
 <summary><big>Accordzêam - <b>Hotel California</b></big></summary>
@@ -101,6 +101,8 @@
 <summary><big>Cyrille Brotto, Groove Factory, Stéphane Milleret - <b>Hypernaire</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/701o0ON1JwLkdE33ERpVqY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/36kgoYorXT58GxpM1u4h49?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>
@@ -137,6 +139,12 @@
 <summary><big>Duo Brotto Milleret - <b>Scottish pour Anatole / Inhibitude</b></big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/53yahU1o62Jw8KcuH8eX00?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Electrad - <b>Scottish Norvégienne (Scottish)</b></big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/265xkckdXV38BswiwS9boG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>

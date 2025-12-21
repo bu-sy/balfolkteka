@@ -258,6 +258,13 @@ links:
       link: https://open.spotify.com/track/2FrIlkPrvf7KhMhJ4r89aD
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+  - artist: Electrad
+    track_name: Mazurka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0jEQnJ1AQSSGhcnXS8DJzL
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: EmBRUN
     track_name: Yazurka 18
     links:

@@ -162,6 +162,13 @@ links:
       portal: Spotify
     track_name: En Dro - Live
   - artist: Plantec
+    track_name: A-raok (andro)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/34Vz3gWHv0QZWdLebRcM4d
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Plantec
     track_name: Androïde (Andro)
     links:
     - portal: Spotify

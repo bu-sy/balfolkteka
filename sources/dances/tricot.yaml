@@ -1,0 +1,56 @@
+id: tricot
+name: Tricot
+tags:
+- _breton_dance
+connected_dances:
+- hanter_dro
+- an_dro
+links:
+  examples:
+  - link: https://www.youtube.com/watch?v=R7LHVOv-8iY
+  playlists:
+  - link: https://open.spotify.com/playlist/2wXDt2cz9wyceOmQSFxif8
+  - link: https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
+  tracks:
+  - artist: Bargainatt
+    track_name: Joli mois de mai
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2cpQ1TmBX22KlkXf6YajMG
+    from_playlist:
+    - https://open.spotify.com/playlist/2wXDt2cz9wyceOmQSFxif8
+  - artist: Dos
+    track_name: Amarenas y Ciliegias (Hanter Dro_An Dro)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7ypE0AZsHVlGPn3t7shGXa
+    from_playlist:
+    - https://open.spotify.com/playlist/2wXDt2cz9wyceOmQSFxif8
+  - artist: Duetu
+    track_name: La Cabanya (Trikot)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3epqRnhJN34VPi0fsu85Xu
+    from_playlist:
+    - https://open.spotify.com/playlist/2wXDt2cz9wyceOmQSFxif8
+  - artist: Duo Absynthe
+    track_name: Dave
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3s6BET9O4Vtd2sqZbE4VjN
+    from_playlist:
+    - https://open.spotify.com/playlist/2wXDt2cz9wyceOmQSFxif8
+  - artist: Mr. Folxlide
+    track_name: Quand j'étais chez mon pére - Trikot
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1cabPhs1rUhtCURIEGptHp
+    from_playlist:
+    - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
+  - artist: Spontus
+    track_name: Ar c'helion - Trikot
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/66LiHpnVJJOFrJ1BOAtazx
+    from_playlist:
+    - https://open.spotify.com/playlist/2wXDt2cz9wyceOmQSFxif8

@@ -1,0 +1,177 @@
+id: maraichine
+name: Maraîchine
+links:
+  examples:
+  - link: https://www.youtube.com/watch?v=Q46xIA2J6IM
+  - link: https://www.youtube.com/watch?v=cGRD-TXgiWY
+  playlists:
+  - link: https://open.spotify.com/playlist/6ULURD94hBNJogf7oByGGB
+  - link: https://open.spotify.com/playlist/50ztJARsYERh5bN24BaQhM
+  - link: https://open.spotify.com/playlist/0RetIIIsTDwh2I1DLzRnAT
+  - link: https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
+  tracks:
+  - artist: Arbadétorne
+    track_name: Maraichines
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7lXswlkVw1rwbU8hoVVN6U
+    from_playlist:
+    - https://open.spotify.com/playlist/0RetIIIsTDwh2I1DLzRnAT
+    - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
+  - artist: Arbadétorne
+    track_name: Maraîchines elle est là-haut
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0bQEEQzkxCUyAuOuz3IWk9
+    from_playlist:
+    - https://open.spotify.com/playlist/0RetIIIsTDwh2I1DLzRnAT
+  - artist: Arbadétorne
+    track_name: Sur le coffre (Maraîchines)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4DUJnW5OZJm5rAjnphWvKf
+    from_playlist:
+    - https://open.spotify.com/playlist/0RetIIIsTDwh2I1DLzRnAT
+    - https://open.spotify.com/playlist/50ztJARsYERh5bN24BaQhM
+  - artist: Ciac Boum
+    track_name: Suite de maraichines
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6OuUsVVvnBPWzFm98ZLZ2A
+    from_playlist:
+    - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
+  - artist: Ciac Boum, François Robin
+    track_name: Maraîchines
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3Z3BhFNEOYXat12zEJY4qI
+    from_playlist:
+    - https://open.spotify.com/playlist/0RetIIIsTDwh2I1DLzRnAT
+    - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
+  - artist: David Morand, Erwann Tobie, Florian Kernéis, Laurent Hilairet
+    track_name: MacMogette - Maraichine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6UEVlTFbazDrEqqi9QkMMt
+    from_playlist:
+    - https://open.spotify.com/playlist/0RetIIIsTDwh2I1DLzRnAT
+  - artist: Duo Blain-Leyzour
+    track_name: Maraichine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0tYGiCpGWNHE2lkwzTJWte
+    - portal: Spotify
+      link: https://open.spotify.com/track/1UsnRyqC7BspOGzU0Fkrsi
+    from_playlist:
+    - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
+  - artist: Duo Blain-Leyzour
+    track_name: Maraîchine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2QRjHAeVcuW4DwWSIcGQ8m
+    from_playlist:
+    - https://open.spotify.com/playlist/50ztJARsYERh5bN24BaQhM
+  - artist: Duo L'Hêtre Heureux
+    track_name: Maraichine of the Fates
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6UGHK679TfmSZLFoHH9IRW
+    from_playlist:
+    - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
+  - artist: Esquisse
+    track_name: Hopopup - Maraîchine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2S7bhIepradPkZ5XdSyusB
+    from_playlist:
+    - https://open.spotify.com/playlist/0RetIIIsTDwh2I1DLzRnAT
+  - artist: Fahrenheit
+    track_name: Le bourg de Redon (maraichine)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0u50ayVgeUKSPHn1PPl4BB
+    from_playlist:
+    - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
+  - artist: La Sauterelle
+    track_name: Battements
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6Holiu1p3RPvaOzvlXLCpi
+    from_playlist:
+    - https://open.spotify.com/playlist/0RetIIIsTDwh2I1DLzRnAT
+  - artist: Le Grand Barouf
+    track_name: L'homme debout
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6JUlMxpS4hZXw5V32qpZko
+    from_playlist:
+    - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
+  - artist: Marais Vendéen
+    track_name: Suite de maraichines (Challans)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4EUnHPuoJHWTXbaijgPnTI
+    from_playlist:
+    - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
+  - artist: Mister Klof
+    track_name: Suite de maraichines
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4oq4m0971U2Hs01CNjwF6j
+    from_playlist:
+    - https://open.spotify.com/playlist/50ztJARsYERh5bN24BaQhM
+    - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
+    - https://open.spotify.com/playlist/6ULURD94hBNJogf7oByGGB
+  - artist: NOU
+    track_name: Maraichine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2ECErWCo4neyeVR9FvMGgm
+    from_playlist:
+    - https://open.spotify.com/playlist/0RetIIIsTDwh2I1DLzRnAT
+    - https://open.spotify.com/playlist/50ztJARsYERh5bN24BaQhM
+    - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
+    - https://open.spotify.com/playlist/6ULURD94hBNJogf7oByGGB
+  - artist: Planchée
+    track_name: Club IIB (maraîchine)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3okt5yRYMhQnltXWDvLjPV
+    from_playlist:
+    - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
+  - artist: Plantec
+    track_name: Holl Asambles (Maraichine)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/67TRTnN8BnjcYBy5BbQUIX
+    from_playlist:
+    - https://open.spotify.com/playlist/0RetIIIsTDwh2I1DLzRnAT
+    - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
+  - artist: Stevan Vincendeau, Willy Pichard
+    track_name: Les brumes (maraîchine)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4iMfvUcHfvoNm3rw20lF2m
+    from_playlist:
+    - https://open.spotify.com/playlist/0RetIIIsTDwh2I1DLzRnAT
+  - artist: The Zydepunks
+    track_name: La Maraichine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1SUAbzvM0gl4zjQ9TvdQc2
+    from_playlist:
+    - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
+  - artist: Tri Yann
+    track_name: Pastourelle De Saint Julien Maraichine - Bretagne-Vendee
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5myXFZtW4Hf0Ni9lSqVOOx
+    from_playlist:
+    - https://open.spotify.com/playlist/0RetIIIsTDwh2I1DLzRnAT
+  - artist: Vince Raguera
+    track_name: Maraichine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6MrElIRgtL6HmyduoE2Ppb
+    from_playlist:
+    - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6

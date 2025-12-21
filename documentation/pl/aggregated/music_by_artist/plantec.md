@@ -1,4 +1,10 @@
-# Plantec (8)
+# Plantec (10)
+
+<details>
+<summary><big>Plantec - <b>A-raok (andro)</b> (An Dro)</big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/34Vz3gWHv0QZWdLebRcM4d?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
 
 <details>
 <summary><big>Plantec - <b>Androïde (Andro)</b> (An Dro)</big></summary>
@@ -16,6 +22,12 @@
 <summary><big>Plantec - <b>Feulz - Polka</b> (Polka)</big></summary>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3JCIdE11UkJbWwhZZxWIsM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Plantec - <b>Holl Asambles (Maraichine)</b> (Maraîchine)</big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/67TRTnN8BnjcYBy5BbQUIX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>

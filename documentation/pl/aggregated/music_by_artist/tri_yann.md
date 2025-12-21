@@ -1,0 +1,7 @@
+# Tri Yann (1)
+
+<details>
+<summary><big>Tri Yann - <b>Pastourelle De Saint Julien Maraichine - Bretagne-Vendee</b> (Maraîchine)</big></summary>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5myXFZtW4Hf0Ni9lSqVOOx?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>

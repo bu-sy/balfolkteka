@@ -103,6 +103,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/701o0ON1JwLkdE33ERpVqY
+    - portal: Spotify
+      link: https://open.spotify.com/track/36kgoYorXT58GxpM1u4h49
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Cédric Aguila, Le Bal Brotto Lopez
@@ -149,6 +151,13 @@ links:
       link: https://open.spotify.com/track/53yahU1o62Jw8KcuH8eX00
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Electrad
+    track_name: Scottish Norvégienne (Scottish)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/265xkckdXV38BswiwS9boG
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Etienne Choquet, Pulcinella, Trio Loubelya
     track_name: Leo
     links:

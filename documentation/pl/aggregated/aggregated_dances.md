@@ -1,4 +1,4 @@
-# Lista wszystkich tańców (29)
+# Lista wszystkich tańców (31)
 
 [An Dro](../dances/an_dro.md)
 
@@ -28,6 +28,8 @@
 
 [Madison](../dances/madison.md)
 
+[Maraîchine](../dances/maraichine.md)
+
 [Mazurka](../dances/mazurka.md)
 
 [Pas de Sept](../dances/pas_de_sept.md)
@@ -47,6 +49,8 @@
 [Scottish](../dances/scottische.md)
 
 [Scottish impaire](../dances/scottish_impaire.md)
+
+[Tricot](../dances/tricot.md)
 
 [Valse 11 temps (Walc na 11)](../dances/valse_11_temps.md)
 

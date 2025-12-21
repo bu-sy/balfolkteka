@@ -1016,7 +1016,7 @@ links:
     track_name: BOURREE 3 TEMPS
     links:
     - portal: Soundcloud
-      link: https://soundcloud.com/lasialyre/bourree-3-temps
+      link: https://w.soundcloud.com/player/?url=https://api.soundcloud.com/tracks/soundcloud:tracks:1463257075
   - artist: Sylvie Pulles
     track_name: La bourrée des furets - Bourree
     links:

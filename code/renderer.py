@@ -21,6 +21,9 @@ def embed_youtube(link_text):
     video_id = link_text[len(prefix):]
     return '''<iframe width="100%" height="315" src="https://www.youtube.com/embed/''' + video_id + '''?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>'''
 
+def embed_soundcloud(link_text):
+    return '''<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="''' + link_text + '''&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" loading="lazy"></iframe>'''
+
 def collapsible(summary, contents):
     return f"<details>\n<summary><big>{summary}</big></summary>\n{contents}\n</details>"
 
@@ -29,6 +32,8 @@ def embed_track(link_object):
         return get_spotify_embed(link_object.link)
     elif link_object.portal.lower() == 'youtube':
         return embed_youtube(link_object.link)
+    elif link_object.portal.lower() == 'soundcloud':
+        return embed_soundcloud(link_object.link)
     else:
         return f"({link(link_object.portal, link_object.link)})"
 

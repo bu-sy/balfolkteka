@@ -18,6 +18,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0wuB1TYzMukURWXqzAfCJu
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=hN64YHXAI9A
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
   - artist: Ampouailh
@@ -25,6 +27,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4wSi9BZ3ctQqM6C1d8qLTI
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=v1jZC5yu-ZI
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
   - artist: Ampouailh
@@ -32,6 +36,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3AhdFAJ7HzN9HdscUIuWTu
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=v1jZC5yu-ZI
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
   - artist: BAROK, Ronan Pellen
@@ -39,6 +45,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7yg6AEjsqzmw7u5ovf6nWn
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=0M4TTknulgQ
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
   - artist: Beat Bouet Trio, Fabs
@@ -46,6 +54,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/48fDhSrERJXLG6AJEQjFch
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_9Rbij3kR8E
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
   - artist: Carré Manchot

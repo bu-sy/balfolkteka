@@ -1,5 +1,7 @@
 # KKC Orchestra (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>CPC, KKC Orchestra - <b>Cau te mena</b> (Bourrée 3 temps)</big></summary>
 

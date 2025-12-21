@@ -1,5 +1,7 @@
 # Floating Sofa Quartet (9)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Floating Sofa Quartet - <b>Anjalan Sannan Valssi</b> (Valse 3 temps)</big></summary>
 

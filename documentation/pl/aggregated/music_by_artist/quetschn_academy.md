@@ -1,5 +1,7 @@
 # Quetschn Academy (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Quetschn Academy - <b>Unsre alte Kath - BEsAsDes</b> (Zwiefacher)</big></summary>
 

@@ -1,5 +1,7 @@
 # Spontus (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Spontus - <b>Ar c'helion - Trikot</b> (Tricot)</big></summary>
 

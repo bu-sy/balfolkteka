@@ -1,5 +1,7 @@
 # Androneda (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Androneda - <b>Midzomercirkel - Live</b> (Cercle Circassien)</big></summary>
 

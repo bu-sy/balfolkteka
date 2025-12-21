@@ -1,5 +1,7 @@
 # Renat Jurie (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Jean-Pierre Lafitte, Renat Jurie - <b>Ont es passant - Qau te mena bela</b> (Bourrée 3 temps)</big></summary>
 

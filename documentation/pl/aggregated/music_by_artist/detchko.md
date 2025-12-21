@@ -1,5 +1,7 @@
 # Detchko (7)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Detchko - <b>Au 19 de l'avenue Descartes</b> (Valse 3 temps)</big></summary>
 

@@ -1,5 +1,7 @@
 # Skolvan (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Skolvan - <b>Coquin cherche coquine - Mazurka</b> (Mazurka)</big></summary>
 

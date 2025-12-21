@@ -1,5 +1,7 @@
 # Eric Champion (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Eric Champion - <b>Giate des Combrailles</b> (Bourrée 3 temps)</big></summary>
 

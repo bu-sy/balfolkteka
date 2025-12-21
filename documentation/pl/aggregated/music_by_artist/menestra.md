@@ -1,5 +1,7 @@
 # Menestra (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Menestra - <b>Hanter dro (Début)</b> (Hanter Dro)</big></summary>
 

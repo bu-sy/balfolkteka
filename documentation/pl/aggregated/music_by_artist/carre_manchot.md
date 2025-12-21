@@ -1,5 +1,7 @@
 # Carré Manchot (7)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Carré Manchot - <b>An dro / neg la cho</b> (An Dro)</big></summary>
 

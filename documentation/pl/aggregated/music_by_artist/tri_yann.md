@@ -1,5 +1,7 @@
 # Tri Yann (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Tri Yann - <b>Pastourelle De Saint Julien Maraichine - Bretagne-Vendee</b> (Maraîchine)</big></summary>
 

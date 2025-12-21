@@ -1,5 +1,7 @@
 # Simone Sims Longo (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Duo Bottasso, Simone Sims Longo - <b>Samarazurka</b> (Mazurka)</big></summary>
 

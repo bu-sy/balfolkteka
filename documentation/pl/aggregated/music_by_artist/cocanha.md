@@ -1,5 +1,7 @@
 # Cocanha (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Cocanha - <b>La valsa d'emiliana</b> (Valse 3 temps)</big></summary>
 

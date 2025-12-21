@@ -1,5 +1,7 @@
 # Oîma (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Oîma - <b>Xirar Hei!</b> (Valse 5 temps)</big></summary>
 

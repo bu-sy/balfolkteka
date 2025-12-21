@@ -1,5 +1,7 @@
 # Kreiz Breizh Akademi (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Kreiz Breizh Akademi - <b>La Calha</b> (Bourrée 3 temps)</big></summary>
 

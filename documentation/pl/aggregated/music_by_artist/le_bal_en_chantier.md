@@ -1,5 +1,7 @@
 # Le Bal en Chantier (7)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Le Bal en Chantier - <b>Faydit Longway</b> (Chapelloise)</big></summary>
 

@@ -1,5 +1,7 @@
 # Bal O'Gadjo (6)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Bal O'Gadjo - <b>Bourrée au ouzo</b> (Bourrée 2 temps)</big></summary>
 

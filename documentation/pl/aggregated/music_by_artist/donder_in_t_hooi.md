@@ -1,5 +1,7 @@
 # Donder in't hooi (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Donder in't hooi - <b>Trip to skye</b> (Valse 3 temps)</big></summary>
 

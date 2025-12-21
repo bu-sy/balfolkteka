@@ -1,5 +1,7 @@
 # Aurélien Claranbaux (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Aurélien Claranbaux - <b>Arrow in the Milkyway - La poule et la bombe</b> (Cercle Circassien)</big></summary>
 

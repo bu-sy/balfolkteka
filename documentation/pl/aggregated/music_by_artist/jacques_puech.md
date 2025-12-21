@@ -1,5 +1,7 @@
 # Jacques Puech (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Bourrasque, Jacques Puech - <b>Bourrée à Lachaud / Bourrée à Gavinet</b> (Bourrée 3 temps)</big></summary>
 

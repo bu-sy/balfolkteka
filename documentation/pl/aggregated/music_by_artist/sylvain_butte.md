@@ -1,5 +1,7 @@
 # Sylvain Butté (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Sylvain Butté - <b>La paire de Saulxures</b> (Mazurka)</big></summary>
 

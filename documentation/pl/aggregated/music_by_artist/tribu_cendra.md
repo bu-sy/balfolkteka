@@ -1,5 +1,7 @@
 # Tribu Cendra (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Tribu Cendra - <b>Variaciones ebrias</b> (Valse 3 temps)</big></summary>
 

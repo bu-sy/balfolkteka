@@ -1,5 +1,7 @@
 # Melonious Quartet (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Kepa Junkera, Melonious Quartet - <b>Fandango</b> (Fandango & Arin Arin)</big></summary>
 

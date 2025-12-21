@@ -1,5 +1,7 @@
 # Trilla (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Trilla - <b>Bourrée</b> (Bourrée 2 temps)</big></summary>
 

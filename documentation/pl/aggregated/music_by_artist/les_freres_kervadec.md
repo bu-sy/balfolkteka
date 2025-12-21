@@ -1,5 +1,7 @@
 # Les frères Kervadec (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Les frères Kervadec - <b>Hanter dro du pays Breton</b> (Hanter Dro)</big></summary>
 

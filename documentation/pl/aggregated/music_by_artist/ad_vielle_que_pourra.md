@@ -1,5 +1,7 @@
 # Ad Vielle Que Pourra (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Ad Vielle Que Pourra - <b>Chupad Melen/Hanterdro Tid' Poc'h</b> (Hanter Dro)</big></summary>
 

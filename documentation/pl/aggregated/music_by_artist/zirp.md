@@ -1,5 +1,7 @@
 # Zirp (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Zirp - <b>El Vals</b> (Valse 3 temps)</big></summary>
 

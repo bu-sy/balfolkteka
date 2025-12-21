@@ -1,5 +1,7 @@
 # Dave Shepherd (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Becky Price, Dave Shepherd - <b>Trip to Barnard</b> (Chapelloise)</big></summary>
 

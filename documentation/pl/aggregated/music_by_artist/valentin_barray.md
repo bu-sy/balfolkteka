@@ -1,5 +1,7 @@
 # Valentin Barray (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Valentin Barray - <b>Hanter dro</b> (Hanter Dro)</big></summary>
 

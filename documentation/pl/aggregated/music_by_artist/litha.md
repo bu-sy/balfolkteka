@@ -1,5 +1,7 @@
 # Litha (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Litha - <b>Zwiefache</b> (Zwiefacher)</big></summary>
 

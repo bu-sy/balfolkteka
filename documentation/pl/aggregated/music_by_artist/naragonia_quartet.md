@@ -1,5 +1,7 @@
 # Naragonia Quartet (10)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Naragonia, Naragonia Quartet - <b>Angiolino - Valzer di Monticello</b> (Valse 3 temps)</big></summary>
 

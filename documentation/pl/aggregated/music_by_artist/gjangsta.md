@@ -1,5 +1,7 @@
 # Gjangsta (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Gjangsta - <b>Mandoliini polka</b> (Polka)</big></summary>
 

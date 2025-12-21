@@ -1,6 +1,6 @@
 # Scottish
 
-[Lista wszystkich tańców](../aggregated/aggregated_dances.md)
+[Powrót do listy tańców](../aggregated/aggregated_dances.md)
 
 **Nazwa**: Scottish
 

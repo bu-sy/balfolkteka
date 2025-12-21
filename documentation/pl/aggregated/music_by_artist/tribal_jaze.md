@@ -1,5 +1,7 @@
 # Tribal Jâze (7)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Tribal Jâze - <b>Circus</b> (Cercle Circassien)</big></summary>
 

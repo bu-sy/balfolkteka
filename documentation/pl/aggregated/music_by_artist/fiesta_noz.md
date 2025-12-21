@@ -1,5 +1,7 @@
 # Fiesta Noz (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Fiesta Noz - <b>La Danse de L'ours</b> (Danse de l'Ours)</big></summary>
 

@@ -1,5 +1,7 @@
 # Duo Sciapò (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Duo Sciapò - <b>Gau's Jig</b> (Cercle Circassien)</big></summary>
 

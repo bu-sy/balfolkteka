@@ -1,5 +1,7 @@
 # ba.fnu (6)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>ba.fnu - <b>Cirque cirkusy jen (cercle)</b> (Cercle Circassien)</big></summary>
 

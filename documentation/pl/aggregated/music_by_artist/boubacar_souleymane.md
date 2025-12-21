@@ -1,5 +1,7 @@
 # Boubacar Souleymane (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Boubacar Souleymane, Le Bour Bodros - <b>Roc'h vrein - Hanter dro</b> (Hanter Dro)</big></summary>
 

@@ -1,5 +1,7 @@
 # BellónMaceiras (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>BellónMaceiras - <b>Mazurca Piponesa</b> (Mazurka)</big></summary>
 

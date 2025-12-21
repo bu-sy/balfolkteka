@@ -1,5 +1,7 @@
 # Hamon Martin Quintet (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Hamon Martin Quintet - <b>La nousille</b> (Rond de Saint-Vincent)</big></summary>
 

@@ -1,5 +1,7 @@
 # Jo Zanders (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Fabiola Fernandes, Jo Zanders, Kv Express - <b>Six qui prend</b> (Chapelloise)</big></summary>
 

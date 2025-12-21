@@ -1,5 +1,7 @@
 # Passant Par Paris (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Passant Par Paris - <b>Passant par Paris (bourrée 2 temps)</b> (Bourrée 2 temps)</big></summary>
 

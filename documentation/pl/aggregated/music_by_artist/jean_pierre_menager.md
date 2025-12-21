@@ -1,5 +1,7 @@
 # Jean-Pierre Menager (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Jean-Pierre Menager - <b>Broken Promises</b> (Valse 3 temps)</big></summary>
 

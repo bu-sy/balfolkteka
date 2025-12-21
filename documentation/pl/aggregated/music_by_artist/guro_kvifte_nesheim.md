@@ -1,5 +1,7 @@
 # Guro Kvifte Nesheim (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Floating Sofa Quartet, Guro Kvifte Nesheim - <b>Itämeri-sottiisit</b> (Scottish)</big></summary>
 

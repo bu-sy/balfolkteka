@@ -1,5 +1,7 @@
 # Charanga (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Charanga - <b>Repasseado sem Fronteiras</b> (Repasseado)</big></summary>
 

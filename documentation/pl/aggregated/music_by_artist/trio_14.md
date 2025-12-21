@@ -1,5 +1,7 @@
 # Trio 14 (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Trio 14 - <b>Mazurka</b> (Mazurka)</big></summary>
 

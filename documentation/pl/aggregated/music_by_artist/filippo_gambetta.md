@@ -1,5 +1,7 @@
 # Filippo Gambetta (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Carmelo Russo, Filippo Gambetta, Sergio Caputo - <b>Mazurka Bordeaux</b> (Mazurka)</big></summary>
 

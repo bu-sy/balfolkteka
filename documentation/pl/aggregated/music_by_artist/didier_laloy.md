@@ -1,5 +1,7 @@
 # Didier Laloy (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Didier Laloy, Fabian Beghin - <b>Ambroise's Forest Party</b> (Cercle Circassien)</big></summary>
 

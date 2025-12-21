@@ -1,5 +1,7 @@
 # Original Occitana (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Original Occitana - <b>Miserere</b> (Valse 3 temps)</big></summary>
 

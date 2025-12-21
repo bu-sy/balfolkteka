@@ -1,5 +1,7 @@
 # Djal (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Djal - <b>Ebenine</b> (Valse 8 temps)</big></summary>
 

@@ -1,5 +1,7 @@
 # Wim te Groen (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Wim te Groen - <b>Wat Een Leuk Walsje (Mazurka)</b> (Mazurka)</big></summary>
 

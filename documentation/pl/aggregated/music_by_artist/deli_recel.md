@@ -1,5 +1,7 @@
 # Deli Reçel (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Deli Reçel, Kaan Sancakar, Kardelen Pınar - <b>Bosnian Scottish Impaire</b> (Scottish impaire)</big></summary>
 

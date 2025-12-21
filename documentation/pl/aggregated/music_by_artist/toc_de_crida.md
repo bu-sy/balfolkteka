@@ -1,5 +1,7 @@
 # Toc de Crida (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Toc de Crida - <b>Vals d'aigua</b> (Valse 3 temps)</big></summary>
 

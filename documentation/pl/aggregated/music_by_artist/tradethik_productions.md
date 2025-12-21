@@ -1,5 +1,7 @@
 # Tradethik Productions (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Cadène, Camille Raibaud, Julien Barbances, Sylvain Quéré, Tiennet Simonnin, Tradethik Productions - <b>À la loop - Vendémiaire</b> (Bourrée 3 temps)</big></summary>
 

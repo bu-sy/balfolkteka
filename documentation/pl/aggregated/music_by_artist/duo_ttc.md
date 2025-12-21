@@ -1,5 +1,7 @@
 # Duo TTC (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Duo TTC - <b>La valse à viseur</b> (Valse 3 temps)</big></summary>
 

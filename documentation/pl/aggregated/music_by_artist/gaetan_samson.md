@@ -1,5 +1,7 @@
 # Gaëtan Samson (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Gaëtan Samson, Le Bour Bodros - <b>Café vert</b> (Cercle Circassien)</big></summary>
 

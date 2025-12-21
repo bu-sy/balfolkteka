@@ -1,5 +1,7 @@
 # Duo Absynthe (17)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Duo Absynthe - <b>Albitzur</b> (Fandango & Arin Arin)</big></summary>
 

@@ -1,5 +1,7 @@
 # André Le Meut (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>André Le Meut, Philippe Bataille - <b>Hanter dro</b> (Hanter Dro)</big></summary>
 

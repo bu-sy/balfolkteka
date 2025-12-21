@@ -1,5 +1,7 @@
 # Femme Folk (10)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Femme Folk - <b>Amélie la dispute / J'y suis jamais allée / La noyée</b> (Valse 3 temps)</big></summary>
 

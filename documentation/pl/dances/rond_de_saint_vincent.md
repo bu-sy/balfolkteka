@@ -1,6 +1,6 @@
 # Rond de Saint-Vincent
 
-[Lista wszystkich tańców](../aggregated/aggregated_dances.md)
+[Powrót do listy tańców](../aggregated/aggregated_dances.md)
 
 **Nazwa**: Rond de Saint-Vincent
 

@@ -1,5 +1,7 @@
 # Auka (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Auka - <b>Emigrante</b> (Valse 3 temps)</big></summary>
 

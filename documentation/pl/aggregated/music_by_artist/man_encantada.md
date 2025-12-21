@@ -1,5 +1,7 @@
 # Man Encantada (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Man Encantada - <b>Co qu'a don heit de jo</b> (Bourrée 2 temps)</big></summary>
 

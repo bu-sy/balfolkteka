@@ -1,5 +1,7 @@
 # Snaamaarwaar (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Le Mange Bal, Snaamaarwaar - <b>Le pays des gens sans mémoire - Snaamaarwaar Remix</b> (Bourrée 2 temps)</big></summary>
 

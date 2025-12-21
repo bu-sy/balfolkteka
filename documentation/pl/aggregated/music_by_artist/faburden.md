@@ -1,5 +1,7 @@
 # Faburden (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Faburden - <b>Bourrée du Berry / Bourrée de sauvetage</b> (Bourrée 3 temps)</big></summary>
 

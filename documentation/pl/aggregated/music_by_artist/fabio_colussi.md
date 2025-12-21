@@ -1,5 +1,7 @@
 # Fabio Colussi (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Fabio Colussi - <b>L'attesa di Camilla</b> (Mazurka)</big></summary>
 

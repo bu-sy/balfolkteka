@@ -1,5 +1,7 @@
 # Le Sextet à Claques (6)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Le Sextet à Claques - <b>Derniers sourires</b> (Mazurka)</big></summary>
 

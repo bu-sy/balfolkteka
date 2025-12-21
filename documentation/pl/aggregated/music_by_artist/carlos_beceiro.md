@@ -1,5 +1,7 @@
 # Carlos Beceiro (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Carlos Beceiro, Martina Quiere Bailar - <b>Valsurka</b> (Mazurka)</big></summary>
 

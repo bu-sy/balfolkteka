@@ -1,5 +1,7 @@
 # Marais Vendéen (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Marais Vendéen - <b>Suite de maraichines (Challans)</b> (Maraîchine)</big></summary>
 

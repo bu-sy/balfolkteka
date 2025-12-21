@@ -1,5 +1,7 @@
 # Red Cardell (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Bagad Kemper, Red Cardell - <b>Hanter dro</b> (Hanter Dro)</big></summary>
 

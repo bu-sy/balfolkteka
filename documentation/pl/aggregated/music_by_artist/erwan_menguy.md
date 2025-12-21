@@ -1,5 +1,7 @@
 # Erwan Menguy (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Erwan Menguy - <b>Tempus fugit</b> (Valse 3 temps)</big></summary>
 

@@ -1,5 +1,7 @@
 # Sun and Moon Dance (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Sun and Moon Dance - <b>Savitaipaleen polkka</b> (Polka)</big></summary>
 

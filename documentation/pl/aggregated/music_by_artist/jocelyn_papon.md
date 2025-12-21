@@ -1,5 +1,7 @@
 # Jocelyn Papon (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Abdel Bouzbiba, Clément Rousse, Guillaume Lopez, Jocelyn Papon, Sébastien Gisbert - <b>Cercle de Thoux - Cercle Circassien</b> (Cercle Circassien)</big></summary>
 

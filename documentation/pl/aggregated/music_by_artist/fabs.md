@@ -1,5 +1,7 @@
 # Fabs (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Beat Bouet Trio, Fabs - <b>Ce Travail (Rond de St Vincent)</b> (Rond de Saint-Vincent)</big></summary>
 

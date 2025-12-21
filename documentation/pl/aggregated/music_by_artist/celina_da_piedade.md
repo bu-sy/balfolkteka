@@ -1,5 +1,7 @@
 # Celina Da Piedade (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Celina Da Piedade - <b>Calimero e a Pêra Verde</b> (Hanter Dro)</big></summary>
 

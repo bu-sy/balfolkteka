@@ -1,5 +1,7 @@
 # Potes Flor' (Diou Flo) (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Potes Flor' (Diou Flo) - <b>Hanter Dro</b> (Hanter Dro)</big></summary>
 

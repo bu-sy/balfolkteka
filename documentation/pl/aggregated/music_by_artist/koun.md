@@ -1,5 +1,7 @@
 # Koun (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Koun - <b>Hanter Dro - Ar paueger pariz</b> (Hanter Dro)</big></summary>
 

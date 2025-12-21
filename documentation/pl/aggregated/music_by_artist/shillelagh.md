@@ -1,5 +1,7 @@
 # Shillelagh (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Shillelagh - <b>13 Wals voor Polle - Live</b> (Valse 3 temps)</big></summary>
 

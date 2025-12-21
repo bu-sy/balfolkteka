@@ -1,5 +1,7 @@
 # An Tour Tan (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>An Tour Tan, Didier Squiban, Yann-Fañch Kemener - <b>Ma gwir amour (hanter dro)</b> (Hanter Dro)</big></summary>
 

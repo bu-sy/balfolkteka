@@ -1,5 +1,7 @@
 # ORAJ (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>ORAJ - <b>Décharmée</b> (Mazurka)</big></summary>
 

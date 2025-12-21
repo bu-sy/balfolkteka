@@ -1,5 +1,7 @@
 # Patxi eta konpania (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Patxi eta konpania - <b>Fandangoa</b> (Fandango & Arin Arin)</big></summary>
 

@@ -1,5 +1,7 @@
 # Kitus (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Kitus - <b>Les mouettes</b> (Valse 5 temps)</big></summary>
 

@@ -1,5 +1,7 @@
 # EmBRUN (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>EmBRUN - <b>Yazurka 18</b> (Mazurka)</big></summary>
 

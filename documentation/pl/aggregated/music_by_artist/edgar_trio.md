@@ -1,5 +1,7 @@
 # Edgar Trio (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Edgar Trio, Regis Huiban - <b>Le chant des lucioles (Rond de Saint-Vincent)</b> (Rond de Saint-Vincent)</big></summary>
 

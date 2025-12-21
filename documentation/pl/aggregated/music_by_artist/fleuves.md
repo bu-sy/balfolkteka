@@ -1,5 +1,7 @@
 # Fleuves (5)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Fleuves - <b>Andro</b> (An Dro)</big></summary>
 

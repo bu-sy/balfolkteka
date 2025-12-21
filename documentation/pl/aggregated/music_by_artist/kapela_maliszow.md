@@ -1,5 +1,7 @@
 # Kapela Maliszów (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Kapela Maliszów - <b>Wiązanka Polek</b> (Polka)</big></summary>
 

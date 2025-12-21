@@ -1,5 +1,7 @@
 # Hans Houckes (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Alfons Verreijt, Erno Korpershoek, Gunnar Graafmans, Hans Houckes, Jan-Paul van der Hoeven, Peter Moree, Robert Lobbesteijn, Simon Diaz Diaz, Theo Schuurmans - <b>Valse Atlantique</b> (Valse 3 temps)</big></summary>
 

@@ -1,5 +1,7 @@
 # Chnoques (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Chnoques - <b>La Jeanne sur le banc / Maries-toi Juliette (bourrées)</b> (Bourrée 3 temps)</big></summary>
 

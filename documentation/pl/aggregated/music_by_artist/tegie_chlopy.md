@@ -1,5 +1,7 @@
 # Tęgie Chłopy (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Tęgie Chłopy - <b>Polka Żydówka</b> (Polka)</big></summary>
 

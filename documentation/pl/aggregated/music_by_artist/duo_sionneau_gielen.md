@@ -1,5 +1,7 @@
 # Duo Sionneau/Gielen (7)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Duo Sionneau/Gielen - <b>Berry Tour</b> (Bourrée 2 temps)</big></summary>
 

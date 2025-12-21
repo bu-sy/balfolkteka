@@ -1,5 +1,7 @@
 # Broes (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Broes - <b>Dr. Tweety</b> (Bourrée 2 temps)</big></summary>
 

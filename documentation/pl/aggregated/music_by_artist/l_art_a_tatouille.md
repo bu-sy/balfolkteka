@@ -1,5 +1,7 @@
 # L'Art À Tatouille (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>L'Art À Tatouille - <b>La danse de l'ours</b> (Danse de l'Ours)</big></summary>
 

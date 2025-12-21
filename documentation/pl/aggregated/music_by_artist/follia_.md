@@ -1,5 +1,7 @@
 # Follia! (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Follia! - <b>Bourrée de Brazil</b> (Bourrée 3 temps)</big></summary>
 

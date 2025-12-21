@@ -1,5 +1,7 @@
 # zffrs (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Zef, zffrs - <b>Solitude</b> (Mazurka)</big></summary>
 

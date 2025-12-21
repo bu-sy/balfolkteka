@@ -1,5 +1,7 @@
 # Alexandra Lacouchie (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Alexandra Lacouchie, Le Bal Brotto Lopez - <b>Passat deman - Bourrée</b> (Bourrée 3 temps)</big></summary>
 

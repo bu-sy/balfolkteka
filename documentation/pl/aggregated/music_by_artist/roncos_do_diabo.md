@@ -1,5 +1,7 @@
 # Roncos do Diabo (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Roncos do Diabo - <b>Repasseado</b> (Repasseado)</big></summary>
 

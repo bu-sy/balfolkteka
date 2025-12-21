@@ -1,5 +1,7 @@
 # Ballsy Swing (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Ballsy Swing - <b>Les pulls à Lucas (Chapelloise)</b> (Chapelloise)</big></summary>
 

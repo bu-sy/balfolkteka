@@ -1,5 +1,7 @@
 # Didier Squiban (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Didier Squiban, Yann-Fañch Kemener - <b>An dro</b> (An Dro)</big></summary>
 

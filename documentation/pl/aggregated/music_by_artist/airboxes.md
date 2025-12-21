@@ -1,5 +1,7 @@
 # Airboxes (10)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Airboxes - <b>Bosvelden</b> (Mazurka)</big></summary>
 

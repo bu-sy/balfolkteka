@@ -1,5 +1,7 @@
 # Laüsa (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Laüsa - <b>Beth cèu de Pau</b> (Mazurka)</big></summary>
 

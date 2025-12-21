@@ -1,5 +1,7 @@
 # Le bal de l'éphémère (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Le bal de l'éphémère - <b>Déchance (Bourrée 3 temps)</b> (Bourrée 3 temps)</big></summary>
 

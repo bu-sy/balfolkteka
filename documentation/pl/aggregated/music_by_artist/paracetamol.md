@@ -1,5 +1,7 @@
 # Paracetamol (5)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Paracetamol - <b>Blood brothers</b> (Bourrée 3 temps)</big></summary>
 

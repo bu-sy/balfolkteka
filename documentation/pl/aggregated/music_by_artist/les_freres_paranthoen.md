@@ -1,5 +1,7 @@
 # Les Frères Paranthoën (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Les Frères Paranthoën - <b>Er verig yaouank - Hanter dro</b> (Hanter Dro)</big></summary>
 

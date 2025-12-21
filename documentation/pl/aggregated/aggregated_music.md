@@ -1,5 +1,7 @@
 # Lista wszystkich utworów (994)
 
+[Powrót do listy stron](../home.md)
+
 <details>
 <summary><big>'Ndiaz - <b>Hanv Yen</b> (Rond de Saint-Vincent)</big></summary>
 

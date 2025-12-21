@@ -1,5 +1,7 @@
 # Poolidor (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Julien Barbances, Poolidor - <b>Passera le temps</b> (Mazurka)</big></summary>
 

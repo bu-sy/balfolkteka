@@ -1,5 +1,7 @@
 # Diwall (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Diwall - <b>Scotch brein</b> (Scottish)</big></summary>
 

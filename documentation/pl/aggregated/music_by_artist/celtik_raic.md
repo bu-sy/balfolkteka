@@ -1,5 +1,7 @@
 # Celtik'raic (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Celtik'raic - <b>La valse des craiks</b> (Valse 3 temps)</big></summary>
 

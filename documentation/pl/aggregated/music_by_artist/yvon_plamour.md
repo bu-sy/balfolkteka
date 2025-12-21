@@ -1,5 +1,7 @@
 # Yvon Plamour (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Alain Buhé, Groupe Jabadao, Loeiz Ropars, Yvon Plamour - <b>Hanter dro</b> (Hanter Dro)</big></summary>
 

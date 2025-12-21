@@ -1,5 +1,7 @@
 # NOU (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>NOU - <b>Bourrée trois temps</b> (Bourrée 3 temps)</big></summary>
 

@@ -1,5 +1,7 @@
 # Elanor (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Elanor - <b>Blown Away - Nuit Noire</b> (Cercle Circassien)</big></summary>
 

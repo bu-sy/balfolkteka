@@ -1,5 +1,7 @@
 # Hodorog András (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Bencze Balázs, Benke Grátzy, Hodorog András, Rossa Levente Bors - <b>Ördög Útja - Demo</b> (Drumul Dracului)</big></summary>
 

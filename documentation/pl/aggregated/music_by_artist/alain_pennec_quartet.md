@@ -1,5 +1,7 @@
 # Alain Pennec Quartet (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Alain Pennec Quartet - <b>Hanterdroide - Je vous le demande - Hanter Dro</b> (Hanter Dro)</big></summary>
 

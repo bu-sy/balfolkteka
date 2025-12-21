@@ -1,5 +1,7 @@
 # Duo Oliver-Sentou (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Duo Oliver-Sentou - <b>Passat Deman</b> (Bourrée 3 temps)</big></summary>
 

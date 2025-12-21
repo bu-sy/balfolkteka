@@ -1,5 +1,7 @@
 # Kerbedig (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Kerbedig - <b>Hanterdro : An dilhad Sul - Live</b> (Hanter Dro)</big></summary>
 

@@ -1,5 +1,7 @@
 # Trio Patrick Bouffard (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Trio Patrick Bouffard - <b>Mazerie / Chevreuils</b> (Bourrée 3 temps)</big></summary>
 

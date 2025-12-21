@@ -1,5 +1,7 @@
 # Noluen Le Buhe (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Annie Ebrel, Marthe Vassallo, Noluen Le Buhe - <b>Hanter dro</b> (Hanter Dro)</big></summary>
 

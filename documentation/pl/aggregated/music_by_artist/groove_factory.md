@@ -1,5 +1,7 @@
 # Groove Factory (7)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Groove Factory - <b>À l'Ombre des Cèdres</b> (Mazurka)</big></summary>
 

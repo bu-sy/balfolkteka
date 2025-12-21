@@ -1,5 +1,7 @@
 # Wipidoup (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Wipidoup - <b>Mademoiselle Ficelle - Rond De Saint-Vincent</b> (Rond de Saint-Vincent)</big></summary>
 

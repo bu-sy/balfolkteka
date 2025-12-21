@@ -1,5 +1,7 @@
 # Simon Mary (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Marian Iacob Maciuca, Ronan Robert, Simon Mary - <b>Patience infuse</b> (Cercle Circassien)</big></summary>
 

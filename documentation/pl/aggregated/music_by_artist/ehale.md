@@ -1,5 +1,7 @@
 # EHALE (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>EHALE - <b>The Limping Frog</b> (Bourrée 2 temps)</big></summary>
 

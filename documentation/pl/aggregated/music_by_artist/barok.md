@@ -1,5 +1,7 @@
 # BAROK (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>BAROK, Ronan Pellen - <b>Les pies se pavanent (Rond de Saint-Vincent)</b> (Rond de Saint-Vincent)</big></summary>
 

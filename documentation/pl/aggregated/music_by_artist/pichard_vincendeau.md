@@ -1,5 +1,7 @@
 # Pichard Vincendeau (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Pichard Vincendeau, Stevan Vincendeau, Willy Pichard - <b>Vermel</b> (Mazurka)</big></summary>
 

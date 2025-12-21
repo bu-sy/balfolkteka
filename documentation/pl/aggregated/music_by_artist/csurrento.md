@@ -1,5 +1,7 @@
 # Csürrentő (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Csürrentő - <b>Ördög útja</b> (Drumul Dracului)</big></summary>
 

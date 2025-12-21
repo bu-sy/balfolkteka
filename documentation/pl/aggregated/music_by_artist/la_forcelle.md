@@ -1,5 +1,7 @@
 # La Forcelle (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>La Forcelle - <b>Cercle de Barbastro</b> (Cercle Circassien)</big></summary>
 

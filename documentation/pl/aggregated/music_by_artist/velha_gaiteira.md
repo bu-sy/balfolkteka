@@ -1,5 +1,7 @@
 # Velha Gaiteira (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Velha Gaiteira - <b>Repasseado + Antigo Baile Agarrado</b> (Repasseado)</big></summary>
 

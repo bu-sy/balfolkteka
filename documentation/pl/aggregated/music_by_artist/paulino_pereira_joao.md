@@ -1,5 +1,7 @@
 # Paulino Pereira João (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Domingos Alfredo Flacão, Paulina José Raoso, Paulino Pereira João - <b>Repasseado</b> (Repasseado)</big></summary>
 

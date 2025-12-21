@@ -1,6 +1,6 @@
 # Valse 5 temps
 
-[Lista wszystkich tańców](../aggregated/aggregated_dances.md)
+[Powrót do listy tańców](../aggregated/aggregated_dances.md)
 
 **Nazwa**: Valse 5 temps
 

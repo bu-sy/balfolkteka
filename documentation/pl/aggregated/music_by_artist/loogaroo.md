@@ -1,5 +1,7 @@
 # Loogaroo (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Loogaroo - <b>Certuban</b> (Hanter Dro)</big></summary>
 

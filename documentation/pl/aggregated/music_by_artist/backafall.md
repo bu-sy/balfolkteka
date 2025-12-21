@@ -1,5 +1,7 @@
 # Bäckafall (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Bäckafall, Woodlands - <b>Hanter Dro</b> (Hanter Dro)</big></summary>
 

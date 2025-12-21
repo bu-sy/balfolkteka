@@ -48,7 +48,7 @@ def render_dance(loaded_dance, loaded_translation, all_dances, directory_structu
     lines = [
         f"# {loaded_dance.get('name')}",
         link(
-            loaded_translation.get_page_name('aggregated_list_of_dances'),
+            loaded_translation.get_keyword('back_to_list_of_dances'),
             directory_structure.get_aggregated_dances_path(directory_structure.get_dance_file_path(loaded_dance))
         ),
         f"**{loaded_translation.get_keyword('name')}**: {loaded_dance.get('name')}"
@@ -116,28 +116,40 @@ def render_aggregated_dances(all_dances, loaded_translation, directory_structure
         dance_alt_name = loaded_translation.get_alt_name(dance_obj.get('id'))
         return f"{dance_name} ({dance_alt_name})" if dance_alt_name else dance_name
 
+    current_file = directory_structure.get_aggregated_dances_path()
     write_file(
         "\n\n".join([
            f"# {loaded_translation.get_page_name('aggregated_list_of_dances') } ({len(all_dances)})"
+        ] + [
+            link(
+                loaded_translation.get_keyword('back_to_the_list_of_pages'),
+                directory_structure.get_home_page_path(relative_to=current_file)
+            )
         ] + [
             link(
                 dance_line(dance),
                 directory_structure.get_dance_file_path(dance, directory_structure.get_aggregated_dances_path())
             ) for dance in sorted(all_dances, key=lambda x: normalize(x.get('name')))
         ]),
-        directory_structure.get_aggregated_dances_path()
+        current_file
     )
 
 def render_aggregated_music(all_music, loaded_translation, directory_structure):
+    current_file = directory_structure.get_aggregated_music_path()
     write_file(
         "\n\n".join([
             f"# {loaded_translation.get_page_name('aggregated_list_of_music')} ({len(all_music)})"
+        ] + [
+            link(
+                loaded_translation.get_keyword('back_to_the_list_of_pages'),
+                directory_structure.get_home_page_path(relative_to=current_file)
+            )
         ] + [
             music_collapsible_section(music, True)
             for music
             in sorted(all_music, key=lambda x: (normalize(x.artist), normalize(x.track_name)))
         ]),
-        directory_structure.get_aggregated_music_path()
+        current_file
     )
 
 def render_music_by_artist(all_music, loaded_translation, directory_structure):
@@ -147,23 +159,37 @@ def render_music_by_artist(all_music, loaded_translation, directory_structure):
         for found_artist in artists_for_that_music:
             artists[found_artist] = artists.get(found_artist, []) + [music]
     for artist, artists_music in artists.items():
+        current_file = directory_structure.get_music_by_artist(artist)
         write_file(
             "\n\n".join([
                 f"# {artist} ({len(artists_music)})"
             ] + [
+            link(
+                loaded_translation.get_keyword('back_to_list_of_artists'), directory_structure.get_aggregated_music_by_artist(
+                    relative_to=current_file
+                )
+            )] + [
                 music_collapsible_section(music, True) for music in sorted(artists_music, key=lambda x: normalize(x.track_name))
             ]),
-            directory_structure.get_music_by_artist(artist)
+            current_file
         )
 
+    current_file = directory_structure.get_aggregated_music_by_artist()
     write_file(
         "\n\n".join([
+            f"# {loaded_translation.get_page_name('aggregated_list_of_artists')} ({len(artists)})"
+            ] + [
+                link(
+                    loaded_translation.get_keyword('back_to_the_list_of_pages'),
+                    directory_structure.get_home_page_path(relative_to=current_file)
+                )
+            ] + [
             link(f"{artist} ({len(artists_music)})", directory_structure.get_music_by_artist(
                 artist,
                 relative_to=directory_structure.get_aggregated_music_by_artist())
              ) for artist, artists_music in sorted(artists.items(), key=lambda x: normalize(x[0]))
         ]),
-        directory_structure.get_aggregated_music_by_artist()
+        current_file
     )
 
 def render_home_page(loaded_translation, directory_structure):

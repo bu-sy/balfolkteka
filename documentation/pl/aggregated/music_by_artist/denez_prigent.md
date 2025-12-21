@@ -1,5 +1,7 @@
 # Denez Prigent (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Denez Prigent - <b>Android 56 - Live à Yaouank</b> (An Dro)</big></summary>
 

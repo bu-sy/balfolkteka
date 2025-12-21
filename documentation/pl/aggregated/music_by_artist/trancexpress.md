@@ -1,5 +1,7 @@
 # Trancexpress (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Trancexpress - <b>Suite obourrek</b> (Bourrée 3 temps)</big></summary>
 

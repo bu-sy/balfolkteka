@@ -1,5 +1,7 @@
 # Josefina Paulson (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Josefina Paulson, Sophie Cavez - <b>Dunkla polskor</b> (Polka)</big></summary>
 

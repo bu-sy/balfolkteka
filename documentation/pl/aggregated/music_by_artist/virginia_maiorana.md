@@ -1,5 +1,7 @@
 # Virginia Maiorana (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Nisia, Virginia Maiorana - <b>Valse des voiles</b> (Valse 3 temps)</big></summary>
 

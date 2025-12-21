@@ -1,5 +1,7 @@
 # Zef (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Zef - <b>Scottish a Julo</b> (Scottish)</big></summary>
 

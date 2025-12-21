@@ -1,5 +1,7 @@
 # DCA Trio (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>DCA Trio - <b>La caille, La Calha, Crosada d'Alpuech</b> (Bourrée 3 temps)</big></summary>
 

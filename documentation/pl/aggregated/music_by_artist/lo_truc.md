@@ -1,5 +1,7 @@
 # Lo Truc (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Lo Truc - <b>Dran, Lo Premier, Sant'ana</b> (Bourrée 2 temps)</big></summary>
 

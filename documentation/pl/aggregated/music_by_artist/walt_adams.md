@@ -1,5 +1,7 @@
 # Walt Adams (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Walt Adams - <b>Things to Sort Out</b> (Mazurka)</big></summary>
 

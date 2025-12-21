@@ -1,5 +1,7 @@
 # Diou Flo (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Diou Flo - <b>Bal Kef</b> (Bal Keff)</big></summary>
 

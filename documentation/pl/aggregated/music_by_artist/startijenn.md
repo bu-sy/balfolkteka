@@ -1,5 +1,7 @@
 # Startijenn (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Startijenn - <b>Amsked - Vals</b> (Valse 3 temps)</big></summary>
 

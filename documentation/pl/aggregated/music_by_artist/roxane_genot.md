@@ -1,5 +1,7 @@
 # Roxane Genot (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Roxane Genot - <b>Rusty Red October Waltz</b> (Valse 3 temps)</big></summary>
 

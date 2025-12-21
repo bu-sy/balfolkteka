@@ -1,5 +1,7 @@
 # Duo Nello (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Duo Nello - <b>La demoiselle aux beaux yeux</b> (Valse 3 temps)</big></summary>
 

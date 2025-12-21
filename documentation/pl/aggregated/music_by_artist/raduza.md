@@ -1,5 +1,7 @@
 # Radůza (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Radůza - <b>Ať Není Mi Líto</b> (Valse 3 temps)</big></summary>
 

@@ -1,5 +1,7 @@
 # Vince Raguera (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Vince Raguera - <b>Maraichine</b> (Maraîchine)</big></summary>
 

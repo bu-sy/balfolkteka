@@ -1,5 +1,7 @@
 # Floris and the Flames (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Floris and the Flames - <b>Crème Bourrée</b> (Bourrée 3 temps)</big></summary>
 

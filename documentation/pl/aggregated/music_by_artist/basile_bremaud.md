@@ -1,5 +1,7 @@
 # Basile Brémaud (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Basile Brémaud - <b>Se la voulia chausir (bourrée)</b> (Bourrée 3 temps)</big></summary>
 

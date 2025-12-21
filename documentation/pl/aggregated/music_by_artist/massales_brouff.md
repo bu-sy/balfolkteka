@@ -1,5 +1,7 @@
 # Massalès Brouff (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Massalès Brouff - <b>La crosada, la zoue-crade, bourrées</b> (Bourrée 3 temps)</big></summary>
 

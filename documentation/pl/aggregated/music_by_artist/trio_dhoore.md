@@ -1,5 +1,7 @@
 # Trio Dhoore (6)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Trio Dhoore - <b>Chameleon</b> (Valse 8 temps)</big></summary>
 

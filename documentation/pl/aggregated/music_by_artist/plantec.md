@@ -1,5 +1,7 @@
 # Plantec (10)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Plantec - <b>A-raok (andro)</b> (An Dro)</big></summary>
 

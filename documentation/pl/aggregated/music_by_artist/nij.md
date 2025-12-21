@@ -1,5 +1,7 @@
 # NIJ (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>NIJ - <b>Chaldéné - Hanter-Dro</b> (Hanter Dro)</big></summary>
 

@@ -1,5 +1,7 @@
 # Naragonia (22)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Naragonia - <b>-17o C</b> (Valse 3 temps)</big></summary>
 

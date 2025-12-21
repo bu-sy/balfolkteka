@@ -1,5 +1,7 @@
 # La Bottines Artistiques (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>La Bottines Artistiques - <b>Demons</b> (Scottish)</big></summary>
 

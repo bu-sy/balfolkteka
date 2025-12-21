@@ -1,5 +1,7 @@
 # Faï Petar (7)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Faï Petar - <b>Bourrée de l'enclume</b> (Bourrée 2 temps)</big></summary>
 

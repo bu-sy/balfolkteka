@@ -1,5 +1,7 @@
 # Le Quintet à Claques (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Le Quintet à Claques - <b>British String</b> (Scottish)</big></summary>
 

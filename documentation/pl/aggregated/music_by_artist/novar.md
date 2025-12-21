@@ -1,5 +1,7 @@
 # Novar (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Novar - <b>A Kiss In Berlin / Novar</b> (Scottish)</big></summary>
 

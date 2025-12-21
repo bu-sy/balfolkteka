@@ -1,5 +1,7 @@
 # Warsaw Village Band (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Warsaw Village Band - <b>Polka Emigrantka</b> (Polka)</big></summary>
 

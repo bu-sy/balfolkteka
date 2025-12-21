@@ -1,5 +1,7 @@
 # Moizbat (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Moizbat - <b>Bela mair</b> (Bourrée 2 temps)</big></summary>
 

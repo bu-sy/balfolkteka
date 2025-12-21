@@ -1,5 +1,7 @@
 # Lolita Delmonteil-Ayral (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Lolita Delmonteil-Ayral - <b>Irène</b> (Mazurka)</big></summary>
 

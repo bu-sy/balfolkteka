@@ -1,5 +1,7 @@
 # PásztorHóra (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>PásztorHóra - <b>Az Ördög Útja</b> (Drumul Dracului)</big></summary>
 

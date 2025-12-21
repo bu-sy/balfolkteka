@@ -1,5 +1,7 @@
 # La Bricole (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>La Bricole - <b>La manchotte (Mazurka)</b> (Mazurka)</big></summary>
 

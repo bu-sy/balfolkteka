@@ -1,5 +1,7 @@
 # L'Escargot (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>L'Escargot - <b>La vecchia Singer</b> (Mazurka)</big></summary>
 

@@ -1,5 +1,7 @@
 # Dos (7)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Dos - <b>Adalimú (Bourrée a 3 Tiempos)</b> (Bourrée 3 temps)</big></summary>
 

@@ -1,5 +1,7 @@
 # Rodrigo Leão (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Rodrigo Leão - <b>Tardes de Bolonha</b> (Valse 3 temps)</big></summary>
 

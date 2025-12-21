@@ -1,5 +1,7 @@
 # Gipsy Kings (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Gipsy Kings - <b>Valse gitane</b> (Valse 3 temps)</big></summary>
 

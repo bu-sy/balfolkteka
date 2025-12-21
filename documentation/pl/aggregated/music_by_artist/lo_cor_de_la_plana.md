@@ -1,5 +1,7 @@
 # Lo Cor de la Plana (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Lo Cor de la Plana - <b>Masurka Mafiosa Marselhesa</b> (Mazurka)</big></summary>
 

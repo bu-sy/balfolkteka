@@ -1,5 +1,7 @@
 # Skrömta (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Skrömta - <b>Festpolka</b> (Polka)</big></summary>
 

@@ -1,5 +1,7 @@
 # Arbadétorne (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Arbadétorne - <b>Maraichines</b> (Maraîchine)</big></summary>
 

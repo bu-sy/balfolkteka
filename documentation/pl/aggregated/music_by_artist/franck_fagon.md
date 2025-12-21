@@ -1,5 +1,7 @@
 # Franck Fagon (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Bruno Le Tron, Franck Fagon, Laurent Cabané, Olivier Le Gallo - <b>Mirabelle</b> (Valse 5 temps)</big></summary>
 

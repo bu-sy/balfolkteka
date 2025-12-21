@@ -1,5 +1,7 @@
 # Les genoux (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Les genoux - <b>La carpe velloise / Chapelloise</b> (Chapelloise)</big></summary>
 

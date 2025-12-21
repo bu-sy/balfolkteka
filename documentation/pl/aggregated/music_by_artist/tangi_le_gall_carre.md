@@ -1,5 +1,7 @@
 # Tangi Le Gall-Carre (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Erwan Moal, Jacques Pellen, Julien Stevenin, Tangi Le Gall-Carre - <b>Enez (Vals)</b> (Valse 3 temps)</big></summary>
 

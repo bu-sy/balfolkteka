@@ -1,5 +1,7 @@
 # Renaud Hibon (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Jérémie Congrega, Renaud Hibon - <b>La Pacheloise</b> (Chapelloise)</big></summary>
 

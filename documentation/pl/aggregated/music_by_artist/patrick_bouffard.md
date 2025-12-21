@@ -1,5 +1,7 @@
 # Patrick Bouffard (10)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard - <b>Bourrée à 2 temps, rabaterie</b> (Bourrée 2 temps)</big></summary>
 

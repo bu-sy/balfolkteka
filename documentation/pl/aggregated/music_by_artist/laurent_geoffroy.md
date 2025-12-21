@@ -1,5 +1,7 @@
 # Laurent Geoffroy (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Laurent Geoffroy - <b>Al Yaras Valse</b> (Valse 3 temps)</big></summary>
 

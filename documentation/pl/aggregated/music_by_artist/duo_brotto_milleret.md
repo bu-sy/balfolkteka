@@ -1,5 +1,7 @@
 # Duo Brotto Milleret (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Duo Brotto Milleret - <b>Le mistigri / Lentille verveine</b> (Bourrée 3 temps)</big></summary>
 

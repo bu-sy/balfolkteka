@@ -1,5 +1,7 @@
 # Traditional (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Jessica Baran-Surel, Traditional - <b>Hanter droú</b> (Hanter Dro)</big></summary>
 

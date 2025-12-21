@@ -1,5 +1,7 @@
 # Torcán (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Torcán - <b>Ellin Polka (Live)</b> (Polka)</big></summary>
 

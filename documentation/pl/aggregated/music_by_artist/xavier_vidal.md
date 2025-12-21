@@ -1,5 +1,7 @@
 # Xavier Vidal (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Bastien Fontanille, Carlos Valverde, João Arruda, Xavier Vidal - <b>Bourée de Leon Peyrat</b> (Bourrée 3 temps)</big></summary>
 

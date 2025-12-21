@@ -1,5 +1,7 @@
 # Ruz Reor (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Ruz Reor - <b>Cercle Circassien</b> (Cercle Circassien)</big></summary>
 

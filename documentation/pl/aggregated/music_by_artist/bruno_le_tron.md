@@ -1,5 +1,7 @@
 # Bruno Le Tron (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Bruno Le Tron, François Heim - <b>Bréhattitude</b> (Valse 5 temps)</big></summary>
 

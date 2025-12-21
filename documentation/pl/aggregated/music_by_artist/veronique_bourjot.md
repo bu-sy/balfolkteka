@@ -1,5 +1,7 @@
 # Veronique Bourjot (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Koun, Veronique Bourjot - <b>Hanter Dro - Ar paueger pariz</b> (Hanter Dro)</big></summary>
 

@@ -1,5 +1,7 @@
 # Ma petite (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Ma petite - <b>La mal mariée (avec Julien Padovani)</b> (Bourrée 3 temps)</big></summary>
 

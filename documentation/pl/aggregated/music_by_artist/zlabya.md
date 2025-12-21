@@ -1,5 +1,7 @@
 # ZLABYA (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>ZLABYA - <b>Jammin</b> (Cercle Circassien)</big></summary>
 

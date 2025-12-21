@@ -1,5 +1,7 @@
 # Pulcinella (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Etienne Choquet, Pulcinella, Trio Loubelya - <b>Leo</b> (Scottish)</big></summary>
 

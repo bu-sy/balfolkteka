@@ -1,5 +1,7 @@
 # GUF Gävleborgs Ungdomsfolkband (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>GUF Gävleborgs Ungdomsfolkband - <b>Vildsvinsschottis</b> (Scottish)</big></summary>
 

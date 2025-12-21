@@ -1,5 +1,7 @@
 # Rémi Geffroy (18)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Rémi Geffroy - <b>Aleph (bourrées 3 temps)</b> (Bourrée 3 temps)</big></summary>
 

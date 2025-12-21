@@ -1,5 +1,7 @@
 # Nostrad (8)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Nostrad - <b>Both sides the Tweed (Valse écossaise) - Live</b> (Valse 3 temps)</big></summary>
 

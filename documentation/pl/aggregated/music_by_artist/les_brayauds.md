@@ -1,5 +1,7 @@
 # Les Brayauds (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Les Brayauds - <b>Bourrée de Saint-Priest & bourrée de Veyssière</b> (Bourrée 3 temps)</big></summary>
 

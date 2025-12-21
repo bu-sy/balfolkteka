@@ -1,5 +1,7 @@
 # Phonème (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Phonème - <b>Qui veut ouir complainte</b> (Bourrée 3 temps)</big></summary>
 

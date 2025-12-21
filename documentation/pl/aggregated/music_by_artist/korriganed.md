@@ -1,5 +1,7 @@
 # Korriganed (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Korriganed - <b>An Durzhunell (Bal Keff)</b> (Bal Keff)</big></summary>
 

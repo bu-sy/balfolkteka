@@ -1,5 +1,7 @@
 # Le Bal Brotto Lopez (5)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Cédric Aguila, Le Bal Brotto Lopez - <b>Adiu miladiu ! - Scottish</b> (Scottish)</big></summary>
 

@@ -1,5 +1,7 @@
 # Clume (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Clume - <b>La pluie</b> (Bourrée 3 temps)</big></summary>
 

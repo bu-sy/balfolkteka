@@ -1,5 +1,7 @@
 # Cédric Hergault (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Cédric Hergault, Fabrice Lothodé, Roland Becker - <b>Hanter-dro</b> (Hanter Dro)</big></summary>
 

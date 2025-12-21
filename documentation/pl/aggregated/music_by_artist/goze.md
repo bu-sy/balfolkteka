@@ -1,5 +1,7 @@
 # Göze (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Göze - <b>Mazurka des Tuilleries</b> (Mazurka)</big></summary>
 

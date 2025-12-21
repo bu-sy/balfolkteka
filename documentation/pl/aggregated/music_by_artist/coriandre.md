@@ -1,5 +1,7 @@
 # Coriandre (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Coriandre - <b>Danse de l'ours</b> (Danse de l'Ours)</big></summary>
 

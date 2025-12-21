@@ -1,5 +1,7 @@
 # Monsieur Fruits (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Monsieur Fruits - <b>Dans ses bras</b> (Valse 8 temps)</big></summary>
 

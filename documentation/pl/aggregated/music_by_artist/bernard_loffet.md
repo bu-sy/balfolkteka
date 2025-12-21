@@ -1,5 +1,7 @@
 # Bernard Loffet (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Bernard Loffet, Lionel Neyssenssas - <b>Cercle Circassien - Feat. Lionel Neyssenssas</b> (Cercle Circassien)</big></summary>
 

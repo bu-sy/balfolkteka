@@ -1,5 +1,7 @@
 # Hidrae (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Hidrae - <b>Cercle Pour Jonathan</b> (Cercle Circassien)</big></summary>
 

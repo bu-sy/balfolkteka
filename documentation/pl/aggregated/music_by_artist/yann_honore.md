@@ -1,5 +1,7 @@
 # Yann Honoré (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Dominig Bouchaud, Yann Honoré - <b>Hanter-dro</b> (Hanter Dro)</big></summary>
 

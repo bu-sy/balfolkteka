@@ -1,5 +1,7 @@
 # Christian Mage (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Bastien Fontanille, Carlos Valverde, Christian Mage, Guilhem Boucher, João Arruda - <b>N Ai Cinc Sòs a La Pòcha</b> (Bourrée 3 temps)</big></summary>
 

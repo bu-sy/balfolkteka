@@ -1,5 +1,7 @@
 # Corentin Gidrol (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Corentin Gidrol, Nicolas Canavaggia, Tralala Lovers - <b>Mazurka du pangolin</b> (Mazurka)</big></summary>
 

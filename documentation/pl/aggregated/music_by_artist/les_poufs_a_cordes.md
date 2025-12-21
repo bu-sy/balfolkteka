@@ -1,5 +1,7 @@
 # Les Poufs à Cordes (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Les Poufs à Cordes - <b>Alcione / Albione</b> (Mazurka)</big></summary>
 

@@ -1,5 +1,7 @@
 # Cyrille Brotto (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Cyrille Brotto, Groove Factory, Stéphane Milleret - <b>Hypernaire</b> (Scottish)</big></summary>
 

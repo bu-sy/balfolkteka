@@ -1,5 +1,7 @@
 # Tranen voor Paulo (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Tranen voor Paulo - <b>Nubia</b> (Irregular mazurka)</big></summary>
 

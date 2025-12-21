@@ -1,5 +1,7 @@
 # Accordzêam (8)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Accordzêam - <b>Allez, bourrés</b> (Bourrée 2 temps)</big></summary>
 

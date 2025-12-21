@@ -1,5 +1,7 @@
 # Socam (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Socam - <b>Lo mes de mai (valse)</b> (Valse 3 temps)</big></summary>
 

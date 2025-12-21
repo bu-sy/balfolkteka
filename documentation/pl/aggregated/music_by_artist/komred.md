@@ -1,5 +1,7 @@
 # Komred (9)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Komred - <b>Bourrée de l'infernet</b> (Bourrée 3 temps)</big></summary>
 

@@ -1,5 +1,7 @@
 # Michel Esbelin (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Didier Pauvert, Michel Esbelin - <b>Bourrée à Ranvier, bourrée</b> (Bourrée 3 temps)</big></summary>
 

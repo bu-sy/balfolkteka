@@ -1,5 +1,7 @@
 # Hotel Palindrone (12)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Hotel Palindrone - <b>Andro: Samo Riba - Live Version</b> (An Dro)</big></summary>
 

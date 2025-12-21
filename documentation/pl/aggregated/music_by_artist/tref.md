@@ -1,5 +1,7 @@
 # Tref (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Tref - <b>Allez, bourrés!</b> (Bourrée 2 temps)</big></summary>
 

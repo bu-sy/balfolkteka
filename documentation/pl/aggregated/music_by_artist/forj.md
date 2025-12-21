@@ -1,5 +1,7 @@
 # Forj (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Forj - <b>Galaunt pourr lonten (Rond de Saint Vincent)</b> (Rond de Saint-Vincent)</big></summary>
 

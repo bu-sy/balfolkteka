@@ -1,5 +1,7 @@
 # Ciac Boum (5)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Ciac Boum - <b>BB</b> (Valse 5 temps)</big></summary>
 

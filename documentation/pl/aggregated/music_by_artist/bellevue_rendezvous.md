@@ -1,5 +1,7 @@
 # Bellevue Rendezvous (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Bellevue Rendezvous - <b>Hanter Dro / Tuolpagorni</b> (Hanter Dro)</big></summary>
 

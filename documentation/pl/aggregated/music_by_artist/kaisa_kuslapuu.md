@@ -1,5 +1,7 @@
 # Kaisa Kuslapuu (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Kaisa Kuslapuu - <b>Tsooru valss</b> (Valse 3 temps)</big></summary>
 

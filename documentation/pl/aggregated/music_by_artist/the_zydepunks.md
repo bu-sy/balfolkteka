@@ -1,5 +1,7 @@
 # The Zydepunks (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>The Zydepunks - <b>La Maraichine</b> (Maraîchine)</big></summary>
 

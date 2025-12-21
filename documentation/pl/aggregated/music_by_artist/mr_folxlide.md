@@ -1,5 +1,7 @@
 # Mr. Folxlide (5)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Mr. Folxlide - <b>Come to Sleep - Mazurka</b> (Mazurka)</big></summary>
 

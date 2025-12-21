@@ -1,5 +1,7 @@
 # Duivelspack (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Duivelspack - <b>Chapelloise (feat. Das Niveau & Anette Gebauer)</b> (Chapelloise)</big></summary>
 

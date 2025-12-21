@@ -1,5 +1,7 @@
 # Duea (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Duea - <b>Lhi carn marinas</b> (Valse 3 temps)</big></summary>
 

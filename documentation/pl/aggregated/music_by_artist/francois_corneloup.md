@@ -1,5 +1,7 @@
 # François Corneloup (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>'Ndiaz, François Corneloup - <b>Uviéu</b> (Cercle Circassien)</big></summary>
 

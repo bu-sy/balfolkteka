@@ -1,5 +1,7 @@
 # Gilles Chabenat (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Gilles Chabenat, Patrick Bouffard - <b>Valse Nouvelle</b> (Valse 3 temps)</big></summary>
 

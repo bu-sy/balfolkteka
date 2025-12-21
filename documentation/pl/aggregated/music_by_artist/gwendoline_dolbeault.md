@@ -1,5 +1,7 @@
 # Gwendoline DOLBEAULT (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Gwendoline DOLBEAULT, Samuel PARMENTIER - <b>Hanterdro Ronan</b> (Hanter Dro)</big></summary>
 

@@ -1,5 +1,7 @@
 # Electrad (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Electrad - <b>Laridé Monesque (Laridé à 8 temps/Madison)</b> (Madison)</big></summary>
 

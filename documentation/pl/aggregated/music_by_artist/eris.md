@@ -1,5 +1,7 @@
 # ERIS (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>ERIS - <b>Que son aurös / N'ai mai cinc sòus (Bourrée à 3 temps)</b> (Bourrée 3 temps)</big></summary>
 

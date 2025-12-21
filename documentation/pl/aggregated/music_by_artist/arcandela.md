@@ -1,5 +1,7 @@
 # Arcandela (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Arcandela - <b>De Montford (bourrée)</b> (Bourrée 2 temps)</big></summary>
 

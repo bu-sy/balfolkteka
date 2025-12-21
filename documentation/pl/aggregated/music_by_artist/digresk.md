@@ -1,5 +1,7 @@
 # Digresk (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Digresk - <b>Dislontegezh - Hanter dro</b> (Hanter Dro)</big></summary>
 

@@ -1,5 +1,7 @@
 # Jon Maia (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Jon Maia, Korrontzi - <b>Iraun (ft. Jon Maia)</b> (Valse 3 temps)</big></summary>
 

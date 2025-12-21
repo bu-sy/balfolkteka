@@ -1,5 +1,7 @@
 # Illa (5)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Illa - <b>De verre et de bois / Cardinal monkey</b> (Chapelloise)</big></summary>
 

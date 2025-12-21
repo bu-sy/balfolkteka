@@ -1,5 +1,7 @@
 # La cuivraille (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>La cuivraille - <b>Mazurka De Septembre</b> (Mazurka)</big></summary>
 

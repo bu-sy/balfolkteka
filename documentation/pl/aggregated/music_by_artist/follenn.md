@@ -1,5 +1,7 @@
 # Follenn (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Follenn - <b>Kataronds - Ronds de landeda</b> (Rond de Landéda)</big></summary>
 

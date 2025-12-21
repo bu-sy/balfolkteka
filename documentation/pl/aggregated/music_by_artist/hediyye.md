@@ -1,5 +1,7 @@
 # HEDIYYE (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Baltazar Montanaro, HEDIYYE, Zabou Guérin - <b>Maîtresse Maîtresse</b> (Mazurka)</big></summary>
 

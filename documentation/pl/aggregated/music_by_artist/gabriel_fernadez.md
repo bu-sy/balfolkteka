@@ -1,5 +1,7 @@
 # Gabriel Fernadez (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Abdelati El Boussehabi, Anne-Lise Foy, Benoit Mager, Gabriel Fernadez, Leonore Grollemund, Patrick Bouffard, Stephane Robert - <b>Polka De L'anglard</b> (Polka)</big></summary>
 

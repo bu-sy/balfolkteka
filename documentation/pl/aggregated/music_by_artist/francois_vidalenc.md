@@ -1,5 +1,7 @@
 # Francois Vidalenc (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Francois Vidalenc - <b>Bourrée à Francois</b> (Bourrée 3 temps)</big></summary>
 

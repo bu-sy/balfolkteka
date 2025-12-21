@@ -1,5 +1,7 @@
 # Duo Pilartz Gielen (7)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Duo Pilartz Gielen, Vincent Sionneau - <b>Bourrées à deux et trois temps</b> (Bourrée 3 temps)</big></summary>
 

@@ -1,5 +1,7 @@
 # Trobairitz d'Oc (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Trobairitz d'Oc - <b>A stacada d'Brelh (Valsa finala)</b> (Valse 3 temps)</big></summary>
 

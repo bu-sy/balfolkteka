@@ -1,5 +1,7 @@
 # Clément Rousse (5)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Clément Rousse, Guillaume Lopez - <b>Canard-Isard</b> (Bourrée 2 temps)</big></summary>
 

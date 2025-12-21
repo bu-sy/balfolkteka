@@ -1,5 +1,7 @@
 # Iwona Pawlak (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Hajda Banda, Iwona Pawlak, Jędrzej Weber - <b>Od cymbalistów</b> (Polka)</big></summary>
 

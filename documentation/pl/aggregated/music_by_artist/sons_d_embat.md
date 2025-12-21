@@ -1,5 +1,7 @@
 # Sons d'Embat (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Sons d'Embat - <b>Albiztur</b> (Fandango & Arin Arin)</big></summary>
 

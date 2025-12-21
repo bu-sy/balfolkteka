@@ -1,5 +1,7 @@
 # Vädur (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Vädur - <b>Fusk Olles schottis</b> (Scottish)</big></summary>
 

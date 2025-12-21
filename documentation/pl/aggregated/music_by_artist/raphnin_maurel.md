@@ -1,5 +1,7 @@
 # Raphnin Maurel (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Raphnin Maurel - <b>Bourrée à Jean Marc Delaunay / Le pan-pan de Mauriac</b> (Bourrée 3 temps)</big></summary>
 

@@ -1,5 +1,7 @@
 # Karsu (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Karsu - <b>Birak Beni Böyle</b> (Valse 3 temps)</big></summary>
 

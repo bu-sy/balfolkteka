@@ -1,5 +1,7 @@
 # Simon Portefaix (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Anne-Lise Foy, Clément Rousse, Guillaume Lopez, Simon Portefaix, Thierry Roques - <b>Rififlute / Polklaklem - Polkas</b> (Polka)</big></summary>
 

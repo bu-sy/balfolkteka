@@ -1,5 +1,7 @@
 # Duo L'Hêtre Heureux (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Duo L'Hêtre Heureux - <b>La Rose</b> (Hanter Dro)</big></summary>
 

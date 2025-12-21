@@ -1,5 +1,7 @@
 # Modkozmik (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Modkozmik - <b>Na deus kostez Jupiter (Cercle circassien)</b> (Cercle Circassien)</big></summary>
 

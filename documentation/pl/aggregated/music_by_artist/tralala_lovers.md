@@ -1,5 +1,7 @@
 # Tralala Lovers (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Tralala Lovers - <b>Les jours de grandes marées</b> (Valse 5 temps)</big></summary>
 

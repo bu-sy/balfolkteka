@@ -1,5 +1,7 @@
 # Snaarmaarwaar (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Snaarmaarwaar - <b>Horlepijp / Castro</b> (Scottish)</big></summary>
 

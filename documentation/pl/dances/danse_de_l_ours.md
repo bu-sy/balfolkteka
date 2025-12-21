@@ -1,6 +1,6 @@
 # Danse de l'Ours
 
-[Lista wszystkich tańców](../aggregated/aggregated_dances.md)
+[Powrót do listy tańców](../aggregated/aggregated_dances.md)
 
 **Nazwa**: Danse de l'Ours
 

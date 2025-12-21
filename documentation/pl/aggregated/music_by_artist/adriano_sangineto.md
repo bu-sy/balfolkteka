@@ -1,5 +1,7 @@
 # Adriano Sangineto (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Adriano Sangineto - <b>Equinox</b> (Scottish impaire)</big></summary>
 

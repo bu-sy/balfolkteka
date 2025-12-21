@@ -1,5 +1,7 @@
 # Sterne (5)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Sterne - <b>Andro</b> (An Dro)</big></summary>
 

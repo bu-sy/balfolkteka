@@ -1,5 +1,7 @@
 # Mister Klof (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Mister Klof - <b>Sleeping Tortoise / The Orphan / Deule douce</b> (Cercle Circassien)</big></summary>
 

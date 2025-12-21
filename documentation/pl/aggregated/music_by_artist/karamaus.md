@@ -1,5 +1,7 @@
 # Karamaus (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Karamaus - <b>La Danse Perdue</b> (Bourrée 2 temps)</big></summary>
 

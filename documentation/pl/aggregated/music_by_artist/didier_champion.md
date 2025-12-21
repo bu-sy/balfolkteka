@@ -1,5 +1,7 @@
 # Didier Champion (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Didier Champion - <b>Bourrée 3 temps à Prugnard</b> (Bourrée 3 temps)</big></summary>
 

@@ -12,10 +12,14 @@ keywords:
   variants: Warianty
   connected_dances: Powiązane tańce
   click_to_expand: Kliknij by rozwinąć
+  back_to_list_of_dances: Powrót do listy tańców
+  back_to_list_of_artists: Powrót do listy artystów
+  back_to_the_list_of_pages: Powrót do listy stron
 pages:
   main_page: Strona główna
   aggregated_list_of_dances: Lista wszystkich tańców
   aggregated_list_of_music: Lista wszystkich utworów
+  aggregated_list_of_artists: Lista wszystkich artystów
   list_of_music_by_artist: Muzyka pogrupowana po artystach
 translatable:
   _in_pairs: "W parach"

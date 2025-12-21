@@ -1,5 +1,7 @@
 # Carlo Massarelli (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Carlo Massarelli - <b>Arin Arin</b> (Fandango & Arin Arin)</big></summary>
 

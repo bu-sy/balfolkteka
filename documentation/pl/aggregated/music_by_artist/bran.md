@@ -1,5 +1,7 @@
 # Bran (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Bran - <b>An dro</b> (An Dro)</big></summary>
 

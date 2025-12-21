@@ -1,5 +1,7 @@
 # Seiva (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Seiva - <b>Repasseado dos Casais</b> (Repasseado)</big></summary>
 

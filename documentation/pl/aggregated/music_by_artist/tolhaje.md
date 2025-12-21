@@ -1,5 +1,7 @@
 # Tołhaje (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Tołhaje - <b>Polka Na 7</b> (Polka)</big></summary>
 

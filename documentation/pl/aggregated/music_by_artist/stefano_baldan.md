@@ -1,5 +1,7 @@
 # Stefano Baldan (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Stefano Baldan - <b>In Punta di Piedi</b> (Mazurka)</big></summary>
 

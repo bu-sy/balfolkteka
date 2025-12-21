@@ -1,5 +1,7 @@
 # Storvan (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Storvan - <b>Hanter dro</b> (Hanter Dro)</big></summary>
 

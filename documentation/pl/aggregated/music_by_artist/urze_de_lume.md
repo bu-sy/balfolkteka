@@ -1,5 +1,7 @@
 # Urze de Lume (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Urze de Lume - <b>Repasseado Da Urze</b> (Repasseado)</big></summary>
 

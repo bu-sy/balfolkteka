@@ -1,5 +1,7 @@
 # Thalas (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Thalas - <b>In Good Company</b> (Bourrée 2 temps)</big></summary>
 

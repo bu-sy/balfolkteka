@@ -1,5 +1,7 @@
 # Léon Peyrat (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Léon Peyrat - <b>Suite de bourrées: la Santarel</b> (Bourrée 3 temps)</big></summary>
 

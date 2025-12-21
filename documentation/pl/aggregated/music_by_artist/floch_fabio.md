@@ -1,5 +1,7 @@
 # FLOCH Fabio (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>FLOCH Fabio - <b>Walkirie (Galop nantais)</b> (Galop Nantais)</big></summary>
 

@@ -1,5 +1,7 @@
 # Laurent Hilairet (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>David Morand, Erwann Tobie, Florian Kernéis, Laurent Hilairet - <b>MacMogette - Maraichine</b> (Maraîchine)</big></summary>
 

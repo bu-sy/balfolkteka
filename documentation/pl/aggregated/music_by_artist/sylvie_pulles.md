@@ -1,5 +1,7 @@
 # Sylvie Pulles (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Sylvie Pulles - <b>La bourrée des furets - Bourree</b> (Bourrée 3 temps)</big></summary>
 

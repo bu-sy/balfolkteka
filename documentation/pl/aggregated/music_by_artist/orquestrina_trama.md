@@ -1,5 +1,7 @@
 # Orquestrina Trama (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Orquestrina Trama - <b>Beharrezkoa</b> (Fandango & Arin Arin)</big></summary>
 

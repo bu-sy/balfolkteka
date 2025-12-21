@@ -1,3 +1,7 @@
+# Lista wszystkich artystów (556)
+
+[Powrót do listy stron](../home.md)
+
 ['Ndiaz (4)](music_by_artist/_ndiaz.md)
 
 [Abdel Bouzbiba (1)](music_by_artist/abdel_bouzbiba.md)

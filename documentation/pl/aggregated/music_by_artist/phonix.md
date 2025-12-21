@@ -1,5 +1,7 @@
 # Phonix (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Phonix - <b>Akk-Vals - Live</b> (Valse 3 temps)</big></summary>
 

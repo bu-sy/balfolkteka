@@ -1,5 +1,7 @@
 # Samurai Accordion (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Samurai Accordion - <b>January Sun</b> (Valse 3 temps)</big></summary>
 

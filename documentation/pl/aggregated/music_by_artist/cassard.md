@@ -1,5 +1,7 @@
 # Cassard (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Cassard - <b>La bataille de Syracuse</b> (Hanter Dro)</big></summary>
 

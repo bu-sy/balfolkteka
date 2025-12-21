@@ -1,5 +1,7 @@
 # Tud (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Tud - <b>An dro</b> (An Dro)</big></summary>
 

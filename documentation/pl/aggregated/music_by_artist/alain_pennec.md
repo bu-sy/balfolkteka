@@ -1,5 +1,7 @@
 # Alain Pennec (6)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Alain Pennec - <b>Bals à quatre</b> (Cercle Circassien)</big></summary>
 

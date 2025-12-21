@@ -1,5 +1,7 @@
 # Balarù (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Balarù - <b>Mountava la marmitta / A la moddë d'Archamoura</b> (Bourrée 3 temps)</big></summary>
 

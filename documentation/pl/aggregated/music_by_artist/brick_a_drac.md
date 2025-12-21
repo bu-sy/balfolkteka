@@ -1,5 +1,7 @@
 # Brick A Drac (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Brick A Drac - <b>Danse de l'ours</b> (Danse de l'Ours)</big></summary>
 

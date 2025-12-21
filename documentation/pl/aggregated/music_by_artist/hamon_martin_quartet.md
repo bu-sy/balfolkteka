@@ -1,5 +1,7 @@
 # Hamon Martin Quartet (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Hamon Martin Quartet - <b>T'en souviens-tu mignonne ?</b> (Rond de Saint-Vincent)</big></summary>
 

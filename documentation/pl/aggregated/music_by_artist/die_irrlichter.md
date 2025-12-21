@@ -1,5 +1,7 @@
 # Die Irrlichter (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Die Irrlichter - <b>Bourré Abière</b> (Bourrée 2 temps)</big></summary>
 

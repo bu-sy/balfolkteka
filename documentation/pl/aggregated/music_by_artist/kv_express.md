@@ -1,5 +1,7 @@
 # Kv Express (10)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Kv Express - <b>Les coccibulles</b> (Mazurka)</big></summary>
 

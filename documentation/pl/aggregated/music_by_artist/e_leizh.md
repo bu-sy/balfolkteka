@@ -1,5 +1,7 @@
 # E-leizh (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>E-leizh - <b>La mazur - Mazurka</b> (Mazurka)</big></summary>
 

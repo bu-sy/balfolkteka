@@ -1,5 +1,7 @@
 # Tristan Le Breton (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Trio Loubelya, Tristan Le Breton - <b>Andromac</b> (An Dro)</big></summary>
 

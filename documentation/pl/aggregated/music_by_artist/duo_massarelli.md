@@ -1,5 +1,7 @@
 # Duo Massarelli (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Duo Massarelli - <b>Mimà</b> (Valse 5 temps)</big></summary>
 

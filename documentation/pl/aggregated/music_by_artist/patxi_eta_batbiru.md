@@ -1,5 +1,7 @@
 # Patxi eta Batbiru (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Patxi eta Batbiru - <b>Albiztur (Fandango)</b> (Fandango & Arin Arin)</big></summary>
 

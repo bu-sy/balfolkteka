@@ -1,5 +1,7 @@
 # Kendirvi (6)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Kendirvi - <b>Kazel-ha-kazel - Polka</b> (Polka)</big></summary>
 

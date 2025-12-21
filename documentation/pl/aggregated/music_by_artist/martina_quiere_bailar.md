@@ -1,5 +1,7 @@
 # Martina Quiere Bailar (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Martina Quiere Bailar - <b>La Guarida Arin-Arin</b> (Fandango & Arin Arin)</big></summary>
 

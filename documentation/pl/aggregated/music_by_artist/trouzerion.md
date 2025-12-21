@@ -1,5 +1,7 @@
 # Trouzerion (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Trouzerion - <b>Hanterdro</b> (Hanter Dro)</big></summary>
 

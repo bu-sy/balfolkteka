@@ -1,5 +1,7 @@
 # Dahù (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Dahù - <b>3106</b> (Cercle Circassien)</big></summary>
 

@@ -1,5 +1,7 @@
 # Sonerien Du (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Sonerien Du - <b>Barfield's hanternoz</b> (Hanter Dro)</big></summary>
 

@@ -1,5 +1,7 @@
 # Jean Baron (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Christian Anneix, Jean Baron - <b>Danse Keff - Bal keff</b> (Dañs Keff)</big></summary>
 

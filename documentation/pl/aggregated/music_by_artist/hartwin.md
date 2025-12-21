@@ -1,5 +1,7 @@
 # Hartwin (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Hartwin - <b>Heartbeat - Hanterdro</b> (Hanter Dro)</big></summary>
 

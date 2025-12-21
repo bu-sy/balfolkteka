@@ -1,5 +1,7 @@
 # Ti Jaz (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Ti Jaz - <b>Hanter Dro Bamenjou</b> (Hanter Dro)</big></summary>
 

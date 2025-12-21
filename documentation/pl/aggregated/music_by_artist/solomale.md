@@ -1,5 +1,7 @@
 # Solomalé (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Solomalé - <b>Le tailleur de pierre</b> (Bourrée 3 temps)</big></summary>
 

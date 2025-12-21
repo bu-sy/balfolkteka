@@ -1,5 +1,7 @@
 # Fior (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Fior - <b>Schottisch nach H.N. Philipp</b> (Scottish)</big></summary>
 

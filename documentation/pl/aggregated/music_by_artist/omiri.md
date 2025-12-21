@@ -1,5 +1,7 @@
 # OMIRI (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>OMIRI - <b>O Segundo Repasseado</b> (Repasseado)</big></summary>
 

@@ -1,5 +1,7 @@
 # Hot Griselda (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Hot Griselda - <b>Dorpeldanske</b> (Valse 5 temps)</big></summary>
 

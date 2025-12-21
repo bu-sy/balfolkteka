@@ -1,5 +1,7 @@
 # Ar Re Yaouank (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Ar Re Yaouank - <b>M-a-l (an-dro)</b> (An Dro)</big></summary>
 

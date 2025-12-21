@@ -1,5 +1,7 @@
 # Bleizi Ruz (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Bleizi Ruz - <b>Hanter-Droiou</b> (Hanter Dro)</big></summary>
 

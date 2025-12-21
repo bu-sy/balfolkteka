@@ -1,5 +1,7 @@
 # Dazkarieh (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Dazkarieh - <b>Quase um Repasseado</b> (Repasseado)</big></summary>
 

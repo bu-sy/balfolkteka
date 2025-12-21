@@ -1,5 +1,7 @@
 # Korrontzi (4)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Korrontzi - <b>Arin latin</b> (Fandango & Arin Arin)</big></summary>
 

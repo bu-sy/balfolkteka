@@ -1,5 +1,7 @@
 # Sous les quais (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Sous les quais - <b>Valse à 5 temps</b> (Valse 5 temps)</big></summary>
 

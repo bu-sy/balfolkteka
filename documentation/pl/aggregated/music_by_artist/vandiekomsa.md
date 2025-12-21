@@ -1,5 +1,7 @@
 # Vandiekomsa (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Vandiekomsa - <b>Schots In Cm</b> (Scottish)</big></summary>
 

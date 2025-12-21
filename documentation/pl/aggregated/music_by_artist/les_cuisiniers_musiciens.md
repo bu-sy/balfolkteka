@@ -1,5 +1,7 @@
 # Les Cuisiniers Musiciens (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Les Cuisiniers Musiciens - <b>Danse de l'Ours</b> (Danse de l'Ours)</big></summary>
 

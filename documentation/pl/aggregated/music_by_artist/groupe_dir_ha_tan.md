@@ -1,5 +1,7 @@
 # Groupe Dir Ha Tan (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Groupe Dir Ha Tan - <b>Hanter-dro : Parrez kistinid</b> (Hanter Dro)</big></summary>
 

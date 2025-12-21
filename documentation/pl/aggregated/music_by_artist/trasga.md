@@ -1,5 +1,7 @@
 # Trasga (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Trasga - <b>Repasseado - Ao vivo</b> (Repasseado)</big></summary>
 

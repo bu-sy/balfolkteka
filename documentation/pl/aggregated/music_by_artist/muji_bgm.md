@@ -1,5 +1,7 @@
 # MUJI BGM (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>MUJI BGM - <b>Hanter Dro</b> (Hanter Dro)</big></summary>
 

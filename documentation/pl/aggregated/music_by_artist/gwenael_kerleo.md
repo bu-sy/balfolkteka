@@ -1,5 +1,7 @@
 # Gwenael Kerleo (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Gwenael Kerleo - <b>Hanternoz</b> (Hanter Dro)</big></summary>
 

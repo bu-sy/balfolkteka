@@ -1,5 +1,7 @@
 # MandoTrio (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>MandoTrio - <b>Mihkli I polka</b> (Polka)</big></summary>
 

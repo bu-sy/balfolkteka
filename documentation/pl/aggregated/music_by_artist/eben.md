@@ -1,5 +1,7 @@
 # Eben (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Eben - <b>Dañs ar bleiz</b> (Cercle Circassien)</big></summary>
 

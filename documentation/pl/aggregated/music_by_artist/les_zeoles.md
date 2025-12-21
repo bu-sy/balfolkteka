@@ -1,5 +1,7 @@
 # Les Zéoles (13)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Les Zéoles - <b>93 (Scottish)</b> (Scottish)</big></summary>
 

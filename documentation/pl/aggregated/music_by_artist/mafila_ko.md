@@ -1,5 +1,7 @@
 # Mafila Ko (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Mafila Ko - <b>Mazurkalou</b> (Mazurka)</big></summary>
 

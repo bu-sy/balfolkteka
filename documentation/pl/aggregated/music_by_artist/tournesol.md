@@ -1,5 +1,7 @@
 # Tournesol (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Tournesol - <b>Les souliers bleus: Ma Jeanne</b> (Bourrée 3 temps)</big></summary>
 

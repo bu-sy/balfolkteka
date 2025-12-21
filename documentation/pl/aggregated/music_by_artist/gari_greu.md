@@ -1,5 +1,7 @@
 # Gari Greu (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Gari Greu, Lou Tapage - <b>Ça va sans dire</b> (Polka)</big></summary>
 

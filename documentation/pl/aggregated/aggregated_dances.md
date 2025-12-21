@@ -1,5 +1,7 @@
 # Lista wszystkich tańców (31)
 
+[Powrót do listy stron](../home.md)
+
 [An Dro](../dances/an_dro.md)
 
 [Bal Keff](../dances/bal_keff.md)

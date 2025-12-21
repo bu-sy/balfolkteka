@@ -1,5 +1,7 @@
 # Lhi Balòs (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Lhi Balòs - <b>Au jardin</b> (Polka)</big></summary>
 

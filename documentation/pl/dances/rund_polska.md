@@ -1,6 +1,6 @@
 # Polska (rund polska)
 
-[Lista wszystkich tańców](../aggregated/aggregated_dances.md)
+[Powrót do listy tańców](../aggregated/aggregated_dances.md)
 
 **Nazwa**: Polska (rund polska)
 

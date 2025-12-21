@@ -1,5 +1,7 @@
 # Michel Massot (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Aurélie Dorzée, Michel Massot, Tom Theuns - <b>Kamazurka</b> (Mazurka)</big></summary>
 

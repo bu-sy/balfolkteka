@@ -1,5 +1,7 @@
 # Flor de Zinc (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Flor de Zinc - <b>L'aure de la camba torta / La limanhieira</b> (Bourrée 3 temps)</big></summary>
 

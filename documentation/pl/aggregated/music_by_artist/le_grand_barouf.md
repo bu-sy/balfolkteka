@@ -1,5 +1,7 @@
 # Le Grand Barouf (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Le Grand Barouf - <b>Dunk d'ust</b> (Bourrée 2 temps)</big></summary>
 

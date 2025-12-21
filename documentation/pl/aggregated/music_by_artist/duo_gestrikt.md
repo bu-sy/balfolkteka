@@ -1,5 +1,7 @@
 # Duo Gestrikt (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Duo Gestrikt - <b>Zebrazurka</b> (Mazurka)</big></summary>
 

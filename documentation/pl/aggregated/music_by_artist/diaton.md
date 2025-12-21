@@ -1,5 +1,7 @@
 # DiaTon (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>DiaTon - <b>Le Funambule</b> (Cercle Circassien)</big></summary>
 

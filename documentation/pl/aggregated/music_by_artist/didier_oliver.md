@@ -1,5 +1,7 @@
 # Didier Oliver (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Didier Oliver, Le Bal en Chantier - <b>Magic Circus</b> (Cercle Circassien)</big></summary>
 

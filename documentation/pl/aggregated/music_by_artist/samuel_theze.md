@@ -1,5 +1,7 @@
 # Samuel Thézé (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Eric Thézé, Samuel Thézé - <b>Knicklicht</b> (Valse 11 temps)</big></summary>
 

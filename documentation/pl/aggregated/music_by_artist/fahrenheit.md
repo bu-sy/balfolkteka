@@ -1,5 +1,7 @@
 # Fahrenheit (6)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Fahrenheit - <b>Autre Âge</b> (Chapelloise)</big></summary>
 

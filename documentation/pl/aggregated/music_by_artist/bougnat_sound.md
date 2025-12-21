@@ -1,5 +1,7 @@
 # Bougnat Sound (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Bougnat Sound - <b>La cabrette - Ma maïre</b> (Bourrée 3 temps)</big></summary>
 

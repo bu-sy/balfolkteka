@@ -1,5 +1,7 @@
 # LyraDanz (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>LyraDanz - <b>Abbraccio Di Sale</b> (Mazurka)</big></summary>
 

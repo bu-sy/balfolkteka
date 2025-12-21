@@ -1,5 +1,7 @@
 # Blue Reed (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Blue Reed - <b>Cerclelloise</b> (Cercle Circassien)</big></summary>
 

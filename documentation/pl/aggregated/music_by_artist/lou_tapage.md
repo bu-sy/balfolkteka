@@ -1,5 +1,7 @@
 # Lou Tapage (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Lou Tapage - <b>Alice</b> (Valse 3 temps)</big></summary>
 

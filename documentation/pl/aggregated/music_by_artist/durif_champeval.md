@@ -1,5 +1,7 @@
 # Durif-Champeval (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Durif-Champeval - <b>Bourée à Pouget, la Courbiase</b> (Bourrée 3 temps)</big></summary>
 

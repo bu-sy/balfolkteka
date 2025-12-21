@@ -1,5 +1,7 @@
 # Casals Sabaté (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Casals Sabaté - <b>L’arinyarin</b> (Fandango & Arin Arin)</big></summary>
 

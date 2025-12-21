@@ -1,5 +1,7 @@
 # Orfeo (3)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Orfeo - <b>Night at the Campfire (Waltz)</b> (Valse 3 temps)</big></summary>
 

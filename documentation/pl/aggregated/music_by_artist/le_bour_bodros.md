@@ -1,5 +1,7 @@
 # Le Bour Bodros (6)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Le Bour Bodros - <b>Ar Stolier - Rond De Saint Vincent</b> (Rond de Saint-Vincent)</big></summary>
 

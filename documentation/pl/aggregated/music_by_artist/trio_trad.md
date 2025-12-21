@@ -1,5 +1,7 @@
 # Trio Trad (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Trio Trad - <b>Suite Auvergnate 2</b> (Bourrée 3 temps)</big></summary>
 

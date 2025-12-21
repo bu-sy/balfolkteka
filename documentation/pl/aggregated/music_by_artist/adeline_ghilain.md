@@ -1,5 +1,7 @@
 # Adeline Ghilain (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Adeline Ghilain, Duo Pilartz Gielen - <b>Tryptique (Andro)</b> (An Dro)</big></summary>
 

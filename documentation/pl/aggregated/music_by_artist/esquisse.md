@@ -1,5 +1,7 @@
 # Esquisse (7)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Esquisse - <b>Hopopup - Maraîchine</b> (Maraîchine)</big></summary>
 

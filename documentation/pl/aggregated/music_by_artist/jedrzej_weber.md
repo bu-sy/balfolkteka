@@ -1,5 +1,7 @@
 # Jędrzej Weber (2)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Hajda Banda, Jędrzej Weber - <b>Niepraudzivaya kalina</b> (Zwiefacher)</big></summary>
 

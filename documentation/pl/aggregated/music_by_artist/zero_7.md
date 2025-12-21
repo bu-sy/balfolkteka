@@ -1,5 +1,7 @@
 # Zero 7 (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Zero 7 - <b>Look Up</b> (Valse 8 temps)</big></summary>
 

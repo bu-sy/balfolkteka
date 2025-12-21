@@ -1,5 +1,7 @@
 # Trio Loubelya (17)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Trio Loubelya - <b>Andrò a torino e poi a casa</b> (An Dro)</big></summary>
 

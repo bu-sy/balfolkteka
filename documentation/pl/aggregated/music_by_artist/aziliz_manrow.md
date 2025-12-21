@@ -1,5 +1,7 @@
 # Aziliz Manrow (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Aziliz Manrow, Denez Prigent, Oxmo Puccino - <b>Waltz of Life</b> (Valse 3 temps)</big></summary>
 

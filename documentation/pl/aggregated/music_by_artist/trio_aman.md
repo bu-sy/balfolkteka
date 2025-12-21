@@ -1,5 +1,7 @@
 # Trio Aman (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Trio Aman - <b>Galop Nantais</b> (Galop Nantais)</big></summary>
 

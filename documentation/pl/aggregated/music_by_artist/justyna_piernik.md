@@ -1,5 +1,7 @@
 # Justyna Piernik (1)
 
+[Powrót do listy artystów](../music_by_artist.md)
+
 <details>
 <summary><big>Justyna Piernik, Kapela Niwińskich - <b>NIE MA CI MATULU</b> (Polka)</big></summary>
 

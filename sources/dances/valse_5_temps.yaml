@@ -150,7 +150,7 @@ links:
       link: https://open.spotify.com/track/0fCshQreHkZa72Z2AZp9Qc
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: La Machine
     track_name: Valse Éthiopique
     links:

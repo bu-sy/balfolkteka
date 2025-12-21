@@ -21,7 +21,6 @@ links:
       link: https://www.youtube.com/watch?v=eRox8HfyEgo
     from_playlist:
     - https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
-    no_youtube_link: true
   - artist: Airboxes
     track_name: Dy
     links:
@@ -59,7 +58,7 @@ links:
       link: https://open.spotify.com/track/6UeFhnq5HpWZurHVO6HfSL
     from_playlist:
     - https://open.spotify.com/playlist/5ENzeSmn9biGAsXGYGyTN2
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Blue Reed
     track_name: Gennetines
     links:

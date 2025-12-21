@@ -45,7 +45,7 @@ links:
       link: https://open.spotify.com/track/229Us9TuzrSL48nqmv2MOE
     from_playlist:
     - https://open.spotify.com/playlist/5dpO1DxrArXEX41LwHtcCf
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Nostrad
     links:
     - link: https://www.youtube.com/watch?v=zXgYHQa-Eac

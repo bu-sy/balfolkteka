@@ -17,6 +17,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2cpQ1TmBX22KlkXf6YajMG
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=MrTlBUxt2Nw
     from_playlist:
     - https://open.spotify.com/playlist/2wXDt2cz9wyceOmQSFxif8
   - artist: Dos
@@ -24,6 +26,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7ypE0AZsHVlGPn3t7shGXa
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Qhd6_WVf8cs
     from_playlist:
     - https://open.spotify.com/playlist/2wXDt2cz9wyceOmQSFxif8
   - artist: Duetu
@@ -31,6 +35,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3epqRnhJN34VPi0fsu85Xu
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Pap1FmXq_vQ
     from_playlist:
     - https://open.spotify.com/playlist/2wXDt2cz9wyceOmQSFxif8
   - artist: Duo Absynthe
@@ -38,6 +44,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3s6BET9O4Vtd2sqZbE4VjN
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=-HJSFCiidX8
     from_playlist:
     - https://open.spotify.com/playlist/2wXDt2cz9wyceOmQSFxif8
   - artist: Mr. Folxlide
@@ -47,10 +55,13 @@ links:
       link: https://open.spotify.com/track/1cabPhs1rUhtCURIEGptHp
     from_playlist:
     - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
+    no_youtube_link: true #Verified
   - artist: Spontus
     track_name: Ar c'helion - Trikot
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/66LiHpnVJJOFrJ1BOAtazx
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=4v258XgYbnI
     from_playlist:
     - https://open.spotify.com/playlist/2wXDt2cz9wyceOmQSFxif8

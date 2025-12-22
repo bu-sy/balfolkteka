@@ -1,4 +1,4 @@
-# Lista wszystkich utworów (1001)
+# Lista wszystkich utworów (1002)
 
 [Powrót do listy stron](../home.md)
 
@@ -963,6 +963,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0Sm3CRX3hA487jk6w3f6Fy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3153448480/size=small/bgcol=ffffff/linkcol=0687f5/track=2312514917/transparent=true/" seamless></iframe>
+</details>
+
 <hr>
 
 <h3>ba.fnu - <b>Ej lásko (mazurka valse)</b> (Mazurka)</h3>
@@ -970,6 +975,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3tWJs58nCds7cgI4MXyMga?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3153448480/size=small/bgcol=ffffff/linkcol=0687f5/track=768300985/transparent=true/" seamless></iframe>
 </details>
 
 <hr>
@@ -981,6 +991,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7Jww510x8GODJ2LHrFnE8E?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3153448480/size=small/bgcol=ffffff/linkcol=0687f5/track=565419478/transparent=true/" seamless></iframe>
+</details>
+
 <hr>
 
 <h3>ba.fnu - <b>Skočíš</b> (Scottish)</h3>
@@ -988,6 +1003,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4s5i5D66XW1fDd50uiON5R?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2861639636/size=small/bgcol=ffffff/linkcol=0687f5/track=1489448231/transparent=true/" seamless></iframe>
 </details>
 
 <hr>
@@ -1002,6 +1022,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/73TAePwCWWT22r2BNsWQ8E?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3153448480/size=small/bgcol=ffffff/linkcol=0687f5/track=3257063040/transparent=true/" seamless></iframe>
 </details>
 
 <hr>
@@ -5720,6 +5745,20 @@
 
 <hr>
 
+<h3>Jonas Akerlund, Josefina Paulson - <b>Polska efter schedin</b> (Polska (rund polska))</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1rv2eYV4rnAZjn5o3qEsxV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Psp_yLuDcHY?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Josefina Paulson, Sophie Cavez - <b>Dunkla polskor</b> (Polka)</h3>
 
 <details>
@@ -6625,6 +6664,20 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5XmZ7sysmLmhHJ7BCk1qdF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Laurie Hart & Andrew VanNorstrand - <b>Södermanland- Polska efter Axel Axelsson</b> (Polska (rund polska))</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7qFGnL8wUSWkhGejm7B1xf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/bMEzvnVWq7I?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -8368,6 +8421,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6s52uf47lr4FPNjEfw71qd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/yZGJSF4qoss?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>Naragonia Quartet - <b>Batiska</b> (Valse 3 temps)</h3>
@@ -8386,6 +8444,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4mOKDWizLuMSWKt1Q6LI3T?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/rcEVCfxNmbc?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>Naragonia Quartet - <b>The Lilly Ponds</b> (Mazurka)</h3>
@@ -8393,6 +8456,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3Uv5efsDtt0ak3f0vTIUzG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/mrzCGFD4IDc?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -8438,6 +8506,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0WOKTrHKBPs8OqHEdrSTm1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/mrzCGFD4IDc?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -8780,15 +8853,6 @@
 
 <hr>
 
-<h3>Nubia - <b>Tranen voor Paulo</b> (Mazurka)</h3>
-
-<details>
-<summary><big>Spotify</big></summary>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4iaMV0KXek5a33rFdYwT6b?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</details>
-
-<hr>
-
 <h3>Oîma - <b>Xirar Hei!</b> (Valse 5 temps)</h3>
 
 <details>
@@ -8799,6 +8863,20 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/RQgEnzAlwco?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Olof Kennemark, Pers Alexander Olsson - <b>Polska av Alexander Olsson</b> (Polska (rund polska))</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1za2UyvS7GpGxGvJ7W0S4c?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/4yE2gkfnTTo?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -8859,6 +8937,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/52l9Z51zSxHsEgm5Voj7Oi?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/VFbJWYDLml8?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -8951,6 +9034,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1api4W4ITn3gWRA5DEuIST?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/VLrMU16ryy0?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -9175,6 +9263,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1cGvvoxkex1CJR1hR7Rb8q?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ovMeTkFd9tY?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>Petit Piment - <b>Polka à Gilberte</b> (Polka)</h3>
@@ -9259,6 +9352,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4KZ8BU9FnCRvwLR6NGrl3h?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/721TpqojH9M?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -9436,6 +9534,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1uwTqqIOIxKBZYJ5qcgta9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/bR_fWifXFx4?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>Radůza - <b>Ať Není Mi Líto</b> (Valse 3 temps)</h3>
@@ -9531,6 +9634,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0UjQjTQulF7gGizsAH6LXr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/sf4VKsWb9Uw?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -9899,6 +10007,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7mNEmDAmx97ub5bgIwX3c2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/HsqzQFRe_oA?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>Skolvan - <b>Le retour (An dro) - Live</b> (An Dro)</h3>
@@ -9968,6 +10081,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4FbLMh3TotPrRDeyJK5twq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/S-YKP2ONy_8?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>Snaarmaarwaar - <b>Pentland</b> (Scottish)</h3>
@@ -9995,6 +10113,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3duOiq0HUMMURRpNASwNvR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/79rh2rSODQ8?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>Socam - <b>Très enfants d'en Bretanhat / Montava la marmita / La chabra bruna (bourrées)</b> (Bourrée 3 temps)</h3>
@@ -10016,6 +10139,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0kQUKMTNQIsvTkUU6U4BiO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/eevRaZlP5dM?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -10153,6 +10281,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1Ff20LVxpjzJLdsYyH2sw1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/MZQyx2DSrhQ?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -10333,6 +10466,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7ozqgxw0P8mTYIqJT1C4wC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/2eBYLg29TgY?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -10518,6 +10656,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5YDSeiuXc7QAICX92hVf9a?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/zFDB-pA2IuY?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>Tralala Lovers - <b>Les jours de grandes marées</b> (Valse 5 temps)</h3>
@@ -10601,6 +10744,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/29fxol1nYZcsHTGzZ6RD71?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Mk8msw3FRcE?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>Tref - <b>Plasko ö polska</b> (Polska (rund polska))</h3>
@@ -10679,6 +10827,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7diAL640b1DpXT5Pwonsy4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/D2rOxk-S2w0?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>Tribal Jâze - <b>Masure gat's</b> (Mazurka)</h3>
@@ -10686,6 +10839,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/26Jtc5JVx3piB8fQnEDIbS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ovakxRO4rqY?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -10738,6 +10896,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4vd6TDt6sW1hZEkA7owUyr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/F2HWy82Uy6w?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>Trio Aman - <b>Galop Nantais</b> (Galop Nantais)</h3>
@@ -10775,6 +10938,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6iMxJXYjHlE9TEmzHLcdsD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/5HiTlKkEZRA?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>Trio Dhoore - <b>Kallis</b> (Scottish)</h3>
@@ -10798,6 +10966,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7s9DcMjG8fUVho3p0rodcr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/dW9ENISyHKk?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>Trio Dhoore - <b>Special Bullets / Air Force</b> (Bourrée 3 temps)</h3>
@@ -10819,6 +10992,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1E6OdBKQJrjx17NtMJv4FJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/9wjzBMO1nUo?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -10890,6 +11068,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2BAnVAGXpfy5g2dlwOSMDC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/OXVorqItVNM?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>Trio Loubelya - <b>Jeanne ( valse à 3 temps )</b> (Valse 3 temps)</h3>
@@ -10926,6 +11109,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0jhUqPZXGxHlIVM2KLPhsr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/nmR71xJM9nM?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>Trio Loubelya - <b>Mouchti ( mazurka )</b> (Mazurka)</h3>
@@ -10933,6 +11121,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3aLUFOPwdUCVGInKsxglls?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/cyeutrbX-NI?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -11192,6 +11385,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/26di9pd9zYzRKgOa5E9bmJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/WrrmN6pI3wo?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>Vandiekomsa - <b>Schots In Cm</b> (Scottish)</h3>
@@ -11263,15 +11461,6 @@
 
 <hr>
 
-<h3>Walt Adams - <b>Things to Sort Out</b> (Mazurka)</h3>
-
-<details>
-<summary><big>Spotify</big></summary>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6n8o26g7k60c7qgoTJpFi2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</details>
-
-<hr>
-
 <h3>Warsaw Village Band - <b>Polka Emigrantka</b> (Polka)</h3>
 
 <details>
@@ -11304,6 +11493,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3iv5r39QeiOMepyHNeEK5D?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/_Eqbm_WieNM?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -11389,6 +11583,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5jCx77SPBbksaxumxwBcGZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/brkZA9NCWhc?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>Wouter en De Draak - <b>Monsieur 7</b> (Mazurka)</h3>
@@ -11396,6 +11595,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7sbaZX9uDlvUSAvYsfyFx5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/7TczVdhQNEA?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -11451,6 +11655,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/50uRao7iO1P1jM33Qd1c6q?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=588183115/size=small/bgcol=ffffff/linkcol=0687f5/track=2889111985/transparent=true/" seamless></iframe>
 </details>
 
 <hr>

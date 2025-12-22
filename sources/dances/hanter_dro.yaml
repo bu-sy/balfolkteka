@@ -719,5 +719,7 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/50uRao7iO1P1jM33Qd1c6q
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=588183115/size=small/bgcol=ffffff/linkcol=0687f5/track=2889111985/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S

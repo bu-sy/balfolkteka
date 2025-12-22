@@ -30,6 +30,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6iMxJXYjHlE9TEmzHLcdsD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/5HiTlKkEZRA?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>Trio Dhoore - <b>Kallis</b> (Scottish)</h3>
@@ -53,6 +58,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7s9DcMjG8fUVho3p0rodcr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/dW9ENISyHKk?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>Trio Dhoore - <b>Special Bullets / Air Force</b> (Bourrée 3 temps)</h3>
@@ -74,4 +84,9 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1E6OdBKQJrjx17NtMJv4FJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/9wjzBMO1nUo?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>

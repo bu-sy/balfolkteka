@@ -11,6 +11,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0Sm3CRX3hA487jk6w3f6Fy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3153448480/size=small/bgcol=ffffff/linkcol=0687f5/track=2312514917/transparent=true/" seamless></iframe>
+</details>
+
 <hr>
 
 <h3>ba.fnu - <b>Ej lásko (mazurka valse)</b> (Mazurka)</h3>
@@ -18,6 +23,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3tWJs58nCds7cgI4MXyMga?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3153448480/size=small/bgcol=ffffff/linkcol=0687f5/track=768300985/transparent=true/" seamless></iframe>
 </details>
 
 <hr>
@@ -29,6 +39,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/50uRao7iO1P1jM33Qd1c6q?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=588183115/size=small/bgcol=ffffff/linkcol=0687f5/track=2889111985/transparent=true/" seamless></iframe>
+</details>
+
 <hr>
 
 <h3>ba.fnu - <b>L'orient express (scottish)</b> (Scottish)</h3>
@@ -38,6 +53,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7Jww510x8GODJ2LHrFnE8E?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3153448480/size=small/bgcol=ffffff/linkcol=0687f5/track=565419478/transparent=true/" seamless></iframe>
+</details>
+
 <hr>
 
 <h3>ba.fnu - <b>Skočíš</b> (Scottish)</h3>
@@ -45,6 +65,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4s5i5D66XW1fDd50uiON5R?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2861639636/size=small/bgcol=ffffff/linkcol=0687f5/track=1489448231/transparent=true/" seamless></iframe>
 </details>
 
 <hr>
@@ -59,4 +84,9 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/73TAePwCWWT22r2BNsWQ8E?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3153448480/size=small/bgcol=ffffff/linkcol=0687f5/track=3257063040/transparent=true/" seamless></iframe>
 </details>

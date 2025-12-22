@@ -711,6 +711,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7Jww510x8GODJ2LHrFnE8E?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3153448480/size=small/bgcol=ffffff/linkcol=0687f5/track=565419478/transparent=true/" seamless></iframe>
+</details>
+
 <hr>
 
 <h3>ba.fnu - <b>Skočíš</b></h3>
@@ -718,4 +723,9 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4s5i5D66XW1fDd50uiON5R?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2861639636/size=small/bgcol=ffffff/linkcol=0687f5/track=1489448231/transparent=true/" seamless></iframe>
 </details>

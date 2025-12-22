@@ -76,6 +76,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2BAnVAGXpfy5g2dlwOSMDC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/OXVorqItVNM?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>Trio Loubelya - <b>Jeanne ( valse à 3 temps )</b> (Valse 3 temps)</h3>
@@ -121,6 +126,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0jhUqPZXGxHlIVM2KLPhsr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/nmR71xJM9nM?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>Trio Loubelya - <b>Mouchti ( mazurka )</b> (Mazurka)</h3>
@@ -128,6 +138,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3aLUFOPwdUCVGInKsxglls?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/cyeutrbX-NI?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>

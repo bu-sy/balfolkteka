@@ -1,4 +1,4 @@
-# Lista wszystkich artystów (555)
+# Lista wszystkich artystów (557)
 
 [Powrót do listy stron](../home.md)
 
@@ -522,9 +522,11 @@
 
 [Jon Maia (1)](music_by_artist/jon_maia.md)
 
+[Jonas Akerlund (1)](music_by_artist/jonas_akerlund.md)
+
 [Jorj Belz (1)](music_by_artist/jorj_belz.md)
 
-[Josefina Paulson (2)](music_by_artist/josefina_paulson.md)
+[Josefina Paulson (3)](music_by_artist/josefina_paulson.md)
 
 [Julie Mary (1)](music_by_artist/julie_mary.md)
 
@@ -607,6 +609,8 @@
 [Laurent Geoffroy (1)](music_by_artist/laurent_geoffroy.md)
 
 [Laurent Hilairet (1)](music_by_artist/laurent_hilairet.md)
+
+[Laurie Hart & Andrew VanNorstrand (1)](music_by_artist/laurie_hart_andrew_vannorstrand.md)
 
 [Laüsa (3)](music_by_artist/lausa.md)
 
@@ -750,11 +754,11 @@
 
 [Novar (4)](music_by_artist/novar.md)
 
-[Nubia (1)](music_by_artist/nubia.md)
-
 [Oîma (1)](music_by_artist/oima.md)
 
 [Olivier Le Gallo (1)](music_by_artist/olivier_le_gallo.md)
+
+[Olof Kennemark (1)](music_by_artist/olof_kennemark.md)
 
 [OMIRI (3)](music_by_artist/omiri.md)
 
@@ -803,6 +807,8 @@
 [Pèire Boissièra (1)](music_by_artist/peire_boissiera.md)
 
 [Pennoù Skoulm (1)](music_by_artist/pennou_skoulm.md)
+
+[Pers Alexander Olsson (1)](music_by_artist/pers_alexander_olsson.md)
 
 [Peter Moree (1)](music_by_artist/peter_moree.md)
 
@@ -1067,8 +1073,6 @@
 [Vinta (1)](music_by_artist/vinta.md)
 
 [Virginia Maiorana (1)](music_by_artist/virginia_maiorana.md)
-
-[Walt Adams (1)](music_by_artist/walt_adams.md)
 
 [Warsaw Village Band (3)](music_by_artist/warsaw_village_band.md)
 

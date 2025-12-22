@@ -4,7 +4,27 @@ links:
   examples:
   - link: https://www.youtube.com/watch?v=sqCEV5OA3yM
   - link: https://www.youtube.com/watch?v=jA3vZhKZyU0
+  playlists:
+  - link: https://open.spotify.com/playlist/2YasVhvJQOTOake4ppVpUe
   tracks:
+  - artist: Jonas Akerlund, Josefina Paulson
+    track_name: Polska efter schedin
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1rv2eYV4rnAZjn5o3qEsxV
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Psp_yLuDcHY
+    from_playlist:
+    - https://open.spotify.com/playlist/2YasVhvJQOTOake4ppVpUe
+  - artist: Laurie Hart & Andrew VanNorstrand
+    track_name: Södermanland- Polska efter Axel Axelsson
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7qFGnL8wUSWkhGejm7B1xf
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=bMEzvnVWq7I
+    from_playlist:
+    - https://open.spotify.com/playlist/2YasVhvJQOTOake4ppVpUe
   - artist: Les Zéoles
     from_playlist:
     - https://open.spotify.com/playlist/5cCY4elHzy96xmNLD9EaaZ
@@ -14,6 +34,15 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=pgPU0x71cPI
     track_name: Blue Magma (Polska)
+  - artist: Olof Kennemark, Pers Alexander Olsson
+    track_name: Polska av Alexander Olsson
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1za2UyvS7GpGxGvJ7W0S4c
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=4yE2gkfnTTo
+    from_playlist:
+    - https://open.spotify.com/playlist/2YasVhvJQOTOake4ppVpUe
   - artist: Tref
     links:
     - link: https://www.youtube.com/watch?v=ZZy4Vp3OpKQ

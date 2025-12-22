@@ -419,6 +419,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5plZUAG3ME9LBykUGix9CY
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=gxuFOtJ7PQU
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Komred
@@ -426,6 +428,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/23fI1XjsIWk0WayPEqasfN
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=jRmjkfXW4Z4
     from_playlist:
     - https://open.spotify.com/playlist/2hL4rLYe9FdRs1pgbQyyy1
   - artist: Kv Express
@@ -433,6 +437,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5T84diJnMvMgK1dsquiyH9
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=4EiE8IEUD_c
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
   - artist: Kv Express
@@ -440,6 +446,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5mqGHMGxqFahGOi0iSHF0I
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=gdXjo-4P0I4
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
   - artist: Kv Express
@@ -447,6 +455,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6N9E2Hi22w9Rfeba3fvtL5
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=bI6Jj1zPuBw
     from_playlist:
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Kv Express
@@ -454,6 +464,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/44Oy54skM8U51ZdZvdJwiB
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=FvFuGMSBHJw
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
   - artist: Kv Express
@@ -461,6 +473,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/56I8PN20cc7AXhmAFD7AOO
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=qUnakR5Se-Y
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
   - artist: L'Escargot
@@ -468,6 +482,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2aM1kBfAeulddGu7YYAkC8
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Up7K11RPsVA
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: La Bricole
@@ -475,6 +491,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0Lx4oGVd0SiMK28EXx7jgY
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=alnx6MKBoOY
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: La cuivraille
@@ -484,11 +502,14 @@ links:
       link: https://open.spotify.com/track/7emWSr0Ogwh4RZCFAfp6Sw
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+    no_youtube_link: true
   - artist: Laüsa
     track_name: Beth cèu de Pau
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1s8r1MXAcffAzoJS0IrOja
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=MVf7oLVF5HY
     from_playlist:
     - https://open.spotify.com/playlist/2hL4rLYe9FdRs1pgbQyyy1
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
@@ -497,6 +518,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3oaMJT3TLYHAuMxfCXheo2
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=1fw4jN0B65Y
     from_playlist:
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Le Sextet à Claques
@@ -504,6 +527,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7E017JD6lw5WWW5L8ISzVh
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=hsbKDwfYwpk
     from_playlist:
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Le Sextet à Claques
@@ -511,6 +536,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/68g9FzygIxX9aOYflFTARw
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=SZfuDHAA4is
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
   - artist: Le Sextet à Claques
@@ -518,6 +545,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6leivJe3PxJJW4TiQCJJhY
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=69KHzbde2GE
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
   - artist: Les Brayauds
@@ -525,6 +554,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4iGafknvS6jQ3kG0PQwtZw
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=uyo9sJb8syo
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Les Folkeux de Pie
@@ -532,6 +563,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3frwlRD2lSOq1lvxk5MulU
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=JjctzQ5Zsv4
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Les Poufs à Cordes
@@ -539,6 +572,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3iu86kU5qIMwiVvYqoyDYX
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=eMq_F8yB0AQ
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Les Zéoles
@@ -546,6 +581,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3sfJwaxJH3NgRcMIUBKGys
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=5XzPCi5KoSY
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
   - artist: Lirio
@@ -553,6 +590,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1pUlnhPZPP1rgAwPHB47ok
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=OIzeBRJDwS8
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Lo Cor de la Plana
@@ -560,6 +599,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/16FhEhJsmTsPoXFlqX8iBH
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ZXIoeTeYaLs
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Lolita Delmonteil-Ayral
@@ -567,6 +608,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/19BOxrbLR5bfANx331p6VF
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=UqN5ZatIqB4
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: LyraDanz

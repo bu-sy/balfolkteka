@@ -644,7 +644,7 @@
 
 [Les Poufs à Cordes (3)](music_by_artist/les_poufs_a_cordes.md)
 
-[Les Zéoles (13)](music_by_artist/les_zeoles.md)
+[Les Zéoles (15)](music_by_artist/les_zeoles.md)
 
 [Lhi Balòs (2)](music_by_artist/lhi_balos.md)
 

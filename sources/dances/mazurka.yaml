@@ -577,6 +577,24 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Les Zéoles
+    track_name: De a à z (Mazurka)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1yBkGVrNCNJP6HA8usehpC
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=__8myaNDfsg
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+  - artist: Les Zéoles
+    track_name: Petite aube (Mazurka-Valse)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3nkWcLIEofS30BZ8AQ1ZbF
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=7fdVZgVAHp8
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+  - artist: Les Zéoles
     track_name: Poppy (Mazurka)
     links:
     - portal: Spotify
@@ -617,6 +635,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7s4WSuijiKjxwnfyYaU3uS
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=IG5s8eYqiW4
     from_playlist:
     - https://open.spotify.com/playlist/2hL4rLYe9FdRs1pgbQyyy1
   - artist: LyraDanz
@@ -624,6 +644,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2b6lEQ7WKTOgIboEkE0m1r
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=mIzLBc7mZSk
     from_playlist:
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Mafila Ko

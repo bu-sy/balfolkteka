@@ -165,6 +165,13 @@ links:
       link: https://open.spotify.com/track/0nUmDKTDwawyPdqfcBrvDk
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Faburden
+    track_name: Scottish Cagette / La Chenille
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0PYZLVAAEM9Ur1hSw4pZrb
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Fahrenheit
     track_name: Garden swing (scottish)
     links:

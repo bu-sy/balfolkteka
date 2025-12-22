@@ -22,7 +22,7 @@
 
 <br>
 
-## Utwory (34)
+## Utwory (35)
 
 <hr>
 
@@ -348,6 +348,25 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1KhIf1WkPZnkYFItHlruNI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1025616882/size=small/bgcol=ffffff/linkcol=0687f5/track=1537859323/transparent=true/" seamless></iframe>
+</details>
+
+<hr>
+
+<h3>Mr. Folxlide - <b>Wayfaring Stranger</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2y6kbSmIvqkU6zlJOIjOc5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1025616882/size=small/bgcol=ffffff/linkcol=0687f5/track=2015534800/transparent=true/" seamless></iframe>
 </details>
 
 <hr>

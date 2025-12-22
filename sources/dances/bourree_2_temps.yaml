@@ -160,6 +160,15 @@ links:
       link: https://www.youtube.com/watch?v=pt2IXK02lkM
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Cyrille Brotto, Groove Factory, Stéphane Milleret
+    track_name: Brumes / Nylon
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3U6ZUvo5H5dufykfx0dGZD
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=WTNozJyeDww
+    from_playlist:
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
   - artist: Didier Laloy, Fabian Beghin
     track_name: The Wooden Legged Sportman
     links:
@@ -231,6 +240,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
     no_youtube_link: true
+  - artist: Faburden
+    track_name: Bourrée du Bonhomme de neige / Bourrée de Carbon Blanc
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2V8jQP6zS3gMoWzT8hhTLs
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=P2V0KSHja84
+    from_playlist:
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
   - artist: Faï Petar
     track_name: Bourrée de l'enclume
     links:
@@ -440,6 +458,16 @@ links:
       link: https://open.spotify.com/track/4mPmBiGkH8vBqZEOop243h
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+    no_youtube_link: true
+  - artist: Mr. Folxlide
+    track_name: Too Old to Die Young - Bourée 2 Temps
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6CrTyPmlQi0p6V9rEQux8g
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=1025616882/size=small/bgcol=ffffff/linkcol=0687f5/track=2756175417/transparent=true/
+    from_playlist:
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
     no_youtube_link: true
   - artist: NIJ
     track_name: Pandia - Bourrée À 2 Temps

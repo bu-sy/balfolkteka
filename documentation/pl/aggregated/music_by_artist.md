@@ -212,7 +212,7 @@
 
 [Cyril Roche (8)](music_by_artist/cyril_roche.md)
 
-[Cyrille Brotto (2)](music_by_artist/cyrille_brotto.md)
+[Cyrille Brotto (3)](music_by_artist/cyrille_brotto.md)
 
 [Dahù (3)](music_by_artist/dahu.md)
 
@@ -352,7 +352,7 @@
 
 [Fabs (1)](music_by_artist/fabs.md)
 
-[Faburden (2)](music_by_artist/faburden.md)
+[Faburden (4)](music_by_artist/faburden.md)
 
 [Fahrenheit (6)](music_by_artist/fahrenheit.md)
 
@@ -428,7 +428,7 @@
 
 [Göze (1)](music_by_artist/goze.md)
 
-[Groove Factory (7)](music_by_artist/groove_factory.md)
+[Groove Factory (8)](music_by_artist/groove_factory.md)
 
 [Groupe Dir Ha Tan (1)](music_by_artist/groupe_dir_ha_tan.md)
 
@@ -718,7 +718,7 @@
 
 [Monsieur Fruits (4)](music_by_artist/monsieur_fruits.md)
 
-[Mr. Folxlide (5)](music_by_artist/mr_folxlide.md)
+[Mr. Folxlide (7)](music_by_artist/mr_folxlide.md)
 
 [MUJI BGM (2)](music_by_artist/muji_bgm.md)
 
@@ -932,7 +932,7 @@
 
 [Stefano Baldan (1)](music_by_artist/stefano_baldan.md)
 
-[Stéphane Milleret (1)](music_by_artist/stephane_milleret.md)
+[Stéphane Milleret (2)](music_by_artist/stephane_milleret.md)
 
 [Stephane Robert (1)](music_by_artist/stephane_robert.md)
 

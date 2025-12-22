@@ -229,6 +229,18 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1KhIf1WkPZnkYFItHlruNI
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=1025616882/size=small/bgcol=ffffff/linkcol=0687f5/track=1537859323/transparent=true/
+    from_playlist:
+    - https://open.spotify.com/playlist/0MCGnArGMUQeEiaDFBG95y
+    no_youtube_link: true
+  - artist: Mr. Folxlide
+    track_name: Wayfaring Stranger
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2y6kbSmIvqkU6zlJOIjOc5
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=1025616882/size=small/bgcol=ffffff/linkcol=0687f5/track=2015534800/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/0MCGnArGMUQeEiaDFBG95y
     no_youtube_link: true

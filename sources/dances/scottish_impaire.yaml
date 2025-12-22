@@ -40,6 +40,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2ODl47ALoq3gfX7wAOGNqJ
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=1025616882/size=small/bgcol=ffffff/linkcol=0687f5/track=1564940176/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/1KIwLzhkkthmchVMPoActb
     no_youtube_link: true

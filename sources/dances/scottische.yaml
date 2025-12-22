@@ -379,6 +379,8 @@ links:
       link: https://open.spotify.com/track/5uRbx0kPaCb3zPRJ2gTotc
     - portal: Soundcloud
       link: https://w.soundcloud.com/player/?url=https://api.soundcloud.com/tracks/soundcloud:tracks:469767066
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=1025616882/size=small/bgcol=ffffff/linkcol=0687f5/track=3959144873/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Naragonia

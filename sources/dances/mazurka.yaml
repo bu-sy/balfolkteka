@@ -653,6 +653,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2sFvqpNSkProEieCoSeTvN
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=d8UTWfdIaXM
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Marta Maślanka, WoWaKin
@@ -660,6 +662,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6D9IXDCSphOhUkGsFk7JtT
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=3P6canj6WxA
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Marthe Tourret, Noëllie Nioulou, Élisa Trebouville
@@ -667,6 +671,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4Y9qPFxTfdL6TduVplCjHA
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=0VTTO89UVqo
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Martina Quiere Bailar
@@ -674,6 +680,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2ScjqIPhF4KQPfNjhyOAzS
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=XvYqLbseVJI
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
   - artist: Moizbat
@@ -683,6 +691,7 @@ links:
       link: https://open.spotify.com/track/0HLwcBceGAjHes51aOMnqh
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+    no_youtube_link: true
   - artist: Mr. Folxlide
     track_name: Come to Sleep - Mazurka
     links:
@@ -693,6 +702,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
+    no_youtube_link: true
   - artist: Naragonia
     track_name: Alio
     links:
@@ -702,6 +712,8 @@ links:
       link: https://open.spotify.com/track/0fSZq2A3HX6DfAkPgfcfRn
     - portal: Spotify
       link: https://open.spotify.com/track/4UCUSTPHsGAGmMAjX5zslO
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_Zj8kWGUxp0
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
@@ -714,6 +726,7 @@ links:
       link: https://open.spotify.com/track/1i4EBsE0McqVuFetI8E83C
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    no_youtube_link: true
   - artist: Naragonia
     track_name: So Fröhlich
     links:

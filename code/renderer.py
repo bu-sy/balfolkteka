@@ -47,12 +47,12 @@ def secondary_header(text):
     return f"## {text}"
 
 def music_collapsible_section(music, display_dance_name):
-    return collapsible(
-        f"{music.artist} - <b>{music.track_name}</b>" + (f" ({music.dance})" if display_dance_name else ""),
-        "\n".join([
-            f"\n{embed_track(music_link)}" for music_link in music.music_links
-        ])
-    )
+    return "\n\n".join([
+        "<hr>",
+        f"<h3>{music.artist} - <b>{music.track_name}</b>" + (f" ({music.dance})" if display_dance_name else "") + "</h3>"
+    ] + [
+        collapsible(music_link.portal, embed_track(music_link)) for music_link in music.music_links
+    ])
 
 def render_dance(loaded_dance, loaded_translation, all_dances, directory_structure):
     lines = [

@@ -17,6 +17,7 @@ links:
       link: https://open.spotify.com/track/0UBZ72JqCpzP4aUExuPZfp
     from_playlist:
     - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
+    no_youtube_link: true
   - artist: Dazkarieh
     track_name: Quase um Repasseado
     links:
@@ -24,14 +25,18 @@ links:
       link: https://open.spotify.com/track/59LkygCcuhaSjARIVUI3yb
     - portal: Spotify
       link: https://open.spotify.com/track/6t9abFt0vROeQXz9xVSsxq
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=a9-Bldgh7I0
     from_playlist:
     - https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
     - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
   - artist: Dazkarieh
-    track_name: Repasseado da calçada
+    track_name: Repasseado da calçada #TODO verify this is not a duplicate
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0w2Es6iKe9duHdd9AB4E4U
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ul7wD0_rfao
     from_playlist:
     - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
   - artist: Dazkarieh, Velha Gaiteira
@@ -39,6 +44,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5PHqP2jpu8uIUNfyrdVTcH
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ul7wD0_rfao
     from_playlist:
     - https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
   - artist: Dazkarieh, Velha Gaiteira
@@ -46,6 +53,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2Pmj3sS82S6hxbFBF0VM1y
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=3k-2cgiucTg
     from_playlist:
     - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
   - artist: Domingos Alfredo Flacão, Paulina José Raoso, Paulino Pereira João
@@ -53,6 +62,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2dNqLfnAll7FVaPyc87Tf1
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=xqHDG1-1JVo
     from_playlist:
     - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
   - artist: Galandum Galundaina
@@ -60,6 +71,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1HeZnlCZHCLFCCbXnwuHE8
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=sgm5qTfd7ZA
     from_playlist:
     - https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
     - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
@@ -68,6 +81,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1gp23svbjWkvEEYKPoAORo
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=lRiHUGAxSEA
     from_playlist:
     - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
   - artist: Mauro Passos
@@ -75,6 +90,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5VJt5LVJoyCfXqZteT8rSA
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=TlBTwubDLAI
     from_playlist:
     - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
   - artist: OMIRI
@@ -84,6 +101,8 @@ links:
       link: https://open.spotify.com/track/3ebmdlgzfLFAIkHnr1U7kb
     - portal: Spotify
       link: https://open.spotify.com/track/5B1v2S8WpVnyeQX26SUw1v
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=bJBn7q59XXk
     from_playlist:
     - https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
     - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
@@ -94,14 +113,19 @@ links:
       link: https://open.spotify.com/track/3SglwLAiEInknWdziyLSPI
     - portal: Spotify
       link: https://open.spotify.com/track/6tSetqRSUWwQRxUZqMpIp3
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=o3-h9KU4EqA
     from_playlist:
     - https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
     - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
+    no_youtube_link: true
   - artist: OMIRI
     track_name: Repasseado de S. Facundo
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2xdUzfLmUZnEyhRI8R2P8o
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=LrzyuL3bUy8
     from_playlist:
     - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
   - artist: Roncos do Diabo
@@ -121,6 +145,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/13XSNRKO1KKOgRvuhe2TdM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=bsRDFi3Asj4
     from_playlist:
     - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
   - artist: Trasga
@@ -128,6 +154,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1I438QBpn44djzulvMpXgM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=I4sHar6bamA
     from_playlist:
     - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
   - artist: UXU Kalhus
@@ -135,6 +163,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4ZLbdW5RZFRu2aRyxFTSlK
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=aypJDdki7AM
     from_playlist:
     - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
   - artist: Urze de Lume
@@ -144,6 +174,8 @@ links:
       link: https://open.spotify.com/track/5jMueHtgi8HcBhEru6yc0Y
     - portal: Spotify
       link: https://open.spotify.com/track/6zEU9BFh5Nil5osILl84Wm
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=pnmdfzkarro
     from_playlist:
     - https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
     - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
@@ -152,5 +184,7 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1Bj5012BLCH3IeTg6dbfbK
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=7jTomB__qm0
     from_playlist:
     - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe

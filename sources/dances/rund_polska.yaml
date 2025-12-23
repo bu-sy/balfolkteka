@@ -50,3 +50,10 @@ links:
     - link: https://open.spotify.com/track/6kTrlRT7pqIhuZQWQjImEN
       portal: Spotify
     track_name: Plasko ö polska
+  - artist: ba.fnu
+    track_name: Mjölska (polska)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2YPx0EEdep75h1W9On5KM7
+    from_playlist:
+    - https://open.spotify.com/playlist/2YasVhvJQOTOake4ppVpUe

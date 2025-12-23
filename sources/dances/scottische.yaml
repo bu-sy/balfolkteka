@@ -17,6 +17,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2nN35LJzAF1dfzqPCu9gS7
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=YNvYg1CLQ7Q
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
   - artist: Accordzêam
@@ -24,13 +26,18 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0c6XAxqNxfc8zpVG7yforU
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=jZgwX9cvmTY
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
+    no_youtube_link: true
   - artist: Ad Vielle Que Pourra
     track_name: Schottische Du Stockfish
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6MmqCO8RLNRj4mBHkUGbM1
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=rFpiF3zcyII
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Airboxes
@@ -38,6 +45,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5QtHopsvC9QQ3KbWF62R4O
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=aVlUKV4MrQ8
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Andy Cutting, Nigel Eaton
@@ -45,6 +54,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3ZChscQK7GDjcKusvZS0wA
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=bVPcetOx12g
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Ballsy Swing
@@ -52,6 +63,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1jNAvGvQGlvyBRbA0ZNFeY
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=uRUrf1T2H7Y
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Bargainatt
@@ -59,6 +72,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/58gbbGBFh2g66fe4gIYJMC
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=7Glh9FcE_c8
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
@@ -67,6 +82,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2aQ1JcDAM7SEngz1bnvG89
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=2YR0IIGFRQ4
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Bran
@@ -76,11 +93,14 @@ links:
       link: https://open.spotify.com/track/7ujz94spkQONi2JzFD3M4K
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+    no_youtube_link: true
   - artist: Brotto Lopez Sextet
     track_name: Avenueschottis
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4NxM96aa9SwJWb8j1Qp4er
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Ue2q9FokojM
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Brotto-Lopez
@@ -88,6 +108,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6N0EEJKvs8WJFVw62RPAI1
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=xrXHgmYjguM
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
@@ -96,6 +118,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4N2ih4ISJ0cjdeYnKwg4Ku
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=OSkllIRYlKQ
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Cyrille Brotto, Groove Factory, Stéphane Milleret
@@ -105,6 +129,8 @@ links:
       link: https://open.spotify.com/track/701o0ON1JwLkdE33ERpVqY
     - portal: Spotify
       link: https://open.spotify.com/track/36kgoYorXT58GxpM1u4h49
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=oe0buykwag4
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Cédric Aguila, Le Bal Brotto Lopez
@@ -112,6 +138,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6rpZyyQh14xHzcgBlild3l
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=qhKGQ9gDaPw
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
@@ -120,6 +148,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2FR6ETv6XpOwooKgdQ93Z8
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=H3M2cIVNdOs
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Duo Absynthe
@@ -127,6 +157,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7GADPvwHhb2sDgLYbhggb7
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=8SdQ7kjZnkI
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Duo Absynthe
@@ -134,6 +166,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0TCND7DuS8m1f0N9A92f7T
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=hktwrAAbjMs
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Duo Absynthe
@@ -141,6 +175,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2Aqm9Ah0suxBu7tSDppIjr
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=j3QQ9AdfkTw
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
@@ -149,6 +185,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/53yahU1o62Jw8KcuH8eX00
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=nSB3vo6pyfg
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Electrad
@@ -156,6 +194,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/265xkckdXV38BswiwS9boG
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=VOHed7qlYcM
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Etienne Choquet, Pulcinella, Trio Loubelya
@@ -163,6 +203,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0nUmDKTDwawyPdqfcBrvDk
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=9K7D0Y-XzXQ
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Faburden
@@ -170,6 +212,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0PYZLVAAEM9Ur1hSw4pZrb
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ma4WFiUfvvw
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Fahrenheit
@@ -177,6 +221,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0cx165K2jvKjzCiIddqG6v
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=R0GSXxvgsTM
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
@@ -185,6 +231,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7bPS8e9ghtfglfaXVxGeoL
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=WZGiO2p2XZg
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Floating Sofa Quartet
@@ -192,6 +240,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3kakPLlhfUQYHRTBQhHqhp
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=8j4osytcqRc
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
@@ -200,6 +250,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1oS6I0WhC9NRTTVC9ELXLv
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=dkm-na5nHMU
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
@@ -208,6 +260,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/46R3YJjjoHd9ML4TrpCEv3
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=JAmCP_zYN_E
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
   - artist: Floating Sofa Quartet, Guro Kvifte Nesheim
@@ -215,6 +269,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0vZZRgdLx69n2peHP8MYyN
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=S60MC5oCbkM
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
   - artist: Floating Sofa Quartet, Lars Lilholt
@@ -222,6 +278,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1wuecyVmkcEpBHeTT8vp5k
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=1dj7p5IT-ko
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
   - artist: GUF Gävleborgs Ungdomsfolkband
@@ -229,6 +287,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4CKsX991Nqdx9pUJ34eym8
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=lHnMWOkXTSQ
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
   - artist: Groove Factory
@@ -236,6 +296,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/53qZfg0pa5krtC7orfs2s1
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Js-AizZGhqk
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Hartwin
@@ -243,6 +305,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/65796xbRxoTTOy337BEdAz
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=XcSA2lrlvHk
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Hawktail, Väsen
@@ -250,6 +314,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4sFwTtFtfLCXDOTz9XKYdL
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=tNfBZP4-U1U
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
   - artist: Hot Griselda
@@ -257,6 +323,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5Mp1BXI0v1mEOejNZUenPs
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=it4G23xq2jk
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Hotel Palindrone
@@ -264,6 +332,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/46NRAvsSS8gx2OuecCU3Oy
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=9Qi26pp0J_o
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
   - artist: Josefina Paulson, Sophie Cavez
@@ -534,6 +604,13 @@ links:
       link: https://open.spotify.com/track/31P0ovvPrItDf4BXEWZuOM
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
+  - artist: Yann-Fañch Kemener, ba.fnu
+    track_name: Scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5P8jDeUHY0NduvCILgmzM8
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Zef
     track_name: Scottish a Julo
     links:
@@ -557,5 +634,12 @@ links:
       link: https://open.spotify.com/track/4s5i5D66XW1fDd50uiON5R
     - portal: Bandcamp
       link: https://bandcamp.com/EmbeddedPlayer/album=2861639636/size=small/bgcol=ffffff/linkcol=0687f5/track=1489448231/transparent=true/
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: ba.fnu
+    track_name: Skočíš. Scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7h8xTcuInN0UWthUO6PVzD
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c

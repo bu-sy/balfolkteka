@@ -272,3 +272,10 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/2zoeLgbEClTkOeNnyqzVoV
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: ba.fnu
+    track_name: Revolution Onedro. An Dro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6hRKqdZEUNg4YJOJXUlomf
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO

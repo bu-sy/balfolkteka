@@ -777,6 +777,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0FgUcSWyhwyj5ZPTxgLkkL
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=2alrZxDr9XU
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Nubia
@@ -784,6 +786,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6poStpo0yMnRtU5lTb8yud
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=E7OtXpgnh3w
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Nubia
@@ -1081,3 +1085,17 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     no_youtube_link: true
+  - artist: ba.fnu
+    track_name: M.Zurka. Mazurka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0n6sqDxWQYZgUcMGQFz1uw
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+  - artist: ba.fnu
+    track_name: Zabili. Mazurka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2FSRWoFqPJUPBf0AEvODxV
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT

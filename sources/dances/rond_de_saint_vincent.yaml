@@ -293,3 +293,11 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
     no_youtube_link: true
+  - artist: ba.fnu
+    track_name: Rond Avec Mike. Rond De Saint Vincent
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7j6fF6AKhtPe6voQKe8kSR
+    from_playlist:
+    - https://open.spotify.com/playlist/3Jrp8mpVQZusdrG98oSCSO
+    no_youtube_link: true

@@ -74,7 +74,7 @@
 
 [Aziliz Manrow (1)](music_by_artist/aziliz_manrow.md)
 
-[ba.fnu (6)](music_by_artist/ba_fnu.md)
+[ba.fnu (13)](music_by_artist/ba_fnu.md)
 
 [Bäckafall (1)](music_by_artist/backafall.md)
 
@@ -1096,7 +1096,7 @@
 
 [Yann Honoré (1)](music_by_artist/yann_honore.md)
 
-[Yann-Fañch Kemener (5)](music_by_artist/yann_fanch_kemener.md)
+[Yann-Fañch Kemener (6)](music_by_artist/yann_fanch_kemener.md)
 
 [Yousef Zayed (1)](music_by_artist/yousef_zayed.md)
 

@@ -1,4 +1,4 @@
-# ba.fnu (6)
+# ba.fnu (13)
 
 [Powrót do listy artystów](../music_by_artist.md)
 
@@ -60,6 +60,51 @@
 
 <hr>
 
+<h3>ba.fnu - <b>M.Zurka. Mazurka</b> (Mazurka)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0n6sqDxWQYZgUcMGQFz1uw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>ba.fnu - <b>Mjölska (polska)</b> (Polska (rund polska))</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2YPx0EEdep75h1W9On5KM7?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>ba.fnu - <b>Revolution Onedro. An Dro</b> (An Dro)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6hRKqdZEUNg4YJOJXUlomf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>ba.fnu - <b>Rond Avec Mike. Rond De Saint Vincent</b> (Rond de Saint-Vincent)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7j6fF6AKhtPe6voQKe8kSR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Yann-Fañch Kemener, ba.fnu - <b>Scottish</b> (Scottish)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5P8jDeUHY0NduvCILgmzM8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>ba.fnu - <b>Skočíš</b> (Scottish)</h3>
 
 <details>
@@ -70,6 +115,15 @@
 <details>
 <summary><big>Bandcamp</big></summary>
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2861639636/size=small/bgcol=ffffff/linkcol=0687f5/track=1489448231/transparent=true/" seamless></iframe>
+</details>
+
+<hr>
+
+<h3>ba.fnu - <b>Skočíš. Scottish</b> (Scottish)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7h8xTcuInN0UWthUO6PVzD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -89,4 +143,13 @@
 <details>
 <summary><big>Bandcamp</big></summary>
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3153448480/size=small/bgcol=ffffff/linkcol=0687f5/track=3257063040/transparent=true/" seamless></iframe>
+</details>
+
+<hr>
+
+<h3>ba.fnu - <b>Zabili. Mazurka</b> (Mazurka)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2FSRWoFqPJUPBf0AEvODxV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>

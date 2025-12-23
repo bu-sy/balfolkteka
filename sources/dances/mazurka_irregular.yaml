@@ -4,8 +4,8 @@ connected_dances:
 - mazurka
 links:
   tracks:
-  - artist: Tranen voor Paulo
-    track_name: Nubia
+  - artist: Nubia
+    track_name: Tranen voor Paulo
     links:
     - link: https://open.spotify.com/track/4iaMV0KXek5a33rFdYwT6b
       portal: Spotify

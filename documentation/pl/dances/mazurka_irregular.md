@@ -14,7 +14,7 @@
 
 <hr>
 
-<h3>Tranen voor Paulo - <b>Nubia</b></h3>
+<h3>Nubia - <b>Tranen voor Paulo</b></h3>
 
 <details>
 <summary><big>Spotify</big></summary>

@@ -212,7 +212,7 @@
 
 [Cyril Roche (8)](music_by_artist/cyril_roche.md)
 
-[Cyrille Brotto (3)](music_by_artist/cyrille_brotto.md)
+[Cyrille Brotto (4)](music_by_artist/cyrille_brotto.md)
 
 [Dahù (3)](music_by_artist/dahu.md)
 
@@ -428,7 +428,7 @@
 
 [Göze (1)](music_by_artist/goze.md)
 
-[Groove Factory (8)](music_by_artist/groove_factory.md)
+[Groove Factory (9)](music_by_artist/groove_factory.md)
 
 [Groupe Dir Ha Tan (1)](music_by_artist/groupe_dir_ha_tan.md)
 
@@ -754,6 +754,8 @@
 
 [Novar (4)](music_by_artist/novar.md)
 
+[Nubia (5)](music_by_artist/nubia.md)
+
 [Oîma (1)](music_by_artist/oima.md)
 
 [Olivier Le Gallo (1)](music_by_artist/olivier_le_gallo.md)
@@ -938,7 +940,7 @@
 
 [Stefano Baldan (1)](music_by_artist/stefano_baldan.md)
 
-[Stéphane Milleret (2)](music_by_artist/stephane_milleret.md)
+[Stéphane Milleret (3)](music_by_artist/stephane_milleret.md)
 
 [Stephane Robert (1)](music_by_artist/stephane_robert.md)
 
@@ -1001,8 +1003,6 @@
 [Tralala Lovers (2)](music_by_artist/tralala_lovers.md)
 
 [Trancexpress (1)](music_by_artist/trancexpress.md)
-
-[Tranen voor Paulo (1)](music_by_artist/tranen_voor_paulo.md)
 
 [Trasga (1)](music_by_artist/trasga.md)
 

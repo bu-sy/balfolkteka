@@ -773,6 +773,20 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Nubia
+    track_name: Kom Hier
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0FgUcSWyhwyj5ZPTxgLkkL
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+  - artist: Nubia
+    track_name: Midnight Mazurka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6poStpo0yMnRtU5lTb8yud
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+  - artist: Nubia
     blacklist: true #This is a irregular mazurka, it belongs to a different list
     track_name: Tranen voor Paulo
     links:

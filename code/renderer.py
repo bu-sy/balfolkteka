@@ -27,21 +27,24 @@ def embed_soundcloud(link_text):
 def embed_bandcamp(link_text):
     return '''<iframe style="border: 0; width: 100%; height: 42px;" src="''' + link_text + '''" seamless></iframe>'''
 
+def embed_audio_file(link_text):
+    return '''<audio controls src="''' + link_text + '''"></audio>'''
+
 def collapsible(summary, contents):
     return f"<details>\n<summary><big>{summary}</big></summary>\n{contents}\n</details>"
 
 def embed_track(link_object):
-    if link_object.portal.lower() == 'spotify':
-        return get_spotify_embed(link_object.link)
-    elif link_object.portal.lower() == 'youtube':
-        return embed_youtube(link_object.link)
-    elif link_object.portal.lower() == 'soundcloud':
-        return embed_soundcloud(link_object.link)
-    elif link_object.portal.lower() == 'bandcamp':
-        return embed_bandcamp(link_object.link)
+    embedding_method = {
+        'spotify': get_spotify_embed,
+        'youtube': embed_youtube,
+        'soundcloud': embed_soundcloud,
+        'bandcamp': embed_bandcamp,
+        'audiofile': embed_audio_file
+    }.get(link_object.portal.lower())
+    if embedding_method:
+        return embedding_method(link_object.link)
     else:
-        return f"({link(link_object.portal, link_object.link)})"
-
+        return link_object.link
 
 def secondary_header(text):
     return f"## {text}"

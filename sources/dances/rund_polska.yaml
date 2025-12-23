@@ -55,5 +55,7 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2YPx0EEdep75h1W9On5KM7
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=cQv3EPbcLsg
     from_playlist:
     - https://open.spotify.com/playlist/2YasVhvJQOTOake4ppVpUe

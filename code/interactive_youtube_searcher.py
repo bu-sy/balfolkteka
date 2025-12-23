@@ -22,6 +22,31 @@ def get_y_n_answer(prompt):
         answer = input(prompt + '(y/n)')
     return answer == 'y'
 
+class Action(object):
+    ACCEPT = 'a'
+    VERIFY = 'v'
+    DECLINE = 'd'
+    @classmethod
+    def all_options(cls):
+        return (cls.ACCEPT, cls.VERIFY, cls.DECLINE)
+
+    @classmethod
+    def accept_decline(cls):
+        return (cls.ACCEPT, cls.DECLINE)
+
+    @classmethod
+    def get_action(cls, prompt, accept_verify=True):
+        answer = ''
+        if accept_verify:
+            valid_options = cls.all_options()
+        else:
+            valid_options = cls.accept_decline()
+
+        while answer not in valid_options:
+            answer = input(prompt + f"({'/'.join(valid_options)})")
+        return answer
+
+
 def get_spotify_link(track):
     for link in track['links']:
         if link['portal'].lower() == 'spotify':
@@ -35,17 +60,26 @@ def search_youtube_video(track):
         tested_url = result['url']
         if tested_url.startswith('https://youtube.com'):
             tested_url = tested_url.replace('https://youtube.com', 'https://www.youtube.com')
-        print(f"Checking {tested_url}")
-        webbrowser.open(tested_url)
-        if get_y_n_answer('Is this the correct url?'):
+        print("Found:")
+        if 'description1' in result:
+            print(f"  Track: {result['description1']}")
+        if 'description3' in result:
+            print(f"  Artist: {result['description3']}")
+        print(f"Under {tested_url}.")
+
+        what_to_do = Action.get_action('How to proceed? Accept/Verify/Decline?')
+        if what_to_do == Action.VERIFY:
+            webbrowser.open(tested_url)
+            what_to_do = Action.get_action('How to proceed? Accept/Decline?', accept_verify=False)
+
+        if what_to_do == Action.ACCEPT:
             track['links'].append({
                 'portal': 'YouTube',
                 'link': tested_url
             })
             return
 
-    if get_y_n_answer('Should I mark that track does not exist on YouTube?'):
-        track[NO_YOUTUBE_LINK_MARKER] = True
+    track[NO_YOUTUBE_LINK_MARKER] = True
 
 
 

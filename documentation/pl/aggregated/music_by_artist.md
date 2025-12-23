@@ -74,7 +74,7 @@
 
 [Aziliz Manrow (1)](music_by_artist/aziliz_manrow.md)
 
-[ba.fnu (13)](music_by_artist/ba_fnu.md)
+[ba.fnu (12)](music_by_artist/ba_fnu.md)
 
 [Bäckafall (1)](music_by_artist/backafall.md)
 

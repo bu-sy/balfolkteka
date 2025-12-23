@@ -67,12 +67,16 @@ def search_youtube_video(track):
             print(f"  Artist: {result['description3']}")
         print(f"Under {tested_url}.")
 
-        what_to_do = Action.get_action('How to proceed? Accept/Verify/Decline?')
-        if what_to_do == Action.VERIFY:
-            webbrowser.open(tested_url)
-            what_to_do = Action.get_action('How to proceed? Accept/Decline?', accept_verify=False)
+        verification_needed = (track['track_name'].strip() != result['description1'].strip()) or (track['artist'].strip() != result['description3'].strip())
 
-        if what_to_do == Action.ACCEPT:
+        what_to_do = None
+        if verification_needed:
+            what_to_do = Action.get_action('How to proceed? Accept/Verify/Decline?')
+            if what_to_do == Action.VERIFY:
+                webbrowser.open(tested_url)
+                what_to_do = Action.get_action('How to proceed? Accept/Decline?', accept_verify=False)
+
+        if (not verification_needed) or (what_to_do == Action.ACCEPT):
             track['links'].append({
                 'portal': 'YouTube',
                 'link': tested_url

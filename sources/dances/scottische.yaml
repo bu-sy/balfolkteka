@@ -377,6 +377,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3yHvvHNC3cYjkrAQn0qDnF
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=VCIr-bF4bJ0
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
   - artist: La Forcelle
@@ -384,6 +386,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1m68csa1EAMTW2K3jB8lxR
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=5ixE_ooAT18
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Le Quintet à Claques
@@ -391,6 +395,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5prACOhX4iH1n9lxmYTdOz
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Z7GtI2C3E8k
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Le Sextet à Claques
@@ -398,6 +404,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/09C3NIr6HZ1Vu0h8xUKx6K
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=NZEXcR7qfsg
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Les Zéoles
@@ -405,6 +413,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5T9UauQppvB7Tbvr432Yjo
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=yXjORBg-2aQ
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Les Zéoles
@@ -412,6 +422,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6DZf8psO3ua4ylT5c6HByZ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=uiB4lEQ3ck4
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
@@ -420,6 +432,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1TrJzjSUgIQXNaGB72hJQ7
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=icAZREhQ-cQ
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Lirio
@@ -427,6 +441,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4NEM8Gkex8BTg7UeJQSkhA
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=vBgJyOxWd2o
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Lirio
@@ -434,6 +450,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6pHTgI2S8xAJ7FLJBgINf4
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=8pQcZXvFDmE
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Loogaroo
@@ -441,6 +459,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/15bYgfuAWz1QXZxorEsBNq
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=wMv_fJQ_1hA
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: MUJI BGM
@@ -448,6 +468,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7DZ8krBMTCjJMoC4XnVYAu
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=cHEi5gv727U
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
   - artist: Man Encantada
@@ -455,6 +477,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/20ZUYSRRBk8d7sAuEZEw8n
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=tnigV11WPcU
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Mr. Folxlide
@@ -468,11 +492,14 @@ links:
       link: https://bandcamp.com/EmbeddedPlayer/album=1025616882/size=small/bgcol=ffffff/linkcol=0687f5/track=3959144873/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+    no_youtube_link: true
   - artist: Naragonia
     track_name: Carabel
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3ZPVhJSZXuYHDgjcnC7OSm
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=96UXtqn9UVo
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
@@ -481,6 +508,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6VSBAYqARiADT2y9UGcAGM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=KTUANcmAqWY
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Naragonia
@@ -490,11 +519,14 @@ links:
       link: https://open.spotify.com/track/3YBmhIeE8CtPpNZ4gRGw7e
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
+    no_youtube_link: true
   - artist: Naragonia, Naragonia Quartet
     track_name: Hellebore / Too Late to Sleep
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3z1iq9HZHu5ZevbzaL60JC
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=UuSqgnNole4
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Nina Nordvall Vahlberg
@@ -502,6 +534,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4eSdsX6rHc7ZhFV93yXCXL
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=MTeXmwZ7HOQ
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
   - artist: Nostrad
@@ -509,6 +543,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0cSf78q3p0qnpVZyUpkgnb
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=wFVeK7nvm10
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Novar
@@ -516,6 +552,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2PP1gleh8VpIzAH4SQS1o6
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=4gHf011A2t0
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Phonix
@@ -523,6 +561,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/39VqgIc0FUyyGudZkXOOr2
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=JgLYgrz2Hzo
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Plantec
@@ -530,6 +570,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3m9V71oGeounfDJncLh5zp
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=nLsRa1bINNw
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Rémi Geffroy
@@ -537,6 +579,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7gkCOxra3lvoU2gsfYhUKD
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=9OmirB4NZss
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Rémi Geffroy
@@ -544,6 +588,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0Hnm1MjWQP9gEIOt2nLTGr
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=aertfeVvi6s
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
   - artist: Snaarmaarwaar
@@ -551,6 +597,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6C6Kn4cgziJSXBl61KGH9F
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=MRH3KM_PI_s
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Snaarmaarwaar
@@ -558,6 +606,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/17a8Xqtrs4ySZzRlKKFB7z
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=pS7cphdi9es
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
   - artist: Tref
@@ -565,6 +615,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/509tV4C5bsGNN8pUxL87WQ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=BGOXURvsDOU
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Tribal Jâze
@@ -572,6 +624,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7toEcWM9q1jBIuvUX3ZsqN
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=cKgC78YBfNg
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Trio Dhoore
@@ -581,6 +635,8 @@ links:
       link: https://open.spotify.com/track/3HnPbuR0HfQUvk1letSHZx
     - portal: Spotify
       link: https://open.spotify.com/track/6wWhlgZFXRB42insBl9vWM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=WqRIAnoMLsw
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
@@ -589,6 +645,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/40gpuXyjOgMLcMzsjcczuS
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=V-eZbFNVebM
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Trio Loubelya
@@ -596,6 +654,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7jr27L7AZTmmryfTFtLCDi
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=tYOOEUHsAr8
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Vandiekomsa
@@ -603,6 +663,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7g7IOtYmZsMd901TlSG442
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=KqbN_oJ2BqY
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Vädur
@@ -610,6 +672,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/31P0ovvPrItDf4BXEWZuOM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ne-HYbz1OjE
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
   - artist: Yann-Fañch Kemener, ba.fnu
@@ -617,6 +681,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5P8jDeUHY0NduvCILgmzM8
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=mFR5kKIzbdw
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Zef
@@ -624,6 +690,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2EqKt3BBQaw5HnrW5a4Pg6
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=x6nzrI3S7WI
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: ba.fnu
@@ -633,6 +701,8 @@ links:
       link: https://open.spotify.com/track/7Jww510x8GODJ2LHrFnE8E
     - portal: Bandcamp
       link: https://bandcamp.com/EmbeddedPlayer/album=3153448480/size=small/bgcol=ffffff/linkcol=0687f5/track=565419478/transparent=true/
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=kZk1w9pfw-A
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: ba.fnu
@@ -644,10 +714,13 @@ links:
       link: https://bandcamp.com/EmbeddedPlayer/album=2861639636/size=small/bgcol=ffffff/linkcol=0687f5/track=1489448231/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+    no_youtube_link: true
   - artist: ba.fnu
     track_name: Skočíš. Scottish
+    blacklist: true #duplicate
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7h8xTcuInN0UWthUO6PVzD
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+    no_youtube_link: true

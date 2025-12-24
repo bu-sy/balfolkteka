@@ -165,6 +165,8 @@ class DirectoryStructureForTranslation(object):
 
     def get_music_by_artist(self, artist, relative_to=None):
         file_name = re.sub(r'\W+', '_', unidecode(artist.lower()))
+        if file_name.startswith('_'):
+            file_name = '0' + file_name
         return self._get_path(os.path.join(self.music_by_artist_directory, f"{file_name}.md"), relative_to)
 
 all_dances = [

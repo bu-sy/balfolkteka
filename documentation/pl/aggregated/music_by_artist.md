@@ -2,7 +2,7 @@
 
 [Powrót do listy stron](../home.md)
 
-['Ndiaz (4)](music_by_artist/_ndiaz.md)
+['Ndiaz (4)](music_by_artist/0_ndiaz.md)
 
 [Abdel Bouzbiba (1)](music_by_artist/abdel_bouzbiba.md)
 

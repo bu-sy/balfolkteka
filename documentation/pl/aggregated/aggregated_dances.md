@@ -1,4 +1,4 @@
-# Lista wszystkich tańców (31)
+# Lista wszystkich tańców (32)
 
 [Powrót do listy stron](../home.md)
 
@@ -27,6 +27,8 @@
 [Hanter Dro](../dances/hanter_dro.md)
 
 [Irregular mazurka (Nieregularna mazurka)](../dances/mazurka_irregular.md)
+
+[Kost ar c'hoad](../dances/kost_ar_c_hoad.md)
 
 [Madison](../dances/madison.md)
 

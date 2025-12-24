@@ -316,6 +316,15 @@ links:
       link: https://www.youtube.com/watch?v=qbHY-xz4B1A
     from_playlist:
     - https://open.spotify.com/playlist/5IbcMd4YyTBwJuIggoi0dD
+  - artist: Xabi Aburruzaga, Xabier Zeberio
+    track_name: Ezpatadantzari
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5qDRjdlXq37Wm2tK5kuMSe
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=GNM0NUF2-D4
+    from_playlist:
+    - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
   - artist: Zlabya
     track_name: Mammatus
     links:

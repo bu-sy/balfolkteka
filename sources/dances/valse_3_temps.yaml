@@ -11,6 +11,7 @@ links:
   - link: https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
   - link: https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
   - link: https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
+  - link: https://open.spotify.com/playlist/6Frtoa6VNsp0n814HSZEfG
   tracks:
   - artist: Ad Vielle Que Pourra
     track_name: L'Agacante/Valse Du Milieu/Valse Du Faucigny
@@ -1289,3 +1290,12 @@ links:
       link: https://www.youtube.com/watch?v=eKT7rVllMp0
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: ba.fnu
+    track_name: Valse de jana (valse)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5P4hTo0HbX2NIQw9HZivwb
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Ed3_zjBOfr4
+    from_playlist:
+    - https://open.spotify.com/playlist/6Frtoa6VNsp0n814HSZEfG

@@ -13,6 +13,7 @@ links:
   - link: https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
   - link: https://open.spotify.com/playlist/60rT8z0AbQ5ZQIrWsvSOWq
   - link: https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - link: https://open.spotify.com/playlist/1WUytEw4LQUtV8HxDeZ7O0
   tracks:
   - artist: Alexandra Lacouchie, Le Bal Brotto Lopez
     track_name: Passat deman - Bourrée
@@ -1150,3 +1151,12 @@ links:
       link: https://www.youtube.com/watch?v=hc_GTwEQhqo
     from_playlist:
     - https://open.spotify.com/playlist/60rT8z0AbQ5ZQIrWsvSOWq
+  - artist: ba.fnu
+    track_name: Ru ok (bourrée 3tps)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2EURBOFdYFKKqsvwsZrb4h
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=VL53Z8c3tjs
+    from_playlist:
+    - https://open.spotify.com/playlist/1WUytEw4LQUtV8HxDeZ7O0

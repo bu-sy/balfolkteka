@@ -1,4 +1,4 @@
-# Le bal de l'éphémère (4)
+# Le bal de l'éphémère (5)
 
 [Powrót do listy artystów](../music_by_artist.md)
 
@@ -9,6 +9,15 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0GhmCa9m4HShcZW7VVGQw4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Le bal de l'éphémère - <b>Kostar Chouette</b> (Kost ar c'hoad)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7iuPRCkfJAZNUrZ1K3wkh8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>

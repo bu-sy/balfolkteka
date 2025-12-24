@@ -1,4 +1,4 @@
-# Lista wszystkich artystów (558)
+# Lista wszystkich artystów (563)
 
 [Powrót do listy stron](../home.md)
 
@@ -12,7 +12,7 @@
 
 [Abnoba (1)](music_by_artist/abnoba.md)
 
-[Accordzêam (8)](music_by_artist/accordzeam.md)
+[Accordzêam (9)](music_by_artist/accordzeam.md)
 
 [Ad Vielle Que Pourra (4)](music_by_artist/ad_vielle_que_pourra.md)
 
@@ -24,7 +24,7 @@
 
 [Alain Buhé (1)](music_by_artist/alain_buhe.md)
 
-[Alain Pennec (6)](music_by_artist/alain_pennec.md)
+[Alain Pennec (7)](music_by_artist/alain_pennec.md)
 
 [Alain Pennec Quartet (1)](music_by_artist/alain_pennec_quartet.md)
 
@@ -36,7 +36,7 @@
 
 [Alfons Verreijt (1)](music_by_artist/alfons_verreijt.md)
 
-[Ampouailh (6)](music_by_artist/ampouailh.md)
+[Ampouailh (7)](music_by_artist/ampouailh.md)
 
 [An Tour Tan (1)](music_by_artist/an_tour_tan.md)
 
@@ -74,7 +74,7 @@
 
 [Aziliz Manrow (1)](music_by_artist/aziliz_manrow.md)
 
-[ba.fnu (12)](music_by_artist/ba_fnu.md)
+[ba.fnu (15)](music_by_artist/ba_fnu.md)
 
 [Bäckafall (1)](music_by_artist/backafall.md)
 
@@ -98,7 +98,7 @@
 
 [Bargainatt (9)](music_by_artist/bargainatt.md)
 
-[BAROK (1)](music_by_artist/barok.md)
+[BAROK (2)](music_by_artist/barok.md)
 
 [Basile Brémaud (1)](music_by_artist/basile_bremaud.md)
 
@@ -164,7 +164,7 @@
 
 [Carmelo Russo (1)](music_by_artist/carmelo_russo.md)
 
-[Carré Manchot (7)](music_by_artist/carre_manchot.md)
+[Carré Manchot (10)](music_by_artist/carre_manchot.md)
 
 [Casals Sabaté (1)](music_by_artist/casals_sabate.md)
 
@@ -214,7 +214,7 @@
 
 [Cyrille Brotto (4)](music_by_artist/cyrille_brotto.md)
 
-[Dahù (3)](music_by_artist/dahu.md)
+[Dahù (4)](music_by_artist/dahu.md)
 
 [Dave Shepherd (1)](music_by_artist/dave_shepherd.md)
 
@@ -240,7 +240,7 @@
 
 [Didier Pauvert (1)](music_by_artist/didier_pauvert.md)
 
-[Didier Squiban (4)](music_by_artist/didier_squiban.md)
+[Didier Squiban (5)](music_by_artist/didier_squiban.md)
 
 [Die Irrlichter (2)](music_by_artist/die_irrlichter.md)
 
@@ -294,7 +294,7 @@
 
 [Duo Sciapò (1)](music_by_artist/duo_sciapo.md)
 
-[Duo Sionneau/Gielen (7)](music_by_artist/duo_sionneau_gielen.md)
+[Duo Sionneau/Gielen (8)](music_by_artist/duo_sionneau_gielen.md)
 
 [Duo TTC (2)](music_by_artist/duo_ttc.md)
 
@@ -304,7 +304,7 @@
 
 [E-leizh (1)](music_by_artist/e_leizh.md)
 
-[Eben (2)](music_by_artist/eben.md)
+[Eben (3)](music_by_artist/eben.md)
 
 [Edgar Trio (1)](music_by_artist/edgar_trio.md)
 
@@ -314,7 +314,7 @@
 
 [Elanor (1)](music_by_artist/elanor.md)
 
-[Electrad (3)](music_by_artist/electrad.md)
+[Electrad (4)](music_by_artist/electrad.md)
 
 [Élisa Trebouville (4)](music_by_artist/elisa_trebouville.md)
 
@@ -334,11 +334,11 @@
 
 [Erwan Menguy (1)](music_by_artist/erwan_menguy.md)
 
-[Erwan Moal (1)](music_by_artist/erwan_moal.md)
+[Erwan Moal (2)](music_by_artist/erwan_moal.md)
 
 [Erwann Tobie (1)](music_by_artist/erwann_tobie.md)
 
-[Esquisse (7)](music_by_artist/esquisse.md)
+[Esquisse (9)](music_by_artist/esquisse.md)
 
 [Etienne Choquet (1)](music_by_artist/etienne_choquet.md)
 
@@ -428,7 +428,7 @@
 
 [Göze (1)](music_by_artist/goze.md)
 
-[Groove Factory (9)](music_by_artist/groove_factory.md)
+[Groove Factory (10)](music_by_artist/groove_factory.md)
 
 [Groupe Dir Ha Tan (1)](music_by_artist/groupe_dir_ha_tan.md)
 
@@ -454,7 +454,7 @@
 
 [Hamon Martin Quartet (1)](music_by_artist/hamon_martin_quartet.md)
 
-[Hamon Martin Quintet (1)](music_by_artist/hamon_martin_quintet.md)
+[Hamon Martin Quintet (2)](music_by_artist/hamon_martin_quintet.md)
 
 [Hans Houckes (1)](music_by_artist/hans_houckes.md)
 
@@ -532,7 +532,7 @@
 
 [Julien Barbances (3)](music_by_artist/julien_barbances.md)
 
-[Julien Stevenin (1)](music_by_artist/julien_stevenin.md)
+[Julien Stevenin (2)](music_by_artist/julien_stevenin.md)
 
 [Justyna Piernik (1)](music_by_artist/justyna_piernik.md)
 
@@ -616,7 +616,7 @@
 
 [Le Bal Brotto Lopez (5)](music_by_artist/le_bal_brotto_lopez.md)
 
-[Le bal de l'éphémère (4)](music_by_artist/le_bal_de_l_ephemere.md)
+[Le bal de l'éphémère (5)](music_by_artist/le_bal_de_l_ephemere.md)
 
 [Le Bal en Chantier (7)](music_by_artist/le_bal_en_chantier.md)
 
@@ -716,7 +716,7 @@
 
 [Mister Klof (4)](music_by_artist/mister_klof.md)
 
-[Modkozmik (1)](music_by_artist/modkozmik.md)
+[Modkozmik (2)](music_by_artist/modkozmik.md)
 
 [Moizbat (3)](music_by_artist/moizbat.md)
 
@@ -860,6 +860,8 @@
 
 [Renaud Hibon (1)](music_by_artist/renaud_hibon.md)
 
+[rhizottome (1)](music_by_artist/rhizottome.md)
+
 [Robert Lobbesteijn (1)](music_by_artist/robert_lobbesteijn.md)
 
 [Rodrigo Leão (1)](music_by_artist/rodrigo_leao.md)
@@ -878,7 +880,7 @@
 
 [Ruth Hunter and Ruthie Dornfeld (1)](music_by_artist/ruth_hunter_and_ruthie_dornfeld.md)
 
-[Ruz Reor (4)](music_by_artist/ruz_reor.md)
+[Ruz Reor (5)](music_by_artist/ruz_reor.md)
 
 [Samuel PARMENTIER (1)](music_by_artist/samuel_parmentier.md)
 
@@ -946,7 +948,7 @@
 
 [Stephane Robert (1)](music_by_artist/stephane_robert.md)
 
-[Sterne (5)](music_by_artist/sterne.md)
+[Sterne (6)](music_by_artist/sterne.md)
 
 [Stevan Vincendeau (6)](music_by_artist/stevan_vincendeau.md)
 
@@ -964,7 +966,9 @@
 
 [Sylvie Pulles (1)](music_by_artist/sylvie_pulles.md)
 
-[Tangi Le Gall-Carre (2)](music_by_artist/tangi_le_gall_carre.md)
+[Talskan (1)](music_by_artist/talskan.md)
+
+[Tangi Le Gall-Carre (3)](music_by_artist/tangi_le_gall_carre.md)
 
 [Tatu Trio (1)](music_by_artist/tatu_trio.md)
 
@@ -988,6 +992,8 @@
 
 [Tiennet Simonnin (5)](music_by_artist/tiennet_simonnin.md)
 
+[Timothée Le Bour (1)](music_by_artist/timothee_le_bour.md)
+
 [Toc de Crida (1)](music_by_artist/toc_de_crida.md)
 
 [Tołhaje (1)](music_by_artist/tolhaje.md)
@@ -1000,7 +1006,7 @@
 
 [Tradethik Productions (2)](music_by_artist/tradethik_productions.md)
 
-[Traditional (2)](music_by_artist/traditional.md)
+[Traditional (3)](music_by_artist/traditional.md)
 
 [Tralala Lovers (2)](music_by_artist/tralala_lovers.md)
 
@@ -1042,7 +1048,7 @@
 
 [Trouzerion (1)](music_by_artist/trouzerion.md)
 
-[Tud (3)](music_by_artist/tud.md)
+[Tud (4)](music_by_artist/tud.md)
 
 [Ulman (1)](music_by_artist/ulman.md)
 
@@ -1086,9 +1092,13 @@
 
 [Woodlands (1)](music_by_artist/woodlands.md)
 
-[Wouter en De Draak (11)](music_by_artist/wouter_en_de_draak.md)
+[Wouter en De Draak (12)](music_by_artist/wouter_en_de_draak.md)
 
 [WoWaKin (1)](music_by_artist/wowakin.md)
+
+[Xabi Aburruzaga (2)](music_by_artist/xabi_aburruzaga.md)
+
+[Xabier Zeberio (1)](music_by_artist/xabier_zeberio.md)
 
 [Xavier Vidal (1)](music_by_artist/xavier_vidal.md)
 
@@ -1096,7 +1106,7 @@
 
 [Yann Honoré (1)](music_by_artist/yann_honore.md)
 
-[Yann-Fañch Kemener (6)](music_by_artist/yann_fanch_kemener.md)
+[Yann-Fañch Kemener (7)](music_by_artist/yann_fanch_kemener.md)
 
 [Yousef Zayed (1)](music_by_artist/yousef_zayed.md)
 

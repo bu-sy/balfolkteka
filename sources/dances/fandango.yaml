@@ -211,3 +211,12 @@ links:
       link: https://www.youtube.com/watch?v=OMNaYK4w6sw
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Xabi Aburruzaga
+    track_name: Afreekandango
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/18bCxEr0mOFcrGAhe6bdWv
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=SjK-Cb99-q0
+    from_playlist:
+    - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL

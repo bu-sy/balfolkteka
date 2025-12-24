@@ -167,9 +167,11 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7iuPRCkfJAZNUrZ1K3wkh8
+    - portal: Soundcloud
+      link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud:tracks:261961025&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
     from_playlist:
     - https://open.spotify.com/playlist/2yMyRimR4t8Jx6zUl60dOI
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Modkozmik
     track_name: D'an eur a hanternoz (Koste 'r hoed)
     links:

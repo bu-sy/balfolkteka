@@ -835,12 +835,13 @@ links:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
   - artist: Tiennet Simonnin
     track_name: Hanter Dro
+    blacklist: true #Unavailable on Spotify
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5tjfhmPv5w6BuZsyCQjaxq
     from_playlist:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Trio Forj
     track_name: Hanter dro
     links:

@@ -1,4 +1,4 @@
-# Lista wszystkich artystów (562)
+# Lista wszystkich artystów (561)
 
 [Powrót do listy stron](../home.md)
 
@@ -1120,8 +1120,6 @@
 
 [Zirp (1)](music_by_artist/zirp.md)
 
-[Zlabya (5)](music_by_artist/zlabya.md)
-
-[ZLABYA (1)](music_by_artist/zlabya.md)
+[ZLABYA (6)](music_by_artist/zlabya.md)
 
 [Zurgó (1)](music_by_artist/zurgo.md)

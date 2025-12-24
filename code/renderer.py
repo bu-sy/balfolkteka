@@ -171,6 +171,14 @@ def render_music_by_artist(all_music, loaded_translation, directory_structure):
         artists_for_that_music = [record.strip() for record in music.artist.split(',')]
         for found_artist in artists_for_that_music:
             artists[found_artist] = artists.get(found_artist, []) + [music]
+    ## Clean records of artists
+    artists_names = sorted(artists.keys(), key=lambda x: unidecode(x.lower()))
+    for i in range(0, len(artists_names)-1):
+        if unidecode(artists_names[i]).lower() == unidecode(artists_names[i+1]).lower():
+            print(f"Found duplicate artists: {artists_names[i]}, {artists_names[i+1]}. Merging")
+            artists[artists_names[i+1]] = artists[artists_names[i+1]] + artists[artists_names[i]]
+            artists.pop(artists_names[i])
+
     for artist, artists_music in artists.items():
         current_file = directory_structure.get_music_by_artist(artist)
         write_file(

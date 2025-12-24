@@ -183,9 +183,11 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2dvg0I2TLnD8O4lKQbqFSS
+    - portal: Soundcloud
+      link: https://w.soundcloud.com/player/?url=https://api.soundcloud.com/tracks/soundcloud:tracks:664307318&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
     from_playlist:
     - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Le bal de l'éphémère
     track_name: Les intermittents
     links:
@@ -193,6 +195,8 @@ links:
       link: https://open.spotify.com/track/31Mftz4vNvSrUGsYS3qYaU
     - portal: YouTube
       link: https://www.youtube.com/watch?v=BsbA3BgOrjk
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=2882232255/size=small/bgcol=ffffff/linkcol=0687f5/track=1128275337/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
   - artist: Les Zéoles

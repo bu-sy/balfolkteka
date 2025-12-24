@@ -591,6 +591,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3aZIqAONM9NpTEpCj1bKnQ
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=1361712988/size=small/bgcol=ffffff/linkcol=0687f5/track=3974517601/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
@@ -602,6 +604,8 @@ links:
       link: https://open.spotify.com/track/3ErmPmkEAHbBymzvsSCrUd
     - portal: YouTube
       link: https://www.youtube.com/watch?v=5uxiHwYJ2cc
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=1046356449/size=small/bgcol=ffffff/linkcol=0687f5/track=956715263/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz

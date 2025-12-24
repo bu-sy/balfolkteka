@@ -847,10 +847,12 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6qYQwhZt7LhXw4xZ9k29Ez
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=3179376676/size=small/bgcol=ffffff/linkcol=0687f5/track=1947838556/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/60rT8z0AbQ5ZQIrWsvSOWq
     - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: NOU
     track_name: Bourrée trois temps
     links:

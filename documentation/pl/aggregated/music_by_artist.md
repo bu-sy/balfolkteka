@@ -1,4 +1,4 @@
-# Lista wszystkich artystów (563)
+# Lista wszystkich artystów (562)
 
 [Powrót do listy stron](../home.md)
 
@@ -815,8 +815,6 @@
 [Peter Moree (1)](music_by_artist/peter_moree.md)
 
 [Petit Piment (3)](music_by_artist/petit_piment.md)
-
-[Peut-être Jeanne (1)](music_by_artist/peut_etre_jeanne.md)
 
 [Philippe Bataille (1)](music_by_artist/philippe_bataille.md)
 

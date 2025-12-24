@@ -24,9 +24,9 @@
 
 [Galop Nantais](../dances/galop_nantais.md)
 
-[Hanter Dro](../dances/hanter_dro.md)
+[Gavotte de l'Aven](../dances/gavotte_de_l_aven.md)
 
-[Irregular mazurka (Nieregularna mazurka)](../dances/mazurka_irregular.md)
+[Hanter Dro](../dances/hanter_dro.md)
 
 [Kost ar c'hoad](../dances/kost_ar_c_hoad.md)
 

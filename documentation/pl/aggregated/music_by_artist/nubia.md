@@ -60,7 +60,7 @@
 
 <hr>
 
-<h3>Nubia - <b>Tranen voor Paulo</b> (Irregular mazurka)</h3>
+<h3>Nubia - <b>Tranen voor Paulo</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

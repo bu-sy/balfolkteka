@@ -15,9 +15,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0UBZ72JqCpzP4aUExuPZfp
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=794mrlNfZuc
     from_playlist:
     - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
-    no_youtube_link: true
   - artist: Dazkarieh
     track_name: Quase um Repasseado
     links:
@@ -118,7 +119,6 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
     - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
-    no_youtube_link: true
   - artist: OMIRI
     track_name: Repasseado de S. Facundo
     links:

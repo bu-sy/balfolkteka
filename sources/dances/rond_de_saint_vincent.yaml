@@ -287,17 +287,20 @@ links:
     - https://open.spotify.com/playlist/3Jrp8mpVQZusdrG98oSCSO
   - artist: Wipidoup
     track_name: Mademoiselle Ficelle - Rond De Saint-Vincent
+    blacklist: true #Unavailable on Spotify
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5kbdhZZ8oHRnjZHKMLqOeD
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: ba.fnu
     track_name: Rond Avec Mike. Rond De Saint Vincent
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7j6fF6AKhtPe6voQKe8kSR
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=2861639636/size=small/bgcol=ffffff/linkcol=0687f5/track=2789722925/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/3Jrp8mpVQZusdrG98oSCSO
-    no_youtube_link: true
+    no_youtube_link: true #Verified

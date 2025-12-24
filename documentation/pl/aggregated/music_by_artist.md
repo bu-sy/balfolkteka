@@ -1,4 +1,4 @@
-# Lista wszystkich artystów (570)
+# Lista wszystkich artystów (569)
 
 [Powrót do listy stron](../home.md)
 
@@ -1103,8 +1103,6 @@
 [Willy Pichard (5)](music_by_artist/willy_pichard.md)
 
 [Wim te Groen (1)](music_by_artist/wim_te_groen.md)
-
-[Wipidoup (1)](music_by_artist/wipidoup.md)
 
 [Woodlands (1)](music_by_artist/woodlands.md)
 

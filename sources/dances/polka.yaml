@@ -166,7 +166,7 @@ links:
       link: https://open.spotify.com/track/2ubW6aH2kVZn8rsqu6WWFw
     from_playlist:
     - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Gjangsta
     track_name: Polka nr. 3
     links:
@@ -174,7 +174,7 @@ links:
       link: https://open.spotify.com/track/347ivnKd8Ib84yfPv067HB
     from_playlist:
     - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Gjangsta
     track_name: Sipelga polka
     links:
@@ -182,7 +182,7 @@ links:
       link: https://open.spotify.com/track/323OaweHiEalzabjvKqbEU
     from_playlist:
     - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Hajda Banda, Iwona Pawlak, Jędrzej Weber
     track_name: Od cymbalistów
     links:
@@ -271,7 +271,7 @@ links:
       link: https://open.spotify.com/track/6Rl4c4oK48ekXiPXLAMFU3
     from_playlist:
     - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: NOU
     track_name: Polka
     links:
@@ -394,9 +394,11 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2ThGEnBpQSMrdzpVEeJRY8
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=1yLJ8uap_EE
     from_playlist:
     - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Warsaw Village Band
     track_name: Polka z Sieradzkiego
     links:

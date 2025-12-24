@@ -16,6 +16,11 @@
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/eKT7rVllMp0?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2512172585/size=small/bgcol=ffffff/linkcol=0687f5/track=4174905016/transparent=true/" seamless></iframe>
+</details>
+
 <hr>
 
 <h3>Zlabya - <b>Circulo - Live</b> (Cercle Circassien)</h3>
@@ -63,6 +68,11 @@
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/yqLjZUlltU4?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2512172585/size=small/bgcol=ffffff/linkcol=0687f5/track=4193067130/transparent=true/" seamless></iframe>
+</details>
+
 <hr>
 
 <h3>Zlabya - <b>Mammatus</b> (Chapelloise)</h3>
@@ -77,6 +87,11 @@
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/n3Mi3oWKWlE?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2512172585/size=small/bgcol=ffffff/linkcol=0687f5/track=2921250828/transparent=true/" seamless></iframe>
+</details>
+
 <hr>
 
 <h3>Zlabya - <b>Sweet Sally Grey - Live</b> (Chapelloise)</h3>
@@ -89,4 +104,9 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/aW_yXApNYXY?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1046356449/size=small/bgcol=ffffff/linkcol=0687f5/track=678456929/transparent=true/" seamless></iframe>
 </details>

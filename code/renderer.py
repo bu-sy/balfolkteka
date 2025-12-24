@@ -174,7 +174,7 @@ def render_music_by_artist(all_music, loaded_translation, directory_structure):
     ## Clean records of artists
     artists_names = sorted(artists.keys(), key=lambda x: unidecode(x.lower()))
     for i in range(0, len(artists_names)-1):
-        if unidecode(artists_names[i]).lower() == unidecode(artists_names[i+1]).lower():
+        if directory_structure.get_music_by_artist(artists_names[i]) == directory_structure.get_music_by_artist(artists_names[i+1]):
             print(f"Found duplicate artists: {artists_names[i]}, {artists_names[i+1]}. Merging")
             artists[artists_names[i+1]] = artists[artists_names[i+1]] + artists[artists_names[i]]
             artists.pop(artists_names[i])

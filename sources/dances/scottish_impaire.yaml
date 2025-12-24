@@ -70,5 +70,7 @@ links:
       link: https://open.spotify.com/track/1sSIb3hGvcrN7dVOjz8Owa
     - portal: YouTube
       link: https://www.youtube.com/watch?v=yqLjZUlltU4
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=2512172585/size=small/bgcol=ffffff/linkcol=0687f5/track=4193067130/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/1KIwLzhkkthmchVMPoActb

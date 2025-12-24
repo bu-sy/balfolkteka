@@ -78,9 +78,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2qqAY08YllakNkV4URduke
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=CuWaJOPsxbI
     from_playlist:
     - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
-    no_youtube_link: true
   - artist: Aurélien Claranbaux
     track_name: Arrow in the Milkyway - La poule et la bombe
     links:
@@ -125,11 +126,12 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2Avgrz3p1kn7ptaVHnkSau
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=dz6VAqeyscA
     from_playlist:
     - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
-    no_youtube_link: true
   - artist: Blue Reed
     track_name: Cerclelloise
     links:
@@ -337,9 +339,11 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2pDWf77VA5VZJA8LuPflRR
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=4144430804/size=small/bgcol=ffffff/linkcol=0687f5/track=900437598/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Hotel Palindrone
     track_name: Philosophen-Jigs
     links:
@@ -596,7 +600,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Zlabya
     track_name: Circulo - Live
     links:

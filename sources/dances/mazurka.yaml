@@ -793,7 +793,6 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Nubia
-    blacklist: true #This is a irregular mazurka, it belongs to a different list
     track_name: Tranen voor Paulo
     links:
     - portal: Spotify

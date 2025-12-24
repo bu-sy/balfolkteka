@@ -246,9 +246,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1HEwcurs6D8eBjQ4xGCSQ2
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=p89DpoVBn_s
     from_playlist:
     - https://open.spotify.com/playlist/7bjBMyVAhlVUEaQ8vKiUCU
-    no_youtube_link: true
   - artist: Paracetamol
     track_name: Én szép világom
     links:

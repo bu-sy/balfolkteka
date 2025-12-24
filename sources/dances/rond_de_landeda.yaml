@@ -40,6 +40,7 @@ links:
     - https://open.spotify.com/playlist/5dpO1DxrArXEX41LwHtcCf
   - artist: La cuivraille
     track_name: Rond De Landéda
+    blacklist: true
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/229Us9TuzrSL48nqmv2MOE

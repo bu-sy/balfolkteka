@@ -1,4 +1,4 @@
-# Lista wszystkich artystów (571)
+# Lista wszystkich artystów (570)
 
 [Powrót do listy stron](../home.md)
 
@@ -601,8 +601,6 @@
 [La Bottines Artistiques (3)](music_by_artist/la_bottines_artistiques.md)
 
 [La Bricole (1)](music_by_artist/la_bricole.md)
-
-[La cuivraille (2)](music_by_artist/la_cuivraille.md)
 
 [La Forcelle (3)](music_by_artist/la_forcelle.md)
 

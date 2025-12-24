@@ -596,9 +596,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1mGxwdtl1482JPROlHbXF6
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=D3p57caQlrY
     from_playlist:
     - https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
-    no_youtube_link: true
   - artist: Groove Factory
     track_name: L'Imprévue
     links:
@@ -658,9 +659,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4sfxlJnfTMhlLjhbuRJtqm
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=uMdwEeb1XnI
     from_playlist:
     - https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
-    no_youtube_link: true
   - artist: Jon Maia, Korrontzi
     track_name: Iraun (ft. Jon Maia)
     links:
@@ -684,9 +686,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5axNoeOxlWmo3ApNZXJwQQ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=bG-9lgrXyCY
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
-    no_youtube_link: true
   - artist: Kendirvi
     track_name: La moustache de Poulouche (Valse)
     links:
@@ -783,9 +786,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/29Dh2IwReW4lwTDiVmPaV7
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=QonAD7fxsek
     from_playlist:
     - https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
-    no_youtube_link: true
   - artist: Lhi Balòs
     track_name: Nina parte II
     links:
@@ -856,10 +860,11 @@ links:
       link: https://open.spotify.com/track/6WjymPlQxxQ5crcZeI1olR
     - portal: Spotify
       link: https://open.spotify.com/track/09V2Xojy3pX4GXnuzyGAsz
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=8uGWub5xPtc
     from_playlist:
     - https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
     - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
-    no_youtube_link: true
   - artist: Naragonia
     track_name: Samen Op de Tractor
     links:
@@ -912,7 +917,7 @@ links:
       link: https://open.spotify.com/track/6EgYkej1XIyyUpiVLmBheC
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Nostrad
     links:
     - link: https://www.youtube.com/watch?v=4yDUbuaEaXg
@@ -1101,9 +1106,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/776CTsBI2EYYIUk6dR4yit
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=rcw-fcRlvkY
     from_playlist:
     - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
-    no_youtube_link: true
   - artist: Shillelagh
     track_name: Lievtallig Walsje
     links:

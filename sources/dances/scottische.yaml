@@ -30,7 +30,6 @@ links:
       link: https://www.youtube.com/watch?v=jZgwX9cvmTY
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
-    no_youtube_link: true
   - artist: Ad Vielle Que Pourra
     track_name: Schottische Du Stockfish
     links:
@@ -91,9 +90,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7ujz94spkQONi2JzFD3M4K
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=saEqwjLO56s
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
-    no_youtube_link: true
   - artist: Brotto Lopez Sextet
     track_name: Avenueschottis
     links:
@@ -492,7 +492,7 @@ links:
       link: https://bandcamp.com/EmbeddedPlayer/album=1025616882/size=small/bgcol=ffffff/linkcol=0687f5/track=3959144873/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Naragonia
     track_name: Carabel
     links:
@@ -517,9 +517,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3YBmhIeE8CtPpNZ4gRGw7e
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=6BGZJRM0VqA
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
-    no_youtube_link: true
   - artist: Naragonia, Naragonia Quartet
     track_name: Hellebore / Too Late to Sleep
     links:
@@ -714,7 +715,7 @@ links:
       link: https://bandcamp.com/EmbeddedPlayer/album=2861639636/size=small/bgcol=ffffff/linkcol=0687f5/track=1489448231/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: ba.fnu
     track_name: Skočíš. Scottish
     blacklist: true #duplicate
@@ -723,4 +724,4 @@ links:
       link: https://open.spotify.com/track/7h8xTcuInN0UWthUO6PVzD
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
-    no_youtube_link: true
+    no_youtube_link: true #Verified

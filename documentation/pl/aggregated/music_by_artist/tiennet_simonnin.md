@@ -1,4 +1,4 @@
-# Tiennet Simonnin (5)
+# Tiennet Simonnin (2)
 
 [Powrót do listy artystów](../music_by_artist.md)
 
@@ -18,24 +18,6 @@
 
 <hr>
 
-<h3>Tiennet Simonnin - <b>Bourrée de Malbouzon / La San Girbazia - Studio de la Ferme</b> (Bourrée 3 temps)</h3>
-
-<details>
-<summary><big>Spotify</big></summary>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5hgicdpJPTEVtGYrm8rbmU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</details>
-
-<hr>
-
-<h3>Tiennet Simonnin - <b>Hanter Dro</b> (Hanter Dro)</h3>
-
-<details>
-<summary><big>Spotify</big></summary>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5tjfhmPv5w6BuZsyCQjaxq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</details>
-
-<hr>
-
 <h3>Cadène, Camille Raibaud, Julien Barbances, Sylvain Quéré, Tiennet Simonnin, Tradethik Productions - <b>La gaillacoise - Rue de la loge</b> (Bourrée 2 temps)</h3>
 
 <details>
@@ -46,13 +28,4 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/a1xRiyRIjYI?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
-</details>
-
-<hr>
-
-<h3>Tiennet Simonnin - <b>La Justine / La Reyracoise / Bourrée à Marcel Plane / Bourrée à Espeyrou / Bourrée à Ribeyrolle</b> (Bourrée 3 temps)</h3>
-
-<details>
-<summary><big>Spotify</big></summary>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0UI3o5SnuGpk6CqiNtj8OT?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>

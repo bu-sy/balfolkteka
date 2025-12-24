@@ -988,7 +988,7 @@
 
 [Tidiane Dia (1)](music_by_artist/tidiane_dia.md)
 
-[Tiennet Simonnin (5)](music_by_artist/tiennet_simonnin.md)
+[Tiennet Simonnin (2)](music_by_artist/tiennet_simonnin.md)
 
 [Timothée Le Bour (1)](music_by_artist/timothee_le_bour.md)
 

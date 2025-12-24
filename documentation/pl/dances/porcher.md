@@ -39,5 +39,5 @@
 
 <details>
 <summary><big>AudioFile</big></summary>
-<audio controls src="http://souslepont.org/sousLePont/audio/etLaCEstQuoi/porchakovitch.mp3"></audio>
+<audio controls preload="none" src="http://souslepont.org/sousLePont/audio/etLaCEstQuoi/porchakovitch.mp3"></audio>
 </details>

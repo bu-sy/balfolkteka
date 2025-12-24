@@ -28,7 +28,7 @@ def embed_bandcamp(link_text):
     return '''<iframe style="border: 0; width: 100%; height: 42px;" src="''' + link_text + '''" seamless></iframe>'''
 
 def embed_audio_file(link_text):
-    return '''<audio controls src="''' + link_text + '''"></audio>'''
+    return '''<audio controls preload="none" src="''' + link_text + '''"></audio>'''
 
 def collapsible(summary, contents):
     return f"<details>\n<summary><big>{summary}</big></summary>\n{contents}\n</details>"

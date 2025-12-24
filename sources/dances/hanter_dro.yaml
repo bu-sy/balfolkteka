@@ -158,7 +158,7 @@ links:
       link: https://open.spotify.com/track/7FhUIGblyWurB6f54thpxv
     from_playlist:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Beltaine
     track_name: Hoodoo's Lament
     links:
@@ -463,7 +463,7 @@ links:
       link: https://open.spotify.com/track/32glTiYj3zCOjQ5OmsSIL4
     from_playlist:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Hartwin
     track_name: Heartbeat - Hanterdro
     links:
@@ -496,17 +496,19 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6qkgaLh4HuN1VloumlqA7l
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=6up1gZxXjdM
     from_playlist:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
-    no_youtube_link: true
   - artist: Jean-Michel Veillon & Yvon Riou
     track_name: Hanter Dro/A Pe Oen Me Yuvank/ E Souk Er Manné
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2BlVhA8ehQ7hcJLvkJsAar
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=JLph-WlGttM
     from_playlist:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
-    no_youtube_link: true
   - artist: Jessica Baran-Surel, Traditional
     track_name: Hanter droú
     links:
@@ -573,12 +575,13 @@ links:
     - https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
   - artist: La cuivraille
     track_name: Quand J'étais Chez Mon Père
+    blacklist: true #Unavailable on Spotify
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7HiW6N0HzBrIfYOJdgPPEx
     from_playlist:
     - https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Les Frères Paranthoën
     track_name: Er verig yaouank - Hanter dro
     links:
@@ -605,7 +608,7 @@ links:
       link: https://open.spotify.com/track/5N1amlwjgFUBMrb33jOaAH
     from_playlist:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Les frères Kervadec
     track_name: Hanter dro du pays Breton
     links:
@@ -613,7 +616,7 @@ links:
       link: https://open.spotify.com/track/1GVJ7AENDRY0uF7n5akONt
     from_playlist:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Loogaroo
     track_name: Certuban
     links:
@@ -664,9 +667,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6JjN2ZDVI9v9bjOmUIN5f8
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=QDQowL8Oz-Q
     from_playlist:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
-    no_youtube_link: true
   - artist: NIJ
     track_name: Chaldéné - Hanter-Dro
     links:
@@ -772,9 +776,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1sEO2spxjHhhijT0iycRXo
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=wp2ErPKlfrc
     from_playlist:
     - https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
-    no_youtube_link: true
   - artist: Startijenn
     track_name: Bok bok bok (Hanter-dro) [Live]
     links:

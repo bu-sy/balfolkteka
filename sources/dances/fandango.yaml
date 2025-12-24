@@ -82,9 +82,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6w7mlUKzM9A5eUfxFDyye9
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=6IFkQq2-Mc0
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
-    no_youtube_link: true
   - artist: Kepa Junkera, Melonious Quartet
     track_name: Fandango
     links:
@@ -128,9 +129,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7eXx2fnriIlvK2SKKSSKqU
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=wj5KzfwMzzY
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
-    no_youtube_link: true
   - artist: Lou Pitakass
     track_name: Nivolet
     links:
@@ -201,7 +203,7 @@ links:
       link: https://open.spotify.com/track/6JGQlYSzoXe2MKyg45Iez4
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Sons d'Embat
     track_name: Albiztur
     links:

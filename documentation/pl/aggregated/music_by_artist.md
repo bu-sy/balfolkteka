@@ -1,4 +1,4 @@
-# Lista wszystkich artystów (561)
+# Lista wszystkich artystów (562)
 
 [Powrót do listy stron](../home.md)
 
@@ -588,7 +588,7 @@
 
 [La Bricole (1)](music_by_artist/la_bricole.md)
 
-[La cuivraille (3)](music_by_artist/la_cuivraille.md)
+[La cuivraille (2)](music_by_artist/la_cuivraille.md)
 
 [La Forcelle (3)](music_by_artist/la_forcelle.md)
 
@@ -1069,6 +1069,8 @@
 [Velha Gaiteira (3)](music_by_artist/velha_gaiteira.md)
 
 [Veronique Bourjot (1)](music_by_artist/veronique_bourjot.md)
+
+[ViatoreS (1)](music_by_artist/viatores.md)
 
 [Vicki Swan & Jonny Dyer (1)](music_by_artist/vicki_swan_jonny_dyer.md)
 

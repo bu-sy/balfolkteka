@@ -44,9 +44,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4ljP1S4PWkBoJEjtyIStHT
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Wm1fAkVLU8k
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
-    no_youtube_link: true
   - artist: Archam
     track_name: Menez Andro
     links:
@@ -277,6 +278,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6hRKqdZEUNg4YJOJXUlomf
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=2861639636/size=small/bgcol=ffffff/linkcol=0687f5/track=2709560383/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
-    no_youtube_link: true
+    no_youtube_link: true #Verified

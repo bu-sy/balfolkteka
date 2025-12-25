@@ -76,6 +76,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0Tp3hCokMXp4Vlp4KWiBru?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4173009768/size=small/bgcol=ffffff/linkcol=0687f5/track=521705654/transparent=true/" seamless></iframe>
+</details>
+
 <hr>
 
 <h3>Bruno Le Tron, Franck Fagon, Laurent Cabané, Olivier Le Gallo - <b>Mirabelle</b></h3>

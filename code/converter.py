@@ -120,23 +120,9 @@ class DirectoryStructure(object):
         self.dances_path = os.path.join(self.sources_path, 'dances')
         self.translations_path = os.path.join(self.sources_path, 'translations')
         self.documentations_path = os.path.join(self.toplevel_path, 'documentation')
-
-
-class DirectoryStructureForTranslation(DirectoryStructure):
-    def __init__(self, translation):
-        super(DirectoryStructureForTranslation, self).__init__()
-        self.translation_toplevel_path = os.path.join(self.documentations_path, translation.name)
-        self.translated_dances_directory = os.path.join(self.translation_toplevel_path, 'dances')
-        self.aggregated_pages_directory = os.path.join(self.translation_toplevel_path, 'aggregated')
-        self.music_by_artist_directory = os.path.join(self.aggregated_pages_directory, 'music_by_artist')
-
-    def get_directories_to_create(self):
-        return [
-            self.translation_toplevel_path,
-            self.translated_dances_directory,
-            self.aggregated_pages_directory,
-            self.music_by_artist_directory
-        ]
+        self.global_path = os.path.join(self.documentations_path, 'no_lang')
+        self.global_aggregated = os.path.join(self.global_path, 'aggregated')
+        self.music_by_artist_directory = os.path.join(self.global_aggregated, 'music_by_artist')
 
     def _get_path(self, full_path, relative_to=None):
         if not relative_to:
@@ -150,6 +136,40 @@ class DirectoryStructureForTranslation(DirectoryStructure):
         else:  # This is directory
             return os.path.relpath(to_path, from_path)
 
+    def get_directories_to_create(self):
+        return [
+            self.global_path,
+            self.global_aggregated,
+            self.music_by_artist_directory
+        ]
+
+    def get_aggregated_music_path(self, relative_to=None):
+        return self._get_path(os.path.join(self.global_aggregated, 'aggregated_music.md'), relative_to)
+
+    def get_aggregated_music_by_artist(self, relative_to=None):
+        return self._get_path(os.path.join(self.global_aggregated, 'music_by_artist.md'), relative_to)
+
+    def get_music_by_artist(self, artist, relative_to=None):
+        file_name = re.sub(r'\W+', '_', unidecode(artist.lower()))
+        if file_name.startswith('_'):
+            file_name = '0' + file_name
+        return self._get_path(os.path.join(self.music_by_artist_directory, f"{file_name}.md"), relative_to)
+
+class DirectoryStructureForTranslation(DirectoryStructure):
+    def __init__(self, translation):
+        super(DirectoryStructureForTranslation, self).__init__()
+        self.translation_toplevel_path = os.path.join(self.documentations_path, translation.name)
+        self.translated_dances_directory = os.path.join(self.translation_toplevel_path, 'dances')
+        self.aggregated_pages_directory = os.path.join(self.translation_toplevel_path, 'aggregated')
+
+    def get_directories_to_create(self):
+        return [
+            self.translation_toplevel_path,
+            self.translated_dances_directory,
+            self.aggregated_pages_directory,
+            self.music_by_artist_directory
+        ]
+
     def get_dance_file_path(self, dance_obj, relative_to=None):
         return self._get_path(os.path.join(self.translated_dances_directory, dance_obj.name + '.md'), relative_to)
 
@@ -159,17 +179,6 @@ class DirectoryStructureForTranslation(DirectoryStructure):
     def get_aggregated_dances_path(self, relative_to=None):
         return self._get_path(os.path.join(self.aggregated_pages_directory, 'aggregated_dances.md'), relative_to)
 
-    def get_aggregated_music_path(self, relative_to=None):
-        return self._get_path(os.path.join(self.aggregated_pages_directory, 'aggregated_music.md'), relative_to)
-
-    def get_aggregated_music_by_artist(self, relative_to=None):
-        return self._get_path(os.path.join(self.aggregated_pages_directory, 'music_by_artist.md'), relative_to)
-
-    def get_music_by_artist(self, artist, relative_to=None):
-        file_name = re.sub(r'\W+', '_', unidecode(artist.lower()))
-        if file_name.startswith('_'):
-            file_name = '0' + file_name
-        return self._get_path(os.path.join(self.music_by_artist_directory, f"{file_name}.md"), relative_to)
 
 directoryStructure = DirectoryStructure()
 all_dances = [
@@ -185,6 +194,19 @@ for dance in all_dances:
 print(f"Found {len(all_dances)} dance files.")
 print(f"Found {len(all_translations)} translations.")
 
+all_music = []
+for dance in all_dances:
+    for music in dance.get_music_links():
+        if not music.blacklist:
+            music.set_dance(dance.get('name'))
+            all_music.append(music)
+
+for directory_to_create in directoryStructure.get_directories_to_create():
+    os.makedirs(directory_to_create, exist_ok=True)
+
+render_aggregated_music(all_music, directoryStructure)
+render_music_by_artist(all_music, directoryStructure)
+
 for translation in all_translations:
     print(f"Processing translation {translation.name}")
     translation.load()
@@ -192,17 +214,13 @@ for translation in all_translations:
     for directory_to_create in directory_structure_for_translation.get_directories_to_create():
         os.makedirs(directory_to_create, exist_ok=True)
 
-    all_music = []
     for dance in all_dances:
         render_dance(dance, translation, all_dances, directory_structure_for_translation)
         for music in dance.get_music_links():
             if not music.blacklist:
                 music.set_dance(dance.get('name'))
-                all_music.append(music)
 
     render_aggregated_dances(all_dances, translation, directory_structure_for_translation)
-    render_aggregated_music(all_music, directory_structure_for_translation)
-    render_music_by_artist(all_music, directory_structure_for_translation)
     render_home_page(translation, directory_structure_for_translation)
 
     print(f"Done translation {translation.name}")

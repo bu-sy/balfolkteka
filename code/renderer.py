@@ -57,7 +57,9 @@ def music_collapsible_section(music, display_dance_name, number_in_order=None):
         "<hr>",
         f"<h3>{prefix}{music.artist} - <b>{music.track_name}</b>" + (f" ({music.dance})" if display_dance_name else "") + "</h3>"
     ] + [
-        collapsible(music_link.portal, embed_track(music_link)) for music_link in music.music_links
+        collapsible(music_link.portal, embed_track(music_link))
+        for music_link
+        in sorted(music.music_links, key=lambda x: (x.portal, x.link))
     ])
 
 def render_dance(loaded_dance, loaded_translation, all_dances, directory_structure):

@@ -513,13 +513,13 @@
 <h3>Hotel Palindrone - <b>Cercles "Nobody´s Perfect" - Live Version</b></h3>
 
 <details>
-<summary><big>Spotify</big></summary>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2pDWf77VA5VZJA8LuPflRR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4144430804/size=small/bgcol=ffffff/linkcol=0687f5/track=900437598/transparent=true/" seamless></iframe>
 </details>
 
 <details>
-<summary><big>Bandcamp</big></summary>
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4144430804/size=small/bgcol=ffffff/linkcol=0687f5/track=900437598/transparent=true/" seamless></iframe>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2pDWf77VA5VZJA8LuPflRR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -891,18 +891,23 @@
 <h3>ZLABYA - <b>Jammin</b></h3>
 
 <details>
-<summary><big>Spotify</big></summary>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3aZIqAONM9NpTEpCj1bKnQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1361712988/size=small/bgcol=ffffff/linkcol=0687f5/track=3974517601/transparent=true/" seamless></iframe>
 </details>
 
 <details>
-<summary><big>Bandcamp</big></summary>
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1361712988/size=small/bgcol=ffffff/linkcol=0687f5/track=3974517601/transparent=true/" seamless></iframe>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3aZIqAONM9NpTEpCj1bKnQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>
 
 <h3>Zlabya - <b>Circulo - Live</b></h3>
+
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1046356449/size=small/bgcol=ffffff/linkcol=0687f5/track=956715263/transparent=true/" seamless></iframe>
+</details>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -914,23 +919,18 @@
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/5uxiHwYJ2cc?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
-<details>
-<summary><big>Bandcamp</big></summary>
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1046356449/size=small/bgcol=ffffff/linkcol=0687f5/track=956715263/transparent=true/" seamless></iframe>
-</details>
-
 <hr>
 
 <h3>ba.fnu - <b>Cirque cirkusy jen (cercle)</b></h3>
 
 <details>
-<summary><big>Spotify</big></summary>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0Sm3CRX3hA487jk6w3f6Fy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3153448480/size=small/bgcol=ffffff/linkcol=0687f5/track=2312514917/transparent=true/" seamless></iframe>
 </details>
 
 <details>
-<summary><big>Bandcamp</big></summary>
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3153448480/size=small/bgcol=ffffff/linkcol=0687f5/track=2312514917/transparent=true/" seamless></iframe>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0Sm3CRX3hA487jk6w3f6Fy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>

@@ -49,13 +49,13 @@
 <h3>Yann-Fañch Kemener, ba.fnu - <b>Hanter Dro</b> (Hanter Dro)</h3>
 
 <details>
-<summary><big>Spotify</big></summary>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/50uRao7iO1P1jM33Qd1c6q?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=588183115/size=small/bgcol=ffffff/linkcol=0687f5/track=2889111985/transparent=true/" seamless></iframe>
 </details>
 
 <details>
-<summary><big>Bandcamp</big></summary>
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=588183115/size=small/bgcol=ffffff/linkcol=0687f5/track=2889111985/transparent=true/" seamless></iframe>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/50uRao7iO1P1jM33Qd1c6q?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>

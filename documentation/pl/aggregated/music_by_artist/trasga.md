@@ -1,6 +1,6 @@
 # Trasga (1)
 
-[Powrót do listy artystów](../music_by_artist.md)
+[<=====](../music_by_artist.md)
 
 <hr>
 

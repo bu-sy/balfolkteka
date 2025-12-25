@@ -201,8 +201,8 @@ for translation in all_translations:
                 all_music.append(music)
 
     render_aggregated_dances(all_dances, translation, directory_structure_for_translation)
-    render_aggregated_music(all_music, translation, directory_structure_for_translation)
-    render_music_by_artist(all_music, translation, directory_structure_for_translation)
+    render_aggregated_music(all_music, directory_structure_for_translation)
+    render_music_by_artist(all_music, directory_structure_for_translation)
     render_home_page(translation, directory_structure_for_translation)
 
     print(f"Done translation {translation.name}")

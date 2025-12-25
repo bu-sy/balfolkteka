@@ -112,18 +112,20 @@ class TranslationFile(YamlDefinedEntity):
         return self.contents['translatable'].get(tag_name)
 
 
-#TODO group paths in one object with all paths, have also class to have all paths per translation
-my_path = os.path.realpath(__file__)
-toplevel_path = os.path.realpath(os.path.join(my_path, '..', '..'))
-sources_path = os.path.join(toplevel_path, 'sources')
-dances_path = os.path.join(sources_path, 'dances')
-translations_path = os.path.join(sources_path, 'translations')
+class DirectoryStructure(object):
+    def __init__(self):
+        script_path = os.path.realpath(__file__)
+        self.toplevel_path = os.path.realpath(os.path.join(script_path, '..', '..'))
+        self.sources_path = os.path.join(self.toplevel_path, 'sources')
+        self.dances_path = os.path.join(self.sources_path, 'dances')
+        self.translations_path = os.path.join(self.sources_path, 'translations')
+        self.documentations_path = os.path.join(self.toplevel_path, 'documentation')
 
-documentations_path = os.path.join(toplevel_path, 'documentation')
 
-class DirectoryStructureForTranslation(object):
+class DirectoryStructureForTranslation(DirectoryStructure):
     def __init__(self, translation):
-        self.translation_toplevel_path = os.path.join(documentations_path, translation.name)
+        super(DirectoryStructureForTranslation, self).__init__()
+        self.translation_toplevel_path = os.path.join(self.documentations_path, translation.name)
         self.translated_dances_directory = os.path.join(self.translation_toplevel_path, 'dances')
         self.aggregated_pages_directory = os.path.join(self.translation_toplevel_path, 'aggregated')
         self.music_by_artist_directory = os.path.join(self.aggregated_pages_directory, 'music_by_artist')
@@ -169,11 +171,12 @@ class DirectoryStructureForTranslation(object):
             file_name = '0' + file_name
         return self._get_path(os.path.join(self.music_by_artist_directory, f"{file_name}.md"), relative_to)
 
+directoryStructure = DirectoryStructure()
 all_dances = [
-    DanceFile(dance_file) for dance_file in glob.glob(os.path.join(dances_path, '*.yaml'))
+    DanceFile(dance_file) for dance_file in glob.glob(os.path.join(directoryStructure.dances_path, '*.yaml'))
 ]
 all_translations = [
-    TranslationFile(translation_file) for translation_file in glob.glob(os.path.join(translations_path, '*.yaml'))
+    TranslationFile(translation_file) for translation_file in glob.glob(os.path.join(directoryStructure.translations_path, '*.yaml'))
 ]
 
 for dance in all_dances:

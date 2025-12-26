@@ -139,9 +139,9 @@ def render_music_by_dance(all_dances, directory_structure):
         lines = []
 
         if loaded_music := loaded_dance.get_music_links():
-            not_blacklisted_tracks = [
+            not_blacklisted_tracks = sorted([
                 track_record for track_record in loaded_music if not track_record.blacklist
-            ]
+            ], key=lambda x: (normalize(x.artist), normalize(x.track_name)))
 
             number_of_tracks[loaded_dance.get('id')] = len(not_blacklisted_tracks)
             lines.append(secondary_header(loaded_dance.get('id') + f" ({len(not_blacklisted_tracks)})"))

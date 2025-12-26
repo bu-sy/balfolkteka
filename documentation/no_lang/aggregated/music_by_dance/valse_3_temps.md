@@ -47,6 +47,11 @@
 <h3>Airboxes - <b>Rosa</b></h3>
 
 <details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=875751694/size=small/bgcol=ffffff/linkcol=0687f5/track=3014374121/transparent=true/" seamless></iframe>
+</details>
+
+<details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2kkmsW47g0tJ5Y57VFHUu2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>

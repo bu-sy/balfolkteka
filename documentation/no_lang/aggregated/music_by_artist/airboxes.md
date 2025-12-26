@@ -5,6 +5,11 @@
 <h3>Airboxes - <b>Bosvelden</b> (Mazurka)</h3>
 
 <details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=875751694/size=small/bgcol=ffffff/linkcol=0687f5/track=3263427864/transparent=true/" seamless></iframe>
+</details>
+
+<details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3bg6ZlLX458Gb5bPF5WNrB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
@@ -47,6 +52,11 @@
 <h3>Airboxes - <b>Confluence - Hurdegaryp</b> (Bourrée 2 temps)</h3>
 
 <details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=875751694/size=small/bgcol=ffffff/linkcol=0687f5/track=462830271/transparent=true/" seamless></iframe>
+</details>
+
+<details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2KGSiibbJVU77jTTg0O8Mu?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
@@ -59,6 +69,11 @@
 <hr>
 
 <h3>Airboxes - <b>Dy</b> (Valse 8 temps)</h3>
+
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=875751694/size=small/bgcol=ffffff/linkcol=0687f5/track=2008082218/transparent=true/" seamless></iframe>
+</details>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -87,6 +102,11 @@
 <hr>
 
 <h3>Airboxes - <b>Mr. Muller - Bruxas</b> (Cercle Circassien)</h3>
+
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=875751694/size=small/bgcol=ffffff/linkcol=0687f5/track=1744256003/transparent=true/" seamless></iframe>
+</details>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -129,6 +149,11 @@
 <hr>
 
 <h3>Airboxes - <b>Rosa</b> (Valse 3 temps)</h3>
+
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=875751694/size=small/bgcol=ffffff/linkcol=0687f5/track=3014374121/transparent=true/" seamless></iframe>
+</details>
 
 <details>
 <summary><big>Spotify</big></summary>

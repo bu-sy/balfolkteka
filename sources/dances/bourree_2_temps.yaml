@@ -60,6 +60,8 @@ links:
       link: https://open.spotify.com/track/2KGSiibbJVU77jTTg0O8Mu
     - portal: YouTube
       link: https://www.youtube.com/watch?v=_08P89MHpvo
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=875751694/size=small/bgcol=ffffff/linkcol=0687f5/track=462830271/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
   - artist: Andy Cutting, Nigel Eaton

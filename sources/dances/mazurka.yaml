@@ -37,6 +37,8 @@ links:
       link: https://open.spotify.com/track/3bg6ZlLX458Gb5bPF5WNrB
     - portal: YouTube
       link: https://www.youtube.com/watch?v=3T7vYPmKgso
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=875751694/size=small/bgcol=ffffff/linkcol=0687f5/track=3263427864/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Arnaud Bibonne, Camille Raibaud

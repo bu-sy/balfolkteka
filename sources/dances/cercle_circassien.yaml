@@ -53,6 +53,8 @@ links:
       link: https://open.spotify.com/track/29EF07YqjuZWSz4pHoUIiM
     - portal: YouTube
       link: https://www.youtube.com/watch?v=Ab_5FFR0Q58
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=875751694/size=small/bgcol=ffffff/linkcol=0687f5/track=1744256003/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
   - artist: Alain Pennec

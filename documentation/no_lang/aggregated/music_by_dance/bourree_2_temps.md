@@ -1,4 +1,4 @@
-## bourree_2_temps (73)
+## Bourrée 2 temps (73)
 
 <hr>
 

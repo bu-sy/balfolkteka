@@ -1,4 +1,4 @@
-## scottish_impaire (7)
+## Scottish impaire (7)
 
 <hr>
 

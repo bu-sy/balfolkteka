@@ -1,4 +1,4 @@
-## pas_de_sept (1)
+## Pas de Sept (1)
 
 <hr>
 

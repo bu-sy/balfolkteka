@@ -1,4 +1,4 @@
-## tricot (6)
+## Tricot (6)
 
 <hr>
 

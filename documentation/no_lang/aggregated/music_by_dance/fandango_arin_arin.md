@@ -1,4 +1,4 @@
-## fandango_arin_arin (24)
+## Fandango & Arin Arin (24)
 
 <hr>
 

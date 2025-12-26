@@ -1,4 +1,4 @@
-## rund_polska (6)
+## Polska (rund polska) (6)
 
 <hr>
 

@@ -144,7 +144,7 @@ def render_music_by_dance(all_dances, directory_structure):
             ], key=lambda x: (normalize(x.artist), normalize(x.track_name)))
 
             number_of_tracks[loaded_dance.get('id')] = len(not_blacklisted_tracks)
-            lines.append(secondary_header(loaded_dance.get('id') + f" ({len(not_blacklisted_tracks)})"))
+            lines.append(secondary_header(loaded_dance.get('name') + f" ({len(not_blacklisted_tracks)})"))
             lines.extend(
                 music_collapsible_section(track_record, False) for track_record in not_blacklisted_tracks
             )

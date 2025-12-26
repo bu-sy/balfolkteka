@@ -1,4 +1,4 @@
-## valse_8_temps (19)
+## Valse 8 temps (19)
 
 <hr>
 

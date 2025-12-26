@@ -1,4 +1,4 @@
-## galop_nantais (5)
+## Galop Nantais (5)
 
 <hr>
 

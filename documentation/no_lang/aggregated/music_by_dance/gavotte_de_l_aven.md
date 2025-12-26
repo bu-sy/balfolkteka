@@ -1,4 +1,4 @@
-## gavotte_de_l_aven (34)
+## Gavotte de l'Aven (34)
 
 <hr>
 

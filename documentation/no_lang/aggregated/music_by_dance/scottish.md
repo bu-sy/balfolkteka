@@ -1,4 +1,4 @@
-## scottish (76)
+## Scottish (76)
 
 <hr>
 

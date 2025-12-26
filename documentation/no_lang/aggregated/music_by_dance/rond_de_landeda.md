@@ -1,4 +1,4 @@
-## rond_de_landeda (6)
+## Rond de Landéda (6)
 
 <hr>
 

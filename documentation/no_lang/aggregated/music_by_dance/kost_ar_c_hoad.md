@@ -1,4 +1,4 @@
-## kost_ar_c_hoad (26)
+## Kost ar c'hoad (26)
 
 <hr>
 

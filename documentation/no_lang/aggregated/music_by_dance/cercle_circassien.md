@@ -1,4 +1,4 @@
-## cercle_circassien (65)
+## Cercle Circassien (65)
 
 <hr>
 

@@ -1,5 +1,6 @@
 import os
 import requests
+import json
 from ruamel.yaml import YAML
 from pathlib import Path
 import glob
@@ -34,8 +35,27 @@ class SpotifyCaller(object):
         return all_tracks
 
 
-token_id = os.environ.get('SPOTIFY_TOKEN_ID')
-assert token_id or os.environ.get('ONLY_CLEAN')
+client_id = os.environ.get('SPOTIFY_CLIENT_ID')
+client_secret = os.environ.get('SPOTIFY_CLIENT_SECRET')
+
+assert (client_id and client_secret) or os.environ.get('ONLY_CLEAN')
+
+token_id = None
+if client_id and client_secret:
+    response = requests.post(
+        'https://accounts.spotify.com/api/token',
+        headers={
+            "Content-Type": "application/x-www-form-urlencoded"
+        },
+        params={
+            'grant_type': 'client_credentials',
+            'client_id': client_id,
+            'client_secret': client_secret
+        }
+    )
+    response.raise_for_status()
+    token_id = response.json()['access_token']
+
 spotify_caller = SpotifyCaller(token_id)
 
 

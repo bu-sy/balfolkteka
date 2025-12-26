@@ -14,6 +14,6 @@
 
 <br>
 
-## Utwory (6)
+## Utwory (9)
 
 [Utwory do tańca](../../no_lang/aggregated/music_by_dance/rund_polska.md)

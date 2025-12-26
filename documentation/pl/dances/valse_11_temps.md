@@ -4,7 +4,7 @@
 
 **Nazwa**: Valse 11 temps
 
-**Nazwa alternatywna**: Walc na 11
+**Nazwa alternatywna**: Walczyk na 11
 
 ## Przykłady
 

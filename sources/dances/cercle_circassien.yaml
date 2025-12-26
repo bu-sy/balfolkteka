@@ -36,6 +36,15 @@ links:
       link: https://www.youtube.com/watch?v=tik0vH_FPVU
     from_playlist:
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Accordzêam
+    track_name: Starwars
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7E7IwebezL2TD7gydlNChO
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=JsT6Mz4lbEY
+    from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
   - artist: Airboxes
     track_name: La Vida Loca - Tit
     links:
@@ -123,6 +132,15 @@ links:
       link: https://www.youtube.com/watch?v=u1Slf0zXkQE
     from_playlist:
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Beat Bouet Trio
+    track_name: Ça Dégénère (Cercle Circassien)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6OIde3Ku0jmSdz2p790tHp
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=eEArcahXX8g
+    from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
   - artist: Bernard Loffet, Lionel Neyssenssas
     track_name: Cercle Circassien - Feat. Lionel Neyssenssas
     links:
@@ -421,6 +439,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Lirio
+    track_name: Marco's cercle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1yAg60Q8E9xVO8bm7AtCrp
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=l7SL8AQp_BQ
+    from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
   - artist: Marian Iacob Maciuca, Ronan Robert, Simon Mary
     track_name: Patience infuse
     links:

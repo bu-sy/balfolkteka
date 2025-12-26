@@ -1,0 +1,27 @@
+id: mardi_gras
+name: Mardi Gras
+links:
+  examples:
+  - link: https://www.youtube.com/watch?v=S0GRAI06azQ #Variant 1
+  - link: https://www.youtube.com/watch?v=wHNUc1KmNxk #Variant 2
+  playlists:
+  - link: https://open.spotify.com/playlist/2HNIFzNnpaS3bFCmbWx2Ec
+  tracks:
+  - artist: Aller Hopp
+    track_name: Mardi gras de poitou
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5xT5CZXksRNQuXsjtDXYzK
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=MmKIwR59TUw
+    from_playlist:
+    - https://open.spotify.com/playlist/2HNIFzNnpaS3bFCmbWx2Ec
+  - artist: Jeremiah McLane & Ruthie Dornfeld
+    track_name: Mardi Gras
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/09pOftuYhgDJrzDlpywgl6
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ovY7OKd9-TE
+    from_playlist:
+    - https://open.spotify.com/playlist/2HNIFzNnpaS3bFCmbWx2Ec

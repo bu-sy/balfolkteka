@@ -4,7 +4,7 @@
 
 **Nazwa**: Valse 5 temps
 
-**Nazwa alternatywna**: Walc na 5
+**Nazwa alternatywna**: Walczyk na 5
 
 ## Przykłady
 

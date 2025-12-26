@@ -4,7 +4,7 @@
 
 **Nazwa**: Valse 3 temps
 
-**Nazwa alternatywna**: Walc na 3
+**Nazwa alternatywna**: Walczyk na 3
 
 ## Przykłady
 
@@ -23,6 +23,6 @@
 
 - [Valse 11 temps](valse_11_temps.md)
 
-## Utwory (144)
+## Utwory (147)
 
 [Utwory do tańca](../../no_lang/aggregated/music_by_dance/valse_3_temps.md)

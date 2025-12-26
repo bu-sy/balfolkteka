@@ -11,6 +11,7 @@ links:
   - link: https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
   - link: https://open.spotify.com/playlist/3tHeYUx1eIrQraUTOEeGec
   - link: https://open.spotify.com/playlist/5ENzeSmn9biGAsXGYGyTN2
+  - link: https://open.spotify.com/playlist/6aRUcSTqY91CcEv5pYYhyi
   tracks:
   - artist: Accordzêam
     track_name: Obsession
@@ -43,6 +44,15 @@ links:
     - https://open.spotify.com/playlist/3XB1AJ1twxxN92GR47nS3I
     - https://open.spotify.com/playlist/3tHeYUx1eIrQraUTOEeGec
     - https://open.spotify.com/playlist/5ENzeSmn9biGAsXGYGyTN2
+  - artist: Andoorn
+    track_name: De Zon (wals in acht)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2soUlLaIUvKAn39oNgyylG
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=s9SilA98xJs
+    from_playlist:
+    - https://open.spotify.com/playlist/6aRUcSTqY91CcEv5pYYhyi
   - artist: Aurélien Claranbaux
     blacklist: true #This is valse 11 temps
     track_name: Les 11

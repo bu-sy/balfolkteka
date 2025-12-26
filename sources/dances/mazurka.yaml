@@ -104,6 +104,15 @@ links:
       link: https://www.youtube.com/watch?v=I1s2X2o8U-w
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+  - artist: Beat Bouet Trio
+    track_name: A L'Armée (Mazurka)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2TGmn4ej37fce3uZ9dLEx3
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=hZQrAwcu0e4
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: BellónMaceiras
     track_name: Mazurca Piponesa
     links:
@@ -159,6 +168,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
+  - artist: Brotto-Lopez
+    track_name: Lo Pichon trin - Mazurkà
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2mnGQUKOC7mh4pT64Mj7QN
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=aZfzCbciUQQ
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Brotto-Lopez
     track_name: Noche en Vela - Mazurkà
     links:
@@ -371,6 +389,24 @@ links:
       link: https://www.youtube.com/watch?v=yxpVAsOWhi0
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+  - artist: Fahrenheit
+    track_name: Sauvage (mazurka)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0fWXRrJlliXpz5hk9Mi9EF
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=3Sy1sEwk-Sk
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+  - artist: Fahrenheit
+    track_name: Solitude (mazurka)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7qql0wbdQ35m5g0atBFwzo
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=TAL7sj3xZgU
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Geronimo
     track_name: The Grashopper
     links:
@@ -490,6 +526,15 @@ links:
       link: https://www.youtube.com/watch?v=Up7K11RPsVA
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+  - artist: La Bottines Artistiques
+    track_name: Bulgarska Mazurka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5hmgAnjVOd1iGzCUTXeO3k
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Rk_CEr0HmRo
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: La Bricole
     track_name: La manchotte (Mazurka)
     links:
@@ -527,6 +572,15 @@ links:
       link: https://www.youtube.com/watch?v=1fw4jN0B65Y
     from_playlist:
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
+  - artist: Le Bal Brotto Lopez, Les Ogres De Barback
+    track_name: Còr adobat - Mazurka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/14L7kB2SJLuOJJWBkIu7Kx
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=pQ2ghfA_5w4
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Le Sextet à Claques
     track_name: Derniers sourires
     links:
@@ -617,6 +671,15 @@ links:
       link: https://www.youtube.com/watch?v=OIzeBRJDwS8
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+  - artist: Lirio
+    track_name: Mazurka voor een mus
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1sJ7PfkhbqyIuI3Ptm68Ov
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=nmZ6Bk85Dqs
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Lo Cor de la Plana
     track_name: Masurka Mafiosa Marselhesa
     links:
@@ -689,6 +752,15 @@ links:
       link: https://www.youtube.com/watch?v=XvYqLbseVJI
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+  - artist: Met Zak en As
+    track_name: Mazurka des Écoliers de St. Genest
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3UIXSLfKCacDVXZmTDmVuv
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=DDrs_27MZoc
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Moizbat
     track_name: La pechardière
     links:
@@ -1047,12 +1119,39 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Wim te Groen
+    track_name: Eerste Mazurka (mazurka /scottish)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3RJ5DGvMPUNE8qS5fD9Nm4
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=VuY_R9qFZbY
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+  - artist: Wim te Groen
     track_name: Wat Een Leuk Walsje (Mazurka)
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3iv5r39QeiOMepyHNeEK5D
     - portal: YouTube
       link: https://www.youtube.com/watch?v=_Eqbm_WieNM
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+  - artist: Wim te Groen
+    track_name: Wat een leuk walsje (mazurka)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1qgHYZLTsT7qs02nOxFaIp
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_Eqbm_WieNM
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+  - artist: Wipidoup
+    track_name: Bottin cherche bottine - Mazurka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6dB1pNFqTInyw2fw95CXPr
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=YfKW1jQY-YI
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Wouter en De Draak

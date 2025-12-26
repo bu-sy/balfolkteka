@@ -5,6 +5,7 @@ links:
   - link: https://www.youtube.com/watch?v=PpMH_fEafeA
   playlists:
   - link: https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - link: https://open.spotify.com/playlist/5E98ffJHf8h58DSUP6XUKU
   tracks:
   - artist: Abdelati El Boussehabi, Anne-Lise Foy, Benoit Mager, Gabriel Fernadez, Leonore Grollemund, Patrick Bouffard, Stephane Robert
     track_name: Polka De L'anglard
@@ -42,6 +43,15 @@ links:
       link: https://www.youtube.com/watch?v=0OY52DtMA-Y
     from_playlist:
     - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Beat Bouet Trio
+    track_name: De Haut En Bas (Polka)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3TwVsyeGmuXaptRpMuScMr
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=S-HdUs_W0Rw
+    from_playlist:
+    - https://open.spotify.com/playlist/5E98ffJHf8h58DSUP6XUKU
   - artist: Cecilia
     track_name: Ragapolka
     links:

@@ -7,6 +7,33 @@ links:
   playlists:
   - link: https://open.spotify.com/playlist/2YasVhvJQOTOake4ppVpUe
   tracks:
+  - artist: Airboxes
+    track_name: Polska Voor Augustijn
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3vlbLPeDnNgTwYg3wwefXj
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=QVQyzayEoDk
+    from_playlist:
+    - https://open.spotify.com/playlist/2YasVhvJQOTOake4ppVpUe
+  - artist: Beat Bouet Trio
+    track_name: Vikings (Polska)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4w6uF4QrXli8Lu0zxtv6kP
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=3nertq-WHcI
+    from_playlist:
+    - https://open.spotify.com/playlist/2YasVhvJQOTOake4ppVpUe
+  - artist: Duo De Schepper-Sanczuk
+    track_name: Polska Mia
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3m6IUJeJAtbntl8Xq3LGyt
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=YzNNCqBTpho
+    from_playlist:
+    - https://open.spotify.com/playlist/2YasVhvJQOTOake4ppVpUe
   - artist: Jonas Akerlund, Josefina Paulson
     track_name: Polska efter schedin
     links:

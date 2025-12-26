@@ -85,6 +85,15 @@ links:
       link: https://www.youtube.com/watch?v=2YR0IIGFRQ4
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Beat Bouet Trio
+    track_name: M.A.F.I.A (Scottish)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2pzj9vkAGzSGSHbTPn21AU
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=-qQeqmXDpV0
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Bran
     track_name: Shottish
     links:
@@ -408,6 +417,16 @@ links:
       link: https://www.youtube.com/watch?v=NZEXcR7qfsg
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Le bal de l'éphémère
+    track_name: Oncle Scott (Scottisch)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3qixdt141cvE8IoBgYUK5e
+    - portal: Soundcloud
+      link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A664307387&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+    no_youtube_link: true #Verified
   - artist: Les Zéoles
     track_name: 93 (Scottish)
     links:
@@ -428,10 +447,28 @@ links:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Lirio
+    track_name: Forumscottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0zeVVunjL8cwA0WaRI6MDe
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=X5wdUHCy9xc
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Lirio
     track_name: Scottish à Bruno & Scottish Vreeswijk
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1TrJzjSUgIQXNaGB72hJQ7
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=icAZREhQ-cQ
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Lirio
+    track_name: Scottish à bruno & scottish vreeswijk
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1ZSBcSTtaHOl9rQsX7zVWM
     - portal: YouTube
       link: https://www.youtube.com/watch?v=icAZREhQ-cQ
     from_playlist:
@@ -452,6 +489,8 @@ links:
       link: https://open.spotify.com/track/6pHTgI2S8xAJ7FLJBgINf4
     - portal: YouTube
       link: https://www.youtube.com/watch?v=8pQcZXvFDmE
+    - portal: Spotify
+      link: https://open.spotify.com/track/31AR3TuRG82OzGiWgcL2mV
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Loogaroo
@@ -677,6 +716,15 @@ links:
       link: https://www.youtube.com/watch?v=ne-HYbz1OjE
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
+  - artist: Wim te Groen
+    track_name: Eerste Mazurka (mazurka /scottish)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3RJ5DGvMPUNE8qS5fD9Nm4
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=VuY_R9qFZbY
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Yann-Fañch Kemener, ba.fnu
     track_name: Scottish
     links:

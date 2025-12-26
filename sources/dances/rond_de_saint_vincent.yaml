@@ -66,6 +66,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=_9Rbij3kR8E
     from_playlist:
+    - https://open.spotify.com/playlist/3Jrp8mpVQZusdrG98oSCSO
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
   - artist: Carré Manchot
     track_name: Rond de Saint-Vincent
@@ -74,7 +75,10 @@ links:
       link: https://open.spotify.com/track/5mBCXcKMkpdQHxGiR8Uacv
     - portal: YouTube
       link: https://www.youtube.com/watch?v=BhxSnKw0TM4
+    - portal: Spotify
+      link: https://open.spotify.com/track/5peaYpz9dzei5E40rjMjks
     from_playlist:
+    - https://open.spotify.com/playlist/3Jrp8mpVQZusdrG98oSCSO
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
   - artist: Carré Manchot
     track_name: Ronds de Saint Vincent

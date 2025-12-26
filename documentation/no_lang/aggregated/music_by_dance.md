@@ -1,12 +1,12 @@
-[An Dro (29)](music_by_dance/an_dro.md)
+[An Dro (31)](music_by_dance/an_dro.md)
 
 [Bal Keff (3)](music_by_dance/bal_keff.md)
 
-[Bourrée 2 temps (73)](music_by_dance/bourree_2_temps.md)
+[Bourrée 2 temps (75)](music_by_dance/bourree_2_temps.md)
 
-[Bourrée 3 temps (123)](music_by_dance/bourree_3_temps.md)
+[Bourrée 3 temps (124)](music_by_dance/bourree_3_temps.md)
 
-[Cercle Circassien (65)](music_by_dance/cercle_circassien.md)
+[Cercle Circassien (68)](music_by_dance/cercle_circassien.md)
 
 [Chapelloise (36)](music_by_dance/chapelloise.md)
 
@@ -22,7 +22,7 @@
 
 [Gavotte de l'Aven (34)](music_by_dance/gavotte_de_l_aven.md)
 
-[Hanter Dro (96)](music_by_dance/hanter_dro.md)
+[Hanter Dro (97)](music_by_dance/hanter_dro.md)
 
 [Kost ar c'hoad (26)](music_by_dance/kost_ar_c_hoad.md)
 
@@ -30,11 +30,13 @@
 
 [Maraîchine (22)](music_by_dance/maraichine.md)
 
-[Mazurka (117)](music_by_dance/mazurka.md)
+[Mardi Gras (2)](music_by_dance/mardi_gras.md)
+
+[Mazurka (128)](music_by_dance/mazurka.md)
 
 [Pas de Sept (1)](music_by_dance/pas_de_sept.md)
 
-[Polka (45)](music_by_dance/polka.md)
+[Polka (46)](music_by_dance/polka.md)
 
 [Porcher (2)](music_by_dance/porcher.md)
 
@@ -44,9 +46,9 @@
 
 [Rond de Saint-Vincent (31)](music_by_dance/rond_de_saint_vincent.md)
 
-[Polska (rund polska) (6)](music_by_dance/rund_polska.md)
+[Polska (rund polska) (9)](music_by_dance/rund_polska.md)
 
-[Scottish (76)](music_by_dance/scottish.md)
+[Scottish (81)](music_by_dance/scottish.md)
 
 [Scottish impaire (7)](music_by_dance/scottish_impaire.md)
 
@@ -54,10 +56,10 @@
 
 [Valse 11 temps (5)](music_by_dance/valse_11_temps.md)
 
-[Valse 3 temps (144)](music_by_dance/valse_3_temps.md)
+[Valse 3 temps (147)](music_by_dance/valse_3_temps.md)
 
 [Valse 5 temps (35)](music_by_dance/valse_5_temps.md)
 
-[Valse 8 temps (19)](music_by_dance/valse_8_temps.md)
+[Valse 8 temps (20)](music_by_dance/valse_8_temps.md)
 
 [Zwiefacher (3)](music_by_dance/zwiefacher.md)

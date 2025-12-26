@@ -290,6 +290,7 @@ links:
       link: https://www.youtube.com/watch?v=qm-ohMU3ULI
     from_playlist:
     - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
   - artist: Gonnagles
     track_name: Honderd Harphaakjes Bourrée
     links:
@@ -428,6 +429,24 @@ links:
       link: https://www.youtube.com/watch?v=vhNBvcuj4bg
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+  - artist: Lirio
+    track_name: Coockabourrée
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1URMMw9HpDOdc5PElbEONF
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=V3A8_aQLJK0
+    from_playlist:
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
+  - artist: Lirio
+    track_name: Lentebourrée
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/47CKWK7JovK4RfdQIWWyRl
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=XuLyJzIMCkU
+    from_playlist:
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
   - artist: Lo Truc
     track_name: Dran, Lo Premier, Sant'ana
     links:

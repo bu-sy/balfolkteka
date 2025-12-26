@@ -8,7 +8,7 @@
 
 [Abnoba (1)](music_by_artist/abnoba.md)
 
-[Accordzêam (9)](music_by_artist/accordzeam.md)
+[Accordzêam (10)](music_by_artist/accordzeam.md)
 
 [Ad Vielle Que Pourra (4)](music_by_artist/ad_vielle_que_pourra.md)
 
@@ -16,7 +16,7 @@
 
 [Adriano Sangineto (1)](music_by_artist/adriano_sangineto.md)
 
-[Airboxes (10)](music_by_artist/airboxes.md)
+[Airboxes (12)](music_by_artist/airboxes.md)
 
 [Alain Buhé (1)](music_by_artist/alain_buhe.md)
 
@@ -34,11 +34,15 @@
 
 [Alkinoos Ioannidis (1)](music_by_artist/alkinoos_ioannidis.md)
 
+[Aller Hopp (1)](music_by_artist/aller_hopp.md)
+
 [Ampouailh (7)](music_by_artist/ampouailh.md)
 
 [An Tour Tan (1)](music_by_artist/an_tour_tan.md)
 
 [Anabel Santiago (1)](music_by_artist/anabel_santiago.md)
+
+[Andoorn (1)](music_by_artist/andoorn.md)
 
 [André Le Meut (1)](music_by_artist/andre_le_meut.md)
 
@@ -104,7 +108,7 @@
 
 [Bastien Fontanille (2)](music_by_artist/bastien_fontanille.md)
 
-[Beat Bouet Trio (4)](music_by_artist/beat_bouet_trio.md)
+[Beat Bouet Trio (9)](music_by_artist/beat_bouet_trio.md)
 
 [Becky Price (1)](music_by_artist/becky_price.md)
 
@@ -148,7 +152,7 @@
 
 [Brotto Lopez Sextet (2)](music_by_artist/brotto_lopez_sextet.md)
 
-[Brotto-Lopez (8)](music_by_artist/brotto_lopez.md)
+[Brotto-Lopez (9)](music_by_artist/brotto_lopez.md)
 
 [Bruno Le Tron (3)](music_by_artist/bruno_le_tron.md)
 
@@ -284,6 +288,8 @@
 
 [Duo Cozian Oberlé (1)](music_by_artist/duo_cozian_oberle.md)
 
+[Duo De Schepper-Sanczuk (1)](music_by_artist/duo_de_schepper_sanczuk.md)
+
 [Duo Gestrikt (1)](music_by_artist/duo_gestrikt.md)
 
 [Duo L'Hêtre Heureux (2)](music_by_artist/duo_l_hetre_heureux.md)
@@ -360,7 +366,7 @@
 
 [Faburden (4)](music_by_artist/faburden.md)
 
-[Fahrenheit (6)](music_by_artist/fahrenheit.md)
+[Fahrenheit (9)](music_by_artist/fahrenheit.md)
 
 [Faï Petar (7)](music_by_artist/fai_petar.md)
 
@@ -512,6 +518,8 @@
 
 [Jędrzej Weber (2)](music_by_artist/jedrzej_weber.md)
 
+[Jeremiah McLane & Ruthie Dornfeld (1)](music_by_artist/jeremiah_mclane_ruthie_dornfeld.md)
+
 [Jérémie Congrega (1)](music_by_artist/jeremie_congrega.md)
 
 [Jessica Baran-Surel (1)](music_by_artist/jessica_baran_surel.md)
@@ -594,7 +602,7 @@
 
 [La Bazanca (1)](music_by_artist/la_bazanca.md)
 
-[La Bottines Artistiques (3)](music_by_artist/la_bottines_artistiques.md)
+[La Bottines Artistiques (4)](music_by_artist/la_bottines_artistiques.md)
 
 [La Bricole (1)](music_by_artist/la_bricole.md)
 
@@ -622,9 +630,9 @@
 
 [Laüsa (3)](music_by_artist/lausa.md)
 
-[Le Bal Brotto Lopez (5)](music_by_artist/le_bal_brotto_lopez.md)
+[Le Bal Brotto Lopez (6)](music_by_artist/le_bal_brotto_lopez.md)
 
-[Le bal de l'éphémère (5)](music_by_artist/le_bal_de_l_ephemere.md)
+[Le bal de l'éphémère (6)](music_by_artist/le_bal_de_l_ephemere.md)
 
 [Le Bal en Chantier (7)](music_by_artist/le_bal_en_chantier.md)
 
@@ -654,6 +662,8 @@
 
 [Les genoux (1)](music_by_artist/les_genoux.md)
 
+[Les Ogres De Barback (1)](music_by_artist/les_ogres_de_barback.md)
+
 [Les Poufs à Cordes (3)](music_by_artist/les_poufs_a_cordes.md)
 
 [Les Zéoles (17)](music_by_artist/les_zeoles.md)
@@ -664,7 +674,7 @@
 
 [Lionel Neyssenssas (1)](music_by_artist/lionel_neyssenssas.md)
 
-[Lirio (5)](music_by_artist/lirio.md)
+[Lirio (14)](music_by_artist/lirio.md)
 
 [Litha (1)](music_by_artist/litha.md)
 
@@ -715,6 +725,8 @@
 [Melonious Quartet (1)](music_by_artist/melonious_quartet.md)
 
 [Menestra (2)](music_by_artist/menestra.md)
+
+[Met Zak en As (1)](music_by_artist/met_zak_en_as.md)
 
 [Michel Esbelin (1)](music_by_artist/michel_esbelin.md)
 
@@ -840,7 +852,7 @@
 
 [Planchée (2)](music_by_artist/planchee.md)
 
-[Plantec (10)](music_by_artist/plantec.md)
+[Plantec (11)](music_by_artist/plantec.md)
 
 [Poolidor (1)](music_by_artist/poolidor.md)
 
@@ -1030,7 +1042,7 @@
 
 [Tri Yann (1)](music_by_artist/tri_yann.md)
 
-[Tribal Jâze (7)](music_by_artist/tribal_jaze.md)
+[Tribal Jâze (8)](music_by_artist/tribal_jaze.md)
 
 [Tribu Cendra (1)](music_by_artist/tribu_cendra.md)
 
@@ -1098,7 +1110,9 @@
 
 [Willy Pichard (5)](music_by_artist/willy_pichard.md)
 
-[Wim te Groen (1)](music_by_artist/wim_te_groen.md)
+[Wim te Groen (4)](music_by_artist/wim_te_groen.md)
+
+[Wipidoup (1)](music_by_artist/wipidoup.md)
 
 [Woodlands (1)](music_by_artist/woodlands.md)
 

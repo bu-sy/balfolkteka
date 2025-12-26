@@ -745,6 +745,15 @@ links:
       link: https://www.youtube.com/watch?v=NQgUJlndzNA
     from_playlist:
     - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Lirio
+    track_name: Driekwartbourrée
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5al21bs3rhSlKLO8PDFTYM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=UZz9iscYDwg
+    from_playlist:
+    - https://open.spotify.com/playlist/1WUytEw4LQUtV8HxDeZ7O0
   - artist: Lou Pitakass
     track_name: Rabel
     links:

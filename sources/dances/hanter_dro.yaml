@@ -617,6 +617,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
     no_youtube_link: true #Verified
+  - artist: Lirio
+    track_name: Hanterdroom
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5woPfsFDXkBTI9DzPhiiO3
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=A_W5uWwQEE4
+    from_playlist:
+    - https://open.spotify.com/playlist/25fWKPzv5TegVwGq4DrWTb
   - artist: Loogaroo
     track_name: Certuban
     links:

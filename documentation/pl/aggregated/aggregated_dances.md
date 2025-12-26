@@ -1,4 +1,4 @@
-# Lista wszystkich tańców (32)
+# Lista wszystkich tańców (33)
 
 [Powrót do listy stron](../home.md)
 
@@ -34,6 +34,8 @@
 
 [Maraîchine](../dances/maraichine.md)
 
+[Mardi Gras](../dances/mardi_gras.md)
+
 [Mazurka](../dances/mazurka.md)
 
 [Pas de Sept](../dances/pas_de_sept.md)
@@ -56,12 +58,12 @@
 
 [Tricot](../dances/tricot.md)
 
-[Valse 11 temps (Walc na 11)](../dances/valse_11_temps.md)
+[Valse 11 temps (Walczyk na 11)](../dances/valse_11_temps.md)
 
-[Valse 3 temps (Walc na 3)](../dances/valse_3_temps.md)
+[Valse 3 temps (Walczyk na 3)](../dances/valse_3_temps.md)
 
-[Valse 5 temps (Walc na 5)](../dances/valse_5_temps.md)
+[Valse 5 temps (Walczyk na 5)](../dances/valse_5_temps.md)
 
-[Valse 8 temps (Walc na 8)](../dances/valse_8_temps.md)
+[Valse 8 temps (Walczyk na 8)](../dances/valse_8_temps.md)
 
 [Zwiefacher](../dances/zwiefacher.md)

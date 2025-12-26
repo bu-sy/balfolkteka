@@ -192,6 +192,15 @@ links:
       link: https://www.youtube.com/watch?v=MpFq2-sGwSs
     from_playlist:
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Lirio
+    track_name: Andrito
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1Bs4s7BgiPEbzUSAzWTeaK
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Dm7gP5U67U8
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Nostrad
     links:
     - link: https://www.youtube.com/watch?v=EeCi52CgBYA
@@ -217,6 +226,15 @@ links:
       link: https://www.youtube.com/watch?v=UMpnzHc9KDQ
     from_playlist:
     - https://open.spotify.com/playlist/2zoeLgbEClTkOeNnyqzVoV
+  - artist: Plantec
+    track_name: Androïde - Andro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6NFDXZUhemI6oO7KH7aKAa
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=UMpnzHc9KDQ
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Skolvan
     track_name: Le retour (An dro) - Live
     links:

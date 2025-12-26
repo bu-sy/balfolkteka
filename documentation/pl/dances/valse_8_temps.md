@@ -4,7 +4,7 @@
 
 **Nazwa**: Valse 8 temps
 
-**Nazwa alternatywna**: Walc na 8
+**Nazwa alternatywna**: Walczyk na 8
 
 ## Przykłady
 
@@ -23,6 +23,6 @@
 
 - [Valse 11 temps](valse_11_temps.md)
 
-## Utwory (19)
+## Utwory (20)
 
 [Utwory do tańca](../../no_lang/aggregated/music_by_dance/valse_8_temps.md)

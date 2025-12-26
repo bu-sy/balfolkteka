@@ -1,7 +1,5 @@
 # Original Occitana (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Original Occitana - <b>Miserere</b> (Valse 3 temps)</h3>

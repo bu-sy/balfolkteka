@@ -1,7 +1,5 @@
 # Ronan Pellen (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>BAROK, Ronan Pellen - <b>Les pies se pavanent (Rond de Saint-Vincent)</b> (Rond de Saint-Vincent)</h3>

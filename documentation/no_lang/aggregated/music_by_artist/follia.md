@@ -1,7 +1,5 @@
 # Follia (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Follia - <b>Andro decancq</b> (An Dro)</h3>

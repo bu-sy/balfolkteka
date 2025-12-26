@@ -1,7 +1,5 @@
 ## mazurka (117)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Ablaye Cissoko, Cyrille Brotto - <b>Rencontre</b></h3>

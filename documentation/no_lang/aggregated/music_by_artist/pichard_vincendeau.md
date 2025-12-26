@@ -1,7 +1,5 @@
 # Pichard Vincendeau (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Pichard Vincendeau, Stevan Vincendeau, Willy Pichard - <b>Vermel</b> (Mazurka)</h3>

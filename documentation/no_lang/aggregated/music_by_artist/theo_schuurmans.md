@@ -1,7 +1,5 @@
 # Theo Schuurmans (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Alfons Verreijt, Erno Korpershoek, Gunnar Graafmans, Hans Houckes, Jan-Paul van der Hoeven, Peter Moree, Robert Lobbesteijn, Simon Diaz Diaz, Theo Schuurmans - <b>Valse Atlantique</b> (Valse 3 temps)</h3>

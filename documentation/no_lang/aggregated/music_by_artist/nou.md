@@ -1,7 +1,5 @@
 # NOU (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>NOU - <b>Bourrée trois temps</b> (Bourrée 3 temps)</h3>

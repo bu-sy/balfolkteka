@@ -1,7 +1,5 @@
 # Jonas Akerlund (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Jonas Akerlund, Josefina Paulson - <b>Polska efter schedin</b> (Polska (rund polska))</h3>

@@ -1,7 +1,5 @@
 # Tud (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Tud - <b>An dro</b> (An Dro)</h3>

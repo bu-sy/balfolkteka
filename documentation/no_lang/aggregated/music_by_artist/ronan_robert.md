@@ -1,7 +1,5 @@
 # Ronan Robert (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Marian Iacob Maciuca, Ronan Robert, Simon Mary - <b>Patience infuse</b> (Cercle Circassien)</h3>

@@ -1,7 +1,5 @@
 # Thalas (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Thalas - <b>In Good Company</b> (Bourrée 2 temps)</h3>

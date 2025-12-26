@@ -1,7 +1,5 @@
 # Duo Massarelli (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Duo Massarelli - <b>Mimà</b> (Valse 5 temps)</h3>

@@ -1,7 +1,5 @@
 # Eric Thézé (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Catherine Grimault, Eric Thézé, Jean-Jacques Limeul - <b>Fam</b> (Valse 5 temps)</h3>

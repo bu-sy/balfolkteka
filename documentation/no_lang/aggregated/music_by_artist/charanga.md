@@ -1,7 +1,5 @@
 # Charanga (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Charanga - <b>Repasseado sem Fronteiras</b> (Repasseado)</h3>

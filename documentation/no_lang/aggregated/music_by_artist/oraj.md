@@ -1,7 +1,5 @@
 # ORAJ (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>ORAJ - <b>Décharmée</b> (Mazurka)</h3>

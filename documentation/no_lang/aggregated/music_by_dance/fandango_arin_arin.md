@@ -1,7 +1,5 @@
 ## fandango_arin_arin (24)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Accordzêam - <b>Fandango go</b></h3>

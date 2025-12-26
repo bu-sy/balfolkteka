@@ -1,7 +1,5 @@
 # La Machine (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>La Machine - <b>Valse Éthiopique</b> (Valse 5 temps)</h3>

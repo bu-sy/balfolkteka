@@ -1,7 +1,5 @@
 # Noluen Le Buhe (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Annie Ebrel, Marthe Vassallo, Nolùen Le Buhé - <b>Bilhedoù du 2 - Gavotte</b> (Gavotte de l'Aven)</h3>

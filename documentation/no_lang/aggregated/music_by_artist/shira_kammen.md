@@ -1,7 +1,5 @@
 # Shira Kammen (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Shira Kammen - <b>Hanter Dros</b> (Hanter Dro)</h3>

@@ -1,7 +1,5 @@
 # Gari Greu (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Gari Greu, Lou Tapage - <b>Ça va sans dire</b> (Polka)</h3>

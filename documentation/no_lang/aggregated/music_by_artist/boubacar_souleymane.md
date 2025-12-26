@@ -1,7 +1,5 @@
 # Boubacar Souleymane (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Boubacar Souleymane, Le Bour Bodros - <b>Roc'h vrein - Hanter dro</b> (Hanter Dro)</h3>

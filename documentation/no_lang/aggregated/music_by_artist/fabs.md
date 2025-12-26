@@ -1,7 +1,5 @@
 # Fabs (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Beat Bouet Trio, Fabs - <b>Ce Travail (Rond de St Vincent)</b> (Rond de Saint-Vincent)</h3>

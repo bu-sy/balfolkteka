@@ -1,7 +1,5 @@
 # Duo Gestrikt (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Duo Gestrikt - <b>Zebrazurka</b> (Mazurka)</h3>

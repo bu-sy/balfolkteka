@@ -1,7 +1,5 @@
 # Jean Baron -Christian Anneix (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Jean Baron -Christian Anneix - <b>Hanter dro</b> (Hanter Dro)</h3>

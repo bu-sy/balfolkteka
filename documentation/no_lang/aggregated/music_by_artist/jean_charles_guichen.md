@@ -1,7 +1,5 @@
 # Jean-Charles Guichen (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Jean-Charles Guichen - <b>Arvorik Yaouank</b> (Valse 3 temps)</h3>

@@ -1,7 +1,5 @@
 # Samurai Accordion (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Samurai Accordion - <b>January Sun</b> (Valse 3 temps)</h3>

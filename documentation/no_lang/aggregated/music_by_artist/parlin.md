@@ -1,7 +1,5 @@
 # Pärlin (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Pärlin - <b>I buried my wife</b> (Cercle Circassien)</h3>

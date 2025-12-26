@@ -1,7 +1,5 @@
 # Tatu Trio (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Tatu Trio - <b>Ai vist lo lop</b> (Bourrée 3 temps)</h3>

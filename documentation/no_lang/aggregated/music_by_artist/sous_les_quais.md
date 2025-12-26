@@ -1,7 +1,5 @@
 # Sous les quais (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Sous les quais - <b>Valse à 5 temps</b> (Valse 5 temps)</h3>

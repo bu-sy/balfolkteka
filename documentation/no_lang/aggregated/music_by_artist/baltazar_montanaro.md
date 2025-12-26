@@ -1,7 +1,5 @@
 # Baltazar Montanaro (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Baltazar Montanaro, HEDIYYE, Zabou Guérin - <b>Maîtresse Maîtresse</b> (Mazurka)</h3>

@@ -1,7 +1,5 @@
 # Donder in't hooi (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Donder in't hooi - <b>Trip to skye</b> (Valse 3 temps)</h3>

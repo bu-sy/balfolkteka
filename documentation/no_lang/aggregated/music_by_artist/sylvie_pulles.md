@@ -1,7 +1,5 @@
 # Sylvie Pulles (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Sylvie Pulles - <b>La bourrée des furets - Bourree</b> (Bourrée 3 temps)</h3>

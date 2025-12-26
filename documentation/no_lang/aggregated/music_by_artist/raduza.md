@@ -1,7 +1,5 @@
 # Radůza (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Radůza - <b>Ať Není Mi Líto</b> (Valse 3 temps)</h3>

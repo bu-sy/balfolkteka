@@ -1,7 +1,5 @@
 # Ablaye Cissoko (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Ablaye Cissoko, Cyrille Brotto - <b>Rencontre</b> (Mazurka)</h3>

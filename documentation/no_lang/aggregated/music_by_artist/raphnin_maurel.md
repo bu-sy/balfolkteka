@@ -1,7 +1,5 @@
 # Raphnin Maurel (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Raphnin Maurel - <b>Bourrée à Jean Marc Delaunay / Le pan-pan de Mauriac</b> (Bourrée 3 temps)</h3>

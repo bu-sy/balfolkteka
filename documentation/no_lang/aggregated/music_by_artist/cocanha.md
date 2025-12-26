@@ -1,7 +1,5 @@
 # Cocanha (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Cocanha - <b>La valsa d'emiliana</b> (Valse 3 temps)</h3>

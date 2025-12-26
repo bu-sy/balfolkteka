@@ -1,7 +1,5 @@
 # MUJI BGM (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>MUJI BGM - <b>Hanter Dro</b> (Hanter Dro)</h3>

@@ -1,7 +1,5 @@
 # Jim Croce (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Jim Croce - <b>Time in a Bottle</b> (Valse 3 temps)</h3>

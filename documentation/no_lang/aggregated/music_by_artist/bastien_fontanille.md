@@ -1,7 +1,5 @@
 # Bastien Fontanille (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Bastien Fontanille, Carlos Valverde, João Arruda, Xavier Vidal - <b>Bourée de Leon Peyrat</b> (Bourrée 3 temps)</h3>

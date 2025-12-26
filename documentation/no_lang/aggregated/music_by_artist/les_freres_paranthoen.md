@@ -1,7 +1,5 @@
 # Les Frères Paranthoën (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Les Frères Paranthoën - <b>Er verig yaouank - Hanter dro</b> (Hanter Dro)</h3>

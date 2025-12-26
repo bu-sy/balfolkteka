@@ -1,7 +1,5 @@
 # Les Cuisiniers Musiciens (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Les Cuisiniers Musiciens - <b>Danse de l'Ours</b> (Danse de l'Ours)</h3>

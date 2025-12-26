@@ -1,7 +1,5 @@
 ## rund_polska (6)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Jonas Akerlund, Josefina Paulson - <b>Polska efter schedin</b></h3>

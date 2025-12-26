@@ -1,7 +1,5 @@
 # Marais Vendéen (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Marais Vendéen - <b>Suite de maraichines (Challans)</b> (Maraîchine)</h3>

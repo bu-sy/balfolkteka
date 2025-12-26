@@ -1,7 +1,5 @@
 # Csürrentő (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Csürrentő - <b>Ördög útja</b> (Drumul Dracului)</h3>

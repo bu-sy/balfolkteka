@@ -1,7 +1,5 @@
 ## kost_ar_c_hoad (26)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Accordzêam - <b>Kostraphwatt</b></h3>

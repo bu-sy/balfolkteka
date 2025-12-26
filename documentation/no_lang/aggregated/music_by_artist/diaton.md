@@ -1,7 +1,5 @@
 # DiaTon (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>DiaTon - <b>Le Funambule</b> (Cercle Circassien)</h3>

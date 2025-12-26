@@ -1,7 +1,5 @@
 # Khaled Mouzanar (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Khaled Mouzanar - <b>La grande marche</b> (Gavotte de l'Aven)</h3>

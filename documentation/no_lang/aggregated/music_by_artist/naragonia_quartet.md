@@ -1,7 +1,5 @@
 # Naragonia Quartet (10)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Naragonia, Naragonia Quartet - <b>Angiolino - Valzer di Monticello</b> (Valse 3 temps)</h3>

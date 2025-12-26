@@ -1,7 +1,5 @@
 # Accordzêam (9)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Accordzêam - <b>Allez, bourrés</b> (Bourrée 2 temps)</h3>

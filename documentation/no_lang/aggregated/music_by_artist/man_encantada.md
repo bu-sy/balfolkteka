@@ -1,7 +1,5 @@
 # Man Encantada (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Man Encantada - <b>Co qu'a don heit de jo</b> (Bourrée 2 temps)</h3>

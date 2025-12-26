@@ -1,7 +1,5 @@
 # Patxi eta konpania (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Patxi eta konpania - <b>Fandangoa</b> (Fandango & Arin Arin)</h3>

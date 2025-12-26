@@ -1,7 +1,5 @@
 # Hamon Martin Quartet (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Hamon Martin Quartet - <b>T'en souviens-tu mignonne ?</b> (Rond de Saint-Vincent)</h3>

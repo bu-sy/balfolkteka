@@ -1,7 +1,5 @@
 # Kaisa Kuslapuu (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Kaisa Kuslapuu - <b>Tsooru valss</b> (Valse 3 temps)</h3>

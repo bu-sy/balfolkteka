@@ -1,7 +1,5 @@
 # Le Bal en Chantier (7)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Le Bal en Chantier - <b>Faydit Longway</b> (Chapelloise)</h3>

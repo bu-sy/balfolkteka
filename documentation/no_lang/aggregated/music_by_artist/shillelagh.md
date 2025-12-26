@@ -1,7 +1,5 @@
 # Shillelagh (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Shillelagh - <b>13 Wals voor Polle - Live</b> (Valse 3 temps)</h3>

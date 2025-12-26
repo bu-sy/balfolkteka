@@ -1,7 +1,5 @@
 # Oxmo Puccino (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Aziliz Manrow, Denez Prigent, Oxmo Puccino - <b>Waltz of Life</b> (Valse 3 temps)</h3>

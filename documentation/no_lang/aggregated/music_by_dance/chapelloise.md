@@ -1,7 +1,5 @@
 ## chapelloise (36)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Alain Pennec - <b>The Withe Petitcoat - La jig de la guilde - Lost By Laggan Moor</b></h3>

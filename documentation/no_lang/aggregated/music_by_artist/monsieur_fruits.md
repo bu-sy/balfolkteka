@@ -1,7 +1,5 @@
 # Monsieur Fruits (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Monsieur Fruits - <b>Dans ses bras</b> (Valse 8 temps)</h3>

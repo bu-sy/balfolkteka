@@ -1,7 +1,5 @@
 # Brotto-Lopez (8)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Brotto-Lopez - <b>Borrèias - Bourrée de Ribeyrolle</b> (Bourrée 3 temps)</h3>

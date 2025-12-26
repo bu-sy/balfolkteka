@@ -1,7 +1,5 @@
 # Vinta (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Vinta - <b>Bourrée Isolée</b> (Bourrée 3 temps)</h3>

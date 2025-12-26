@@ -1,7 +1,5 @@
 # Marthe Tourret (5)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Marthe Tourret, Planchée - <b>L'Étoile de Tortebesse (bourrée)</b> (Bourrée 3 temps)</h3>

@@ -1,7 +1,5 @@
 # La Bricole (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>La Bricole - <b>La manchotte (Mazurka)</b> (Mazurka)</h3>

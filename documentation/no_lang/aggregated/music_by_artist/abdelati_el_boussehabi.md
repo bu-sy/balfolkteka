@@ -1,7 +1,5 @@
 # Abdelati El Boussehabi (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Abdelati El Boussehabi, Anne-Lise Foy, Benoit Mager, Gabriel Fernadez, Leonore Grollemund, Patrick Bouffard, Stephane Robert - <b>Polka De L'anglard</b> (Polka)</h3>

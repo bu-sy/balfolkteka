@@ -1,7 +1,5 @@
 # Le Bour Bodros (6)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Le Bour Bodros - <b>Ar Stolier - Rond De Saint Vincent</b> (Rond de Saint-Vincent)</h3>

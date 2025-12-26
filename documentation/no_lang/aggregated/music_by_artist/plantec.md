@@ -1,7 +1,5 @@
 # Plantec (10)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Plantec - <b>A-raok (andro)</b> (An Dro)</h3>

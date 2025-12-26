@@ -1,7 +1,5 @@
 # Duo Absynthe (17)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Duo Absynthe - <b>Albitzur</b> (Fandango & Arin Arin)</h3>

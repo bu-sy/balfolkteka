@@ -1,7 +1,5 @@
 # Alexis Chauvelier (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Alexis Chauvelier, Le Bal en Chantier - <b>Montagne Sainte Lucile</b> (Valse 5 temps)</h3>

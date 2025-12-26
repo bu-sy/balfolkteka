@@ -1,7 +1,5 @@
 # Tidiane Dia (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Myrdhin, Philippe Launay, Tidiane Dia - <b>Hanter dro</b> (Hanter Dro)</h3>

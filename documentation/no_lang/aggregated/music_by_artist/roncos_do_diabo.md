@@ -1,7 +1,5 @@
 # Roncos do Diabo (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Roncos do Diabo - <b>Repasseado</b> (Repasseado)</h3>

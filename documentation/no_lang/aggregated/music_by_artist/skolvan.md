@@ -1,7 +1,5 @@
 # Skolvan (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Skolvan - <b>Coquin cherche coquine - Mazurka</b> (Mazurka)</h3>

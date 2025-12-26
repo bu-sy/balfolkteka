@@ -1,7 +1,5 @@
 # Snaarmaarwaar (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Snaarmaarwaar - <b>Horlepijp / Castro</b> (Scottish)</h3>

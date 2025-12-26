@@ -1,7 +1,5 @@
 # Follenn (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Follenn - <b>Kataronds - Ronds de landeda</b> (Rond de Landéda)</h3>

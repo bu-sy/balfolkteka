@@ -1,7 +1,5 @@
 # Traditional (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Jessica Baran-Surel, Traditional - <b>Hanter droú</b> (Hanter Dro)</h3>

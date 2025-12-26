@@ -1,7 +1,5 @@
 # Melonious Quartet (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Kepa Junkera, Melonious Quartet - <b>Fandango</b> (Fandango & Arin Arin)</h3>

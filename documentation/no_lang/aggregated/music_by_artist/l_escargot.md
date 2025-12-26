@@ -1,7 +1,5 @@
 # L'Escargot (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>L'Escargot - <b>In cammino</b> (Gavotte de l'Aven)</h3>

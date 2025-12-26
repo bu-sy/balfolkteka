@@ -1,7 +1,5 @@
 # Dañs Akademi (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Dañs Akademi - <b>Gavottes de l'Aven</b> (Gavotte de l'Aven)</h3>

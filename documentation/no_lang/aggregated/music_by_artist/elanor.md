@@ -1,7 +1,5 @@
 # Elanor (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Elanor - <b>Blown Away - Nuit Noire</b> (Cercle Circassien)</h3>

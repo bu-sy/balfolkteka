@@ -1,7 +1,5 @@
 # Patrick Molard (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Patrick Molard - <b>Chenhet'neus An Am Zer - Hanter Dro</b> (Hanter Dro)</h3>

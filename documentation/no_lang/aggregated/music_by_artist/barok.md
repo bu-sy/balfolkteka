@@ -1,7 +1,5 @@
 # BAROK (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>BAROK - <b>Dañs-tro ar saozon e Kenekan (Kost ar c'hoad)</b> (Kost ar c'hoad)</h3>

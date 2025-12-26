@@ -1,7 +1,5 @@
 # Orfeo (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Orfeo - <b>Night at the Campfire (Waltz)</b> (Valse 3 temps)</h3>

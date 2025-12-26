@@ -1,7 +1,5 @@
 # Serge Desaunay (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Serge Desaunay - <b>La polka chinoise</b> (Polka)</h3>

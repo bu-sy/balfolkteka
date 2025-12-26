@@ -1,7 +1,5 @@
 # Nisia (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Nisia, Virginia Maiorana - <b>Valse des voiles</b> (Valse 3 temps)</h3>

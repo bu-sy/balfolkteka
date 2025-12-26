@@ -1,7 +1,5 @@
 # François Corneloup (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>'Ndiaz, François Corneloup - <b>Uviéu</b> (Cercle Circassien)</h3>

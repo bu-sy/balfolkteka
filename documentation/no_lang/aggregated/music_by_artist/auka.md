@@ -1,7 +1,5 @@
 # Auka (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Auka - <b>Emigrante</b> (Valse 3 temps)</h3>

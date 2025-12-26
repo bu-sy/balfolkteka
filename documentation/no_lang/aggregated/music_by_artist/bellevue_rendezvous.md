@@ -1,7 +1,5 @@
 # Bellevue Rendezvous (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Bellevue Rendezvous - <b>Hanter Dro / Tuolpagorni</b> (Hanter Dro)</h3>

@@ -1,7 +1,5 @@
 ## valse_11_temps (5)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Aurélien Claranbaux - <b>Les 11</b></h3>

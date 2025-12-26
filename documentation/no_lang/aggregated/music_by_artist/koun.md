@@ -1,7 +1,5 @@
 # Koun (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Koun - <b>Hanter Dro - Ar paueger pariz</b> (Hanter Dro)</h3>

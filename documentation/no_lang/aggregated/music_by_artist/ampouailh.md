@@ -1,7 +1,5 @@
 # Ampouailh (7)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Ampouailh - <b>Deñved Guerveno (Kost ar c'hoat)</b> (Kost ar c'hoad)</h3>

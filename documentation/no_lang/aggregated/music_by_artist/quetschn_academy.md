@@ -1,7 +1,5 @@
 # Quetschn Academy (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Quetschn Academy - <b>Unsre alte Kath - BEsAsDes</b> (Zwiefacher)</h3>

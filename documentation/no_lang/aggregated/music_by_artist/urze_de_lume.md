@@ -1,7 +1,5 @@
 # Urze de Lume (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Urze de Lume - <b>Repasseado Da Urze</b> (Repasseado)</h3>

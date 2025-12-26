@@ -1,7 +1,5 @@
 # Alkinoos Ioannidis (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Alkinoos Ioannidis - <b>Apogevma Sto Dentro</b> (Gavotte de l'Aven)</h3>

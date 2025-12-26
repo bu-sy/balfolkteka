@@ -1,7 +1,5 @@
 ## tricot (6)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Bargainatt - <b>Joli mois de mai</b></h3>

@@ -1,7 +1,5 @@
 # Sous le pont (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Sous le pont - <b>Porchakovitch</b> (Porcher)</h3>

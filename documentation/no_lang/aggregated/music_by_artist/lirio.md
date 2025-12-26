@@ -1,7 +1,5 @@
 # Lirio (5)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Lirio - <b>Afke's mazurka</b> (Mazurka)</h3>

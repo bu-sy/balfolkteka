@@ -1,7 +1,5 @@
 # Naragonia (25)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Naragonia - <b>-17o C</b> (Valse 3 temps)</h3>

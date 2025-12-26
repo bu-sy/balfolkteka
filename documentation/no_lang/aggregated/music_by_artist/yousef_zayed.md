@@ -1,7 +1,5 @@
 # Yousef Zayed (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Erwan Hamon, Yousef Zayed - <b>Jig africaine</b> (Chapelloise)</h3>

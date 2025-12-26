@@ -1,7 +1,5 @@
 # Xabier Zeberio (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Xabi Aburruzaga, Xabier Zeberio - <b>Ezpatadantzari</b> (Chapelloise)</h3>

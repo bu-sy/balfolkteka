@@ -1,7 +1,5 @@
 # Zef (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Zef - <b>Gavotte Fiif</b> (Gavotte de l'Aven)</h3>

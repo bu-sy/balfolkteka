@@ -1,7 +1,5 @@
 # Floris and the Flames (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Floris and the Flames - <b>Crème Bourrée</b> (Bourrée 3 temps)</h3>

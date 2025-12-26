@@ -1,7 +1,5 @@
 # Ar Re Yaouank (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Ar Re Yaouank - <b>M-a-l (an-dro)</b> (An Dro)</h3>

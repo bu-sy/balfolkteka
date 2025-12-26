@@ -1,7 +1,5 @@
 # Trouzerion (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Trouzerion - <b>Hanterdro</b> (Hanter Dro)</h3>

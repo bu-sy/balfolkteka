@@ -1,7 +1,5 @@
 # Solia (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Solia - <b>Mazurka</b> (Mazurka)</h3>

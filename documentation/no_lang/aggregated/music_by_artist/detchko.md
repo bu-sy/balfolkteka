@@ -1,7 +1,5 @@
 # Detchko (7)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Detchko - <b>Au 19 de l'avenue Descartes</b> (Valse 3 temps)</h3>

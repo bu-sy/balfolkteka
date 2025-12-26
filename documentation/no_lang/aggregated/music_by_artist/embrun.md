@@ -1,7 +1,5 @@
 # EmBRUN (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>EmBRUN - <b>Yazurka 18</b> (Mazurka)</h3>

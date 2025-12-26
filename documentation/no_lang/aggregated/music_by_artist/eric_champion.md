@@ -1,7 +1,5 @@
 # Eric Champion (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Eric Champion - <b>Giate des Combrailles</b> (Bourrée 3 temps)</h3>

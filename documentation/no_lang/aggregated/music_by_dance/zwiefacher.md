@@ -1,7 +1,5 @@
 ## zwiefacher (3)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Hajda Banda, Jędrzej Weber - <b>Niepraudzivaya kalina</b></h3>

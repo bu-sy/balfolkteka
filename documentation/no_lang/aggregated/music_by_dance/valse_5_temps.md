@@ -1,7 +1,5 @@
 ## valse_5_temps (35)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Accordzêam - <b>La lilloise</b></h3>

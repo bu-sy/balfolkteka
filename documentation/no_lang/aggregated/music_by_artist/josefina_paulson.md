@@ -1,7 +1,5 @@
 # Josefina Paulson (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Josefina Paulson, Sophie Cavez - <b>Dunkla polskor</b> (Polka)</h3>

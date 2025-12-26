@@ -1,7 +1,5 @@
 # Litha (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Litha - <b>Zwiefache</b> (Zwiefacher)</h3>

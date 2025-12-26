@@ -1,7 +1,5 @@
 # Nostrad (8)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Nostrad - <b>Both sides the Tweed (Valse écossaise) - Live</b> (Valse 3 temps)</h3>

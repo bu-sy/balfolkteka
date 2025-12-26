@@ -1,7 +1,5 @@
 # Brotto Lopez Sextet (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Brotto Lopez Sextet - <b>Avenueschottis</b> (Scottish)</h3>

@@ -1,7 +1,5 @@
 ## bourree_2_temps (73)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>'Ndiaz - <b>Horde</b></h3>

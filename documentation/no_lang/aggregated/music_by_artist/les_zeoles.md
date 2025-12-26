@@ -1,7 +1,5 @@
 # Les Zéoles (17)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Les Zéoles - <b>93 (Scottish)</b> (Scottish)</h3>

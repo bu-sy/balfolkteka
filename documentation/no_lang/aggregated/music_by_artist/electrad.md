@@ -1,7 +1,5 @@
 # Electrad (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Electrad - <b>Laridé Monesque (Laridé à 8 temps/Madison)</b> (Madison)</h3>

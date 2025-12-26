@@ -1,7 +1,5 @@
 ## rond_de_saint_vincent (31)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>'Ndiaz - <b>Hanv Yen</b></h3>

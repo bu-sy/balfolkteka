@@ -1,7 +1,5 @@
 # Etienne Choquet (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Etienne Choquet, Pulcinella, Trio Loubelya - <b>Leo</b> (Scottish)</h3>

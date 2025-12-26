@@ -1,7 +1,5 @@
 # François Badeau (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Esquisse, François Badeau, Gweltaz Herve, Pierre Le Normand, Thomas Badeau - <b>Oh non! - Galop nantais - Live</b> (Galop Nantais)</h3>

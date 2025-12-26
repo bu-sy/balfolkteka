@@ -1,7 +1,5 @@
 # Le bal de l'éphémère (5)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Le bal de l'éphémère - <b>Déchance (Bourrée 3 temps)</b> (Bourrée 3 temps)</h3>

@@ -1,7 +1,5 @@
 # Alain Pennec (7)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Alain Pennec - <b>Bals à quatre</b> (Cercle Circassien)</h3>

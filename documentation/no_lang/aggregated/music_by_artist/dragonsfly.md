@@ -1,7 +1,5 @@
 # Dragonsfly (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Dragonsfly - <b>Hanter Dro</b> (Hanter Dro)</h3>

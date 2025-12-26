@@ -1,7 +1,5 @@
 # Gwendoline DOLBEAULT (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Gwendoline DOLBEAULT, Samuel PARMENTIER - <b>Hanterdro Ronan</b> (Hanter Dro)</h3>

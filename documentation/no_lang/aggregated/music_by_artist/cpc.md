@@ -1,7 +1,5 @@
 # CPC (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>CPC, KKC Orchestra - <b>Cau te mena</b> (Bourrée 3 temps)</h3>

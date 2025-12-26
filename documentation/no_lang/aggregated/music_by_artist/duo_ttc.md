@@ -1,7 +1,5 @@
 # Duo TTC (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Duo TTC - <b>Gavotte de l'avent / La petite fugue</b> (Gavotte de l'Aven)</h3>

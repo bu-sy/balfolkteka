@@ -1,7 +1,5 @@
 ## gavotte_de_l_aven (34)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Alain Pennec Quartet - <b>Gavotte de l'aven</b></h3>

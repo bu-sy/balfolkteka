@@ -1,7 +1,5 @@
 # Regis Huiban (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Edgar Trio, Regis Huiban - <b>Le chant des lucioles (Rond de Saint-Vincent)</b> (Rond de Saint-Vincent)</h3>

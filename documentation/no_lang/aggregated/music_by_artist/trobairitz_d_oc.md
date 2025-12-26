@@ -1,7 +1,5 @@
 # Trobairitz d'Oc (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Trobairitz d'Oc - <b>A stacada d'Brelh (Valsa finala)</b> (Valse 3 temps)</h3>

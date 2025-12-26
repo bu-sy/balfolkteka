@@ -1,7 +1,5 @@
 # Duo Bottasso (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Duo Bottasso - <b>Bourrée</b> (Bourrée 3 temps)</h3>

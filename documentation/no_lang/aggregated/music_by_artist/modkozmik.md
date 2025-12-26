@@ -1,7 +1,5 @@
 # Modkozmik (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Modkozmik - <b>D'an eur a hanternoz (Koste 'r hoed)</b> (Kost ar c'hoad)</h3>

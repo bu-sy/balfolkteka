@@ -1,7 +1,5 @@
 # Wim te Groen (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Wim te Groen - <b>Wat Een Leuk Walsje (Mazurka)</b> (Mazurka)</h3>

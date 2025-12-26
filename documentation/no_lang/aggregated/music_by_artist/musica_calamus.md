@@ -1,7 +1,5 @@
 # Musica calamus (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Musica calamus - <b>Chapelloise</b> (Chapelloise)</h3>

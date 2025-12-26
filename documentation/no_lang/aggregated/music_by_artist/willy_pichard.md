@@ -1,7 +1,5 @@
 # Willy Pichard (5)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Stevan Vincendeau, Willy Pichard - <b>Cueillette nocturne (bourrée 3 temps)</b> (Bourrée 3 temps)</h3>

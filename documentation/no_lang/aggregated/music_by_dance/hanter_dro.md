@@ -1,7 +1,5 @@
 ## hanter_dro (96)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Ad Vielle Que Pourra - <b>Chupad Melen/Hanterdro Tid' Poc'h</b></h3>

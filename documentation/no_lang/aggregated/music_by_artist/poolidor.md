@@ -1,7 +1,5 @@
 # Poolidor (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Julien Barbances, Poolidor - <b>Passera le temps</b> (Mazurka)</h3>

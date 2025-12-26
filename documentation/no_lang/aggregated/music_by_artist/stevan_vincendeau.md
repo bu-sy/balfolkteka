@@ -1,7 +1,5 @@
 # Stevan Vincendeau (6)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Stevan Vincendeau, Thomas Felder - <b>Bouic - Ronds de Saint Vincent sur Oust</b> (Rond de Saint-Vincent)</h3>

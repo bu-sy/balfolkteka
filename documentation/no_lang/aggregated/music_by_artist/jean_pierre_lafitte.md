@@ -1,7 +1,5 @@
 # Jean-Pierre Lafitte (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Jean-Pierre Lafitte, Renat Jurie - <b>Ont es passant - Qau te mena bela</b> (Bourrée 3 temps)</h3>

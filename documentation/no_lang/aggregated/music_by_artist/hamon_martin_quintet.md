@@ -1,7 +1,5 @@
 # Hamon Martin Quintet (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Hamon Martin Quintet - <b>La nousille</b> (Rond de Saint-Vincent)</h3>

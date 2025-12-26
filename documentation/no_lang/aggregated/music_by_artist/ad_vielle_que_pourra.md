@@ -1,7 +1,5 @@
 # Ad Vielle Que Pourra (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Ad Vielle Que Pourra - <b>Chupad Melen/Hanterdro Tid' Poc'h</b> (Hanter Dro)</h3>

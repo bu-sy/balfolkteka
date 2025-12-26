@@ -1,7 +1,5 @@
 # Jacques Puech (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Bourrasque, Jacques Puech - <b>Bourrée à Lachaud / Bourrée à Gavinet</b> (Bourrée 3 temps)</h3>

@@ -1,7 +1,5 @@
 # Adeline Ghilain (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Adeline Ghilain, Duo Pilartz Gielen - <b>Tryptique (Andro)</b> (An Dro)</h3>

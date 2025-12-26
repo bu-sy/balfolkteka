@@ -1,7 +1,5 @@
 # Rachel Averly (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Rachel Averly - <b>Mazurka à rigal</b> (Mazurka)</h3>

@@ -1,7 +1,5 @@
 # Andy Cutting (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Andy Cutting, Nigel Eaton - <b>Bourrées</b> (Bourrée 2 temps)</h3>

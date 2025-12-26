@@ -1,7 +1,5 @@
 # La Sauterelle (5)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>La Sauterelle - <b>A nos amis</b> (Cercle Circassien)</h3>

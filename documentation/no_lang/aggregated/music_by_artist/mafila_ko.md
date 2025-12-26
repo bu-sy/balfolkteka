@@ -1,7 +1,5 @@
 # Mafila Ko (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Mafila Ko - <b>Mazurkalou</b> (Mazurka)</h3>

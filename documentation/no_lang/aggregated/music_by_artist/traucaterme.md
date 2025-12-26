@@ -1,7 +1,5 @@
 # Traucatèrme (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Traucatèrme - <b>La charranta, El ball del rossinyol</b> (Bourrée 3 temps)</h3>

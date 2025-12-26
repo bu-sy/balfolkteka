@@ -1,7 +1,5 @@
 # Socam (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Socam - <b>Lo mes de mai (valse)</b> (Valse 3 temps)</h3>

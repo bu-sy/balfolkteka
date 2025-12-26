@@ -1,7 +1,5 @@
 # Noëllie Nioulou (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Marthe Tourret, Noëllie Nioulou, Élisa Trebouville - <b>Pa'janvier / Mazurka</b> (Mazurka)</h3>

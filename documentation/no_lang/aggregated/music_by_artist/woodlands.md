@@ -1,7 +1,5 @@
 # Woodlands (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Bäckafall, Woodlands - <b>Hanter Dro</b> (Hanter Dro)</h3>

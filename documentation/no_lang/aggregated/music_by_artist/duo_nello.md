@@ -1,7 +1,5 @@
 # Duo Nello (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Duo Nello - <b>Itzikel</b> (Gavotte de l'Aven)</h3>

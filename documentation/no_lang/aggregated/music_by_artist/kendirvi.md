@@ -1,7 +1,5 @@
 # Kendirvi (6)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Kendirvi - <b>Kazel-ha-kazel - Polka</b> (Polka)</h3>

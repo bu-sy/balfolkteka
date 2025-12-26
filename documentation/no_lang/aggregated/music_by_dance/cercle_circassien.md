@@ -1,7 +1,5 @@
 ## cercle_circassien (65)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>'Ndiaz - <b>Moud - Live</b></h3>

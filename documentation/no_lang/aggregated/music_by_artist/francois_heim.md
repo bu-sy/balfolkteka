@@ -1,7 +1,5 @@
 # François Heim (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Bruno Le Tron, François Heim - <b>Bréhattitude</b> (Valse 5 temps)</h3>

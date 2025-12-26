@@ -1,7 +1,5 @@
 # Denez Prigent (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Denez Prigent - <b>Android 56 - Live à Yaouank</b> (An Dro)</h3>

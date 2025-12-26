@@ -1,7 +1,5 @@
 # Sons d'Embat (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Sons d'Embat - <b>Albiztur</b> (Fandango & Arin Arin)</h3>

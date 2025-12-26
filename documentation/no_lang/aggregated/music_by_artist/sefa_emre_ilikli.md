@@ -1,7 +1,5 @@
 # Sefa Emre İlikli (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Johann Sebastian Bach, Sefa Emre İlikli - <b>Gavotte in G Minor, BWV 822</b> (Gavotte de l'Aven)</h3>

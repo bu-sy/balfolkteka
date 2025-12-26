@@ -1,7 +1,5 @@
 # Vincent Sionneau (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Duo Pilartz Gielen, Vincent Sionneau - <b>Bourrées à deux et trois temps</b> (Bourrée 3 temps)</h3>

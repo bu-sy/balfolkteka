@@ -1,7 +1,5 @@
 # Adriano Sangineto (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Adriano Sangineto - <b>Equinox</b> (Scottish impaire)</h3>

@@ -1,7 +1,5 @@
 # Diwall (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Diwall - <b>Scotch brein</b> (Scottish)</h3>

@@ -1,7 +1,5 @@
 # Fabiola Fernandes (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Fabiola Fernandes, Jo Zanders, Kv Express - <b>Six qui prend</b> (Chapelloise)</h3>

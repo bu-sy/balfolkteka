@@ -1,7 +1,5 @@
 # Bargainatt (9)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Bargainatt - <b>Banana Circle</b> (Cercle Circassien)</h3>

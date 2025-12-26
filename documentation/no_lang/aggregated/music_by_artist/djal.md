@@ -1,7 +1,5 @@
 # Djal (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Djal - <b>Ebenine</b> (Valse 8 temps)</h3>

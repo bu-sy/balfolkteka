@@ -1,7 +1,5 @@
 # Bagad du Moulin Vert (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Bagad du Moulin Vert, Traditional - <b>Hanter-Dro - Dans Klam</b> (Hanter Dro)</h3>

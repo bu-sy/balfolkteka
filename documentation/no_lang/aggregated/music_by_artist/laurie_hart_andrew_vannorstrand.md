@@ -1,7 +1,5 @@
 # Laurie Hart & Andrew VanNorstrand (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Laurie Hart & Andrew VanNorstrand - <b>Södermanland- Polska efter Axel Axelsson</b> (Polska (rund polska))</h3>

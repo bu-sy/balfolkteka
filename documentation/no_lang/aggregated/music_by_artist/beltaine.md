@@ -1,7 +1,5 @@
 # Beltaine (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Beltaine - <b>Hoodoo's Lament</b> (Hanter Dro)</h3>

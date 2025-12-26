@@ -1,7 +1,5 @@
 # Seiva (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Seiva - <b>Repasseado dos Casais</b> (Repasseado)</h3>

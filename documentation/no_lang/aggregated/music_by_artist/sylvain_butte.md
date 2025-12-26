@@ -1,7 +1,5 @@
 # Sylvain Butté (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Sylvain Butté - <b>La paire de Saulxures</b> (Mazurka)</h3>

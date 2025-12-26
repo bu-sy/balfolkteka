@@ -1,7 +1,5 @@
 # Cassard (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Cassard - <b>La bataille de Syracuse</b> (Hanter Dro)</h3>

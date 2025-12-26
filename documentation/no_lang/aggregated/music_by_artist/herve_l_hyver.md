@@ -1,7 +1,5 @@
 # Hervé l'Hyver (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Christian Anneix, Hervé l'Hyver, Jean Baron - <b>Hanter dro</b> (Hanter Dro)</h3>

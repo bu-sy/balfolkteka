@@ -1,7 +1,5 @@
 # Groove Factory (11)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Groove Factory - <b>À l'Ombre des Cèdres</b> (Mazurka)</h3>

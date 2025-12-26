@@ -1,7 +1,5 @@
 # Anabel Santiago (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Alberto Varillas, Anabel Santiago, Ástura - <b>Fandangu d'Uviéu</b> (Fandango & Arin Arin)</h3>

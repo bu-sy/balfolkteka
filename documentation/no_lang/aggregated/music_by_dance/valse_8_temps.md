@@ -1,7 +1,5 @@
 ## valse_8_temps (19)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Accordzêam - <b>Obsession</b></h3>

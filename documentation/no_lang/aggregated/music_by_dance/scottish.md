@@ -1,7 +1,5 @@
 ## scottish (76)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Accordzêam - <b>Hotel California</b></h3>

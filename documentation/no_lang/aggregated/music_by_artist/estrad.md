@@ -1,7 +1,5 @@
 # Estrad (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Estrad - <b>Gavotte de l'Aven</b> (Gavotte de l'Aven)</h3>

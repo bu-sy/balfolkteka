@@ -1,7 +1,5 @@
 # Bencze Balázs (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Bencze Balázs, Benke Grátzy, Hodorog András, Rossa Levente Bors - <b>Ördög Útja - Demo</b> (Drumul Dracului)</h3>

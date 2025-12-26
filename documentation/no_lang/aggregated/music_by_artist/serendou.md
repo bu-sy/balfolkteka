@@ -1,7 +1,5 @@
 # Serendou (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Serendou - <b>Hanter Dro</b> (Hanter Dro)</h3>

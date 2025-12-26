@@ -1,7 +1,5 @@
 # Erwan Moal (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Erwan Moal, Julien Stevenin, Tangi Le Gall-Carre - <b>Elya / Disoursi (Kost Ar C'Hoad)</b> (Kost ar c'hoad)</h3>

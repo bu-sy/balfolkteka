@@ -1,7 +1,5 @@
 # Tri Yann (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Tri Yann - <b>Pastourelle De Saint Julien Maraichine - Bretagne-Vendee</b> (Maraîchine)</h3>

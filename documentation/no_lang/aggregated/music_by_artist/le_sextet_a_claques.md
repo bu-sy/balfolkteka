@@ -1,7 +1,5 @@
 # Le Sextet à Claques (6)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Le Sextet à Claques - <b>Derniers sourires</b> (Mazurka)</h3>

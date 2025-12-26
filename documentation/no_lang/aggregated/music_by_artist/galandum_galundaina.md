@@ -1,7 +1,5 @@
 # Galandum Galundaina (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Galandum Galundaina - <b>Repasseado</b> (Repasseado)</h3>

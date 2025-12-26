@@ -1,7 +1,5 @@
 # Ruth Hunter and Ruthie Dornfeld (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Ruth Hunter and Ruthie Dornfeld - <b>Breton Waltz</b> (Valse 3 temps)</h3>

@@ -1,7 +1,5 @@
 # Bon Débarras (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Bon Débarras - <b>La valse du loup</b> (Valse 3 temps)</h3>

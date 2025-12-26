@@ -1,7 +1,5 @@
 # ViatoreS (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>ViatoreS - <b>Drumul Dracului</b> (Drumul Dracului)</h3>

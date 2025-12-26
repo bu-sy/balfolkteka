@@ -1,7 +1,5 @@
 # Hidrae (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Hidrae - <b>Cercle Pour Jonathan</b> (Cercle Circassien)</h3>

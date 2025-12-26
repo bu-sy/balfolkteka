@@ -1,7 +1,5 @@
 # Cecilia (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Cecilia - <b>Amélie</b> (Valse 3 temps)</h3>

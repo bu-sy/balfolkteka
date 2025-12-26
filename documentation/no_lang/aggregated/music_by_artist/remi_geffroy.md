@@ -1,7 +1,5 @@
 # Rémi Geffroy (19)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Rémi Geffroy - <b>Aleph (bourrées 3 temps)</b> (Bourrée 3 temps)</h3>

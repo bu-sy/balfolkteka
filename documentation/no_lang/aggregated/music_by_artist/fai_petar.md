@@ -1,7 +1,5 @@
 # Faï Petar (7)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Faï Petar - <b>Bourrée de l'enclume</b> (Bourrée 2 temps)</h3>

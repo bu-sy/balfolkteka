@@ -1,7 +1,5 @@
 # Carré Manchot (10)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Carré Manchot - <b>An dro / neg la cho</b> (An Dro)</h3>

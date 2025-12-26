@@ -1,7 +1,5 @@
 # Esquisse (9)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Esquisse - <b>Chouette ton costar - Kost ar c'hoat</b> (Kost ar c'hoad)</h3>

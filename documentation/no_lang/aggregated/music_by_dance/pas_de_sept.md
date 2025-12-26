@@ -1,7 +1,5 @@
 ## pas_de_sept (1)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>ba.fnu - <b>Školácká (pas de sept)</b></h3>

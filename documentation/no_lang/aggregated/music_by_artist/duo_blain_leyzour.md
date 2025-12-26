@@ -1,7 +1,5 @@
 # Duo Blain-Leyzour (5)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Duo Blain-Leyzour - <b>Bourrée sur La Si Do - Calarem, calarem pas (Bourrée 3 temps)</b> (Bourrée 3 temps)</h3>

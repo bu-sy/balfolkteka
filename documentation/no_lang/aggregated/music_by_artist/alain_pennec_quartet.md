@@ -1,7 +1,5 @@
 # Alain Pennec Quartet (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Alain Pennec Quartet - <b>Gavotte de l'aven</b> (Gavotte de l'Aven)</h3>

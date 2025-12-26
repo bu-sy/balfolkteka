@@ -1,7 +1,5 @@
 # Fred Guichen (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Fred Guichen, Par Péron - <b>Valse à Johan</b> (Valse 3 temps)</h3>

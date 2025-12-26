@@ -1,7 +1,5 @@
 # Orquestrina Trama (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Orquestrina Trama - <b>Beharrezkoa</b> (Fandango & Arin Arin)</h3>

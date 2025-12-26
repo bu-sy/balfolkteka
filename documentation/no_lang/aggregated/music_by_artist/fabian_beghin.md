@@ -1,7 +1,5 @@
 # Fabian Beghin (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Didier Laloy, Fabian Beghin - <b>Ambroise's Forest Party</b> (Cercle Circassien)</h3>

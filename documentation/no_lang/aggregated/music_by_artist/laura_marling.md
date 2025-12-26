@@ -1,7 +1,5 @@
 # Laura Marling (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Johnny Flynn, Laura Marling - <b>The Water</b> (Valse 3 temps)</h3>

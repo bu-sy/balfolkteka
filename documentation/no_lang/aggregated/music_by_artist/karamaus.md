@@ -1,7 +1,5 @@
 # Karamaus (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Karamaus - <b>La Danse Perdue</b> (Bourrée 2 temps)</h3>

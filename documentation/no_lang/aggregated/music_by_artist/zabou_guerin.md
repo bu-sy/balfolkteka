@@ -1,7 +1,5 @@
 # Zabou Guérin (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Benoît Michaud, Zabou Guérin - <b>Bull Dozer</b> (Mazurka)</h3>

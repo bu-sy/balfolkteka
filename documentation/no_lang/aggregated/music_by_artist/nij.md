@@ -1,7 +1,5 @@
 # NIJ (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>NIJ - <b>Chaldéné - Hanter-Dro</b> (Hanter Dro)</h3>

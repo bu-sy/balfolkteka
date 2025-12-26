@@ -1,7 +1,5 @@
 # Duetu (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Duetu - <b>La Cabanya (Trikot)</b> (Tricot)</h3>

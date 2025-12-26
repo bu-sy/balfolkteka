@@ -1,7 +1,5 @@
 # ZLABYA (6)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Zlabya - <b>Besac</b> (Valse 3 temps)</h3>

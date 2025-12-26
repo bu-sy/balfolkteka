@@ -1,7 +1,5 @@
 # Warsaw Village Band (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Warsaw Village Band - <b>Polka Emigrantka</b> (Polka)</h3>

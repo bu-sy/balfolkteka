@@ -1,7 +1,5 @@
 # Casals Sabaté (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Casals Sabaté - <b>L’arinyarin</b> (Fandango & Arin Arin)</h3>

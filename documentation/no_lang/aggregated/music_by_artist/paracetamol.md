@@ -1,7 +1,5 @@
 # Paracetamol (6)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Paracetamol - <b>Blood brothers</b> (Bourrée 3 temps)</h3>

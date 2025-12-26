@@ -1,7 +1,5 @@
 # Julien Barbances (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Cadène, Camille Raibaud, Julien Barbances, Sylvain Quéré, Tiennet Simonnin, Tradethik Productions - <b>À la loop - Vendémiaire</b> (Bourrée 3 temps)</h3>

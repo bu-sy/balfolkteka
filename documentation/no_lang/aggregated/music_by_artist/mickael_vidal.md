@@ -1,7 +1,5 @@
 # Mickaël Vidal (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Mickaël Vidal - <b>Cauma tecnica</b> (Bourrée 3 temps)</h3>

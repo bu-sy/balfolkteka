@@ -1,7 +1,5 @@
 # Zurgó (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Zurgó - <b>Ördög útja - Drumul dracului</b> (Drumul Dracului)</h3>

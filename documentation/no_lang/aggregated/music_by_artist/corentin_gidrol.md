@@ -1,7 +1,5 @@
 # Corentin Gidrol (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Corentin Gidrol, Nicolas Canavaggia, Tralala Lovers - <b>Mazurka du pangolin</b> (Mazurka)</h3>

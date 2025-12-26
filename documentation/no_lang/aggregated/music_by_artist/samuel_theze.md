@@ -1,7 +1,5 @@
 # Samuel Thézé (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Eric Thézé, Samuel Thézé - <b>Knicklicht</b> (Valse 11 temps)</h3>

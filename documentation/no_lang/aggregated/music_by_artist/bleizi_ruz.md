@@ -1,7 +1,5 @@
 # Bleizi Ruz (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Bleizi Ruz - <b>Hanter-Droiou</b> (Hanter Dro)</h3>

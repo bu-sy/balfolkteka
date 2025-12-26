@@ -1,7 +1,5 @@
 ## an_dro (29)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Abnoba - <b>Andro</b></h3>

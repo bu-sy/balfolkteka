@@ -1,7 +1,5 @@
 # Forj (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Forj - <b>Galaunt pourr lonten (Rond de Saint Vincent)</b> (Rond de Saint-Vincent)</h3>

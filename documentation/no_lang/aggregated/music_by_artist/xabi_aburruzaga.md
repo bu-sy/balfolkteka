@@ -1,7 +1,5 @@
 # Xabi Aburruzaga (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Xabi Aburruzaga - <b>Afreekandango</b> (Fandango & Arin Arin)</h3>

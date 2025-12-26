@@ -1,7 +1,5 @@
 # Nina Nordvall Vahlberg (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Nina Nordvall Vahlberg - <b>Schottis Till Håge & Hans Vänner</b> (Scottish)</h3>

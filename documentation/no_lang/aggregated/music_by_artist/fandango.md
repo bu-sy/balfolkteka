@@ -1,7 +1,5 @@
 # Fandango (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Fandango - <b>Fandango</b> (Fandango & Arin Arin)</h3>

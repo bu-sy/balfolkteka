@@ -1,7 +1,5 @@
 # Dazkarieh (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Dazkarieh - <b>Quase um Repasseado</b> (Repasseado)</h3>

@@ -1,7 +1,5 @@
 # Hepta Polka (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Hepta Polka - <b>Bourreé De Grande Liberté</b> (Bourrée 2 temps)</h3>

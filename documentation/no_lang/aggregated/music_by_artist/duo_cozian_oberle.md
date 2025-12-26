@@ -1,7 +1,5 @@
 # Duo Cozian Oberlé (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Duo Cozian Oberlé - <b>Valsa « Aléa Mineur »</b> (Valse 3 temps)</h3>

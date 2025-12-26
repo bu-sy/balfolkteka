@@ -1,7 +1,5 @@
 # Olof Kennemark (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Olof Kennemark, Pers Alexander Olsson - <b>Polska av Alexander Olsson</b> (Polska (rund polska))</h3>

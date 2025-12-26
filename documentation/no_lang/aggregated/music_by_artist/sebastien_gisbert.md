@@ -1,7 +1,5 @@
 # Sébastien Gisbert (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Abdel Bouzbiba, Clément Rousse, Guillaume Lopez, Jocelyn Papon, Sébastien Gisbert - <b>Cercle de Thoux - Cercle Circassien</b> (Cercle Circassien)</h3>

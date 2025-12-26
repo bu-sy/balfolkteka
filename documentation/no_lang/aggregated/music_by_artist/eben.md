@@ -1,7 +1,5 @@
 # Eben (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Eben - <b>Ar vretonez vihan (Kost ar c'hoad)</b> (Kost ar c'hoad)</h3>

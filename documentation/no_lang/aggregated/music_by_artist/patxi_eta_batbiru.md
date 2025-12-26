@@ -1,7 +1,5 @@
 # Patxi eta Batbiru (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Patxi eta Batbiru - <b>Albiztur (Fandango)</b> (Fandango & Arin Arin)</h3>

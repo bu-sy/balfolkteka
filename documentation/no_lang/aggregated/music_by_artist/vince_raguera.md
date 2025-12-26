@@ -1,7 +1,5 @@
 # Vince Raguera (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Vince Raguera - <b>Maraichine</b> (Maraîchine)</h3>

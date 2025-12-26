@@ -1,7 +1,5 @@
 # Les Folkeux de Pie (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Les Folkeux de Pie - <b>Henriette limousin - Mazurka</b> (Mazurka)</h3>

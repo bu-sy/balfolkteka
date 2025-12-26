@@ -1,7 +1,5 @@
 # Vandiekomsa (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Vandiekomsa - <b>Schots In Cm</b> (Scottish)</h3>

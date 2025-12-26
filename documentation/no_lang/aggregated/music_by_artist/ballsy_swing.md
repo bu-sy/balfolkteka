@@ -1,7 +1,5 @@
 # Ballsy Swing (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Ballsy Swing - <b>Les pulls à Lucas (Chapelloise)</b> (Chapelloise)</h3>

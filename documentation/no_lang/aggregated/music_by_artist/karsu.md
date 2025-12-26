@@ -1,7 +1,5 @@
 # Karsu (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Karsu - <b>Birak Beni Böyle</b> (Valse 3 temps)</h3>

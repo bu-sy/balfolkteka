@@ -1,7 +1,5 @@
 # Basile Brémaud (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Basile Brémaud - <b>Se la voulia chausir (bourrée)</b> (Bourrée 3 temps)</h3>

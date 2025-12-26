@@ -1,7 +1,5 @@
 # Flor de Zinc (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Flor de Zinc - <b>L'aure de la camba torta / La limanhieira</b> (Bourrée 3 temps)</h3>

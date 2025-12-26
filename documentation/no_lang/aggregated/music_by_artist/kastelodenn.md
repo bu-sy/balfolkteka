@@ -1,7 +1,5 @@
 # Kastelodenn (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Kastelodenn - <b>Bal Keff</b> (Bal Keff)</h3>

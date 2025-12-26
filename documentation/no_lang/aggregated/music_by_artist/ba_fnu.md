@@ -1,7 +1,5 @@
 # ba.fnu (15)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>ba.fnu - <b>Cirque cirkusy jen (cercle)</b> (Cercle Circassien)</h3>

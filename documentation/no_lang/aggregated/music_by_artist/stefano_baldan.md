@@ -1,7 +1,5 @@
 # Stefano Baldan (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Stefano Baldan - <b>In Punta di Piedi</b> (Mazurka)</h3>

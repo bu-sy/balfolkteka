@@ -1,7 +1,5 @@
 # Trancexpress (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Trancexpress - <b>Suite obourrek</b> (Bourrée 3 temps)</h3>

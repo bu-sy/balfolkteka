@@ -1,7 +1,5 @@
 # Mauro Passos (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Mauro Passos - <b>Repasseado de Rio de Onor</b> (Repasseado)</h3>

@@ -1,7 +1,5 @@
 # Bagad de Lann Bihoué (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Bagad de Lann Bihoué - <b>Mazurka</b> (Mazurka)</h3>

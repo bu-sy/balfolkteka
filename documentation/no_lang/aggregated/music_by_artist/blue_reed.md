@@ -1,7 +1,5 @@
 # Blue Reed (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Blue Reed - <b>Cerclelloise</b> (Cercle Circassien)</h3>

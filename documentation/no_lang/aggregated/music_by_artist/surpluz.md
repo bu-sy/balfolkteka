@@ -1,7 +1,5 @@
 # Surpluz (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Surpluz - <b>De Blanke Slavin</b> (Valse 3 temps)</h3>

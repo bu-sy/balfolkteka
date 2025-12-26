@@ -1,7 +1,5 @@
 # Laüsa (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Laüsa - <b>Beth cèu de Pau</b> (Mazurka)</h3>

@@ -1,7 +1,5 @@
 # Spoum (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Spoum - <b>Hypnoptyk</b> (Hanter Dro)</h3>

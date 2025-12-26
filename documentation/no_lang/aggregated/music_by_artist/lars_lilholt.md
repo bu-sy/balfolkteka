@@ -1,7 +1,5 @@
 # Lars Lilholt (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Floating Sofa Quartet, Lars Lilholt - <b>Kun een Jord</b> (Scottish)</h3>

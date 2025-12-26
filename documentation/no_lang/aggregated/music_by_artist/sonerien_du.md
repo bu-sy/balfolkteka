@@ -1,7 +1,5 @@
 # Sonerien Du (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Sonerien Du - <b>Barfield's hanternoz</b> (Hanter Dro)</h3>

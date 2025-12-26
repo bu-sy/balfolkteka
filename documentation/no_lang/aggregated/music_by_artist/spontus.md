@@ -1,7 +1,5 @@
 # Spontus (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Spontus - <b>Ar c'helion - Trikot</b> (Tricot)</h3>

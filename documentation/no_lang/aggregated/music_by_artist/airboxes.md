@@ -1,7 +1,5 @@
 # Airboxes (10)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Airboxes - <b>Bosvelden</b> (Mazurka)</h3>

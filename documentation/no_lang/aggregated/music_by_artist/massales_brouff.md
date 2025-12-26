@@ -1,7 +1,5 @@
 # Massalès Brouff (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Massalès Brouff - <b>La crosada, la zoue-crade, bourrées</b> (Bourrée 3 temps)</h3>

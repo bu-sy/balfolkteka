@@ -1,7 +1,5 @@
 ## bal_keff (3)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Diou Flo - <b>Bal Kef</b></h3>

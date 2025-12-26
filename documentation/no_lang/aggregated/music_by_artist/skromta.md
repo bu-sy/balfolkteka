@@ -1,7 +1,5 @@
 # Skrömta (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Skrömta - <b>Festpolka</b> (Polka)</h3>

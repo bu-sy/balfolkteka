@@ -1,7 +1,5 @@
 # Celina Da Piedade (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Celina Da Piedade - <b>Calimero e a Pêra Verde</b> (Hanter Dro)</h3>

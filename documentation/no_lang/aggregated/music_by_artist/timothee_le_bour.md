@@ -1,7 +1,5 @@
 # Timothée Le Bour (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Talskan, Timothée Le Bour - <b>Onyx</b> (Kost ar c'hoad)</h3>

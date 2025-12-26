@@ -1,7 +1,5 @@
 # Väsen (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Väsen - <b>Rosenlundsvalsen</b> (Valse 3 temps)</h3>

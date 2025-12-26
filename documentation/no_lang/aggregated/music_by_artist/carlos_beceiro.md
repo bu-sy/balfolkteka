@@ -1,7 +1,5 @@
 # Carlos Beceiro (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Carlos Beceiro, Martina Quiere Bailar - <b>Valsurka</b> (Mazurka)</h3>

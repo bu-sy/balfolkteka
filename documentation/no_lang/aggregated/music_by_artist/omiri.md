@@ -1,7 +1,5 @@
 # OMIRI (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>OMIRI - <b>O Segundo Repasseado</b> (Repasseado)</h3>

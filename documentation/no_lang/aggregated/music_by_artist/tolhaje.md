@@ -1,7 +1,5 @@
 # Tołhaje (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Tołhaje - <b>Polka Na 7</b> (Polka)</h3>

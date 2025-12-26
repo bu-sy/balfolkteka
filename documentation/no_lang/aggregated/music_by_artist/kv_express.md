@@ -1,7 +1,5 @@
 # Kv Express (10)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Kv Express - <b>Les coccibulles</b> (Mazurka)</h3>

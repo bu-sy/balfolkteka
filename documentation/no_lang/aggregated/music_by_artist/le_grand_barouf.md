@@ -1,7 +1,5 @@
 # Le Grand Barouf (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Le Grand Barouf - <b>Dunk d'ust</b> (Bourrée 2 temps)</h3>

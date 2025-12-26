@@ -1,7 +1,5 @@
 # 'Ndiaz (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>'Ndiaz - <b>Hanv Yen</b> (Rond de Saint-Vincent)</h3>

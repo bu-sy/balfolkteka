@@ -1,7 +1,5 @@
 # La Bottines Artistiques (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>La Bottines Artistiques - <b>Demons</b> (Scottish)</h3>

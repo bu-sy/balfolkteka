@@ -1,7 +1,5 @@
 # Cédric Hergault (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Cédric Hergault, Fabrice Lothodé, Roland Becker - <b>Hanter-dro</b> (Hanter Dro)</h3>

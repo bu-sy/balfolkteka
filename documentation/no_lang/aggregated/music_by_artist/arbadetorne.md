@@ -1,7 +1,5 @@
 # Arbadétorne (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Arbadétorne - <b>Maraichines</b> (Maraîchine)</h3>

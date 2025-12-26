@@ -1,7 +1,5 @@
 # Duo Oliver-Sentou (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Duo Oliver-Sentou - <b>Passat Deman</b> (Bourrée 3 temps)</h3>

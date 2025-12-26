@@ -1,7 +1,5 @@
 # Florence Laloy (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Christine Lurquin, Duo Pilartz Gielen, Florence Laloy - <b>Suite de bourrées à Jo Perrier</b> (Bourrée 3 temps)</h3>

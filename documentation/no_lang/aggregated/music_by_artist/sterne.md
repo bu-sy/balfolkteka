@@ -1,7 +1,5 @@
 # Sterne (6)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Sterne - <b>Andro</b> (An Dro)</h3>

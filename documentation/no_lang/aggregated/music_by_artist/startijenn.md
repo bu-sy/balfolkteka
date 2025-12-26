@@ -1,7 +1,5 @@
 # Startijenn (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Startijenn - <b>Amsked - Vals</b> (Valse 3 temps)</h3>

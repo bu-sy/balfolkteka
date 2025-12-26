@@ -1,7 +1,5 @@
 # Julie Mary (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Bal O'Gadjo, Julie Mary, Vassilli - <b>Petits secrets des garrigues</b> (Fandango & Arin Arin)</h3>

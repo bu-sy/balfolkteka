@@ -1,7 +1,5 @@
 # Abnoba (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Abnoba - <b>Andro</b> (An Dro)</h3>

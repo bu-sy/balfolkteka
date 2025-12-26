@@ -1,7 +1,5 @@
 # Ulman (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Ulman - <b>Waltz Luberon</b> (Valse 3 temps)</h3>

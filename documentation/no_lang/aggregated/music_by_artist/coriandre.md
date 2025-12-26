@@ -1,7 +1,5 @@
 # Coriandre (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Coriandre - <b>Danse de l'ours</b> (Danse de l'Ours)</h3>

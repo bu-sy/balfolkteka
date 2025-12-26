@@ -1,7 +1,5 @@
 # Balarù (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Balarù - <b>Mountava la marmitta / A la moddë d'Archamoura</b> (Bourrée 3 temps)</h3>

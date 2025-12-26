@@ -1,7 +1,5 @@
 # Chnoques (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Chnoques - <b>La Jeanne sur le banc / Maries-toi Juliette (bourrées)</b> (Bourrée 3 temps)</h3>

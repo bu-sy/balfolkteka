@@ -1,7 +1,5 @@
 # Archam (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Archam - <b>Menez Andro</b> (An Dro)</h3>

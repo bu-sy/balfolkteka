@@ -1,7 +1,5 @@
 # Lou Tapage (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Lou Tapage - <b>Alice</b> (Valse 3 temps)</h3>

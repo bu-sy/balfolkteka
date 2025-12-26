@@ -1,7 +1,5 @@
 # Didier Champion (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Didier Champion - <b>Bourrée 3 temps à Prugnard</b> (Bourrée 3 temps)</h3>

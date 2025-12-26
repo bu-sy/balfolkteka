@@ -1,7 +1,5 @@
 # Clume (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Clume - <b>La pluie</b> (Bourrée 3 temps)</h3>

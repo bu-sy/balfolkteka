@@ -1,7 +1,5 @@
 # Anne-Lise Foy (10)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard - <b>Bourrée à 2 temps, rabaterie</b> (Bourrée 2 temps)</h3>

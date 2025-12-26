@@ -1,7 +1,5 @@
 # Laurent Geoffroy (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Laurent Geoffroy - <b>Al Yaras Valse</b> (Valse 3 temps)</h3>

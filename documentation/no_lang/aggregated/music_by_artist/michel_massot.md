@@ -1,7 +1,5 @@
 # Michel Massot (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Aurélie Dorzée, Michel Massot, Tom Theuns - <b>Kamazurka</b> (Mazurka)</h3>

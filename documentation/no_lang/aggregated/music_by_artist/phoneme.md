@@ -1,7 +1,5 @@
 # Phonème (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Phonème - <b>Qui veut ouir complainte</b> (Bourrée 3 temps)</h3>

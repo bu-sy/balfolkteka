@@ -1,7 +1,5 @@
 # Le Quintet à Claques (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Le Quintet à Claques - <b>Berceuse pour un Loulou</b> (Gavotte de l'Aven)</h3>

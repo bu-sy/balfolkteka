@@ -1,7 +1,5 @@
 # Tribal Jâze (7)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Tribal Jâze - <b>Circus</b> (Cercle Circassien)</h3>

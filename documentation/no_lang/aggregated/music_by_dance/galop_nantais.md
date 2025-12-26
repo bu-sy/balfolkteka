@@ -1,7 +1,5 @@
 ## galop_nantais (5)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Bernard Loffet - <b>Galop Nantais</b></h3>

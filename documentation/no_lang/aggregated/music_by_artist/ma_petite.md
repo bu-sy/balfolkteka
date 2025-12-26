@@ -1,7 +1,5 @@
 # Ma petite (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Ma petite - <b>La mal mariée (avec Julien Padovani)</b> (Bourrée 3 temps)</h3>

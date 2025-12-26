@@ -1,7 +1,5 @@
 # La Bazanca (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>La Bazanca, Paco Díez - <b>Repasseado Portugués y Brincaos Alistanos</b> (Repasseado)</h3>

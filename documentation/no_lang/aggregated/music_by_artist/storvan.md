@@ -1,7 +1,5 @@
 # Storvan (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Storvan - <b>Hanter dro</b> (Hanter Dro)</h3>

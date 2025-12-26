@@ -1,7 +1,5 @@
 # Nubia (5)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Nubia - <b>Kom Hier</b> (Mazurka)</h3>

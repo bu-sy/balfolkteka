@@ -1,7 +1,5 @@
 # Kadril (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Kadril - <b>Scottish on the Rocks</b> (Scottish)</h3>

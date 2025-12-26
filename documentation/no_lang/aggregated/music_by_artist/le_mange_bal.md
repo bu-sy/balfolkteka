@@ -1,7 +1,5 @@
 # Le Mange Bal (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Le Mange Bal, Snaamaarwaar - <b>Le pays des gens sans mémoire - Snaamaarwaar Remix</b> (Bourrée 2 temps)</h3>

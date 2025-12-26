@@ -1,7 +1,5 @@
 # Trasga (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Trasga - <b>Repasseado - Ao vivo</b> (Repasseado)</h3>

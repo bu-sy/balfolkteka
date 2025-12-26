@@ -1,7 +1,5 @@
 # Carlo Massarelli (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Carlo Massarelli - <b>Arin Arin</b> (Fandango & Arin Arin)</h3>

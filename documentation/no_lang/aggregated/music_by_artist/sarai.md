@@ -1,7 +1,5 @@
 # Saraï (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Saraï - <b>Na Carenza ab bèl còrs avenenz</b> (Bourrée 3 temps)</h3>

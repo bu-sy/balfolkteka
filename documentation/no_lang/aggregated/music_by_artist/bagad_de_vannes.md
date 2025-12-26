@@ -1,7 +1,5 @@
 # Bagad de Vannes (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Bagad de Vannes - <b>Keff</b> (Dañs Keff)</h3>

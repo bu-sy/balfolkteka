@@ -1,7 +1,5 @@
 # Duea (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Duea - <b>Lhi carn marinas</b> (Valse 3 temps)</h3>

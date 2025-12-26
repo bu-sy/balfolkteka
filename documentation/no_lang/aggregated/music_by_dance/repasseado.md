@@ -1,7 +1,5 @@
 ## repasseado (18)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Charanga - <b>Repasseado sem Fronteiras</b></h3>

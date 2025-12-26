@@ -1,7 +1,5 @@
 # Trio Dhoore (7)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Trio Dhoore - <b>Chameleon</b> (Valse 8 temps)</h3>

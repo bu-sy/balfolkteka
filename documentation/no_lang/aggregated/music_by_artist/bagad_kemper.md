@@ -1,7 +1,5 @@
 # Bagad Kemper (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Bagad Kemper, Red Cardell - <b>Hanter dro</b> (Hanter Dro)</h3>

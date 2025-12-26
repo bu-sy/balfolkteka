@@ -1,7 +1,5 @@
 # Arnaud Bibonne (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Arnaud Bibonne, Camille Raibaud - <b>Mazurka D'Après Lothaire Mabru</b> (Mazurka)</h3>

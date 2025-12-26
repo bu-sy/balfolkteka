@@ -1,7 +1,5 @@
 # La Forcelle (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>La Forcelle - <b>Cercle de Barbastro</b> (Cercle Circassien)</h3>

@@ -1,7 +1,5 @@
 # Phonix (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Phonix - <b>Akk-Vals - Live</b> (Valse 3 temps)</h3>

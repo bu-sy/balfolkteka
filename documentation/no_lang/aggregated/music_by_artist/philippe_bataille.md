@@ -1,7 +1,5 @@
 # Philippe Bataille (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>André Le Meut, Philippe Bataille - <b>Hanter dro</b> (Hanter Dro)</h3>

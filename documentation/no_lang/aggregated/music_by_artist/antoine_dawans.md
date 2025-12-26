@@ -1,7 +1,5 @@
 # Antoine Dawans (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Antoine Dawans, Ekko Trio, Lorcan Fahy, Pablo Golder - <b>Chute de Pierres</b> (Valse 3 temps)</h3>

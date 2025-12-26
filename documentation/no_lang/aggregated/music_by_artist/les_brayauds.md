@@ -1,7 +1,5 @@
 # Les Brayauds (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Les Brayauds - <b>Bourrée de Saint-Priest & bourrée de Veyssière</b> (Bourrée 3 temps)</h3>

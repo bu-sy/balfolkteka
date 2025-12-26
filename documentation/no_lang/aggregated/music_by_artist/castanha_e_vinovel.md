@@ -1,7 +1,5 @@
 # Castanha é Vinovèl (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Castanha é Vinovèl - <b>Femna pichona - Chapeloise</b> (Chapelloise)</h3>

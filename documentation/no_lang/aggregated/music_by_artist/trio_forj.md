@@ -1,7 +1,5 @@
 # Trio Forj (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Trio Forj - <b>Hanter dro</b> (Hanter Dro)</h3>

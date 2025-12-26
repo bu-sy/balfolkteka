@@ -1,7 +1,5 @@
 # Lo Cor de la Plana (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Lo Cor de la Plana - <b>Masurka Mafiosa Marselhesa</b> (Mazurka)</h3>

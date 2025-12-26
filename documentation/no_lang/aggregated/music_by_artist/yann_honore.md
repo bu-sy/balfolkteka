@@ -1,7 +1,5 @@
 # Yann Honoré (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Dominig Bouchaud, Yann Honoré - <b>Hanter-dro</b> (Hanter Dro)</h3>

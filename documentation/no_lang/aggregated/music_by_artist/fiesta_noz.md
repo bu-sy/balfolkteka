@@ -1,7 +1,5 @@
 # Fiesta Noz (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Fiesta Noz - <b>La Danse de L'ours</b> (Danse de l'Ours)</h3>

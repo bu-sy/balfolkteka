@@ -1,7 +1,5 @@
 # Trolska Polska (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Trolska Polska - <b>Krølle Bølle-polka</b> (Polka)</h3>

@@ -1,7 +1,5 @@
 # La Mesquia (5)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>La Mesquia - <b>L'ase teston - Bourée 2 temps</b> (Bourrée 2 temps)</h3>

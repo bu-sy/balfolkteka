@@ -1,7 +1,5 @@
 ## valse_3_temps (144)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Ad Vielle Que Pourra - <b>L'Agacante/Valse Du Milieu/Valse Du Faucigny</b></h3>

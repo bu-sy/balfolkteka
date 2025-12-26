@@ -1,7 +1,5 @@
 # Sergio Caputo (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Carmelo Russo, Filippo Gambetta, Sergio Caputo - <b>Mazurka Bordeaux</b> (Mazurka)</h3>

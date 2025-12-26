@@ -1,7 +1,5 @@
 # Follia! (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Follia! - <b>Bourrée de Brazil</b> (Bourrée 3 temps)</h3>

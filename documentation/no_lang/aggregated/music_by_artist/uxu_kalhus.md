@@ -1,7 +1,5 @@
 # UXU Kalhus (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>UXU Kalhus - <b>Repasseado do Coelhinho</b> (Repasseado)</h3>

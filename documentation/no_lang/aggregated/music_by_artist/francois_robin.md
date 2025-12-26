@@ -1,7 +1,5 @@
 # François Robin (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Ciac Boum, François Robin - <b>Maraîchines</b> (Maraîchine)</h3>

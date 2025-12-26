@@ -1,7 +1,5 @@
 # FLOCH Fabio (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>FLOCH Fabio - <b>Walkirie (Galop nantais)</b> (Galop Nantais)</h3>

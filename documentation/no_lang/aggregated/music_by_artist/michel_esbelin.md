@@ -1,7 +1,5 @@
 # Michel Esbelin (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Didier Pauvert, Michel Esbelin - <b>Bourrée à Ranvier, bourrée</b> (Bourrée 3 temps)</h3>

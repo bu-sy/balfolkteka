@@ -1,7 +1,5 @@
 # Erwan Menguy (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Erwan Menguy - <b>Tempus fugit</b> (Valse 3 temps)</h3>

@@ -1,7 +1,5 @@
 # Kornog (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Kornog - <b>Dans An Dro</b> (An Dro)</h3>

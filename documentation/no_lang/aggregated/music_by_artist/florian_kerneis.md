@@ -1,7 +1,5 @@
 # Florian Kernéis (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>David Morand, Erwann Tobie, Florian Kernéis, Laurent Hilairet - <b>MacMogette - Maraichine</b> (Maraîchine)</h3>

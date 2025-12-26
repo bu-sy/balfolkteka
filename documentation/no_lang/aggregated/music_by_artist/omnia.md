@@ -1,7 +1,5 @@
 # OMNIA (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>OMNIA - <b>Fee Ra Huri - Live</b> (Bourrée 2 temps)</h3>

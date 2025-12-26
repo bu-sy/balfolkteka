@@ -1,7 +1,5 @@
 # Hawktail (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Hawktail, Väsen - <b>The Tobogganist</b> (Scottish)</h3>

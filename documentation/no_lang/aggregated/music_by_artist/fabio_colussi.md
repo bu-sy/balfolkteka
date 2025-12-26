@@ -1,7 +1,5 @@
 # Fabio Colussi (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Fabio Colussi - <b>L'attesa di Camilla</b> (Mazurka)</h3>

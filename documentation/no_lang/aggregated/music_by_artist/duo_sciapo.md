@@ -1,7 +1,5 @@
 # Duo Sciapò (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Duo Sciapò - <b>Gau's Jig</b> (Cercle Circassien)</h3>

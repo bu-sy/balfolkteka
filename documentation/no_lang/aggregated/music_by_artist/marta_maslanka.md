@@ -1,7 +1,5 @@
 # Marta Maślanka (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Marta Maślanka, WoWaKin - <b>TamTa Dyna</b> (Mazurka)</h3>

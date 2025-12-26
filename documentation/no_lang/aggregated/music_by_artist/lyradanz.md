@@ -1,7 +1,5 @@
 # LyraDanz (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>LyraDanz - <b>Abbraccio Di Sale</b> (Mazurka)</h3>

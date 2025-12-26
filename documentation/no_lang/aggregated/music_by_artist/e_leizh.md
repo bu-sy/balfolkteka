@@ -1,7 +1,5 @@
 # E-leizh (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>E-leizh - <b>La mazur - Mazurka</b> (Mazurka)</h3>

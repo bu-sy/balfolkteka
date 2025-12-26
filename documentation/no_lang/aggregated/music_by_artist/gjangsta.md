@@ -1,7 +1,5 @@
 # Gjangsta (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Gjangsta - <b>Mandoliini polka</b> (Polka)</h3>

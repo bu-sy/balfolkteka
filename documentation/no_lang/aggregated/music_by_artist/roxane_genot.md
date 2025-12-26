@@ -1,7 +1,5 @@
 # Roxane Genot (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Roxane Genot - <b>Rusty Red October Waltz</b> (Valse 3 temps)</h3>

@@ -144,18 +144,12 @@ def render_music_by_dance(all_dances, directory_structure):
             ]
 
             number_of_tracks[loaded_dance.get('id')] = len(not_blacklisted_tracks)
-            current_file = directory_structure.get_music_by_dance(loaded_dance)
             lines.append(secondary_header(loaded_dance.get('id') + f" ({len(not_blacklisted_tracks)})"))
-            lines.append(link(
-                '<=====', directory_structure.get_aggregated_music_by_dance(
-                    relative_to=current_file
-                )
-            ))
             lines.extend(
                 music_collapsible_section(track_record, False) for track_record in not_blacklisted_tracks
             )
         write_file(
-            "\n\n".join(lines), current_file
+            "\n\n".join(lines), directory_structure.get_music_by_dance(loaded_dance)
         )
 
     current_file = directory_structure.get_aggregated_music_by_dance()
@@ -224,11 +218,6 @@ def render_music_by_artist(all_music, directory_structure):
             "\n\n".join([
                 f"# {artist} ({len(artists_music)})"
             ] + [
-            link(
-                '<=====', directory_structure.get_aggregated_music_by_artist(
-                    relative_to=current_file
-                )
-            )] + [
                 music_collapsible_section(music, True) for music in sorted(artists_music, key=lambda x: normalize(x.track_name))
             ]),
             current_file

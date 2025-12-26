@@ -1,7 +1,5 @@
 # Novar (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Novar - <b>A Kiss In Berlin / Novar</b> (Scottish)</h3>

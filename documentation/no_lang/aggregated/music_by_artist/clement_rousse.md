@@ -1,7 +1,5 @@
 # Clément Rousse (5)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Clément Rousse, Guillaume Lopez - <b>Canard-Isard</b> (Bourrée 2 temps)</h3>

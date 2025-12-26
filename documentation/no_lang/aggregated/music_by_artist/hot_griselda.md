@@ -1,7 +1,5 @@
 # Hot Griselda (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Hot Griselda - <b>Dorpeldanske</b> (Valse 5 temps)</h3>

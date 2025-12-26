@@ -1,7 +1,5 @@
 # The Zydepunks (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>The Zydepunks - <b>La Maraichine</b> (Maraîchine)</h3>

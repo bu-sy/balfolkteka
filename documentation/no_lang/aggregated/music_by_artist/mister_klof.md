@@ -1,7 +1,5 @@
 # Mister Klof (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Mister Klof - <b>Sleeping Tortoise / The Orphan / Deule douce</b> (Cercle Circassien)</h3>

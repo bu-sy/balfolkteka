@@ -1,7 +1,5 @@
 # Tralala Lovers (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Tralala Lovers - <b>Les jours de grandes marées</b> (Valse 5 temps)</h3>

@@ -1,7 +1,5 @@
 # ERIS (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>ERIS - <b>Que son aurös / N'ai mai cinc sòus (Bourrée à 3 temps)</b> (Bourrée 3 temps)</h3>

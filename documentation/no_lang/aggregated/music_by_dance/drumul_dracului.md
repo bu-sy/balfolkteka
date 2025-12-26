@@ -1,7 +1,5 @@
 ## drumul_dracului (5)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Bencze Balázs, Benke Grátzy, Hodorog András, Rossa Levente Bors - <b>Ördög Útja - Demo</b></h3>

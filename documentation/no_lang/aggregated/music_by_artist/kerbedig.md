@@ -1,7 +1,5 @@
 # Kerbedig (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Kerbedig - <b>Hanterdro : An dilhad Sul - Live</b> (Hanter Dro)</h3>

@@ -1,7 +1,5 @@
 # Les genoux (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Les genoux - <b>La carpe velloise / Chapelloise</b> (Chapelloise)</h3>

@@ -1,7 +1,5 @@
 # Vädur (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Vädur - <b>Fusk Olles schottis</b> (Scottish)</h3>

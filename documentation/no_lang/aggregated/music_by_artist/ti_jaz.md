@@ -1,7 +1,5 @@
 # Ti Jaz (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Ti Jaz - <b>Hanter Dro Bamenjou</b> (Hanter Dro)</h3>

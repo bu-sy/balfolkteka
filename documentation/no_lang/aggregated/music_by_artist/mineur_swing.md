@@ -1,7 +1,5 @@
 # Mineur Swing (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Mineur Swing, Yann Dour - <b>Hanter-dro</b> (Hanter Dro)</h3>

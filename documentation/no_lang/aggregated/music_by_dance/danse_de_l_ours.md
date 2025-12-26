@@ -1,7 +1,5 @@
 ## danse_de_l_ours (5)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Brick A Drac - <b>Danse de l'ours</b></h3>

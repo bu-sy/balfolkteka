@@ -1,7 +1,5 @@
 # Floating Sofa Quartet (9)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Floating Sofa Quartet - <b>Anjalan Sannan Valssi</b> (Valse 3 temps)</h3>

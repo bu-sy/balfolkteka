@@ -1,7 +1,5 @@
 # Diou Flo (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Diou Flo - <b>Bal Kef</b> (Bal Keff)</h3>

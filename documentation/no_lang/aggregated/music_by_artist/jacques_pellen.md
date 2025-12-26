@@ -1,7 +1,5 @@
 # Jacques Pellen (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Erwan Moal, Jacques Pellen, Julien Stevenin, Tangi Le Gall-Carre - <b>Enez (Vals)</b> (Valse 3 temps)</h3>

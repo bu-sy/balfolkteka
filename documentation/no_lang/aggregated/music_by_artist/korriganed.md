@@ -1,7 +1,5 @@
 # Korriganed (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Korriganed - <b>An Durzhunell (Bal Keff)</b> (Bal Keff)</h3>

@@ -1,7 +1,5 @@
 # Androneda (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Androneda - <b>Midzomercirkel - Live</b> (Cercle Circassien)</h3>

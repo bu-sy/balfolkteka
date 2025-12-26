@@ -1,7 +1,5 @@
 # Tęgie Chłopy (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Tęgie Chłopy - <b>Polka Żydówka</b> (Polka)</h3>

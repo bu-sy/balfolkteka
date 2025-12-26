@@ -1,7 +1,5 @@
 # Simone Sims Longo (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Duo Bottasso, Simone Sims Longo - <b>Samarazurka</b> (Mazurka)</h3>

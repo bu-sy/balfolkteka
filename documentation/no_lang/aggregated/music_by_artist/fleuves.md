@@ -1,7 +1,5 @@
 # Fleuves (5)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Fleuves - <b>Andro</b> (An Dro)</h3>

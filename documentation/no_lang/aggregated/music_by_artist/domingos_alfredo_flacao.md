@@ -1,7 +1,5 @@
 # Domingos Alfredo Flacão (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Domingos Alfredo Flacão, Paulina José Raoso, Paulino Pereira João - <b>Repasseado</b> (Repasseado)</h3>

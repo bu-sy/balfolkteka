@@ -1,7 +1,5 @@
 # Duo L'Hêtre Heureux (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Duo L'Hêtre Heureux - <b>La Rose</b> (Hanter Dro)</h3>

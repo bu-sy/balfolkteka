@@ -1,7 +1,5 @@
 # Trio Loubelya (18)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Trio Loubelya - <b>Andrò a torino e poi a casa</b> (An Dro)</h3>

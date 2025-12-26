@@ -1,7 +1,5 @@
 # Femme Folk (10)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Femme Folk - <b>Amélie la dispute / J'y suis jamais allée / La noyée</b> (Valse 3 temps)</h3>

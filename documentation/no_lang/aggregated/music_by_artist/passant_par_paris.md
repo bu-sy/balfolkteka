@@ -1,7 +1,5 @@
 # Passant Par Paris (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Passant Par Paris - <b>Passant par Paris (bourrée 2 temps)</b> (Bourrée 2 temps)</h3>

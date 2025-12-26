@@ -1,7 +1,5 @@
 # Duo Vargoz (5)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Duo Vargoz - <b>Bourrees à Chastagnol - À Pechadre</b> (Bourrée 3 temps)</h3>

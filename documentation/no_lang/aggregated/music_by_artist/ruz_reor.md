@@ -1,7 +1,5 @@
 # Ruz Reor (5)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Ruz Reor - <b>Cercle Circassien</b> (Cercle Circassien)</h3>

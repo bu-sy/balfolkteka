@@ -1,7 +1,5 @@
 # Eric Desgrugillers (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Eric Desgrugillers - <b>Tout le long d'un bois / Dròllas qu'avètz d'auganhas</b> (Bourrée 3 temps)</h3>

@@ -1,7 +1,5 @@
 # Velha Gaiteira (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Velha Gaiteira - <b>Repasseado + Antigo Baile Agarrado</b> (Repasseado)</h3>

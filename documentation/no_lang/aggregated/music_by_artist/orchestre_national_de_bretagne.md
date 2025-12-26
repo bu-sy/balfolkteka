@@ -1,7 +1,5 @@
 # Orchestre national de Bretagne (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Erwan Hamon, Janick Martin, Orchestre national de Bretagne - <b>Banian's jig (Cercle circassien)</b> (Cercle Circassien)</h3>

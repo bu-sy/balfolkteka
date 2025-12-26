@@ -1,7 +1,5 @@
 # BellónMaceiras (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>BellónMaceiras - <b>Mazurca Piponesa</b> (Mazurka)</h3>

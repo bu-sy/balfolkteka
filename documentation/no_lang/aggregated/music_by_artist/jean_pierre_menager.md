@@ -1,7 +1,5 @@
 # Jean-Pierre Menager (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Jean-Pierre Menager - <b>Broken Promises</b> (Valse 3 temps)</h3>

@@ -1,7 +1,5 @@
 # Durif-Champeval (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Durif-Champeval - <b>Bourée à Pouget, la Courbiase</b> (Bourrée 3 temps)</h3>

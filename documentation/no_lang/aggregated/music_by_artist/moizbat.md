@@ -1,7 +1,5 @@
 # Moizbat (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Moizbat - <b>Bela mair</b> (Bourrée 2 temps)</h3>

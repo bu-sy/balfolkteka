@@ -1,7 +1,5 @@
 # Francois Vidalenc (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Francois Vidalenc - <b>Bourrée à Francois</b> (Bourrée 3 temps)</h3>

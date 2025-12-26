@@ -1,7 +1,5 @@
 # Trio Trad (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Trio Trad - <b>Suite Auvergnate 2</b> (Bourrée 3 temps)</h3>

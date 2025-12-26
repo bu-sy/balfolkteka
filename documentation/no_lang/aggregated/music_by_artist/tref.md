@@ -1,7 +1,5 @@
 # Tref (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Tref - <b>Allez, bourrés!</b> (Bourrée 2 temps)</h3>

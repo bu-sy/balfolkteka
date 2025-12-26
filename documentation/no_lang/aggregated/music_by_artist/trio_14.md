@@ -1,7 +1,5 @@
 # Trio 14 (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Trio 14 - <b>Mazurka</b> (Mazurka)</h3>

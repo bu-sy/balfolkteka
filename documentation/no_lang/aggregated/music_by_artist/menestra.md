@@ -1,7 +1,5 @@
 # Menestra (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Menestra - <b>Hanter dro (Début)</b> (Hanter Dro)</h3>

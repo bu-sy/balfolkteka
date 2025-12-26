@@ -1,7 +1,5 @@
 ## bourree_3_temps (123)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Alexandra Lacouchie, Le Bal Brotto Lopez - <b>Passat deman - Bourrée</b></h3>

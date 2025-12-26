@@ -1,7 +1,5 @@
 # Trio Patrick Bouffard (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Trio Patrick Bouffard - <b>Mazerie / Chevreuils</b> (Bourrée 3 temps)</h3>

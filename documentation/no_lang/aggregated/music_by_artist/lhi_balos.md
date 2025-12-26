@@ -1,7 +1,5 @@
 # Lhi Balòs (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Lhi Balòs - <b>Au jardin</b> (Polka)</h3>

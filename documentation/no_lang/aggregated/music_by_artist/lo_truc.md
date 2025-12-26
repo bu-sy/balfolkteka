@@ -1,7 +1,5 @@
 # Lo Truc (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Lo Truc - <b>Dran, Lo Premier, Sant'ana</b> (Bourrée 2 temps)</h3>

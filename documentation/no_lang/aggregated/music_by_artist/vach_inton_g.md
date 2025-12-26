@@ -1,7 +1,5 @@
 # Vach'inton.g (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Vach'inton.g - <b>Kanter dro</b> (Hanter Dro)</h3>

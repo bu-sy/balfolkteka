@@ -1,7 +1,5 @@
 # Becky Price (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Becky Price, Dave Shepherd - <b>Trip to Barnard</b> (Chapelloise)</h3>

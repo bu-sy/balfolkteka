@@ -1,7 +1,5 @@
 # Stéphane Milleret (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Cyrille Brotto, Groove Factory, Stéphane Milleret - <b>Brumes / Nylon</b> (Bourrée 2 temps)</h3>

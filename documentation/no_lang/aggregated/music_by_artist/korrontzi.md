@@ -1,7 +1,5 @@
 # Korrontzi (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Korrontzi - <b>Arin latin</b> (Fandango & Arin Arin)</h3>

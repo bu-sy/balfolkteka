@@ -1,7 +1,5 @@
 # Planchée (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Planchée - <b>Club IIB (maraîchine)</b> (Maraîchine)</h3>

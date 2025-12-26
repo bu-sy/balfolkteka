@@ -1,7 +1,5 @@
 # Kreiz Breizh Akademi (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Kreiz Breizh Akademi - <b>La Calha</b> (Bourrée 3 temps)</h3>

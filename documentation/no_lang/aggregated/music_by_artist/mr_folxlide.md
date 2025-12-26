@@ -1,7 +1,5 @@
 # Mr. Folxlide (7)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Mr. Folxlide - <b>Come to Sleep - Mazurka</b> (Mazurka)</h3>

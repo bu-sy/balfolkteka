@@ -1,7 +1,5 @@
 # Hartwin (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Hartwin - <b>Heartbeat - Hanterdro</b> (Hanter Dro)</h3>

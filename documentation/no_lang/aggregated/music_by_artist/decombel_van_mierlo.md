@@ -1,7 +1,5 @@
 # Decombel - Van Mierlo (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Decombel - Van Mierlo - <b>Kom Hem</b> (Gavotte de l'Aven)</h3>

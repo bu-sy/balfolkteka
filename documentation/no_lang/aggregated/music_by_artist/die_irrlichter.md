@@ -1,7 +1,5 @@
 # Die Irrlichter (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Die Irrlichter - <b>Bourré Abière</b> (Bourrée 2 temps)</h3>

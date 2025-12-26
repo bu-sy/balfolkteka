@@ -1,7 +1,5 @@
 # Dos (8)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Dos - <b>Adalimú (Bourrée a 3 Tiempos)</b> (Bourrée 3 temps)</h3>

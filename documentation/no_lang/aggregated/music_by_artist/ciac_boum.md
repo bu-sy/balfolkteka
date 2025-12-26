@@ -1,7 +1,5 @@
 # Ciac Boum (5)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Ciac Boum - <b>BB</b> (Valse 5 temps)</h3>

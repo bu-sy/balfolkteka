@@ -1,7 +1,5 @@
 # Léon Peyrat (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Léon Peyrat - <b>Suite de bourrées: la Santarel</b> (Bourrée 3 temps)</h3>

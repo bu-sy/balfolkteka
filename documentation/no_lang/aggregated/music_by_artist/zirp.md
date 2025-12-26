@@ -1,7 +1,5 @@
 # Zirp (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Zirp - <b>El Vals</b> (Valse 3 temps)</h3>

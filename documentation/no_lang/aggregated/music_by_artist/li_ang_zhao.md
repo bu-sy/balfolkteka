@@ -1,7 +1,5 @@
 # Li'ang Zhao (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Cyrille Brotto, Groove Factory, Li'ang Zhao, Stéphane Milleret - <b>L'envers de la voix</b> (Gavotte de l'Aven)</h3>

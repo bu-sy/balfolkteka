@@ -1,7 +1,5 @@
 # Steve Baughman (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Steve Baughman - <b>Hanter Dro</b> (Hanter Dro)</h3>

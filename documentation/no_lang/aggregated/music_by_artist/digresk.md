@@ -1,7 +1,5 @@
 # Digresk (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Digresk - <b>Dislontegezh - Hanter dro</b> (Hanter Dro)</h3>

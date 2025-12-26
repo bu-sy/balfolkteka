@@ -1,7 +1,5 @@
 # Geronimo (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Geronimo - <b>The Grashopper</b> (Mazurka)</h3>

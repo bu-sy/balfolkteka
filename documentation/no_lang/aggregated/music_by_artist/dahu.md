@@ -1,7 +1,5 @@
 # Dahù (5)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Dahù - <b>3106</b> (Cercle Circassien)</h3>

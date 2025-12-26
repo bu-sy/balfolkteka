@@ -1,7 +1,5 @@
 # Ball Noir (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Ball Noir - <b>Last Day (Gavotte)</b> (Gavotte de l'Aven)</h3>

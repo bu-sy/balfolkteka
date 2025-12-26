@@ -1,7 +1,5 @@
 # Lolita Delmonteil-Ayral (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Lolita Delmonteil-Ayral - <b>Irène</b> (Mazurka)</h3>

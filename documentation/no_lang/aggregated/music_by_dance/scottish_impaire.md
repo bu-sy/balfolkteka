@@ -1,7 +1,5 @@
 ## scottish_impaire (7)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Adriano Sangineto - <b>Equinox</b></h3>

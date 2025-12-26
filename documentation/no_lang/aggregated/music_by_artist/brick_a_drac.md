@@ -1,7 +1,5 @@
 # Brick A Drac (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Brick A Drac - <b>Danse de l'ours</b> (Danse de l'Ours)</h3>

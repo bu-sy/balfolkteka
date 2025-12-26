@@ -1,7 +1,5 @@
 ## madison (1)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Electrad - <b>Laridé Monesque (Laridé à 8 temps/Madison)</b></h3>

@@ -1,7 +1,5 @@
 # Gipsy Kings (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Gipsy Kings - <b>Valse gitane</b> (Valse 3 temps)</h3>

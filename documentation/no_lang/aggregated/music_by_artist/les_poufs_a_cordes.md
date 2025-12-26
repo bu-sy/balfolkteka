@@ -1,7 +1,5 @@
 # Les Poufs à Cordes (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Les Poufs à Cordes - <b>Alcione / Albione</b> (Mazurka)</h3>

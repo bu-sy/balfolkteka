@@ -1,7 +1,5 @@
 # Komred (9)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Komred - <b>Bourrée de l'infernet</b> (Bourrée 3 temps)</h3>

@@ -1,7 +1,5 @@
 # Jean-Michel Veillon & Yvon Riou (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Jean-Michel Veillon & Yvon Riou - <b>Hanter Dro/A Pe Oen Me Yuvank/ E Souk Er Manné</b> (Hanter Dro)</h3>

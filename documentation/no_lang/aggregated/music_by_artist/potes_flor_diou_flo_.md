@@ -1,7 +1,5 @@
 # Potes Flor' (Diou Flo) (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Potes Flor' (Diou Flo) - <b>Hanter Dro</b> (Hanter Dro)</h3>

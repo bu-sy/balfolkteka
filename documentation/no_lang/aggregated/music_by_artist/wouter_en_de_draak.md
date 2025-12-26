@@ -1,7 +1,5 @@
 # Wouter en De Draak (14)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Wouter en De Draak - <b>Costa Gwad</b> (Kost ar c'hoad)</h3>

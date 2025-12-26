@@ -1,7 +1,5 @@
 # PásztorHóra (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>PásztorHóra - <b>Az Ördög Útja</b> (Drumul Dracului)</h3>

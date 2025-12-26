@@ -1,7 +1,5 @@
 # Tribu Cendra (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Tribu Cendra - <b>Variaciones ebrias</b> (Valse 3 temps)</h3>

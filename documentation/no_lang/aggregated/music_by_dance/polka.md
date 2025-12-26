@@ -1,7 +1,5 @@
 ## polka (45)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Abdelati El Boussehabi, Anne-Lise Foy, Benoit Mager, Gabriel Fernadez, Leonore Grollemund, Patrick Bouffard, Stephane Robert - <b>Polka De L'anglard</b></h3>

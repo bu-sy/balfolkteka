@@ -1,7 +1,5 @@
 # Guilhem Boucher (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Bastien Fontanille, Carlos Valverde, Christian Mage, Guilhem Boucher, João Arruda - <b>N Ai Cinc Sòs a La Pòcha</b> (Bourrée 3 temps)</h3>

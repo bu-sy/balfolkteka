@@ -1,7 +1,5 @@
 # Bougnat Sound (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Bougnat Sound - <b>La cabrette - Ma maïre</b> (Bourrée 3 temps)</h3>

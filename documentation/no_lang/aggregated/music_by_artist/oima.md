@@ -1,7 +1,5 @@
 # Oîma (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Oîma - <b>Xirar Hei!</b> (Valse 5 temps)</h3>

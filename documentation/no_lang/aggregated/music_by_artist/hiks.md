@@ -1,7 +1,5 @@
 # Hiks (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Hiks, Jorj Belz - <b>Amzer vremañ kevrennek (Hanter dro)</b> (Hanter Dro)</h3>

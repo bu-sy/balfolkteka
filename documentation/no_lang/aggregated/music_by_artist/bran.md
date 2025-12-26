@@ -1,7 +1,5 @@
 # Bran (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Bran - <b>An dro</b> (An Dro)</h3>

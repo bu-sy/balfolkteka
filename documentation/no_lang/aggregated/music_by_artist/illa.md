@@ -1,7 +1,5 @@
 # Illa (5)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Illa - <b>De verre et de bois / Cardinal monkey</b> (Chapelloise)</h3>

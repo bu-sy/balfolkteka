@@ -1,7 +1,5 @@
 # Petit Piment (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Petit Piment - <b>Bourrée du dromadaire - Les oeufs de Magritte</b> (Bourrée 2 temps)</h3>

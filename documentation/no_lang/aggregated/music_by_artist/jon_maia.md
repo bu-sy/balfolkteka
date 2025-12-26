@@ -1,7 +1,5 @@
 # Jon Maia (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Jon Maia, Korrontzi - <b>Iraun (ft. Jon Maia)</b> (Valse 3 temps)</h3>

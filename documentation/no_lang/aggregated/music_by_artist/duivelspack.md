@@ -1,7 +1,5 @@
 # Duivelspack (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Duivelspack - <b>Chapelloise (feat. Das Niveau & Anette Gebauer)</b> (Chapelloise)</h3>

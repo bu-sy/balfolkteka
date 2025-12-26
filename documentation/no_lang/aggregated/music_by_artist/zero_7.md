@@ -1,7 +1,5 @@
 # Zero 7 (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Zero 7 - <b>Look Up</b> (Valse 8 temps)</h3>

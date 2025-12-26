@@ -1,7 +1,5 @@
 # Renaud Hibon (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Jérémie Congrega, Renaud Hibon - <b>La Pacheloise</b> (Chapelloise)</h3>

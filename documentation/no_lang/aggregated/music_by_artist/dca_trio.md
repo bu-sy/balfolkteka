@@ -1,7 +1,5 @@
 # DCA Trio (2)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>DCA Trio - <b>La caille, La Calha, Crosada d'Alpuech</b> (Bourrée 3 temps)</h3>

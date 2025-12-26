@@ -1,7 +1,5 @@
 # Pennoù Skoulm (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Pennoù Skoulm - <b>Troioù Ha Hanter</b> (Hanter Dro)</h3>

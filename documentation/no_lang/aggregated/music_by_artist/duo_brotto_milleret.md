@@ -1,7 +1,5 @@
 # Duo Brotto Milleret (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Duo Brotto Milleret - <b>Ivoirine</b> (Gavotte de l'Aven)</h3>

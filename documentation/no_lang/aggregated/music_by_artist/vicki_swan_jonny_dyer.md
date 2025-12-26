@@ -1,7 +1,5 @@
 # Vicki Swan & Jonny Dyer (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Vicki Swan & Jonny Dyer - <b>Driving Home Chapelloise</b> (Chapelloise)</h3>

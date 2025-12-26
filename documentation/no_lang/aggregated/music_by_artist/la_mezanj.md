@@ -1,7 +1,5 @@
 # La Mézanj (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>La Mézanj - <b>Marionnette</b> (Hanter Dro)</h3>

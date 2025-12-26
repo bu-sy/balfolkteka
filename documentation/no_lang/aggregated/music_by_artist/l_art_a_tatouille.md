@@ -1,7 +1,5 @@
 # L'Art À Tatouille (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>L'Art À Tatouille - <b>La danse de l'ours</b> (Danse de l'Ours)</h3>

@@ -1,7 +1,5 @@
 # Bal O'Gadjo (7)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Bal O'Gadjo - <b>Bourrée au ouzo</b> (Bourrée 2 temps)</h3>

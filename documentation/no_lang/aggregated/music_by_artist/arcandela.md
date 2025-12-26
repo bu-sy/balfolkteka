@@ -1,7 +1,5 @@
 # Arcandela (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Arcandela - <b>De Montford (bourrée)</b> (Bourrée 2 temps)</h3>

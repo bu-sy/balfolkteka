@@ -1,7 +1,5 @@
 # Celtik'raic (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Celtik'raic - <b>La valse des craiks</b> (Valse 3 temps)</h3>

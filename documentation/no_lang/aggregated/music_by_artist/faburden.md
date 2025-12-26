@@ -1,7 +1,5 @@
 # Faburden (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Faburden - <b>Bourrée du Berry / Bourrée de sauvetage</b> (Bourrée 3 temps)</h3>

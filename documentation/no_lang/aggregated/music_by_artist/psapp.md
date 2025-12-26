@@ -1,7 +1,5 @@
 # Psapp (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Psapp - <b>Glove</b> (Valse 8 temps)</h3>

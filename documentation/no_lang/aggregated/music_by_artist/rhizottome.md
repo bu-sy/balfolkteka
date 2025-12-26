@@ -1,7 +1,5 @@
 # rhizottome (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>rhizottome - <b>Lisière</b> (Kost ar c'hoad)</h3>

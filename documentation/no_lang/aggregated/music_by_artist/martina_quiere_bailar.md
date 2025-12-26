@@ -1,7 +1,5 @@
 # Martina Quiere Bailar (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Martina Quiere Bailar - <b>La Guarida Arin-Arin</b> (Fandango & Arin Arin)</h3>

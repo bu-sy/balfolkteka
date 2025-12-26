@@ -1,7 +1,5 @@
 # Toc de Crida (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Toc de Crida - <b>Vals d'aigua</b> (Valse 3 temps)</h3>

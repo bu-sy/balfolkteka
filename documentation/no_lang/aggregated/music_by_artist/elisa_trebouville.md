@@ -1,7 +1,5 @@
 # Élisa Trebouville (4)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Marthe Tourret, Élisa Trebouville - <b>Lo chapel de palha, Delai lo ribatel / Bourrées</b> (Bourrée 3 temps)</h3>

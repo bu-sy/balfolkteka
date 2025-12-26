@@ -1,7 +1,5 @@
 ## rond_de_landeda (6)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Bernard Loffet - <b>Rond de Landéda</b></h3>

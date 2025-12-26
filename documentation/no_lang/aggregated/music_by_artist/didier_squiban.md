@@ -1,7 +1,5 @@
 # Didier Squiban (5)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Didier Squiban, Yann-Fañch Kemener - <b>An dro</b> (An Dro)</h3>

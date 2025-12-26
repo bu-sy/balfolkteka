@@ -1,7 +1,5 @@
 ## dans_keff (3)
 
-[<=====](../music_by_dance.md)
-
 <hr>
 
 <h3>Bagad de Vannes - <b>Keff</b></h3>

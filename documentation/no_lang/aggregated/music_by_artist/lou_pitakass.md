@@ -1,7 +1,5 @@
 # Lou Pitakass (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Lou Pitakass - <b>La crous de la montanha + pita lou bosc</b> (Bourrée 2 temps)</h3>

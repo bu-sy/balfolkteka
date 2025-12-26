@@ -1,7 +1,5 @@
 # Tournesol (3)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Tournesol - <b>Les souliers bleus: Ma Jeanne</b> (Bourrée 3 temps)</h3>

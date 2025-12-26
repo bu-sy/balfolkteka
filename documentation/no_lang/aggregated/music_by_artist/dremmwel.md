@@ -1,7 +1,5 @@
 # Dremmwel (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Dremmwel - <b>Hanter inconnues</b> (Hanter Dro)</h3>

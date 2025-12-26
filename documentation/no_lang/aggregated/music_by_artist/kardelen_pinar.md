@@ -1,7 +1,5 @@
 # Kardelen Pınar (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Deli Reçel, Kaan Sancakar, Kardelen Pınar - <b>Bosnian Scottish Impaire</b> (Scottish impaire)</h3>

@@ -1,7 +1,5 @@
 # Sun and Moon Dance (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Sun and Moon Dance - <b>Savitaipaleen polkka</b> (Polka)</h3>

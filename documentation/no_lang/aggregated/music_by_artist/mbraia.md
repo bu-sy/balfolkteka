@@ -1,7 +1,5 @@
 # Mbraia (1)
 
-[<=====](../music_by_artist.md)
-
 <hr>
 
 <h3>Mbraia - <b>Passat Deman</b> (Bourrée 3 temps)</h3>

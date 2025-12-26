@@ -122,11 +122,52 @@ def render_dance(loaded_dance, loaded_translation, all_dances, directory_structu
         ]
 
         lines.append(secondary_header(loaded_translation.get_keyword('tracks') + f" ({len(not_blacklisted_tracks)})"))
-        lines.extend(
-            music_collapsible_section(track_record, False) for track_record in not_blacklisted_tracks
-        )
+        # lines.extend(
+        #     music_collapsible_section(track_record, False) for track_record in not_blacklisted_tracks
+        # )
+        lines.append(link(
+            loaded_translation.get_page_name('music_for_dance'),
+            directory_structure.get_music_by_dance(loaded_dance, relative_to=directory_structure.get_dance_file_path(loaded_dance))
+        ))
 
     write_file('\n\n'.join(lines), directory_structure.get_dance_file_path(loaded_dance))
+
+def render_music_by_dance(all_dances, directory_structure):
+    number_of_tracks = {}
+
+    for loaded_dance in all_dances:
+        lines = []
+
+        if loaded_music := loaded_dance.get_music_links():
+            not_blacklisted_tracks = [
+                track_record for track_record in loaded_music if not track_record.blacklist
+            ]
+
+            number_of_tracks[loaded_dance.get('id')] = len(not_blacklisted_tracks)
+            current_file = directory_structure.get_music_by_dance(loaded_dance)
+            lines.append(secondary_header(loaded_dance.get('id') + f" ({len(not_blacklisted_tracks)})"))
+            lines.append(link(
+                '<=====', directory_structure.get_aggregated_music_by_dance(
+                    relative_to=current_file
+                )
+            ))
+            lines.extend(
+                music_collapsible_section(track_record, False) for track_record in not_blacklisted_tracks
+            )
+        write_file(
+            "\n\n".join(lines), current_file
+        )
+
+    current_file = directory_structure.get_aggregated_music_by_dance()
+    write_file(
+        "\n\n".join([
+            link(f"{dance.get('name')} ({number_of_tracks[dance.get('id')]})", directory_structure.get_music_by_dance(
+                dance,
+                relative_to=current_file)
+             ) for dance in sorted(all_dances, key=lambda x: x.get('id'))
+        ]),
+        current_file
+    )
 
 def render_aggregated_dances(all_dances, loaded_translation, directory_structure):
     def dance_line(dance_obj):
@@ -218,6 +259,10 @@ def render_home_page(loaded_translation, directory_structure):
         link(
             loaded_translation.get_page_name('list_of_music_by_artist'),
             directory_structure.get_aggregated_music_by_artist(directory_structure.get_home_page_path())
+        ),
+        link(
+            loaded_translation.get_page_name('list_of_music_by_dance'),
+            directory_structure.get_aggregated_music_by_dance(directory_structure.get_home_page_path())
         )
         ]),
         directory_structure.get_home_page_path()

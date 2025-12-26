@@ -1,7 +1,7 @@
 import os
 import yaml
 import glob
-from renderer import render_dance, render_aggregated_dances, render_home_page, render_aggregated_music, render_music_by_artist
+from renderer import render_dance, render_aggregated_dances, render_home_page, render_aggregated_music, render_music_by_artist, render_music_by_dance
 from unidecode import unidecode
 import re
 
@@ -123,6 +123,7 @@ class DirectoryStructure(object):
         self.global_path = os.path.join(self.documentations_path, 'no_lang')
         self.global_aggregated = os.path.join(self.global_path, 'aggregated')
         self.music_by_artist_directory = os.path.join(self.global_aggregated, 'music_by_artist')
+        self.music_by_dance_directory = os.path.join(self.global_aggregated, 'music_by_dance')
 
     def _get_path(self, full_path, relative_to=None):
         if not relative_to:
@@ -140,7 +141,8 @@ class DirectoryStructure(object):
         return [
             self.global_path,
             self.global_aggregated,
-            self.music_by_artist_directory
+            self.music_by_artist_directory,
+            self.music_by_dance_directory
         ]
 
     def get_aggregated_music_path(self, relative_to=None):
@@ -149,11 +151,18 @@ class DirectoryStructure(object):
     def get_aggregated_music_by_artist(self, relative_to=None):
         return self._get_path(os.path.join(self.global_aggregated, 'music_by_artist.md'), relative_to)
 
+    def get_aggregated_music_by_dance(self, relative_to=None):
+        return self._get_path(os.path.join(self.global_aggregated, 'music_by_dance.md'), relative_to)
+
     def get_music_by_artist(self, artist, relative_to=None):
         file_name = re.sub(r'\W+', '_', unidecode(artist.lower()))
         if file_name.startswith('_'):
             file_name = '0' + file_name
         return self._get_path(os.path.join(self.music_by_artist_directory, f"{file_name}.md"), relative_to)
+
+    def get_music_by_dance(self, dance, relative_to=None):
+        file_name = dance.get('id')
+        return self._get_path(os.path.join(self.music_by_dance_directory, f"{file_name}.md"), relative_to)
 
 class DirectoryStructureForTranslation(DirectoryStructure):
     def __init__(self, translation):
@@ -206,6 +215,7 @@ for directory_to_create in directoryStructure.get_directories_to_create():
 
 render_aggregated_music(all_music, directoryStructure)
 render_music_by_artist(all_music, directoryStructure)
+render_music_by_dance(all_dances, directoryStructure)
 
 for translation in all_translations:
     print(f"Processing translation {translation.name}")

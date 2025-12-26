@@ -3,3 +3,5 @@
 [Lista wszystkich utworów](../no_lang/aggregated/aggregated_music.md)
 
 [Muzyka pogrupowana po artystach](../no_lang/aggregated/music_by_artist.md)
+
+[Muzyka pogrupowana po tańcach](../no_lang/aggregated/music_by_dance.md)

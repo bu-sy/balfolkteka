@@ -162,6 +162,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5j76us7ezEHiSBACzauluu
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=JCF3Qlsg6wQ
     from_playlist:
     - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
   - artist: Bargainatt
@@ -169,6 +171,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2Q42w832knkxli5nBPG8ki
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=WTexgcpayR4
     from_playlist:
     - https://open.spotify.com/playlist/3O3LLHaUatVsLeC9ElJnj3
     - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
@@ -213,6 +217,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/22LGNpuo0AvGA0XhfaMH3D
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=BihjVp4yw-0
     from_playlist:
     - https://open.spotify.com/playlist/3O3LLHaUatVsLeC9ElJnj3
   - artist: Boubacar Souleymane, Le Bour Bodros
@@ -253,11 +259,14 @@ links:
       link: https://open.spotify.com/track/2z3YJyaW4x8RnkJNcHFaaR
     from_playlist:
     - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
+    no_youtube_link: true
   - artist: Cardboard Cabin
     track_name: Jus d'Orage
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6By4iGXi0zsrI750GEJ0sm
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=5clkQ0DL8-o
     from_playlist:
     - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
   - artist: Cardboard Cabin
@@ -265,6 +274,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3A4Wq25s7Q0Et8CZEl6zjh
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=F5QZ7iAV7rY
     from_playlist:
     - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
   - artist: Carré Manchot
@@ -433,6 +444,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2pcx6Tqal328p6SFxNNZsp
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=hR8RoI61ks4
     from_playlist:
     - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
   - artist: Esquisse
@@ -556,6 +569,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0Izu6QBMdhjDp36MtYn0sM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ekPtM2W6TII
     from_playlist:
     - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
   - artist: Illa
@@ -601,6 +616,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3DBupDUydAcCpwxGmcot0v
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=F3Gn71j6OtA
     from_playlist:
     - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
     - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
@@ -786,6 +803,8 @@ links:
       link: https://open.spotify.com/track/01GJMno5KGfOKGtMgYqaVf
     - portal: Spotify
       link: https://open.spotify.com/track/1d9DcVuAzvFsBMGhMcwNyO
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=t9A3Gqhr7sw
     from_playlist:
     - https://open.spotify.com/playlist/3O3LLHaUatVsLeC9ElJnj3
     - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
@@ -804,6 +823,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6wQWNiA2V27QYdmrvfLnMZ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=eSLjz20h4LU
     from_playlist:
     - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
   - artist: Ormuz
@@ -811,6 +832,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/59utGGIcdBLq3y5yNowFAx
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=LG6NLPZXRzo
     from_playlist:
     - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
   - artist: Patrick Molard
@@ -838,6 +861,7 @@ links:
       link: https://open.spotify.com/track/5MYqgTWAduE0U4UCJL5QdS
     from_playlist:
     - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
+    no_youtube_link: true
   - artist: Plantec
     track_name: Arnod (Hanter dro)
     links:
@@ -890,6 +914,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1s2Sc27xpDQ4A0oBpNPwJF
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=BT-zWrUrPiM
     from_playlist:
     - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
   - artist: Sonerien Du
@@ -942,6 +968,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2XM3F14LEGywzL5h4U1em8
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=d7O8Vatyu0g
     from_playlist:
     - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
   - artist: Sterne
@@ -999,6 +1027,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4NrwdiLb8Yn6XSf5YAryuz
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=OW3WEwNqSjA
     from_playlist:
     - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
   - artist: Trio Forj
@@ -1015,6 +1045,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3QcFNAzKFDxUZAF4zGHlHe
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ajwypM-2AT4
     from_playlist:
     - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
   - artist: Trouzerion
@@ -1083,6 +1115,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/74wtiCDaHaoeBfJVtqO5kg
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=kYtPVFNI3vk
     from_playlist:
     - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
   - artist: ZLABYA
@@ -1090,6 +1124,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1nwTP1XRSJPLhuCJu0D6wx
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=jXB6epuvPmc
     from_playlist:
     - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
   - artist: Zef
@@ -1097,5 +1133,7 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1UUq0sxWoasAxchv4Wy3xG
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Szd6PVTjL4o
     from_playlist:
     - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1

@@ -87,10 +87,12 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5JSsRQ0tGeOnxJkGJOA7BK
+    - portal: Soundcloud
+      link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A887672029&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: AedO
     track_name: Bouquet bloumé
     links:
@@ -107,9 +109,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4zYBDsPapG226RQN5TNkS5
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=J_nNmluWPhA
     from_playlist:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
-    no_youtube_link: true
   - artist: Airboxes
     track_name: Bourrée S'y D'dans - Troyes
     links:
@@ -426,7 +429,7 @@ links:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Beat Bouet Trio
     track_name: Naoned
     links:
@@ -434,7 +437,7 @@ links:
       link: https://open.spotify.com/track/0Ivn30HQdt6zWHYJrfHxVr
     from_playlist:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Benoît Michaud, Zabou Guérin
     track_name: Y a Moy1
     links:
@@ -578,11 +581,12 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4XJH516cLAwPH38ip65BXy
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=TPj4tSlGsew
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
-    no_youtube_link: true
   - artist: Decibal
     track_name: La belle Sylvie
     links:
@@ -800,7 +804,7 @@ links:
       link: https://open.spotify.com/track/531p152liKU87iNmb6rNAy
     from_playlist:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Faburden
     track_name: Bourrée du Bonhomme de neige / Bourrée de Carbon Blanc
     links:
@@ -1093,7 +1097,7 @@ links:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Kitus
     track_name: La belle Monique / Daguerre
     links:
@@ -1102,7 +1106,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Kitus
     track_name: Marsillat / Carré de l'hypothénuse
     links:
@@ -1110,7 +1114,7 @@ links:
       link: https://open.spotify.com/track/17FUmDIC22f1NsAEvGXSvD
     from_playlist:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Kitus
     track_name: Rossignol / Le Lierre
     links:
@@ -1120,7 +1124,7 @@ links:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Komred
     track_name: Le chalon de l'âne - Le breuil qui penche - Damon et Henriette
     links:
@@ -1196,9 +1200,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1njFF7uTKldwEhsWpKZkZW
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=XXzlyUD1CYQ
     from_playlist:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
-    no_youtube_link: true
   - artist: La Sauterelle
     track_name: Derriere chez mon Pere
     links:
@@ -1273,21 +1278,25 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6HoPEtStK3Cn4FaOMABLr4
+    - portal: Soundcloud
+      link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A664301105&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Le bal de l'éphémère
     track_name: L'élan
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5GJCD4Jt4DMHt7t1cVqMaB
+    - portal: Soundcloud
+      link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A664301093&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Le bal de l'éphémère
     track_name: Sortez tous
     links:
@@ -1560,12 +1569,13 @@ links:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
   - artist: Naragonia Quartet
     track_name: Naya - Castor - Instrumental
+    blacklist: true #Duplicate
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7LHgSfuhbUMZYRXc5fCxZI
     from_playlist:
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Naragonia, Naragonia Quartet
     track_name: Gij Met Mij
     links:
@@ -1600,10 +1610,11 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5IOQkgVxDdYipx9zJouiok
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=GIjXeA_YIr4
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
-    no_youtube_link: true
   - artist: Nigel Eaton
     track_name: Three Sharks
     links:
@@ -1831,9 +1842,11 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4K77jgmzcPIs9QrbP1t6Tc
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=2708288289/size=small/bgcol=ffffff/linkcol=0687f5/track=1175488746/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Rémi Geffroy
     track_name: Dansarem (bourrées 2 temps)
     links:
@@ -1895,19 +1908,21 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0DbJyJlwVcSk23ef6wbs48
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=BlIumIieGzg
     from_playlist:
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
-    no_youtube_link: true
   - artist: Shillelagh
     track_name: Bourrée de jenzat / Venosc
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4GN0SeMRBk4B23YJaXuRcZ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Xq2zvrLaW6w
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
-    no_youtube_link: true
   - artist: Snaarmaarwaar
     track_name: Montserrat
     links:
@@ -1966,12 +1981,13 @@ links:
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
   - artist: Stefano Baldan
     track_name: Impazienza
+    blacklist: true #Unavailable on Spotify
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2d3JuTq50TzQhyuNjrRtPn
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Stevan Vincendeau, Willy Pichard
     track_name: Marignolle - Illham - L'écho (bourrée 2 temps)
     links:
@@ -2220,11 +2236,12 @@ links:
   - artist: Zayendo
     track_name: Los Capuchinus
     links:
-    - portal: Spotify
+    - portal: Spotify #Unavailable on spotify
       link: https://open.spotify.com/track/7lrPqD3a8xlxzfZuWZuDa3
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=w3fNvDkDo4A
     from_playlist:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
-    no_youtube_link: true
   - artist: Zef
     track_name: Bachelier
     links:
@@ -2240,10 +2257,11 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2QpDwV0XkgLQcpTgRvvRsr
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=SYUj8Xn_DOo
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
-    no_youtube_link: true
   - artist: Zef
     track_name: Kerleguer-Vinca
     links:

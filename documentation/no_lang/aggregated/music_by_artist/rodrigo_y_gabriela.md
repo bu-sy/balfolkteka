@@ -19,6 +19,11 @@
 <h3>Rodrigo y Gabriela - <b>Tamacun - Remastered</b> (Bourrée 2 temps)</h3>
 
 <details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2708288289/size=small/bgcol=ffffff/linkcol=0687f5/track=1175488746/transparent=true/" seamless></iframe>
+</details>
+
+<details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4K77jgmzcPIs9QrbP1t6Tc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>

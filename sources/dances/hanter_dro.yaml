@@ -257,9 +257,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2z3YJyaW4x8RnkJNcHFaaR
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=aRNgjOEjOQM
     from_playlist:
     - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
-    no_youtube_link: true
   - artist: Cardboard Cabin
     track_name: Jus d'Orage
     links:
@@ -856,12 +857,13 @@ links:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
   - artist: Peut-être Jeanne
     track_name: Les p'tites frites
+    blacklist: true
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5MYqgTWAduE0U4UCJL5QdS
     from_playlist:
     - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Plantec
     track_name: Arnod (Hanter dro)
     links:

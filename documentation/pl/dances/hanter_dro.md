@@ -22,6 +22,6 @@
 
 <br>
 
-## Utwory (117)
+## Utwory (116)
 
 [Utwory do tańca](../../no_lang/aggregated/music_by_dance/hanter_dro.md)

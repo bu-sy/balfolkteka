@@ -377,6 +377,11 @@
 <h3>27. Adolfo Osta - <b>Last chance bourree</b> (Bourrée 2 temps)</h3>
 
 <details>
+<summary><big>Soundcloud</big></summary>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A887672029&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" loading="lazy"></iframe>
+</details>
+
+<details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5JSsRQ0tGeOnxJkGJOA7BK?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
@@ -411,6 +416,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4zYBDsPapG226RQN5TNkS5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/J_nNmluWPhA?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -3489,6 +3499,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2z3YJyaW4x8RnkJNcHFaaR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/aRNgjOEjOQM?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>250. Cadène, Camille Raibaud, Julien Barbances, Sylvain Quéré, Tiennet Simonnin, Tradethik Productions - <b>La gaillacoise - Rue de la loge</b> (Bourrée 2 temps)</h3>
@@ -4669,6 +4684,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4XJH516cLAwPH38ip65BXy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/TPj4tSlGsew?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -10521,6 +10541,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1njFF7uTKldwEhsWpKZkZW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/XXzlyUD1CYQ?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>753. La Sauterelle - <b>A nos amis</b> (Cercle Circassien)</h3>
@@ -10736,6 +10761,11 @@
 <h3>768. Le bal de l'éphémère - <b>Bourrées de Marrakech</b> (Bourrée 2 temps)</h3>
 
 <details>
+<summary><big>Soundcloud</big></summary>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A664301105&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" loading="lazy"></iframe>
+</details>
+
+<details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6HoPEtStK3Cn4FaOMABLr4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
@@ -10771,6 +10801,11 @@
 <hr>
 
 <h3>771. Le bal de l'éphémère - <b>L'élan</b> (Bourrée 2 temps)</h3>
+
+<details>
+<summary><big>Soundcloud</big></summary>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A664301093&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" loading="lazy"></iframe>
+</details>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -12653,6 +12688,11 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2Yi0x4XCPbmErwbbz8HZwQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Zs4plD26b-M?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
 <h3>906. Mineur Swing, Yann Dour - <b>Hanter-dro</b> (Hanter Dro)</h3>
@@ -13408,16 +13448,7 @@
 
 <hr>
 
-<h3>958. Naragonia Quartet - <b>Naya - Castor - Instrumental</b> (Bourrée 2 temps)</h3>
-
-<details>
-<summary><big>Spotify</big></summary>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7LHgSfuhbUMZYRXc5fCxZI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</details>
-
-<hr>
-
-<h3>959. Naragonia Quartet - <b>The Lilly Ponds</b> (Mazurka)</h3>
+<h3>958. Naragonia Quartet - <b>The Lilly Ponds</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13431,7 +13462,7 @@
 
 <hr>
 
-<h3>960. Naragonia Quartet - <b>Wals Voor Lynn</b> (Valse 3 temps)</h3>
+<h3>959. Naragonia Quartet - <b>Wals Voor Lynn</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13445,7 +13476,7 @@
 
 <hr>
 
-<h3>961. Naragonia, Naragonia Quartet - <b>Angiolino - Valzer di Monticello</b> (Valse 3 temps)</h3>
+<h3>960. Naragonia, Naragonia Quartet - <b>Angiolino - Valzer di Monticello</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13459,7 +13490,7 @@
 
 <hr>
 
-<h3>962. Naragonia, Naragonia Quartet - <b>Batiska</b> (Valse 3 temps)</h3>
+<h3>961. Naragonia, Naragonia Quartet - <b>Batiska</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13473,7 +13504,7 @@
 
 <hr>
 
-<h3>963. Naragonia, Naragonia Quartet - <b>De Glind / The Fernhillfriends / An Dro de Vogüé</b> (An Dro)</h3>
+<h3>962. Naragonia, Naragonia Quartet - <b>De Glind / The Fernhillfriends / An Dro de Vogüé</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13487,7 +13518,7 @@
 
 <hr>
 
-<h3>964. Naragonia, Naragonia Quartet - <b>Gij Met Mij</b> (Bourrée 2 temps)</h3>
+<h3>963. Naragonia, Naragonia Quartet - <b>Gij Met Mij</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13501,7 +13532,7 @@
 
 <hr>
 
-<h3>965. Naragonia, Naragonia Quartet - <b>Hekske - De dieven</b> (An Dro)</h3>
+<h3>964. Naragonia, Naragonia Quartet - <b>Hekske - De dieven</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13515,7 +13546,7 @@
 
 <hr>
 
-<h3>966. Naragonia, Naragonia Quartet - <b>Hellebore / Too Late to Sleep</b> (Scottish)</h3>
+<h3>965. Naragonia, Naragonia Quartet - <b>Hellebore / Too Late to Sleep</b> (Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13529,7 +13560,7 @@
 
 <hr>
 
-<h3>967. Naragonia, Naragonia Quartet - <b>Lilac / Dave the Watchman</b> (Hanter Dro)</h3>
+<h3>966. Naragonia, Naragonia Quartet - <b>Lilac / Dave the Watchman</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13543,7 +13574,7 @@
 
 <hr>
 
-<h3>968. Naragonia, Naragonia Quartet - <b>Naya - Castor</b> (Bourrée 2 temps)</h3>
+<h3>967. Naragonia, Naragonia Quartet - <b>Naya - Castor</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13557,7 +13588,7 @@
 
 <hr>
 
-<h3>969. Naragonia, Naragonia Quartet - <b>The Lilly Ponds</b> (Mazurka)</h3>
+<h3>968. Naragonia, Naragonia Quartet - <b>The Lilly Ponds</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13571,7 +13602,7 @@
 
 <hr>
 
-<h3>970. Naragonia, Naragonia Quartet - <b>The Naked Welcome / Chimneystork</b> (Bourrée 3 temps)</h3>
+<h3>969. Naragonia, Naragonia Quartet - <b>The Naked Welcome / Chimneystork</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13585,7 +13616,7 @@
 
 <hr>
 
-<h3>971. Naragonia, Naragonia Quartet - <b>Yowjef</b> (Bourrée 2 temps)</h3>
+<h3>970. Naragonia, Naragonia Quartet - <b>Yowjef</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13599,16 +13630,21 @@
 
 <hr>
 
-<h3>972. Naragonia, Naragonia Quartet - <b>Zebra / Julian</b> (Bourrée 2 temps)</h3>
+<h3>971. Naragonia, Naragonia Quartet - <b>Zebra / Julian</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5IOQkgVxDdYipx9zJouiok?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/GIjXeA_YIr4?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
-<h3>973. Navarra - <b>I ett annat land</b> (An Dro)</h3>
+<h3>972. Navarra - <b>I ett annat land</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13622,7 +13658,7 @@
 
 <hr>
 
-<h3>974. Nigel Eaton - <b>Curlew</b> (Bourrée 3 temps)</h3>
+<h3>973. Nigel Eaton - <b>Curlew</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13636,7 +13672,7 @@
 
 <hr>
 
-<h3>975. Nigel Eaton - <b>The Metric Jig / The Imperial Jig</b> (Chapelloise)</h3>
+<h3>974. Nigel Eaton - <b>The Metric Jig / The Imperial Jig</b> (Chapelloise)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13650,7 +13686,7 @@
 
 <hr>
 
-<h3>976. Nigel Eaton - <b>Three Sharks</b> (Bourrée 2 temps)</h3>
+<h3>975. Nigel Eaton - <b>Three Sharks</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13664,7 +13700,7 @@
 
 <hr>
 
-<h3>977. NIJ - <b>Chaldéné - Hanter-Dro</b> (Hanter Dro)</h3>
+<h3>976. NIJ - <b>Chaldéné - Hanter-Dro</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13678,7 +13714,7 @@
 
 <hr>
 
-<h3>978. NIJ - <b>Ersa - Valse À 5 Temps</b> (Valse 5 temps)</h3>
+<h3>977. NIJ - <b>Ersa - Valse À 5 Temps</b> (Valse 5 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13692,7 +13728,7 @@
 
 <hr>
 
-<h3>979. NIJ - <b>Pandia - Bourrée À 2 Temps</b> (Bourrée 2 temps)</h3>
+<h3>978. NIJ - <b>Pandia - Bourrée À 2 Temps</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13706,7 +13742,7 @@
 
 <hr>
 
-<h3>980. NIJ - <b>Pasiphaé - Chapelloise</b> (Chapelloise)</h3>
+<h3>979. NIJ - <b>Pasiphaé - Chapelloise</b> (Chapelloise)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13720,7 +13756,7 @@
 
 <hr>
 
-<h3>981. Nina Nordvall Vahlberg - <b>Schottis Till Håge & Hans Vänner</b> (Scottish)</h3>
+<h3>980. Nina Nordvall Vahlberg - <b>Schottis Till Håge & Hans Vänner</b> (Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13734,7 +13770,7 @@
 
 <hr>
 
-<h3>982. Nisia, Virginia Maiorana - <b>Valse des voiles</b> (Valse 3 temps)</h3>
+<h3>981. Nisia, Virginia Maiorana - <b>Valse des voiles</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13743,7 +13779,7 @@
 
 <hr>
 
-<h3>983. Noiranomis - <b>La rivière - Bourrée 2 temps</b> (Bourrée 2 temps)</h3>
+<h3>982. Noiranomis - <b>La rivière - Bourrée 2 temps</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13757,7 +13793,7 @@
 
 <hr>
 
-<h3>984. Nostrad - <b>Both sides the Tweed (Valse écossaise) - Live</b> (Valse 3 temps)</h3>
+<h3>983. Nostrad - <b>Both sides the Tweed (Valse écossaise) - Live</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13771,7 +13807,7 @@
 
 <hr>
 
-<h3>985. Nostrad - <b>Derrière chez nous & Bourrée d'Aurore Sand (Bourrée à 2 temps) - Live</b> (Bourrée 2 temps)</h3>
+<h3>984. Nostrad - <b>Derrière chez nous & Bourrée d'Aurore Sand (Bourrée à 2 temps) - Live</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13785,7 +13821,7 @@
 
 <hr>
 
-<h3>986. Nostrad - <b>En Dro - Live</b> (An Dro)</h3>
+<h3>985. Nostrad - <b>En Dro - Live</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13799,7 +13835,7 @@
 
 <hr>
 
-<h3>987. Nostrad - <b>La Sansonnette (Scottish) - Live</b> (Scottish)</h3>
+<h3>986. Nostrad - <b>La Sansonnette (Scottish) - Live</b> (Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13813,7 +13849,7 @@
 
 <hr>
 
-<h3>988. Nostrad - <b>Lundi Mardi danse & Sous la feuille du bois (Rond de Saint-Vincent) - Live</b> (Rond de Saint-Vincent)</h3>
+<h3>987. Nostrad - <b>Lundi Mardi danse & Sous la feuille du bois (Rond de Saint-Vincent) - Live</b> (Rond de Saint-Vincent)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13827,7 +13863,7 @@
 
 <hr>
 
-<h3>989. Nostrad - <b>Par dessus les Alpes (Mazurka) - Live</b> (Mazurka)</h3>
+<h3>988. Nostrad - <b>Par dessus les Alpes (Mazurka) - Live</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13841,7 +13877,7 @@
 
 <hr>
 
-<h3>990. Nostrad - <b>Rond de Landéda - Live</b> (Rond de Landéda)</h3>
+<h3>989. Nostrad - <b>Rond de Landéda - Live</b> (Rond de Landéda)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13855,7 +13891,7 @@
 
 <hr>
 
-<h3>991. Nostrad - <b>Valse du Milieu & Valse de Faucigny (Valse à 3 temps) - Live</b> (Valse 3 temps)</h3>
+<h3>990. Nostrad - <b>Valse du Milieu & Valse de Faucigny (Valse à 3 temps) - Live</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13869,7 +13905,7 @@
 
 <hr>
 
-<h3>992. NOU - <b>Bourrée trois temps</b> (Bourrée 3 temps)</h3>
+<h3>991. NOU - <b>Bourrée trois temps</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13883,7 +13919,7 @@
 
 <hr>
 
-<h3>993. NOU - <b>Maraichine</b> (Maraîchine)</h3>
+<h3>992. NOU - <b>Maraichine</b> (Maraîchine)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13897,7 +13933,7 @@
 
 <hr>
 
-<h3>994. NOU - <b>Polka</b> (Polka)</h3>
+<h3>993. NOU - <b>Polka</b> (Polka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13911,7 +13947,7 @@
 
 <hr>
 
-<h3>995. NOU - <b>Valse</b> (Valse 3 temps)</h3>
+<h3>994. NOU - <b>Valse</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13925,7 +13961,7 @@
 
 <hr>
 
-<h3>996. Novar - <b>A Kiss In Berlin / Novar</b> (Scottish)</h3>
+<h3>995. Novar - <b>A Kiss In Berlin / Novar</b> (Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13939,7 +13975,7 @@
 
 <hr>
 
-<h3>997. Novar - <b>Blue Ciel Belge / Cassie et PJ</b> (Valse 3 temps)</h3>
+<h3>996. Novar - <b>Blue Ciel Belge / Cassie et PJ</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13953,7 +13989,7 @@
 
 <hr>
 
-<h3>998. Novar - <b>Du Pop à Ars</b> (Bourrée 2 temps)</h3>
+<h3>997. Novar - <b>Du Pop à Ars</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13967,7 +14003,7 @@
 
 <hr>
 
-<h3>999. Novar - <b>La Descente au Moulin / Les Miroirs / Emerald</b> (Bourrée 2 temps)</h3>
+<h3>998. Novar - <b>La Descente au Moulin / Les Miroirs / Emerald</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13981,7 +14017,7 @@
 
 <hr>
 
-<h3>1000. Novar - <b>Mathijs In Den Aldi</b> (Chapelloise)</h3>
+<h3>999. Novar - <b>Mathijs In Den Aldi</b> (Chapelloise)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -13995,7 +14031,7 @@
 
 <hr>
 
-<h3>1001. Novar - <b>Ostal / Les Pinguins</b> (Bourrée 2 temps)</h3>
+<h3>1000. Novar - <b>Ostal / Les Pinguins</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14009,7 +14045,7 @@
 
 <hr>
 
-<h3>1002. Novar - <b>Rue Savaron / Chevêche / L'effraie Du Clocher</b> (Bourrée 2 temps)</h3>
+<h3>1001. Novar - <b>Rue Savaron / Chevêche / L'effraie Du Clocher</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14023,7 +14059,7 @@
 
 <hr>
 
-<h3>1003. Novar - <b>Sharky / Jom and Terry</b> (Bourrée 3 temps)</h3>
+<h3>1002. Novar - <b>Sharky / Jom and Terry</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14037,7 +14073,7 @@
 
 <hr>
 
-<h3>1004. Nubia - <b>Elin & Eugenie</b> (An Dro)</h3>
+<h3>1003. Nubia - <b>Elin & Eugenie</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14051,7 +14087,7 @@
 
 <hr>
 
-<h3>1005. Nubia - <b>Kom Hier</b> (Mazurka)</h3>
+<h3>1004. Nubia - <b>Kom Hier</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14065,7 +14101,7 @@
 
 <hr>
 
-<h3>1006. Nubia - <b>Lente in m'n Kop</b> (Bourrée 2 temps)</h3>
+<h3>1005. Nubia - <b>Lente in m'n Kop</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14079,7 +14115,7 @@
 
 <hr>
 
-<h3>1007. Nubia - <b>Midnight Mazurka</b> (Mazurka)</h3>
+<h3>1006. Nubia - <b>Midnight Mazurka</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14093,7 +14129,7 @@
 
 <hr>
 
-<h3>1008. Nubia - <b>Stilte voor de Storm</b> (Bourrée 2 temps)</h3>
+<h3>1007. Nubia - <b>Stilte voor de Storm</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14107,7 +14143,7 @@
 
 <hr>
 
-<h3>1009. Nubia - <b>Tranen voor Paulo</b> (Mazurka)</h3>
+<h3>1008. Nubia - <b>Tranen voor Paulo</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14121,7 +14157,7 @@
 
 <hr>
 
-<h3>1010. Obal - <b>Bourrée de montford (Bourrée a 2t)</b> (Bourrée 2 temps)</h3>
+<h3>1009. Obal - <b>Bourrée de montford (Bourrée a 2t)</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14135,7 +14171,7 @@
 
 <hr>
 
-<h3>1011. Oîma - <b>Xirar Hei!</b> (Valse 5 temps)</h3>
+<h3>1010. Oîma - <b>Xirar Hei!</b> (Valse 5 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14149,7 +14185,7 @@
 
 <hr>
 
-<h3>1012. Olof Kennemark, Pers Alexander Olsson - <b>Polska av Alexander Olsson</b> (Polska (rund polska))</h3>
+<h3>1011. Olof Kennemark, Pers Alexander Olsson - <b>Polska av Alexander Olsson</b> (Polska (rund polska))</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14163,7 +14199,7 @@
 
 <hr>
 
-<h3>1013. OMIRI - <b>Dentro da Matriz</b> (An Dro)</h3>
+<h3>1012. OMIRI - <b>Dentro da Matriz</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14177,7 +14213,7 @@
 
 <hr>
 
-<h3>1014. OMIRI - <b>O Segundo Repasseado</b> (Repasseado)</h3>
+<h3>1013. OMIRI - <b>O Segundo Repasseado</b> (Repasseado)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14196,7 +14232,7 @@
 
 <hr>
 
-<h3>1015. OMIRI - <b>Repasseado</b> (Repasseado)</h3>
+<h3>1014. OMIRI - <b>Repasseado</b> (Repasseado)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14215,7 +14251,7 @@
 
 <hr>
 
-<h3>1016. OMIRI - <b>Repasseado de S. Facundo</b> (Repasseado)</h3>
+<h3>1015. OMIRI - <b>Repasseado de S. Facundo</b> (Repasseado)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14229,16 +14265,21 @@
 
 <hr>
 
-<h3>1017. OMNIA - <b>An Dro</b> (An Dro)</h3>
+<h3>1016. OMNIA - <b>An Dro</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1Q8yDlER9fF8s4Vj9Wrl2h?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/a5sgu7PAB4Y?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
-<h3>1018. OMNIA - <b>Fee Ra Huri - Live</b> (Bourrée 2 temps)</h3>
+<h3>1017. OMNIA - <b>Fee Ra Huri - Live</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14252,7 +14293,7 @@
 
 <hr>
 
-<h3>1019. OMNIA - <b>Wolf an Dro</b> (An Dro)</h3>
+<h3>1018. OMNIA - <b>Wolf an Dro</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14266,7 +14307,7 @@
 
 <hr>
 
-<h3>1020. ORAJ - <b>Décharmée</b> (Mazurka)</h3>
+<h3>1019. ORAJ - <b>Décharmée</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14280,7 +14321,7 @@
 
 <hr>
 
-<h3>1021. ORAJ - <b>Feu</b> (An Dro)</h3>
+<h3>1020. ORAJ - <b>Feu</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14294,7 +14335,7 @@
 
 <hr>
 
-<h3>1022. ORAJ - <b>Pardon my french</b> (Bourrée 2 temps)</h3>
+<h3>1021. ORAJ - <b>Pardon my french</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14308,7 +14349,7 @@
 
 <hr>
 
-<h3>1023. ORAJ - <b>Père Soleil</b> (Bourrée 2 temps)</h3>
+<h3>1022. ORAJ - <b>Père Soleil</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14322,7 +14363,7 @@
 
 <hr>
 
-<h3>1024. ORAJ - <b>Turbo Fraise</b> (Bourrée 2 temps)</h3>
+<h3>1023. ORAJ - <b>Turbo Fraise</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14336,7 +14377,7 @@
 
 <hr>
 
-<h3>1025. ORAJ - <b>Unborn</b> (Valse 3 temps)</h3>
+<h3>1024. ORAJ - <b>Unborn</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14350,7 +14391,7 @@
 
 <hr>
 
-<h3>1026. Orfeo - <b>Night at the Campfire (Waltz)</b> (Valse 3 temps)</h3>
+<h3>1025. Orfeo - <b>Night at the Campfire (Waltz)</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14364,7 +14405,7 @@
 
 <hr>
 
-<h3>1027. Orfeo - <b>Orfest Andro (Andro)</b> (An Dro)</h3>
+<h3>1026. Orfeo - <b>Orfest Andro (Andro)</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14378,7 +14419,7 @@
 
 <hr>
 
-<h3>1028. Orfeo - <b>Queen Bee (Bourrée)</b> (Bourrée 3 temps)</h3>
+<h3>1027. Orfeo - <b>Queen Bee (Bourrée)</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14392,7 +14433,7 @@
 
 <hr>
 
-<h3>1029. Orfeo - <b>Space (Andro)</b> (An Dro)</h3>
+<h3>1028. Orfeo - <b>Space (Andro)</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14406,7 +14447,7 @@
 
 <hr>
 
-<h3>1030. Orfeo - <b>Together (Waltz in 3 and 5 Times)</b> (Valse 3 temps)</h3>
+<h3>1029. Orfeo - <b>Together (Waltz in 3 and 5 Times)</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14420,7 +14461,7 @@
 
 <hr>
 
-<h3>1031. Original Occitana - <b>Miserere</b> (Valse 3 temps)</h3>
+<h3>1030. Original Occitana - <b>Miserere</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14434,7 +14475,7 @@
 
 <hr>
 
-<h3>1032. Ormuz - <b>Chère Marguerite</b> (Mazurka)</h3>
+<h3>1031. Ormuz - <b>Chère Marguerite</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14448,7 +14489,7 @@
 
 <hr>
 
-<h3>1033. Ormuz - <b>Jeune Marié</b> (Hanter Dro)</h3>
+<h3>1032. Ormuz - <b>Jeune Marié</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14462,7 +14503,7 @@
 
 <hr>
 
-<h3>1034. Ormuz - <b>L'amour elle m'y tourmente</b> (Bourrée 2 temps)</h3>
+<h3>1033. Ormuz - <b>L'amour elle m'y tourmente</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14476,7 +14517,7 @@
 
 <hr>
 
-<h3>1035. Orquestrina Trama - <b>Beharrezkoa</b> (Fandango & Arin Arin)</h3>
+<h3>1034. Orquestrina Trama - <b>Beharrezkoa</b> (Fandango & Arin Arin)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14490,7 +14531,7 @@
 
 <hr>
 
-<h3>1036. Oubéret - <b>Basmat Et Robin</b> (An Dro)</h3>
+<h3>1035. Oubéret - <b>Basmat Et Robin</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14504,7 +14545,7 @@
 
 <hr>
 
-<h3>1037. Paracetamol - <b>Blood brothers</b> (Bourrée 3 temps)</h3>
+<h3>1036. Paracetamol - <b>Blood brothers</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14518,7 +14559,7 @@
 
 <hr>
 
-<h3>1038. Paracetamol - <b>Én szép világom</b> (Gavotte de l'Aven)</h3>
+<h3>1037. Paracetamol - <b>Én szép világom</b> (Gavotte de l'Aven)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14532,7 +14573,7 @@
 
 <hr>
 
-<h3>1039. Paracetamol - <b>Hunker</b> (Valse 5 temps)</h3>
+<h3>1038. Paracetamol - <b>Hunker</b> (Valse 5 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14546,7 +14587,7 @@
 
 <hr>
 
-<h3>1040. Paracetamol - <b>IF # = 4 THEN GO!</b> (Chapelloise)</h3>
+<h3>1039. Paracetamol - <b>IF # = 4 THEN GO!</b> (Chapelloise)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14560,7 +14601,7 @@
 
 <hr>
 
-<h3>1041. Paracetamol - <b>McImpaire</b> (Scottish impaire)</h3>
+<h3>1040. Paracetamol - <b>McImpaire</b> (Scottish impaire)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14574,7 +14615,7 @@
 
 <hr>
 
-<h3>1042. Paracetamol - <b>Taka Takata</b> (Cercle Circassien)</h3>
+<h3>1041. Paracetamol - <b>Taka Takata</b> (Cercle Circassien)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14588,7 +14629,7 @@
 
 <hr>
 
-<h3>1043. Pärlin - <b>I buried my wife</b> (Cercle Circassien)</h3>
+<h3>1042. Pärlin - <b>I buried my wife</b> (Cercle Circassien)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14602,7 +14643,7 @@
 
 <hr>
 
-<h3>1044. Pärlin - <b>Juudipolka</b> (Polka)</h3>
+<h3>1043. Pärlin - <b>Juudipolka</b> (Polka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14616,7 +14657,7 @@
 
 <hr>
 
-<h3>1045. Passant Par Paris - <b>Passant par Paris (bourrée 2 temps)</b> (Bourrée 2 temps)</h3>
+<h3>1044. Passant Par Paris - <b>Passant par Paris (bourrée 2 temps)</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14630,7 +14671,7 @@
 
 <hr>
 
-<h3>1046. PásztorHóra - <b>Az Ördög Útja</b> (Drumul Dracului)</h3>
+<h3>1045. PásztorHóra - <b>Az Ördög Útja</b> (Drumul Dracului)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14644,7 +14685,7 @@
 
 <hr>
 
-<h3>1047. Patrick Molard - <b>Chenhet'neus An Am Zer - Hanter Dro</b> (Hanter Dro)</h3>
+<h3>1046. Patrick Molard - <b>Chenhet'neus An Am Zer - Hanter Dro</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14658,7 +14699,7 @@
 
 <hr>
 
-<h3>1048. Patxi eta Batbiru - <b>Albiztur (Fandango)</b> (Fandango & Arin Arin)</h3>
+<h3>1047. Patxi eta Batbiru - <b>Albiztur (Fandango)</b> (Fandango & Arin Arin)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14672,7 +14713,7 @@
 
 <hr>
 
-<h3>1049. Patxi eta Batbiru - <b>Antzina (Fandango)</b> (Fandango & Arin Arin)</h3>
+<h3>1048. Patxi eta Batbiru - <b>Antzina (Fandango)</b> (Fandango & Arin Arin)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14686,7 +14727,7 @@
 
 <hr>
 
-<h3>1050. Patxi eta Batbiru - <b>Goizean goiz jeikirik (Burre)</b> (Bourrée 2 temps)</h3>
+<h3>1049. Patxi eta Batbiru - <b>Goizean goiz jeikirik (Burre)</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14700,7 +14741,7 @@
 
 <hr>
 
-<h3>1051. Patxi eta konpania - <b>Fandangoa</b> (Fandango & Arin Arin)</h3>
+<h3>1050. Patxi eta konpania - <b>Fandangoa</b> (Fandango & Arin Arin)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14714,7 +14755,7 @@
 
 <hr>
 
-<h3>1052. Peatbog Faeries - <b>The Folk Police</b> (Bourrée 2 temps)</h3>
+<h3>1051. Peatbog Faeries - <b>The Folk Police</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14728,7 +14769,7 @@
 
 <hr>
 
-<h3>1053. Pèire Boissièra - <b>Flòc de borrèias</b> (Bourrée 3 temps)</h3>
+<h3>1052. Pèire Boissièra - <b>Flòc de borrèias</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14742,7 +14783,7 @@
 
 <hr>
 
-<h3>1054. Pennoù Skoulm - <b>Troioù Ha Hanter</b> (Hanter Dro)</h3>
+<h3>1053. Pennoù Skoulm - <b>Troioù Ha Hanter</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14756,7 +14797,7 @@
 
 <hr>
 
-<h3>1055. Petit Piment - <b>Bourrée du dromadaire - Les oeufs de Magritte</b> (Bourrée 2 temps)</h3>
+<h3>1054. Petit Piment - <b>Bourrée du dromadaire - Les oeufs de Magritte</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14770,7 +14811,7 @@
 
 <hr>
 
-<h3>1056. Petit Piment - <b>La fille du roi dans la tour</b> (Mazurka)</h3>
+<h3>1055. Petit Piment - <b>La fille du roi dans la tour</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14784,7 +14825,7 @@
 
 <hr>
 
-<h3>1057. Petit Piment - <b>Polka à Gilberte</b> (Polka)</h3>
+<h3>1056. Petit Piment - <b>Polka à Gilberte</b> (Polka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14798,16 +14839,7 @@
 
 <hr>
 
-<h3>1058. Peut-être Jeanne - <b>Les p'tites frites</b> (Hanter Dro)</h3>
-
-<details>
-<summary><big>Spotify</big></summary>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5MYqgTWAduE0U4UCJL5QdS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</details>
-
-<hr>
-
-<h3>1059. Phlox - <b>Multiplex - Galdakhao</b> (Bourrée 2 temps)</h3>
+<h3>1057. Phlox - <b>Multiplex - Galdakhao</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14821,7 +14853,7 @@
 
 <hr>
 
-<h3>1060. Phonème - <b>Qui veut ouir complainte</b> (Bourrée 3 temps)</h3>
+<h3>1058. Phonème - <b>Qui veut ouir complainte</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14835,7 +14867,7 @@
 
 <hr>
 
-<h3>1061. Phonème - <b>Valse quand même</b> (Valse 3 temps)</h3>
+<h3>1059. Phonème - <b>Valse quand même</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14849,7 +14881,7 @@
 
 <hr>
 
-<h3>1062. Phonix - <b>Akk-Vals - Live</b> (Valse 3 temps)</h3>
+<h3>1060. Phonix - <b>Akk-Vals - Live</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14863,7 +14895,7 @@
 
 <hr>
 
-<h3>1063. Phonix - <b>Nordlys Schottish</b> (Scottish)</h3>
+<h3>1061. Phonix - <b>Nordlys Schottish</b> (Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14877,7 +14909,7 @@
 
 <hr>
 
-<h3>1064. Phonix - <b>Vals Baglæns / Snesekstur</b> (Valse 3 temps)</h3>
+<h3>1062. Phonix - <b>Vals Baglæns / Snesekstur</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14891,7 +14923,7 @@
 
 <hr>
 
-<h3>1065. Phonix - <b>Vals Til Peter</b> (Valse 3 temps)</h3>
+<h3>1063. Phonix - <b>Vals Til Peter</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14905,7 +14937,7 @@
 
 <hr>
 
-<h3>1066. Pichard Vincendeau, Stevan Vincendeau, Willy Pichard - <b>Andromède</b> (An Dro)</h3>
+<h3>1064. Pichard Vincendeau, Stevan Vincendeau, Willy Pichard - <b>Andromède</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14919,7 +14951,7 @@
 
 <hr>
 
-<h3>1067. Pichard Vincendeau, Stevan Vincendeau, Willy Pichard - <b>Vermel</b> (Mazurka)</h3>
+<h3>1065. Pichard Vincendeau, Stevan Vincendeau, Willy Pichard - <b>Vermel</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14933,7 +14965,7 @@
 
 <hr>
 
-<h3>1068. Planchée - <b>Club IIB (maraîchine)</b> (Maraîchine)</h3>
+<h3>1066. Planchée - <b>Club IIB (maraîchine)</b> (Maraîchine)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14947,7 +14979,7 @@
 
 <hr>
 
-<h3>1069. Plantec - <b>A-raok (andro)</b> (An Dro)</h3>
+<h3>1067. Plantec - <b>A-raok (andro)</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14961,7 +14993,7 @@
 
 <hr>
 
-<h3>1070. Plantec - <b>A-raok - Andro</b> (An Dro)</h3>
+<h3>1068. Plantec - <b>A-raok - Andro</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14975,7 +15007,7 @@
 
 <hr>
 
-<h3>1071. Plantec - <b>Androïde (Andro)</b> (An Dro)</h3>
+<h3>1069. Plantec - <b>Androïde (Andro)</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14989,7 +15021,7 @@
 
 <hr>
 
-<h3>1072. Plantec - <b>Androïde - Andro</b> (An Dro)</h3>
+<h3>1070. Plantec - <b>Androïde - Andro</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15003,7 +15035,7 @@
 
 <hr>
 
-<h3>1073. Plantec - <b>Arnod (Hanter dro)</b> (Hanter Dro)</h3>
+<h3>1071. Plantec - <b>Arnod (Hanter dro)</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15017,7 +15049,7 @@
 
 <hr>
 
-<h3>1074. Plantec - <b>Feulz - Polka</b> (Polka)</h3>
+<h3>1072. Plantec - <b>Feulz - Polka</b> (Polka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15031,7 +15063,7 @@
 
 <hr>
 
-<h3>1075. Plantec - <b>Holl Asambles (Maraichine)</b> (Maraîchine)</h3>
+<h3>1073. Plantec - <b>Holl Asambles (Maraichine)</b> (Maraîchine)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15045,7 +15077,7 @@
 
 <hr>
 
-<h3>1076. Plantec - <b>Kihaus Woods - Cercle circassien</b> (Cercle Circassien)</h3>
+<h3>1074. Plantec - <b>Kihaus Woods - Cercle circassien</b> (Cercle Circassien)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15059,7 +15091,7 @@
 
 <hr>
 
-<h3>1077. Plantec - <b>Mojo (valse)</b> (Valse 3 temps)</h3>
+<h3>1075. Plantec - <b>Mojo (valse)</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15073,7 +15105,7 @@
 
 <hr>
 
-<h3>1078. Plantec - <b>Nouson dia (Rond de st Vincent)</b> (Rond de Saint-Vincent)</h3>
+<h3>1076. Plantec - <b>Nouson dia (Rond de st Vincent)</b> (Rond de Saint-Vincent)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15087,7 +15119,7 @@
 
 <hr>
 
-<h3>1079. Plantec - <b>Skediñ (Scottish)</b> (Scottish)</h3>
+<h3>1077. Plantec - <b>Skediñ (Scottish)</b> (Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15101,7 +15133,7 @@
 
 <hr>
 
-<h3>1080. Plantec - <b>Skorn - Rond de landéda</b> (Rond de Landéda)</h3>
+<h3>1078. Plantec - <b>Skorn - Rond de landéda</b> (Rond de Landéda)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15115,7 +15147,7 @@
 
 <hr>
 
-<h3>1081. Polverfolk - <b>An dro</b> (An Dro)</h3>
+<h3>1079. Polverfolk - <b>An dro</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15129,7 +15161,7 @@
 
 <hr>
 
-<h3>1082. Potes Flor' (Diou Flo) - <b>Hanter Dro</b> (Hanter Dro)</h3>
+<h3>1080. Potes Flor' (Diou Flo) - <b>Hanter Dro</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15143,7 +15175,7 @@
 
 <hr>
 
-<h3>1083. Psapp - <b>Glove</b> (Valse 8 temps)</h3>
+<h3>1081. Psapp - <b>Glove</b> (Valse 8 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15157,7 +15189,7 @@
 
 <hr>
 
-<h3>1084. QuBa Libre - <b>Seguida de borreias / Last Chance / Famous Wolf / Avant de s'en aller</b> (Bourrée 2 temps)</h3>
+<h3>1082. QuBa Libre - <b>Seguida de borreias / Last Chance / Famous Wolf / Avant de s'en aller</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15171,7 +15203,7 @@
 
 <hr>
 
-<h3>1085. Quetschn Academy - <b>Unsre alte Kath - BEsAsDes</b> (Zwiefacher)</h3>
+<h3>1083. Quetschn Academy - <b>Unsre alte Kath - BEsAsDes</b> (Zwiefacher)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15185,7 +15217,7 @@
 
 <hr>
 
-<h3>1086. Rachel Averly - <b>Mazurka à rigal</b> (Mazurka)</h3>
+<h3>1084. Rachel Averly - <b>Mazurka à rigal</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15199,7 +15231,7 @@
 
 <hr>
 
-<h3>1087. Radůza - <b>Ať Není Mi Líto</b> (Valse 3 temps)</h3>
+<h3>1085. Radůza - <b>Ať Není Mi Líto</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15213,7 +15245,7 @@
 
 <hr>
 
-<h3>1088. Radůza - <b>Jednou To Pomine</b> (Valse 3 temps)</h3>
+<h3>1086. Radůza - <b>Jednou To Pomine</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15227,7 +15259,7 @@
 
 <hr>
 
-<h3>1089. Raphnin Maurel - <b>Bourrée à Jean Marc Delaunay / Le pan-pan de Mauriac</b> (Bourrée 3 temps)</h3>
+<h3>1087. Raphnin Maurel - <b>Bourrée à Jean Marc Delaunay / Le pan-pan de Mauriac</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15241,7 +15273,7 @@
 
 <hr>
 
-<h3>1090. Raphnin Maurel - <b>Bourrée à la flûte / La relique / Bourrée des environs e Saint-Angel</b> (Bourrée 3 temps)</h3>
+<h3>1088. Raphnin Maurel - <b>Bourrée à la flûte / La relique / Bourrée des environs e Saint-Angel</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15255,7 +15287,7 @@
 
 <hr>
 
-<h3>1091. Raphnin Maurel - <b>Le curé de la chapelle</b> (Bourrée 3 temps)</h3>
+<h3>1089. Raphnin Maurel - <b>Le curé de la chapelle</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15269,7 +15301,7 @@
 
 <hr>
 
-<h3>1092. Raphnin Maurel - <b>Les poires sont mûres / La Ricoise / Bourrée à Jean Bergheaud / Bourrée d'escudière</b> (Bourrée 3 temps)</h3>
+<h3>1090. Raphnin Maurel - <b>Les poires sont mûres / La Ricoise / Bourrée à Jean Bergheaud / Bourrée d'escudière</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15283,7 +15315,7 @@
 
 <hr>
 
-<h3>1093. Rémi Geffroy - <b>Aleph (bourrées 3 temps)</b> (Bourrée 3 temps)</h3>
+<h3>1091. Rémi Geffroy - <b>Aleph (bourrées 3 temps)</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15297,7 +15329,7 @@
 
 <hr>
 
-<h3>1094. Rémi Geffroy - <b>Au bord de l'eau (mazurka)</b> (Mazurka)</h3>
+<h3>1092. Rémi Geffroy - <b>Au bord de l'eau (mazurka)</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15311,7 +15343,7 @@
 
 <hr>
 
-<h3>1095. Rémi Geffroy - <b>Comme une fin d'été</b> (Valse 3 temps)</h3>
+<h3>1093. Rémi Geffroy - <b>Comme une fin d'été</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15325,7 +15357,7 @@
 
 <hr>
 
-<h3>1096. Rémi Geffroy - <b>Cranberrie (scottish)</b> (Scottish)</h3>
+<h3>1094. Rémi Geffroy - <b>Cranberrie (scottish)</b> (Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15339,7 +15371,7 @@
 
 <hr>
 
-<h3>1097. Rémi Geffroy - <b>Dansarem (bourrées 2 temps)</b> (Bourrée 2 temps)</h3>
+<h3>1095. Rémi Geffroy - <b>Dansarem (bourrées 2 temps)</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15353,7 +15385,7 @@
 
 <hr>
 
-<h3>1098. Rémi Geffroy - <b>Ek dwi Tin (chapelloise)</b> (Chapelloise)</h3>
+<h3>1096. Rémi Geffroy - <b>Ek dwi Tin (chapelloise)</b> (Chapelloise)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15367,7 +15399,7 @@
 
 <hr>
 
-<h3>1099. Rémi Geffroy - <b>Elle</b> (Valse 5 temps)</h3>
+<h3>1097. Rémi Geffroy - <b>Elle</b> (Valse 5 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15386,7 +15418,7 @@
 
 <hr>
 
-<h3>1100. Rémi Geffroy - <b>Evanescence (valse)</b> (Valse 3 temps)</h3>
+<h3>1098. Rémi Geffroy - <b>Evanescence (valse)</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15400,7 +15432,7 @@
 
 <hr>
 
-<h3>1101. Rémi Geffroy - <b>Jardins Suspendus</b> (Bourrée 2 temps)</h3>
+<h3>1099. Rémi Geffroy - <b>Jardins Suspendus</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15414,7 +15446,7 @@
 
 <hr>
 
-<h3>1102. Rémi Geffroy - <b>Jardins suspendus</b> (Bourrée 2 temps)</h3>
+<h3>1100. Rémi Geffroy - <b>Jardins suspendus</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15428,7 +15460,7 @@
 
 <hr>
 
-<h3>1103. Rémi Geffroy - <b>Kixmi</b> (Fandango & Arin Arin)</h3>
+<h3>1101. Rémi Geffroy - <b>Kixmi</b> (Fandango & Arin Arin)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15437,7 +15469,7 @@
 
 <hr>
 
-<h3>1104. Rémi Geffroy - <b>L'estropié</b> (Bourrée 2 temps)</h3>
+<h3>1102. Rémi Geffroy - <b>L'estropié</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15456,7 +15488,7 @@
 
 <hr>
 
-<h3>1105. Rémi Geffroy - <b>La gifle</b> (An Dro)</h3>
+<h3>1103. Rémi Geffroy - <b>La gifle</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15465,7 +15497,7 @@
 
 <hr>
 
-<h3>1106. Rémi Geffroy - <b>Laboratorium</b> (Cercle Circassien)</h3>
+<h3>1104. Rémi Geffroy - <b>Laboratorium</b> (Cercle Circassien)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15479,7 +15511,7 @@
 
 <hr>
 
-<h3>1107. Rémi Geffroy - <b>Les larmes de sable</b> (An Dro)</h3>
+<h3>1105. Rémi Geffroy - <b>Les larmes de sable</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15493,7 +15525,7 @@
 
 <hr>
 
-<h3>1108. Rémi Geffroy - <b>Les larmes de sable</b> (Scottish)</h3>
+<h3>1106. Rémi Geffroy - <b>Les larmes de sable</b> (Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15507,7 +15539,7 @@
 
 <hr>
 
-<h3>1109. Rémi Geffroy - <b>Maladire (gavotte de l'Aven caresse)</b> (Gavotte de l'Aven)</h3>
+<h3>1107. Rémi Geffroy - <b>Maladire (gavotte de l'Aven caresse)</b> (Gavotte de l'Aven)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15521,7 +15553,7 @@
 
 <hr>
 
-<h3>1110. Rémi Geffroy - <b>Matin D'automne (mazurka)</b> (Mazurka)</h3>
+<h3>1108. Rémi Geffroy - <b>Matin D'automne (mazurka)</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15535,7 +15567,7 @@
 
 <hr>
 
-<h3>1111. Rémi Geffroy - <b>Ouroboros</b> (Bourrée 2 temps)</h3>
+<h3>1109. Rémi Geffroy - <b>Ouroboros</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15549,7 +15581,7 @@
 
 <hr>
 
-<h3>1112. Rémi Geffroy - <b>Suite de planières</b> (Bourrée 3 temps)</h3>
+<h3>1110. Rémi Geffroy - <b>Suite de planières</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15558,7 +15590,7 @@
 
 <hr>
 
-<h3>1113. Rémi Geffroy - <b>Tara's Set (cercle circassien)</b> (Cercle Circassien)</h3>
+<h3>1111. Rémi Geffroy - <b>Tara's Set (cercle circassien)</b> (Cercle Circassien)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15572,7 +15604,7 @@
 
 <hr>
 
-<h3>1114. Rémi Geffroy - <b>Tornade blanche (valse 8 temps)</b> (Valse 8 temps)</h3>
+<h3>1112. Rémi Geffroy - <b>Tornade blanche (valse 8 temps)</b> (Valse 8 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15586,7 +15618,7 @@
 
 <hr>
 
-<h3>1115. rhizottome - <b>Gallo-Letton</b> (Bourrée 2 temps)</h3>
+<h3>1113. rhizottome - <b>Gallo-Letton</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15600,7 +15632,7 @@
 
 <hr>
 
-<h3>1116. rhizottome - <b>Lisière</b> (Kost ar c'hoad)</h3>
+<h3>1114. rhizottome - <b>Lisière</b> (Kost ar c'hoad)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15614,7 +15646,7 @@
 
 <hr>
 
-<h3>1117. Rodrigo Leão - <b>Tardes de Bolonha</b> (Valse 3 temps)</h3>
+<h3>1115. Rodrigo Leão - <b>Tardes de Bolonha</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15628,7 +15660,7 @@
 
 <hr>
 
-<h3>1118. Rodrigo y Gabriela - <b>Krotona Days</b> (Bourrée 2 temps)</h3>
+<h3>1116. Rodrigo y Gabriela - <b>Krotona Days</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15642,7 +15674,12 @@
 
 <hr>
 
-<h3>1119. Rodrigo y Gabriela - <b>Tamacun - Remastered</b> (Bourrée 2 temps)</h3>
+<h3>1117. Rodrigo y Gabriela - <b>Tamacun - Remastered</b> (Bourrée 2 temps)</h3>
+
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2708288289/size=small/bgcol=ffffff/linkcol=0687f5/track=1175488746/transparent=true/" seamless></iframe>
+</details>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15651,7 +15688,7 @@
 
 <hr>
 
-<h3>1120. Roncos do Diabo - <b>Repasseado</b> (Repasseado)</h3>
+<h3>1118. Roncos do Diabo - <b>Repasseado</b> (Repasseado)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15670,7 +15707,7 @@
 
 <hr>
 
-<h3>1121. Roxane Genot - <b>Rusty Red October Waltz</b> (Valse 3 temps)</h3>
+<h3>1119. Roxane Genot - <b>Rusty Red October Waltz</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15684,7 +15721,7 @@
 
 <hr>
 
-<h3>1122. Ruth Hunter and Ruthie Dornfeld - <b>Breton Waltz</b> (Valse 3 temps)</h3>
+<h3>1120. Ruth Hunter and Ruthie Dornfeld - <b>Breton Waltz</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15698,7 +15735,7 @@
 
 <hr>
 
-<h3>1123. Ruz Reor - <b>Cercle Circassien</b> (Cercle Circassien)</h3>
+<h3>1121. Ruz Reor - <b>Cercle Circassien</b> (Cercle Circassien)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15712,7 +15749,7 @@
 
 <hr>
 
-<h3>1124. Ruz Reor - <b>Hanter Dro</b> (Hanter Dro)</h3>
+<h3>1122. Ruz Reor - <b>Hanter Dro</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15726,7 +15763,7 @@
 
 <hr>
 
-<h3>1125. Ruz Reor - <b>Kost ar Hoat</b> (Kost ar c'hoad)</h3>
+<h3>1123. Ruz Reor - <b>Kost ar Hoat</b> (Kost ar c'hoad)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15740,7 +15777,7 @@
 
 <hr>
 
-<h3>1126. Ruz Reor - <b>Rond de Saint-Vincent</b> (Rond de Saint-Vincent)</h3>
+<h3>1124. Ruz Reor - <b>Rond de Saint-Vincent</b> (Rond de Saint-Vincent)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15754,7 +15791,7 @@
 
 <hr>
 
-<h3>1127. Ruz Reor - <b>Valse Ecossaise</b> (Valse 3 temps)</h3>
+<h3>1125. Ruz Reor - <b>Valse Ecossaise</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15768,7 +15805,7 @@
 
 <hr>
 
-<h3>1128. Samurai Accordion - <b>January Sun</b> (Valse 3 temps)</h3>
+<h3>1126. Samurai Accordion - <b>January Sun</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15782,7 +15819,7 @@
 
 <hr>
 
-<h3>1129. Samurai Accordion - <b>Sushi Time</b> (An Dro)</h3>
+<h3>1127. Samurai Accordion - <b>Sushi Time</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15796,7 +15833,7 @@
 
 <hr>
 
-<h3>1130. Saraï - <b>Na Carenza ab bèl còrs avenenz</b> (Bourrée 3 temps)</h3>
+<h3>1128. Saraï - <b>Na Carenza ab bèl còrs avenenz</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15810,7 +15847,7 @@
 
 <hr>
 
-<h3>1131. Seiva - <b>Repasseado dos Casais</b> (Repasseado)</h3>
+<h3>1129. Seiva - <b>Repasseado dos Casais</b> (Repasseado)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15824,7 +15861,7 @@
 
 <hr>
 
-<h3>1132. Serendou - <b>Hanter Dro</b> (Hanter Dro)</h3>
+<h3>1130. Serendou - <b>Hanter Dro</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15838,7 +15875,7 @@
 
 <hr>
 
-<h3>1133. Serge Desaunay - <b>La polka chinoise</b> (Polka)</h3>
+<h3>1131. Serge Desaunay - <b>La polka chinoise</b> (Polka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15852,7 +15889,7 @@
 
 <hr>
 
-<h3>1134. Serge Desaunay - <b>La polka des grenouilles</b> (Polka)</h3>
+<h3>1132. Serge Desaunay - <b>La polka des grenouilles</b> (Polka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15866,7 +15903,7 @@
 
 <hr>
 
-<h3>1135. Shillelagh - <b>13 Wals voor Polle - Live</b> (Valse 3 temps)</h3>
+<h3>1133. Shillelagh - <b>13 Wals voor Polle - Live</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15880,25 +15917,35 @@
 
 <hr>
 
-<h3>1136. Shillelagh - <b>Avant la treille / Bourrée de la treille - Live</b> (Bourrée 2 temps)</h3>
+<h3>1134. Shillelagh - <b>Avant la treille / Bourrée de la treille - Live</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0DbJyJlwVcSk23ef6wbs48?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/BlIumIieGzg?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
-<h3>1137. Shillelagh - <b>Bourrée de jenzat / Venosc</b> (Bourrée 2 temps)</h3>
+<h3>1135. Shillelagh - <b>Bourrée de jenzat / Venosc</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4GN0SeMRBk4B23YJaXuRcZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Xq2zvrLaW6w?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
-<h3>1138. Shillelagh - <b>Lievtallig Walsje</b> (Valse 3 temps)</h3>
+<h3>1136. Shillelagh - <b>Lievtallig Walsje</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15912,7 +15959,7 @@
 
 <hr>
 
-<h3>1139. Shira Kammen - <b>Hanter Dros</b> (Hanter Dro)</h3>
+<h3>1137. Shira Kammen - <b>Hanter Dros</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15926,7 +15973,7 @@
 
 <hr>
 
-<h3>1140. Siger - <b>Barbaren</b> (An Dro)</h3>
+<h3>1138. Siger - <b>Barbaren</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15940,7 +15987,7 @@
 
 <hr>
 
-<h3>1141. Skolvan - <b>Coquin cherche coquine - Mazurka</b> (Mazurka)</h3>
+<h3>1139. Skolvan - <b>Coquin cherche coquine - Mazurka</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15954,7 +16001,7 @@
 
 <hr>
 
-<h3>1142. Skolvan - <b>Le retour (An dro) - Live</b> (An Dro)</h3>
+<h3>1140. Skolvan - <b>Le retour (An dro) - Live</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15968,7 +16015,7 @@
 
 <hr>
 
-<h3>1143. Skolvan - <b>Rond de Saint Vincent - Live</b> (Rond de Saint-Vincent)</h3>
+<h3>1141. Skolvan - <b>Rond de Saint Vincent - Live</b> (Rond de Saint-Vincent)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15982,7 +16029,7 @@
 
 <hr>
 
-<h3>1144. Skrömta - <b>Festpolka</b> (Polka)</h3>
+<h3>1142. Skrömta - <b>Festpolka</b> (Polka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -15996,7 +16043,7 @@
 
 <hr>
 
-<h3>1145. Snaarmaarwaar - <b>Dance To Your Daddy</b> (Hanter Dro)</h3>
+<h3>1143. Snaarmaarwaar - <b>Dance To Your Daddy</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16010,7 +16057,7 @@
 
 <hr>
 
-<h3>1146. Snaarmaarwaar - <b>Electric Sheep</b> (An Dro)</h3>
+<h3>1144. Snaarmaarwaar - <b>Electric Sheep</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16024,7 +16071,7 @@
 
 <hr>
 
-<h3>1147. Snaarmaarwaar - <b>Horlepijp / Castro</b> (Scottish)</h3>
+<h3>1145. Snaarmaarwaar - <b>Horlepijp / Castro</b> (Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16038,7 +16085,7 @@
 
 <hr>
 
-<h3>1148. Snaarmaarwaar - <b>Kadril Van Mechelen</b> (Chapelloise)</h3>
+<h3>1146. Snaarmaarwaar - <b>Kadril Van Mechelen</b> (Chapelloise)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16052,7 +16099,7 @@
 
 <hr>
 
-<h3>1149. Snaarmaarwaar - <b>Montserrat</b> (Bourrée 2 temps)</h3>
+<h3>1147. Snaarmaarwaar - <b>Montserrat</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16066,7 +16113,7 @@
 
 <hr>
 
-<h3>1150. Snaarmaarwaar - <b>Nightrider</b> (Mazurka)</h3>
+<h3>1148. Snaarmaarwaar - <b>Nightrider</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16080,7 +16127,7 @@
 
 <hr>
 
-<h3>1151. Snaarmaarwaar - <b>Pentland</b> (Scottish)</h3>
+<h3>1149. Snaarmaarwaar - <b>Pentland</b> (Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16094,7 +16141,7 @@
 
 <hr>
 
-<h3>1152. Snaarmaarwaar - <b>Slagwerk / Une Ardeur d'Avance</b> (Bourrée 2 temps)</h3>
+<h3>1150. Snaarmaarwaar - <b>Slagwerk / Une Ardeur d'Avance</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16108,7 +16155,7 @@
 
 <hr>
 
-<h3>1153. Snaarmaarwaar - <b>Slagwerk / Une Ardeur d'Avance</b> (An Dro)</h3>
+<h3>1151. Snaarmaarwaar - <b>Slagwerk / Une Ardeur d'Avance</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16122,7 +16169,7 @@
 
 <hr>
 
-<h3>1154. Snaarmaarwaar - <b>Writer's Block Bourrée</b> (Bourrée 2 temps)</h3>
+<h3>1152. Snaarmaarwaar - <b>Writer's Block Bourrée</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16141,7 +16188,7 @@
 
 <hr>
 
-<h3>1155. Socam - <b>Lo mes de mai (valse)</b> (Valse 3 temps)</h3>
+<h3>1153. Socam - <b>Lo mes de mai (valse)</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16155,7 +16202,7 @@
 
 <hr>
 
-<h3>1156. Socam - <b>Pa Janvier (mazurka)</b> (Mazurka)</h3>
+<h3>1154. Socam - <b>Pa Janvier (mazurka)</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16169,7 +16216,7 @@
 
 <hr>
 
-<h3>1157. Socam - <b>Très enfants d'en Bretanhat / Montava la marmita / La chabra bruna (bourrées)</b> (Bourrée 3 temps)</h3>
+<h3>1155. Socam - <b>Très enfants d'en Bretanhat / Montava la marmita / La chabra bruna (bourrées)</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16183,7 +16230,7 @@
 
 <hr>
 
-<h3>1158. Solia - <b>Mazurka</b> (Mazurka)</h3>
+<h3>1156. Solia - <b>Mazurka</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16197,7 +16244,7 @@
 
 <hr>
 
-<h3>1159. Solia - <b>Valse</b> (Valse 3 temps)</h3>
+<h3>1157. Solia - <b>Valse</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16211,7 +16258,7 @@
 
 <hr>
 
-<h3>1160. Solomalé - <b>Le tailleur de pierre</b> (Bourrée 3 temps)</h3>
+<h3>1158. Solomalé - <b>Le tailleur de pierre</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16225,7 +16272,7 @@
 
 <hr>
 
-<h3>1161. Solune duo - <b>Matisa iela - Bourrée 2 temps</b> (Bourrée 2 temps)</h3>
+<h3>1159. Solune duo - <b>Matisa iela - Bourrée 2 temps</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16239,7 +16286,7 @@
 
 <hr>
 
-<h3>1162. Sonerien Du - <b>Barfield's hanternoz</b> (Hanter Dro)</h3>
+<h3>1160. Sonerien Du - <b>Barfield's hanternoz</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16253,7 +16300,7 @@
 
 <hr>
 
-<h3>1163. Sonerien Du - <b>Hanter dro - Andro minig</b> (Hanter Dro)</h3>
+<h3>1161. Sonerien Du - <b>Hanter dro - Andro minig</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16267,7 +16314,7 @@
 
 <hr>
 
-<h3>1164. Sons d'Embat - <b>Albiztur</b> (Fandango & Arin Arin)</h3>
+<h3>1162. Sons d'Embat - <b>Albiztur</b> (Fandango & Arin Arin)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16281,7 +16328,7 @@
 
 <hr>
 
-<h3>1165. Sous le pont - <b>Porchakovitch</b> (Porcher)</h3>
+<h3>1163. Sous le pont - <b>Porchakovitch</b> (Porcher)</h3>
 
 <details>
 <summary><big>AudioFile</big></summary>
@@ -16290,7 +16337,7 @@
 
 <hr>
 
-<h3>1166. Sous les quais - <b>Valse à 5 temps</b> (Valse 5 temps)</h3>
+<h3>1164. Sous les quais - <b>Valse à 5 temps</b> (Valse 5 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16304,7 +16351,7 @@
 
 <hr>
 
-<h3>1167. Spontus - <b>Ar c'helion - Trikot</b> (Tricot)</h3>
+<h3>1165. Spontus - <b>Ar c'helion - Trikot</b> (Tricot)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16318,7 +16365,7 @@
 
 <hr>
 
-<h3>1168. Spoum - <b>Hypnoptyk</b> (Hanter Dro)</h3>
+<h3>1166. Spoum - <b>Hypnoptyk</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16332,7 +16379,7 @@
 
 <hr>
 
-<h3>1169. Startijenn - <b>Amsked - Vals</b> (Valse 3 temps)</h3>
+<h3>1167. Startijenn - <b>Amsked - Vals</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16346,7 +16393,7 @@
 
 <hr>
 
-<h3>1170. Startijenn - <b>Backpaker</b> (Cercle Circassien)</h3>
+<h3>1168. Startijenn - <b>Backpaker</b> (Cercle Circassien)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16360,7 +16407,7 @@
 
 <hr>
 
-<h3>1171. Startijenn - <b>Bok bok bok (Hanter-dro) [Live]</b> (Hanter Dro)</h3>
+<h3>1169. Startijenn - <b>Bok bok bok (Hanter-dro) [Live]</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16374,7 +16421,7 @@
 
 <hr>
 
-<h3>1172. Startijenn - <b>Mark Ruz (Hanter-dro)</b> (Hanter Dro)</h3>
+<h3>1170. Startijenn - <b>Mark Ruz (Hanter-dro)</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16388,7 +16435,7 @@
 
 <hr>
 
-<h3>1173. Stefano Baldan - <b>Il Brenta / La brentana</b> (Bourrée 2 temps)</h3>
+<h3>1171. Stefano Baldan - <b>Il Brenta / La brentana</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16402,16 +16449,7 @@
 
 <hr>
 
-<h3>1174. Stefano Baldan - <b>Impazienza</b> (Bourrée 2 temps)</h3>
-
-<details>
-<summary><big>Spotify</big></summary>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2d3JuTq50TzQhyuNjrRtPn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</details>
-
-<hr>
-
-<h3>1175. Stefano Baldan - <b>In Punta di Piedi</b> (Mazurka)</h3>
+<h3>1172. Stefano Baldan - <b>In Punta di Piedi</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16425,7 +16463,7 @@
 
 <hr>
 
-<h3>1176. Sterne - <b>Andro</b> (An Dro)</h3>
+<h3>1173. Sterne - <b>Andro</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16444,7 +16482,7 @@
 
 <hr>
 
-<h3>1177. Sterne - <b>Cercle circassien</b> (Cercle Circassien)</h3>
+<h3>1174. Sterne - <b>Cercle circassien</b> (Cercle Circassien)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16458,7 +16496,7 @@
 
 <hr>
 
-<h3>1178. Sterne - <b>Hanter Dro</b> (Hanter Dro)</h3>
+<h3>1175. Sterne - <b>Hanter Dro</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16472,7 +16510,7 @@
 
 <hr>
 
-<h3>1179. Sterne - <b>Hanter dro (Du-hont ar ar manez)</b> (Hanter Dro)</h3>
+<h3>1176. Sterne - <b>Hanter dro (Du-hont ar ar manez)</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16486,7 +16524,7 @@
 
 <hr>
 
-<h3>1180. Sterne - <b>Kost ar c'hoat</b> (Kost ar c'hoad)</h3>
+<h3>1177. Sterne - <b>Kost ar c'hoat</b> (Kost ar c'hoad)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16500,7 +16538,7 @@
 
 <hr>
 
-<h3>1181. Sterne - <b>Rond de Landéda</b> (Rond de Landéda)</h3>
+<h3>1178. Sterne - <b>Rond de Landéda</b> (Rond de Landéda)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16514,7 +16552,7 @@
 
 <hr>
 
-<h3>1182. Sterne - <b>Rond De Saint-Vincent</b> (Rond de Saint-Vincent)</h3>
+<h3>1179. Sterne - <b>Rond De Saint-Vincent</b> (Rond de Saint-Vincent)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16528,7 +16566,7 @@
 
 <hr>
 
-<h3>1183. Stevan Vincendeau, Thomas Felder - <b>Bouic - Ronds de Saint Vincent sur Oust</b> (Rond de Saint-Vincent)</h3>
+<h3>1180. Stevan Vincendeau, Thomas Felder - <b>Bouic - Ronds de Saint Vincent sur Oust</b> (Rond de Saint-Vincent)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16542,7 +16580,7 @@
 
 <hr>
 
-<h3>1184. Stevan Vincendeau, Willy Pichard - <b>Cueillette nocturne (bourrée 3 temps)</b> (Bourrée 3 temps)</h3>
+<h3>1181. Stevan Vincendeau, Willy Pichard - <b>Cueillette nocturne (bourrée 3 temps)</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16556,7 +16594,7 @@
 
 <hr>
 
-<h3>1185. Stevan Vincendeau, Willy Pichard - <b>Les brumes (maraîchine)</b> (Maraîchine)</h3>
+<h3>1182. Stevan Vincendeau, Willy Pichard - <b>Les brumes (maraîchine)</b> (Maraîchine)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16570,7 +16608,7 @@
 
 <hr>
 
-<h3>1186. Stevan Vincendeau, Willy Pichard - <b>Louizon ha Loeïza (valse)</b> (Valse 3 temps)</h3>
+<h3>1183. Stevan Vincendeau, Willy Pichard - <b>Louizon ha Loeïza (valse)</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16584,7 +16622,7 @@
 
 <hr>
 
-<h3>1187. Stevan Vincendeau, Willy Pichard - <b>Marignolle - Illham - L'écho (bourrée 2 temps)</b> (Bourrée 2 temps)</h3>
+<h3>1184. Stevan Vincendeau, Willy Pichard - <b>Marignolle - Illham - L'écho (bourrée 2 temps)</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16598,7 +16636,7 @@
 
 <hr>
 
-<h3>1188. Steve Baughman - <b>Hanter Dro</b> (Hanter Dro)</h3>
+<h3>1185. Steve Baughman - <b>Hanter Dro</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16612,7 +16650,7 @@
 
 <hr>
 
-<h3>1189. Storvan - <b>Hanter dro</b> (Hanter Dro)</h3>
+<h3>1186. Storvan - <b>Hanter dro</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16636,7 +16674,7 @@
 
 <hr>
 
-<h3>1190. Sun and Moon Dance - <b>Savitaipaleen polkka</b> (Polka)</h3>
+<h3>1187. Sun and Moon Dance - <b>Savitaipaleen polkka</b> (Polka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16650,7 +16688,7 @@
 
 <hr>
 
-<h3>1191. Surpluz - <b>De Blanke Slavin</b> (Valse 3 temps)</h3>
+<h3>1188. Surpluz - <b>De Blanke Slavin</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16664,7 +16702,7 @@
 
 <hr>
 
-<h3>1192. Sylvain Butté - <b>L'araignée du lavabo (le jet du robinet)</b> (Bourrée 2 temps)</h3>
+<h3>1189. Sylvain Butté - <b>L'araignée du lavabo (le jet du robinet)</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16678,7 +16716,7 @@
 
 <hr>
 
-<h3>1193. Sylvain Butté - <b>La paire de Saulxures</b> (Mazurka)</h3>
+<h3>1190. Sylvain Butté - <b>La paire de Saulxures</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16692,7 +16730,7 @@
 
 <hr>
 
-<h3>1194. Sylvain Quéré - <b>BOURREE 3 TEMPS</b> (Bourrée 3 temps)</h3>
+<h3>1191. Sylvain Quéré - <b>BOURREE 3 TEMPS</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Soundcloud</big></summary>
@@ -16701,7 +16739,7 @@
 
 <hr>
 
-<h3>1195. Sylvie Pulles - <b>La bourrée des furets - Bourree</b> (Bourrée 3 temps)</h3>
+<h3>1192. Sylvie Pulles - <b>La bourrée des furets - Bourree</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16715,7 +16753,7 @@
 
 <hr>
 
-<h3>1196. Talec Noguet Quartet - <b>Olala</b> (An Dro)</h3>
+<h3>1193. Talec Noguet Quartet - <b>Olala</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16729,7 +16767,7 @@
 
 <hr>
 
-<h3>1197. Talisk, Valtos - <b>Farewell - Valtos Remix</b> (Bourrée 2 temps)</h3>
+<h3>1194. Talisk, Valtos - <b>Farewell - Valtos Remix</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16743,7 +16781,7 @@
 
 <hr>
 
-<h3>1198. Talskan, Timothée Le Bour - <b>Onyx</b> (Kost ar c'hoad)</h3>
+<h3>1195. Talskan, Timothée Le Bour - <b>Onyx</b> (Kost ar c'hoad)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16757,7 +16795,7 @@
 
 <hr>
 
-<h3>1199. Tangi Le Gall-Carre - <b>Neus</b> (Valse 3 temps)</h3>
+<h3>1196. Tangi Le Gall-Carre - <b>Neus</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16771,7 +16809,7 @@
 
 <hr>
 
-<h3>1200. Tatu Trio - <b>Ai vist lo lop</b> (Bourrée 3 temps)</h3>
+<h3>1197. Tatu Trio - <b>Ai vist lo lop</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16785,7 +16823,7 @@
 
 <hr>
 
-<h3>1201. Tęgie Chłopy - <b>Polka Żydówka</b> (Polka)</h3>
+<h3>1198. Tęgie Chłopy - <b>Polka Żydówka</b> (Polka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16799,7 +16837,7 @@
 
 <hr>
 
-<h3>1202. Thalas - <b>In Good Company</b> (Bourrée 2 temps)</h3>
+<h3>1199. Thalas - <b>In Good Company</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16813,7 +16851,7 @@
 
 <hr>
 
-<h3>1203. The Zydepunks - <b>La Maraichine</b> (Maraîchine)</h3>
+<h3>1200. The Zydepunks - <b>La Maraichine</b> (Maraîchine)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16827,7 +16865,7 @@
 
 <hr>
 
-<h3>1204. Ti Jaz - <b>Hanter Dro Bamenjou</b> (Hanter Dro)</h3>
+<h3>1201. Ti Jaz - <b>Hanter Dro Bamenjou</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16841,7 +16879,7 @@
 
 <hr>
 
-<h3>1205. Toc de Crida - <b>Vals d'aigua</b> (Valse 3 temps)</h3>
+<h3>1202. Toc de Crida - <b>Vals d'aigua</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16855,7 +16893,7 @@
 
 <hr>
 
-<h3>1206. Tołhaje - <b>Polka Na 7</b> (Polka)</h3>
+<h3>1203. Tołhaje - <b>Polka Na 7</b> (Polka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16869,7 +16907,7 @@
 
 <hr>
 
-<h3>1207. Torcán - <b>Ellin Polka (Live)</b> (Polka)</h3>
+<h3>1204. Torcán - <b>Ellin Polka (Live)</b> (Polka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16883,7 +16921,7 @@
 
 <hr>
 
-<h3>1208. Tournesol - <b>Les souliers bleus: Ma Jeanne</b> (Bourrée 3 temps)</h3>
+<h3>1205. Tournesol - <b>Les souliers bleus: Ma Jeanne</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16897,7 +16935,7 @@
 
 <hr>
 
-<h3>1209. Tournesol - <b>Presta me lo, quand lo pastre</b> (Bourrée 3 temps)</h3>
+<h3>1206. Tournesol - <b>Presta me lo, quand lo pastre</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16911,7 +16949,7 @@
 
 <hr>
 
-<h3>1210. Tournesol - <b>Virginie la mazurka des maris</b> (Mazurka)</h3>
+<h3>1207. Tournesol - <b>Virginie la mazurka des maris</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16925,7 +16963,7 @@
 
 <hr>
 
-<h3>1211. Tralala Lovers - <b>Les jours de grandes marées</b> (Valse 5 temps)</h3>
+<h3>1208. Tralala Lovers - <b>Les jours de grandes marées</b> (Valse 5 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16939,7 +16977,7 @@
 
 <hr>
 
-<h3>1212. Tralala Lovers - <b>Vive l'amour</b> (Bourrée 2 temps)</h3>
+<h3>1209. Tralala Lovers - <b>Vive l'amour</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16953,7 +16991,7 @@
 
 <hr>
 
-<h3>1213. Trancexpress - <b>Suite obourrek</b> (Bourrée 3 temps)</h3>
+<h3>1210. Trancexpress - <b>Suite obourrek</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Bandcamp</big></summary>
@@ -16967,7 +17005,7 @@
 
 <hr>
 
-<h3>1214. Trasga - <b>Repasseado - Ao vivo</b> (Repasseado)</h3>
+<h3>1211. Trasga - <b>Repasseado - Ao vivo</b> (Repasseado)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16981,7 +17019,7 @@
 
 <hr>
 
-<h3>1215. Traucatèrme - <b>La charranta, El ball del rossinyol</b> (Bourrée 3 temps)</h3>
+<h3>1212. Traucatèrme - <b>La charranta, El ball del rossinyol</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -16995,7 +17033,7 @@
 
 <hr>
 
-<h3>1216. Tref - <b>Allez, bourrés!</b> (Bourrée 2 temps)</h3>
+<h3>1213. Tref - <b>Allez, bourrés!</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17009,7 +17047,7 @@
 
 <hr>
 
-<h3>1217. Tref - <b>Andro Hazes / Tzuica</b> (An Dro)</h3>
+<h3>1214. Tref - <b>Andro Hazes / Tzuica</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17023,7 +17061,7 @@
 
 <hr>
 
-<h3>1218. Tref - <b>Dampf</b> (An Dro)</h3>
+<h3>1215. Tref - <b>Dampf</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17037,7 +17075,7 @@
 
 <hr>
 
-<h3>1219. Tref - <b>Dorothée</b> (Mazurka)</h3>
+<h3>1216. Tref - <b>Dorothée</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17051,7 +17089,7 @@
 
 <hr>
 
-<h3>1220. Tref - <b>Famine</b> (Bourrée 2 temps)</h3>
+<h3>1217. Tref - <b>Famine</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17065,7 +17103,7 @@
 
 <hr>
 
-<h3>1221. Tref - <b>Kadar</b> (An Dro)</h3>
+<h3>1218. Tref - <b>Kadar</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17079,7 +17117,7 @@
 
 <hr>
 
-<h3>1222. Tref - <b>La gourmande</b> (Bourrée 2 temps)</h3>
+<h3>1219. Tref - <b>La gourmande</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17093,7 +17131,7 @@
 
 <hr>
 
-<h3>1223. Tref - <b>Les Crêpres Dans L'oreille</b> (An Dro)</h3>
+<h3>1220. Tref - <b>Les Crêpres Dans L'oreille</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17107,7 +17145,7 @@
 
 <hr>
 
-<h3>1224. Tref - <b>Loop to the Moon</b> (An Dro)</h3>
+<h3>1221. Tref - <b>Loop to the Moon</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17121,7 +17159,7 @@
 
 <hr>
 
-<h3>1225. Tref - <b>Plasko ö polska</b> (Polska (rund polska))</h3>
+<h3>1222. Tref - <b>Plasko ö polska</b> (Polska (rund polska))</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17135,7 +17173,7 @@
 
 <hr>
 
-<h3>1226. Tref - <b>Scottische en neige</b> (Scottish)</h3>
+<h3>1223. Tref - <b>Scottische en neige</b> (Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17149,7 +17187,7 @@
 
 <hr>
 
-<h3>1227. Tri Yann - <b>Pastourelle De Saint Julien Maraichine - Bretagne-Vendee</b> (Maraîchine)</h3>
+<h3>1224. Tri Yann - <b>Pastourelle De Saint Julien Maraichine - Bretagne-Vendee</b> (Maraîchine)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17163,7 +17201,7 @@
 
 <hr>
 
-<h3>1228. Tribal Jâze - <b>A la bourre à madecourt</b> (Bourrée 2 temps)</h3>
+<h3>1225. Tribal Jâze - <b>A la bourre à madecourt</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17177,7 +17215,7 @@
 
 <hr>
 
-<h3>1229. Tribal Jâze - <b>Centurion</b> (An Dro)</h3>
+<h3>1226. Tribal Jâze - <b>Centurion</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17191,7 +17229,7 @@
 
 <hr>
 
-<h3>1230. Tribal Jâze - <b>Circus</b> (Cercle Circassien)</h3>
+<h3>1227. Tribal Jâze - <b>Circus</b> (Cercle Circassien)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17205,7 +17243,7 @@
 
 <hr>
 
-<h3>1231. Tribal Jâze - <b>L'autre valse</b> (Valse 3 temps)</h3>
+<h3>1228. Tribal Jâze - <b>L'autre valse</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17219,7 +17257,7 @@
 
 <hr>
 
-<h3>1232. Tribal Jâze - <b>La clef</b> (Bourrée 2 temps)</h3>
+<h3>1229. Tribal Jâze - <b>La clef</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17233,7 +17271,7 @@
 
 <hr>
 
-<h3>1233. Tribal Jâze - <b>La valseuse</b> (Valse 5 temps)</h3>
+<h3>1230. Tribal Jâze - <b>La valseuse</b> (Valse 5 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17247,7 +17285,7 @@
 
 <hr>
 
-<h3>1234. Tribal Jâze - <b>Les poissons</b> (Mazurka)</h3>
+<h3>1231. Tribal Jâze - <b>Les poissons</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17261,7 +17299,7 @@
 
 <hr>
 
-<h3>1235. Tribal Jâze - <b>Masure gat's</b> (Mazurka)</h3>
+<h3>1232. Tribal Jâze - <b>Masure gat's</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17275,7 +17313,7 @@
 
 <hr>
 
-<h3>1236. Tribal Jâze - <b>Petite valse</b> (Valse 3 temps)</h3>
+<h3>1233. Tribal Jâze - <b>Petite valse</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17289,7 +17327,7 @@
 
 <hr>
 
-<h3>1237. Tribal Jâze - <b>Scottish à casquette</b> (Scottish)</h3>
+<h3>1234. Tribal Jâze - <b>Scottish à casquette</b> (Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17303,7 +17341,7 @@
 
 <hr>
 
-<h3>1238. Tribal Jâze - <b>Valse à Manu</b> (Valse 3 temps)</h3>
+<h3>1235. Tribal Jâze - <b>Valse à Manu</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17317,7 +17355,7 @@
 
 <hr>
 
-<h3>1239. Tribu Cendra - <b>Variaciones ebrias</b> (Valse 3 temps)</h3>
+<h3>1236. Tribu Cendra - <b>Variaciones ebrias</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17331,7 +17369,7 @@
 
 <hr>
 
-<h3>1240. Trilla - <b>Bourrée</b> (Bourrée 2 temps)</h3>
+<h3>1237. Trilla - <b>Bourrée</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17345,7 +17383,7 @@
 
 <hr>
 
-<h3>1241. Trio 14 - <b>Mazurka</b> (Mazurka)</h3>
+<h3>1238. Trio 14 - <b>Mazurka</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17359,7 +17397,7 @@
 
 <hr>
 
-<h3>1242. Trio Aman - <b>Galop Nantais</b> (Galop Nantais)</h3>
+<h3>1239. Trio Aman - <b>Galop Nantais</b> (Galop Nantais)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17368,7 +17406,7 @@
 
 <hr>
 
-<h3>1243. Trio Dhoore - <b>Chameleon</b> (Valse 8 temps)</h3>
+<h3>1240. Trio Dhoore - <b>Chameleon</b> (Valse 8 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17382,7 +17420,7 @@
 
 <hr>
 
-<h3>1244. Trio Dhoore - <b>Cinema Central / Stimulo</b> (Bourrée 2 temps)</h3>
+<h3>1241. Trio Dhoore - <b>Cinema Central / Stimulo</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17401,7 +17439,7 @@
 
 <hr>
 
-<h3>1245. Trio Dhoore - <b>Coffee Break</b> (Mazurka)</h3>
+<h3>1242. Trio Dhoore - <b>Coffee Break</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17420,7 +17458,7 @@
 
 <hr>
 
-<h3>1246. Trio Dhoore - <b>Duosprong / Bitching Betty</b> (Bourrée 2 temps)</h3>
+<h3>1243. Trio Dhoore - <b>Duosprong / Bitching Betty</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17434,7 +17472,7 @@
 
 <hr>
 
-<h3>1247. Trio Dhoore - <b>Heartbeat</b> (Hanter Dro)</h3>
+<h3>1244. Trio Dhoore - <b>Heartbeat</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17448,7 +17486,7 @@
 
 <hr>
 
-<h3>1248. Trio Dhoore - <b>Kallis</b> (Scottish)</h3>
+<h3>1245. Trio Dhoore - <b>Kallis</b> (Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17467,7 +17505,7 @@
 
 <hr>
 
-<h3>1249. Trio Dhoore - <b>Parachute</b> (Mazurka)</h3>
+<h3>1246. Trio Dhoore - <b>Parachute</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17481,7 +17519,7 @@
 
 <hr>
 
-<h3>1250. Trio Dhoore - <b>S.Trad</b> (Bourrée 2 temps)</h3>
+<h3>1247. Trio Dhoore - <b>S.Trad</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17495,7 +17533,7 @@
 
 <hr>
 
-<h3>1251. Trio Dhoore - <b>Special Bullets / Air Force</b> (Bourrée 3 temps)</h3>
+<h3>1248. Trio Dhoore - <b>Special Bullets / Air Force</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17509,7 +17547,7 @@
 
 <hr>
 
-<h3>1252. Trio Dhoore - <b>The Red Rabbit / The Missing Pipes</b> (An Dro)</h3>
+<h3>1249. Trio Dhoore - <b>The Red Rabbit / The Missing Pipes</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17523,7 +17561,7 @@
 
 <hr>
 
-<h3>1253. Trio Dhoore - <b>Very Jeune</b> (Gavotte de l'Aven)</h3>
+<h3>1250. Trio Dhoore - <b>Very Jeune</b> (Gavotte de l'Aven)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17537,7 +17575,7 @@
 
 <hr>
 
-<h3>1254. Trio Dhoore - <b>Vihmazurka / Kodumaa</b> (Mazurka)</h3>
+<h3>1251. Trio Dhoore - <b>Vihmazurka / Kodumaa</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17551,7 +17589,7 @@
 
 <hr>
 
-<h3>1255. Trio Forj - <b>Hanter dro</b> (Hanter Dro)</h3>
+<h3>1252. Trio Forj - <b>Hanter dro</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17565,7 +17603,7 @@
 
 <hr>
 
-<h3>1256. Trio Loubelya - <b>Andrò a torino e poi a casa</b> (An Dro)</h3>
+<h3>1253. Trio Loubelya - <b>Andrò a torino e poi a casa</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17579,7 +17617,7 @@
 
 <hr>
 
-<h3>1257. Trio Loubelya - <b>Cinco tempoush</b> (Valse 5 temps)</h3>
+<h3>1254. Trio Loubelya - <b>Cinco tempoush</b> (Valse 5 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17593,7 +17631,7 @@
 
 <hr>
 
-<h3>1258. Trio Loubelya - <b>Euforriz ( scottish )</b> (Scottish)</h3>
+<h3>1255. Trio Loubelya - <b>Euforriz ( scottish )</b> (Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17607,7 +17645,7 @@
 
 <hr>
 
-<h3>1259. Trio Loubelya - <b>Gavotte d'Alzen ( gavotte de Laven )</b> (Gavotte de l'Aven)</h3>
+<h3>1256. Trio Loubelya - <b>Gavotte d'Alzen ( gavotte de Laven )</b> (Gavotte de l'Aven)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17621,7 +17659,7 @@
 
 <hr>
 
-<h3>1260. Trio Loubelya - <b>Helenash</b> (Bourrée 2 temps)</h3>
+<h3>1257. Trio Loubelya - <b>Helenash</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17635,7 +17673,7 @@
 
 <hr>
 
-<h3>1261. Trio Loubelya - <b>Il neige à porto</b> (Mazurka)</h3>
+<h3>1258. Trio Loubelya - <b>Il neige à porto</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17649,7 +17687,7 @@
 
 <hr>
 
-<h3>1262. Trio Loubelya - <b>Jeanne ( valse à 3 temps )</b> (Valse 3 temps)</h3>
+<h3>1259. Trio Loubelya - <b>Jeanne ( valse à 3 temps )</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17663,7 +17701,7 @@
 
 <hr>
 
-<h3>1263. Trio Loubelya - <b>La quadrature du cercle</b> (Cercle Circassien)</h3>
+<h3>1260. Trio Loubelya - <b>La quadrature du cercle</b> (Cercle Circassien)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17677,7 +17715,7 @@
 
 <hr>
 
-<h3>1264. Trio Loubelya - <b>Lollypop / Churchill Company ( bourrées à 2 temps )</b> (Bourrée 2 temps)</h3>
+<h3>1261. Trio Loubelya - <b>Lollypop / Churchill Company ( bourrées à 2 temps )</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17691,7 +17729,7 @@
 
 <hr>
 
-<h3>1265. Trio Loubelya - <b>Marie</b> (Valse 3 temps)</h3>
+<h3>1262. Trio Loubelya - <b>Marie</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17705,7 +17743,7 @@
 
 <hr>
 
-<h3>1266. Trio Loubelya - <b>Mazurkamille ( Mazurka )</b> (Mazurka)</h3>
+<h3>1263. Trio Loubelya - <b>Mazurkamille ( Mazurka )</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17719,7 +17757,7 @@
 
 <hr>
 
-<h3>1267. Trio Loubelya - <b>Mouchti ( mazurka )</b> (Mazurka)</h3>
+<h3>1264. Trio Loubelya - <b>Mouchti ( mazurka )</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17733,7 +17771,7 @@
 
 <hr>
 
-<h3>1268. Trio Loubelya - <b>Nid D'Aigle</b> (Hanter Dro)</h3>
+<h3>1265. Trio Loubelya - <b>Nid D'Aigle</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17747,7 +17785,7 @@
 
 <hr>
 
-<h3>1269. Trio Loubelya - <b>Piclune ( valse à 5 temps )</b> (Valse 5 temps)</h3>
+<h3>1266. Trio Loubelya - <b>Piclune ( valse à 5 temps )</b> (Valse 5 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17761,7 +17799,7 @@
 
 <hr>
 
-<h3>1270. Trio Loubelya - <b>Shantil</b> (Scottish)</h3>
+<h3>1267. Trio Loubelya - <b>Shantil</b> (Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17775,7 +17813,7 @@
 
 <hr>
 
-<h3>1271. Trio Loubelya - <b>Vals'Constant</b> (Valse 11 temps)</h3>
+<h3>1268. Trio Loubelya - <b>Vals'Constant</b> (Valse 11 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17789,7 +17827,7 @@
 
 <hr>
 
-<h3>1272. Trio Loubelya - <b>Valzer Di Sant'angelo ( valse à 8 temps )</b> (Valse 8 temps)</h3>
+<h3>1269. Trio Loubelya - <b>Valzer Di Sant'angelo ( valse à 8 temps )</b> (Valse 8 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17803,7 +17841,7 @@
 
 <hr>
 
-<h3>1273. Trio Loubelya - <b>Viccirclette / Love-Love pigeons ( cercle circassien )</b> (Cercle Circassien)</h3>
+<h3>1270. Trio Loubelya - <b>Viccirclette / Love-Love pigeons ( cercle circassien )</b> (Cercle Circassien)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17817,7 +17855,7 @@
 
 <hr>
 
-<h3>1274. Trio Loubelya, Tristan Le Breton - <b>Andromac</b> (An Dro)</h3>
+<h3>1271. Trio Loubelya, Tristan Le Breton - <b>Andromac</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17831,7 +17869,7 @@
 
 <hr>
 
-<h3>1275. Trio Patrick Bouffard - <b>Mazerie / Chevreuils</b> (Bourrée 3 temps)</h3>
+<h3>1272. Trio Patrick Bouffard - <b>Mazerie / Chevreuils</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17845,7 +17883,7 @@
 
 <hr>
 
-<h3>1276. Trio Patrick Bouffard - <b>Valse A 5 Temps</b> (Valse 5 temps)</h3>
+<h3>1273. Trio Patrick Bouffard - <b>Valse A 5 Temps</b> (Valse 5 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17859,7 +17897,7 @@
 
 <hr>
 
-<h3>1277. Trio Trad - <b>Suite Auvergnate 2</b> (Bourrée 3 temps)</h3>
+<h3>1274. Trio Trad - <b>Suite Auvergnate 2</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17873,7 +17911,7 @@
 
 <hr>
 
-<h3>1278. Trobairitz d'Oc - <b>A stacada d'Brelh (Valsa finala)</b> (Valse 3 temps)</h3>
+<h3>1275. Trobairitz d'Oc - <b>A stacada d'Brelh (Valsa finala)</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17887,7 +17925,7 @@
 
 <hr>
 
-<h3>1279. Trolska Polska - <b>Krølle Bølle-polka</b> (Polka)</h3>
+<h3>1276. Trolska Polska - <b>Krølle Bølle-polka</b> (Polka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17901,7 +17939,7 @@
 
 <hr>
 
-<h3>1280. Trouzerion - <b>Hanterdro</b> (Hanter Dro)</h3>
+<h3>1277. Trouzerion - <b>Hanterdro</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17915,7 +17953,7 @@
 
 <hr>
 
-<h3>1281. Tud - <b>An dro</b> (An Dro)</h3>
+<h3>1278. Tud - <b>An dro</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17929,7 +17967,7 @@
 
 <hr>
 
-<h3>1282. Tud - <b>Dans ar C'hamm - Hanter Dro</b> (Hanter Dro)</h3>
+<h3>1279. Tud - <b>Dans ar C'hamm - Hanter Dro</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17943,7 +17981,7 @@
 
 <hr>
 
-<h3>1283. Tud - <b>Kost ar c'hoat</b> (Kost ar c'hoad)</h3>
+<h3>1280. Tud - <b>Kost ar c'hoat</b> (Kost ar c'hoad)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17957,7 +17995,7 @@
 
 <hr>
 
-<h3>1284. Tud - <b>Rond de Saint Vincent</b> (Rond de Saint-Vincent)</h3>
+<h3>1281. Tud - <b>Rond de Saint Vincent</b> (Rond de Saint-Vincent)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17971,7 +18009,7 @@
 
 <hr>
 
-<h3>1285. Turfu - <b>Maison</b> (Bourrée 2 temps)</h3>
+<h3>1282. Turfu - <b>Maison</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17985,7 +18023,7 @@
 
 <hr>
 
-<h3>1286. Turfu - <b>Poney Club</b> (Bourrée 2 temps)</h3>
+<h3>1283. Turfu - <b>Poney Club</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17999,7 +18037,7 @@
 
 <hr>
 
-<h3>1287. Ulman - <b>Waltz Luberon</b> (Valse 3 temps)</h3>
+<h3>1284. Ulman - <b>Waltz Luberon</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18013,7 +18051,7 @@
 
 <hr>
 
-<h3>1288. Urze de Lume - <b>Repasseado Da Urze</b> (Repasseado)</h3>
+<h3>1285. Urze de Lume - <b>Repasseado Da Urze</b> (Repasseado)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18032,7 +18070,7 @@
 
 <hr>
 
-<h3>1289. UXU Kalhus - <b>Repasseado do Coelhinho</b> (Repasseado)</h3>
+<h3>1286. UXU Kalhus - <b>Repasseado do Coelhinho</b> (Repasseado)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18046,7 +18084,7 @@
 
 <hr>
 
-<h3>1290. Vach'inton.g - <b>Kanter dro</b> (Hanter Dro)</h3>
+<h3>1287. Vach'inton.g - <b>Kanter dro</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18060,7 +18098,7 @@
 
 <hr>
 
-<h3>1291. Vach'inton.g - <b>Morricone jig, Cercle circassien</b> (Cercle Circassien)</h3>
+<h3>1288. Vach'inton.g - <b>Morricone jig, Cercle circassien</b> (Cercle Circassien)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18074,7 +18112,7 @@
 
 <hr>
 
-<h3>1292. Vädur - <b>Fusk Olles schottis</b> (Scottish)</h3>
+<h3>1289. Vädur - <b>Fusk Olles schottis</b> (Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18088,7 +18126,7 @@
 
 <hr>
 
-<h3>1293. Valentin Barray - <b>Hanter dro</b> (Hanter Dro)</h3>
+<h3>1290. Valentin Barray - <b>Hanter dro</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18102,7 +18140,7 @@
 
 <hr>
 
-<h3>1294. Valentin Barray - <b>Mazurkina</b> (Mazurka)</h3>
+<h3>1291. Valentin Barray - <b>Mazurkina</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18116,7 +18154,7 @@
 
 <hr>
 
-<h3>1295. Vandiekomsa - <b>Schots In Cm</b> (Scottish)</h3>
+<h3>1292. Vandiekomsa - <b>Schots In Cm</b> (Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18130,7 +18168,7 @@
 
 <hr>
 
-<h3>1296. Variomatic - <b>De Montford / The A Team</b> (Bourrée 2 temps)</h3>
+<h3>1293. Variomatic - <b>De Montford / The A Team</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18144,7 +18182,7 @@
 
 <hr>
 
-<h3>1297. Variomatic - <b>De Montford-The A-Team</b> (Bourrée 2 temps)</h3>
+<h3>1294. Variomatic - <b>De Montford-The A-Team</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18158,7 +18196,7 @@
 
 <hr>
 
-<h3>1298. Variomatic - <b>Kerliguen-Belle Île</b> (An Dro)</h3>
+<h3>1295. Variomatic - <b>Kerliguen-Belle Île</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18172,7 +18210,7 @@
 
 <hr>
 
-<h3>1299. Väsen - <b>Rosenlundsvalsen</b> (Valse 3 temps)</h3>
+<h3>1296. Väsen - <b>Rosenlundsvalsen</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18186,7 +18224,7 @@
 
 <hr>
 
-<h3>1300. Velha Gaiteira - <b>Repasseado + Antigo Baile Agarrado</b> (Repasseado)</h3>
+<h3>1297. Velha Gaiteira - <b>Repasseado + Antigo Baile Agarrado</b> (Repasseado)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18200,7 +18238,7 @@
 
 <hr>
 
-<h3>1301. ViatoreS - <b>Drumul Dracului</b> (Drumul Dracului)</h3>
+<h3>1298. ViatoreS - <b>Drumul Dracului</b> (Drumul Dracului)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18214,7 +18252,7 @@
 
 <hr>
 
-<h3>1302. Vicki Swan & Jonny Dyer - <b>Driving Home Chapelloise</b> (Chapelloise)</h3>
+<h3>1299. Vicki Swan & Jonny Dyer - <b>Driving Home Chapelloise</b> (Chapelloise)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18228,7 +18266,7 @@
 
 <hr>
 
-<h3>1303. Vince Raguera - <b>Maraichine</b> (Maraîchine)</h3>
+<h3>1300. Vince Raguera - <b>Maraichine</b> (Maraîchine)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18242,7 +18280,7 @@
 
 <hr>
 
-<h3>1304. Vinta - <b>Bourrée Isolée</b> (Bourrée 3 temps)</h3>
+<h3>1301. Vinta - <b>Bourrée Isolée</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18256,7 +18294,7 @@
 
 <hr>
 
-<h3>1305. Viorel - <b>On Tour no Tour</b> (Bourrée 2 temps)</h3>
+<h3>1302. Viorel - <b>On Tour no Tour</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18270,7 +18308,7 @@
 
 <hr>
 
-<h3>1306. Warsaw Village Band - <b>Polka Emigrantka</b> (Polka)</h3>
+<h3>1303. Warsaw Village Band - <b>Polka Emigrantka</b> (Polka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18284,7 +18322,7 @@
 
 <hr>
 
-<h3>1307. Warsaw Village Band - <b>Polka szydłowiecka</b> (Polka)</h3>
+<h3>1304. Warsaw Village Band - <b>Polka szydłowiecka</b> (Polka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18298,7 +18336,7 @@
 
 <hr>
 
-<h3>1308. Warsaw Village Band - <b>Polka z Sieradzkiego</b> (Polka)</h3>
+<h3>1305. Warsaw Village Band - <b>Polka z Sieradzkiego</b> (Polka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18312,7 +18350,7 @@
 
 <hr>
 
-<h3>1309. Wim te Groen - <b>An Dro</b> (An Dro)</h3>
+<h3>1306. Wim te Groen - <b>An Dro</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18326,7 +18364,7 @@
 
 <hr>
 
-<h3>1310. Wim te Groen - <b>Eerste Mazurka (mazurka /scottish)</b> (Mazurka)</h3>
+<h3>1307. Wim te Groen - <b>Eerste Mazurka (mazurka /scottish)</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18340,7 +18378,7 @@
 
 <hr>
 
-<h3>1311. Wim te Groen - <b>Eerste Mazurka (mazurka /scottish)</b> (Scottish)</h3>
+<h3>1308. Wim te Groen - <b>Eerste Mazurka (mazurka /scottish)</b> (Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18354,7 +18392,7 @@
 
 <hr>
 
-<h3>1312. Wim te Groen - <b>Wat Een Leuk Walsje (Mazurka)</b> (Mazurka)</h3>
+<h3>1309. Wim te Groen - <b>Wat Een Leuk Walsje (Mazurka)</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18368,7 +18406,7 @@
 
 <hr>
 
-<h3>1313. Wim te Groen - <b>Wat een leuk walsje (mazurka)</b> (Mazurka)</h3>
+<h3>1310. Wim te Groen - <b>Wat een leuk walsje (mazurka)</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18382,7 +18420,7 @@
 
 <hr>
 
-<h3>1314. Wipidoup - <b>Bottin cherche bottine - Mazurka</b> (Mazurka)</h3>
+<h3>1311. Wipidoup - <b>Bottin cherche bottine - Mazurka</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18396,7 +18434,7 @@
 
 <hr>
 
-<h3>1315. Wouter en De Draak - <b>Costa Gwad</b> (Kost ar c'hoad)</h3>
+<h3>1312. Wouter en De Draak - <b>Costa Gwad</b> (Kost ar c'hoad)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18410,7 +18448,7 @@
 
 <hr>
 
-<h3>1316. Wouter en De Draak - <b>Davy's Waltz</b> (Valse 8 temps)</h3>
+<h3>1313. Wouter en De Draak - <b>Davy's Waltz</b> (Valse 8 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18424,7 +18462,7 @@
 
 <hr>
 
-<h3>1317. Wouter en De Draak - <b>Davy's waltz</b> (Valse 3 temps)</h3>
+<h3>1314. Wouter en De Draak - <b>Davy's waltz</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18438,7 +18476,7 @@
 
 <hr>
 
-<h3>1318. Wouter en De Draak - <b>Dieseldrone / ménage à trois</b> (Bourrée 3 temps)</h3>
+<h3>1315. Wouter en De Draak - <b>Dieseldrone / ménage à trois</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18452,7 +18490,7 @@
 
 <hr>
 
-<h3>1319. Wouter en De Draak - <b>Dusgemint</b> (Bourrée 2 temps)</h3>
+<h3>1316. Wouter en De Draak - <b>Dusgemint</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18466,7 +18504,7 @@
 
 <hr>
 
-<h3>1320. Wouter en De Draak - <b>Fireflies and Mosquitoes</b> (Bourrée 2 temps)</h3>
+<h3>1317. Wouter en De Draak - <b>Fireflies and Mosquitoes</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18480,7 +18518,7 @@
 
 <hr>
 
-<h3>1321. Wouter en De Draak - <b>Gavotte caresse</b> (Gavotte de l'Aven)</h3>
+<h3>1318. Wouter en De Draak - <b>Gavotte caresse</b> (Gavotte de l'Aven)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18494,7 +18532,7 @@
 
 <hr>
 
-<h3>1322. Wouter en De Draak - <b>Gavotte de Grenoble</b> (Gavotte de l'Aven)</h3>
+<h3>1319. Wouter en De Draak - <b>Gavotte de Grenoble</b> (Gavotte de l'Aven)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18508,7 +18546,7 @@
 
 <hr>
 
-<h3>1323. Wouter en De Draak - <b>Gort met Stroop</b> (An Dro)</h3>
+<h3>1320. Wouter en De Draak - <b>Gort met Stroop</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18522,7 +18560,7 @@
 
 <hr>
 
-<h3>1324. Wouter en De Draak - <b>Hanterko</b> (Hanter Dro)</h3>
+<h3>1321. Wouter en De Draak - <b>Hanterko</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18541,7 +18579,7 @@
 
 <hr>
 
-<h3>1325. Wouter en De Draak - <b>He'pter</b> (Valse 11 temps)</h3>
+<h3>1322. Wouter en De Draak - <b>He'pter</b> (Valse 11 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18555,7 +18593,7 @@
 
 <hr>
 
-<h3>1326. Wouter en De Draak - <b>Mazurmeau</b> (Mazurka)</h3>
+<h3>1323. Wouter en De Draak - <b>Mazurmeau</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18569,7 +18607,7 @@
 
 <hr>
 
-<h3>1327. Wouter en De Draak - <b>Monsieur 7</b> (Mazurka)</h3>
+<h3>1324. Wouter en De Draak - <b>Monsieur 7</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18583,7 +18621,7 @@
 
 <hr>
 
-<h3>1328. Wouter en De Draak - <b>New Horizons, New Adventures</b> (Cercle Circassien)</h3>
+<h3>1325. Wouter en De Draak - <b>New Horizons, New Adventures</b> (Cercle Circassien)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18597,7 +18635,7 @@
 
 <hr>
 
-<h3>1329. Wouter en De Draak - <b>Sarah's Waltz</b> (Valse 3 temps)</h3>
+<h3>1326. Wouter en De Draak - <b>Sarah's Waltz</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18611,7 +18649,7 @@
 
 <hr>
 
-<h3>1330. Wouter en De Draak - <b>Taurus / Stinkpot</b> (Bourrée 3 temps)</h3>
+<h3>1327. Wouter en De Draak - <b>Taurus / Stinkpot</b> (Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18625,7 +18663,7 @@
 
 <hr>
 
-<h3>1331. Wouter en De Draak - <b>Vliegende graafmachine</b> (Valse 5 temps)</h3>
+<h3>1328. Wouter en De Draak - <b>Vliegende graafmachine</b> (Valse 5 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18639,7 +18677,7 @@
 
 <hr>
 
-<h3>1332. Xabi Aburruzaga - <b>Afreekandango</b> (Fandango & Arin Arin)</h3>
+<h3>1329. Xabi Aburruzaga - <b>Afreekandango</b> (Fandango & Arin Arin)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18653,7 +18691,7 @@
 
 <hr>
 
-<h3>1333. Xabi Aburruzaga, Xabier Zeberio - <b>Ezpatadantzari</b> (Chapelloise)</h3>
+<h3>1330. Xabi Aburruzaga, Xabier Zeberio - <b>Ezpatadantzari</b> (Chapelloise)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18667,7 +18705,7 @@
 
 <hr>
 
-<h3>1334. Yann-Fañch Kemener Trio - <b>An dro an Trouzerion</b> (An Dro)</h3>
+<h3>1331. Yann-Fañch Kemener Trio - <b>An dro an Trouzerion</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18681,7 +18719,7 @@
 
 <hr>
 
-<h3>1335. Yann-Fañch Kemener, ba.fnu - <b>Hanter Dro</b> (Hanter Dro)</h3>
+<h3>1332. Yann-Fañch Kemener, ba.fnu - <b>Hanter Dro</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Bandcamp</big></summary>
@@ -18700,7 +18738,7 @@
 
 <hr>
 
-<h3>1336. Yann-Fañch Kemener, ba.fnu - <b>Kost' Ar C'hoed</b> (Kost ar c'hoad)</h3>
+<h3>1333. Yann-Fañch Kemener, ba.fnu - <b>Kost' Ar C'hoed</b> (Kost ar c'hoad)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18714,7 +18752,7 @@
 
 <hr>
 
-<h3>1337. Yann-Fañch Kemener, ba.fnu - <b>Scottish</b> (Scottish)</h3>
+<h3>1334. Yann-Fañch Kemener, ba.fnu - <b>Scottish</b> (Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18728,16 +18766,21 @@
 
 <hr>
 
-<h3>1338. Zayendo - <b>Los Capuchinus</b> (Bourrée 2 temps)</h3>
+<h3>1335. Zayendo - <b>Los Capuchinus</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7lrPqD3a8xlxzfZuWZuDa3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/w3fNvDkDo4A?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
-<h3>1339. Zef - <b>Bachelier</b> (Bourrée 2 temps)</h3>
+<h3>1336. Zef - <b>Bachelier</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18751,7 +18794,7 @@
 
 <hr>
 
-<h3>1340. Zef - <b>Gavotte Fiif</b> (Gavotte de l'Aven)</h3>
+<h3>1337. Zef - <b>Gavotte Fiif</b> (Gavotte de l'Aven)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18765,16 +18808,21 @@
 
 <hr>
 
-<h3>1341. Zef - <b>K.c.</b> (Bourrée 2 temps)</h3>
+<h3>1338. Zef - <b>K.c.</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2QpDwV0XkgLQcpTgRvvRsr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/SYUj8Xn_DOo?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
-<h3>1342. Zef - <b>Kerleguer-Vinca</b> (Bourrée 2 temps)</h3>
+<h3>1339. Zef - <b>Kerleguer-Vinca</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18788,7 +18836,7 @@
 
 <hr>
 
-<h3>1343. Zef - <b>Pélican</b> (Hanter Dro)</h3>
+<h3>1340. Zef - <b>Pélican</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18802,7 +18850,7 @@
 
 <hr>
 
-<h3>1344. Zef - <b>Scottish a Julo</b> (Scottish)</h3>
+<h3>1341. Zef - <b>Scottish a Julo</b> (Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18816,7 +18864,7 @@
 
 <hr>
 
-<h3>1345. Zef - <b>Valse de l'Abrenat</b> (Valse 3 temps)</h3>
+<h3>1342. Zef - <b>Valse de l'Abrenat</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18830,7 +18878,7 @@
 
 <hr>
 
-<h3>1346. Zef, zffrs - <b>Solitude</b> (Mazurka)</h3>
+<h3>1343. Zef, zffrs - <b>Solitude</b> (Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18844,16 +18892,21 @@
 
 <hr>
 
-<h3>1347. Zef, zffrs - <b>Triolan</b> (An Dro)</h3>
+<h3>1344. Zef, zffrs - <b>Triolan</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0pm8TRl6ffFOF5lD5V2oKj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/CCDfKwnfEiw?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
 <hr>
 
-<h3>1348. Zero 7 - <b>Look Up</b> (Valse 8 temps)</h3>
+<h3>1345. Zero 7 - <b>Look Up</b> (Valse 8 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18867,7 +18920,7 @@
 
 <hr>
 
-<h3>1349. Zirp - <b>El Vals</b> (Valse 3 temps)</h3>
+<h3>1346. Zirp - <b>El Vals</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18881,7 +18934,7 @@
 
 <hr>
 
-<h3>1350. Zlabya - <b>Besac</b> (Valse 3 temps)</h3>
+<h3>1347. Zlabya - <b>Besac</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Bandcamp</big></summary>
@@ -18900,7 +18953,7 @@
 
 <hr>
 
-<h3>1351. Zlabya - <b>Chevaline</b> (Bourrée 2 temps)</h3>
+<h3>1348. Zlabya - <b>Chevaline</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18914,7 +18967,7 @@
 
 <hr>
 
-<h3>1352. Zlabya - <b>Circulo - Live</b> (Cercle Circassien)</h3>
+<h3>1349. Zlabya - <b>Circulo - Live</b> (Cercle Circassien)</h3>
 
 <details>
 <summary><big>Bandcamp</big></summary>
@@ -18933,7 +18986,7 @@
 
 <hr>
 
-<h3>1353. Zlabya - <b>Fire Crackers</b> (An Dro)</h3>
+<h3>1350. Zlabya - <b>Fire Crackers</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18947,7 +19000,7 @@
 
 <hr>
 
-<h3>1354. ZLABYA - <b>Jammin</b> (Cercle Circassien)</h3>
+<h3>1351. ZLABYA - <b>Jammin</b> (Cercle Circassien)</h3>
 
 <details>
 <summary><big>Bandcamp</big></summary>
@@ -18961,7 +19014,7 @@
 
 <hr>
 
-<h3>1355. Zlabya - <b>La fille en feuille d'arbre - Live</b> (Bourrée 2 temps)</h3>
+<h3>1352. Zlabya - <b>La fille en feuille d'arbre - Live</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18975,7 +19028,7 @@
 
 <hr>
 
-<h3>1356. ZLABYA - <b>La Fille En Feuilles d'Arbre</b> (Bourrée 2 temps)</h3>
+<h3>1353. ZLABYA - <b>La Fille En Feuilles d'Arbre</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -18989,7 +19042,7 @@
 
 <hr>
 
-<h3>1357. Zlabya - <b>La pégreuse</b> (Bourrée 2 temps)</h3>
+<h3>1354. Zlabya - <b>La pégreuse</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -19003,7 +19056,7 @@
 
 <hr>
 
-<h3>1358. Zlabya - <b>La pégreuse - Live</b> (Bourrée 2 temps)</h3>
+<h3>1355. Zlabya - <b>La pégreuse - Live</b> (Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -19017,7 +19070,7 @@
 
 <hr>
 
-<h3>1359. Zlabya - <b>Les Îles Sandwich</b> (Scottish impaire)</h3>
+<h3>1356. Zlabya - <b>Les Îles Sandwich</b> (Scottish impaire)</h3>
 
 <details>
 <summary><big>Bandcamp</big></summary>
@@ -19036,7 +19089,7 @@
 
 <hr>
 
-<h3>1360. ZLABYA - <b>Little Horse</b> (Hanter Dro)</h3>
+<h3>1357. ZLABYA - <b>Little Horse</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -19050,7 +19103,7 @@
 
 <hr>
 
-<h3>1361. Zlabya - <b>Mammatus</b> (Chapelloise)</h3>
+<h3>1358. Zlabya - <b>Mammatus</b> (Chapelloise)</h3>
 
 <details>
 <summary><big>Bandcamp</big></summary>
@@ -19069,7 +19122,7 @@
 
 <hr>
 
-<h3>1362. ZLABYA - <b>Sirop de sureau</b> (Hanter Dro)</h3>
+<h3>1359. ZLABYA - <b>Sirop de sureau</b> (Hanter Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -19083,7 +19136,7 @@
 
 <hr>
 
-<h3>1363. Zlabya - <b>Sweet Sally Grey - Live</b> (Chapelloise)</h3>
+<h3>1360. Zlabya - <b>Sweet Sally Grey - Live</b> (Chapelloise)</h3>
 
 <details>
 <summary><big>Bandcamp</big></summary>
@@ -19102,7 +19155,7 @@
 
 <hr>
 
-<h3>1364. Zoufris Maracas - <b>Le peuple à l'œil</b> (An Dro)</h3>
+<h3>1361. Zoufris Maracas - <b>Le peuple à l'œil</b> (An Dro)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -19116,7 +19169,7 @@
 
 <hr>
 
-<h3>1365. Zurgó - <b>Ördög útja - Drumul dracului</b> (Drumul Dracului)</h3>
+<h3>1362. Zurgó - <b>Ördög útja - Drumul dracului</b> (Drumul Dracului)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

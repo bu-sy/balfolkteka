@@ -848,7 +848,7 @@
 
 [Naragonia (33)](music_by_artist/naragonia.md)
 
-[Naragonia Quartet (18)](music_by_artist/naragonia_quartet.md)
+[Naragonia Quartet (17)](music_by_artist/naragonia_quartet.md)
 
 [Navarra (1)](music_by_artist/navarra.md)
 
@@ -941,8 +941,6 @@
 [Peter Moree (1)](music_by_artist/peter_moree.md)
 
 [Petit Piment (3)](music_by_artist/petit_piment.md)
-
-[Peut-être Jeanne (1)](music_by_artist/peut_etre_jeanne.md)
 
 [Philippe Bataille (1)](music_by_artist/philippe_bataille.md)
 
@@ -1090,7 +1088,7 @@
 
 [Startijenn (4)](music_by_artist/startijenn.md)
 
-[Stefano Baldan (3)](music_by_artist/stefano_baldan.md)
+[Stefano Baldan (2)](music_by_artist/stefano_baldan.md)
 
 [Stéphane Milleret (5)](music_by_artist/stephane_milleret.md)
 

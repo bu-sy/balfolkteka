@@ -93,7 +93,7 @@ links:
       link: https://open.spotify.com/track/7hlkZwnPZIMobfDmNMbnY6
     from_playlist:
     - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Asynje, Nanna Barslev
     track_name: Havhingstens jomfrufærd
     links:
@@ -657,9 +657,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2Yi0x4XCPbmErwbbz8HZwQ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Zs4plD26b-M
     from_playlist:
     - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-    no_youtube_link: true
   - artist: Monsieur Fruits
     track_name: Afro Celt
     links:
@@ -735,9 +736,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1Q8yDlER9fF8s4Vj9Wrl2h
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=a5sgu7PAB4Y
     from_playlist:
     - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-    no_youtube_link: true
   - artist: OMNIA
     track_name: Wolf an Dro
     links:
@@ -845,7 +847,7 @@ links:
       link: https://open.spotify.com/track/4FuhHZFLcAaMQccm3jlLqi
     from_playlist:
     - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Rémi Geffroy
     track_name: Les larmes de sable
     links:
@@ -1065,9 +1067,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0pm8TRl6ffFOF5lD5V2oKj
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=CCDfKwnfEiw
     from_playlist:
     - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-    no_youtube_link: true
   - artist: Zlabya
     track_name: Fire Crackers
     links:

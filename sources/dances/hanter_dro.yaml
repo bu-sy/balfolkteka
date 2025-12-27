@@ -11,6 +11,9 @@ links:
   - link: https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
   - link: https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
   - link: https://open.spotify.com/playlist/25fWKPzv5TegVwGq4DrWTb
+  - link: https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
+  - link: https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
+  - link: https://open.spotify.com/playlist/3O3LLHaUatVsLeC9ElJnj3
   tracks:
   - artist: Ad Vielle Que Pourra
     track_name: Chupad Melen/Hanterdro Tid' Poc'h
@@ -60,6 +63,7 @@ links:
       link: https://www.youtube.com/watch?v=5nQNM9vLmoA
     from_playlist:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
   - artist: Ampouailh
     track_name: Hanternoz's Jigs
     links:
@@ -151,6 +155,23 @@ links:
       link: https://www.youtube.com/watch?v=pj-JlrZ62SU
     from_playlist:
     - https://open.spotify.com/playlist/25fWKPzv5TegVwGq4DrWTb
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
+    - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
+  - artist: Barba Loutig
+    track_name: Eit ma kreskei ar garantez
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5j76us7ezEHiSBACzauluu
+    from_playlist:
+    - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
+  - artist: Bargainatt
+    track_name: Hanter dro Kroaz er lann - En route
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2Q42w832knkxli5nBPG8ki
+    from_playlist:
+    - https://open.spotify.com/playlist/3O3LLHaUatVsLeC9ElJnj3
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
   - artist: Bellevue Rendezvous
     track_name: Hanter Dro / Tuolpagorni
     links:
@@ -187,6 +208,13 @@ links:
       link: https://www.youtube.com/watch?v=SQNVBIltc8U
     from_playlist:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
+  - artist: Blue Reed
+    track_name: Deleuze
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/22LGNpuo0AvGA0XhfaMH3D
+    from_playlist:
+    - https://open.spotify.com/playlist/3O3LLHaUatVsLeC9ElJnj3
   - artist: Boubacar Souleymane, Le Bour Bodros
     track_name: Roc'h vrein - Hanter dro
     links:
@@ -198,6 +226,8 @@ links:
     - https://open.spotify.com/playlist/25fWKPzv5TegVwGq4DrWTb
     - https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
+    - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
   - artist: Broes
     track_name: Poveiros
     links:
@@ -216,6 +246,27 @@ links:
       link: https://www.youtube.com/watch?v=YsHIN2kqooQ
     from_playlist:
     - https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
+  - artist: Cadène, Camille Raibaud, Julien Barbances, Sylvain Quéré, Tiennet Simonnin, Tradethik Productions
+    track_name: Hent gwened -épilogue
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2z3YJyaW4x8RnkJNcHFaaR
+    from_playlist:
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
+  - artist: Cardboard Cabin
+    track_name: Jus d'Orage
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6By4iGXi0zsrI750GEJ0sm
+    from_playlist:
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
+  - artist: Cardboard Cabin
+    track_name: Piet Primaat
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3A4Wq25s7Q0Et8CZEl6zjh
+    from_playlist:
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
   - artist: Carré Manchot
     track_name: Hanter dro
     links:
@@ -227,6 +278,7 @@ links:
       link: https://www.youtube.com/watch?v=e7IJPy5atz4
     from_playlist:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
   - artist: Cassard
     track_name: La bataille de Syracuse
     links:
@@ -243,8 +295,11 @@ links:
       link: https://open.spotify.com/track/1E5WcTKHElU9GpDcrBm48M
     - portal: YouTube
       link: https://www.youtube.com/watch?v=RwNLx1Zano4
+    - portal: Spotify
+      link: https://open.spotify.com/track/1g3ClC7l2XQwbJg6BbWJS5
     from_playlist:
     - https://open.spotify.com/playlist/25fWKPzv5TegVwGq4DrWTb
+    - https://open.spotify.com/playlist/3O3LLHaUatVsLeC9ElJnj3
   - artist: Christian Anneix, Hervé l'Hyver, Jean Baron
     track_name: Hanter dro
     links:
@@ -299,6 +354,7 @@ links:
       link: https://www.youtube.com/watch?v=o4aYnvRPHAA
     from_playlist:
     - https://open.spotify.com/playlist/25fWKPzv5TegVwGq4DrWTb
+    - https://open.spotify.com/playlist/3O3LLHaUatVsLeC9ElJnj3
   - artist: Die Irrlichter
     track_name: Hanta Dio
     links:
@@ -308,6 +364,7 @@ links:
       link: https://www.youtube.com/watch?v=qIhdsgTIyLo
     from_playlist:
     - https://open.spotify.com/playlist/25fWKPzv5TegVwGq4DrWTb
+    - https://open.spotify.com/playlist/3O3LLHaUatVsLeC9ElJnj3
   - artist: Digresk
     track_name: Dislontegezh - Hanter dro
     links:
@@ -371,6 +428,13 @@ links:
       link: https://www.youtube.com/watch?v=EV0PfM3G5cw
     from_playlist:
     - https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
+  - artist: EmBRUN
+    track_name: La Belle Dame / Hanterdrone
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2pcx6Tqal328p6SFxNNZsp
+    from_playlist:
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
   - artist: Esquisse
     track_name: Palms - Hanter dro
     links:
@@ -399,6 +463,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/25fWKPzv5TegVwGq4DrWTb
     - https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
   - artist: Fest Noz
     track_name: Hanter Dro
     links:
@@ -420,6 +485,9 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
+    - https://open.spotify.com/playlist/3O3LLHaUatVsLeC9ElJnj3
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
+    - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
   - artist: Gonnagles
     track_name: Minimal Hanter Dro
     links:
@@ -438,6 +506,7 @@ links:
       link: https://www.youtube.com/watch?v=JTnfawlrGAs
     from_playlist:
     - https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
+    - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
   - artist: Groupe Dir Ha Tan
     track_name: 'Hanter-dro : Parrez kistinid'
     links:
@@ -482,6 +551,13 @@ links:
       link: https://www.youtube.com/watch?v=5s-o_rXm-GY
     from_playlist:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
+  - artist: Hot Griselda
+    track_name: Captain Barny - Tinderbox
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0Izu6QBMdhjDp36MtYn0sM
+    from_playlist:
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
   - artist: Illa
     track_name: Madrid
     links:
@@ -491,6 +567,7 @@ links:
       link: https://www.youtube.com/watch?v=qmiXyAKQJ-Y
     from_playlist:
     - https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
   - artist: Jean Baron -Christian Anneix
     track_name: Hanter dro
     links:
@@ -518,6 +595,15 @@ links:
       link: https://www.youtube.com/watch?v=Xj6BGXjIvX4
     from_playlist:
     - https://open.spotify.com/playlist/25fWKPzv5TegVwGq4DrWTb
+    - https://open.spotify.com/playlist/3O3LLHaUatVsLeC9ElJnj3
+  - artist: Karim Baggili, Kv Express
+    track_name: '1302'
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3DBupDUydAcCpwxGmcot0v
+    from_playlist:
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
+    - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
   - artist: Kerbedig
     track_name: 'Hanterdro : An dilhad Sul - Live'
     links:
@@ -564,6 +650,7 @@ links:
       link: https://www.youtube.com/watch?v=6KU_ijvUkUw
     from_playlist:
     - https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
   - artist: La Sauterelle
     track_name: Gibier de potence
     links:
@@ -573,6 +660,7 @@ links:
       link: https://www.youtube.com/watch?v=SLXyRsa5Wtc
     from_playlist:
     - https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
   - artist: La cuivraille
     track_name: Quand J'étais Chez Mon Père
     blacklist: true #Unavailable on Spotify
@@ -601,6 +689,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/25fWKPzv5TegVwGq4DrWTb
     - https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
+    - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
   - artist: Les frères Kervadec
     track_name: Hanter Oro
     links:
@@ -689,6 +778,18 @@ links:
       link: https://www.youtube.com/watch?v=n2TyI9HiuAA
     from_playlist:
     - https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
+  - artist: Naragonia
+    track_name: Calimero
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/01GJMno5KGfOKGtMgYqaVf
+    - portal: Spotify
+      link: https://open.spotify.com/track/1d9DcVuAzvFsBMGhMcwNyO
+    from_playlist:
+    - https://open.spotify.com/playlist/3O3LLHaUatVsLeC9ElJnj3
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
+    - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
   - artist: Naragonia
     track_name: Calimero - Live
     links:
@@ -698,6 +799,20 @@ links:
       link: https://www.youtube.com/watch?v=Q_NCUYKDufY
     from_playlist:
     - https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
+  - artist: Naragonia, Naragonia Quartet
+    track_name: Lilac / Dave the Watchman
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6wQWNiA2V27QYdmrvfLnMZ
+    from_playlist:
+    - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
+  - artist: Ormuz
+    track_name: Jeune Marié
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/59utGGIcdBLq3y5yNowFAx
+    from_playlist:
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
   - artist: Patrick Molard
     track_name: Chenhet'neus An Am Zer - Hanter Dro
     links:
@@ -716,6 +831,13 @@ links:
       link: https://www.youtube.com/watch?v=OvuY3liUVo8
     from_playlist:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
+  - artist: Peut-être Jeanne
+    track_name: Les p'tites frites
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5MYqgTWAduE0U4UCJL5QdS
+    from_playlist:
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
   - artist: Plantec
     track_name: Arnod (Hanter dro)
     links:
@@ -726,6 +848,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/25fWKPzv5TegVwGq4DrWTb
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
   - artist: Potes Flor' (Diou Flo)
     track_name: Hanter Dro
     links:
@@ -762,6 +885,13 @@ links:
       link: https://www.youtube.com/watch?v=eb0NIOLBFJM
     from_playlist:
     - https://open.spotify.com/playlist/25fWKPzv5TegVwGq4DrWTb
+  - artist: Snaarmaarwaar
+    track_name: Dance To Your Daddy
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1s2Sc27xpDQ4A0oBpNPwJF
+    from_playlist:
+    - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
   - artist: Sonerien Du
     track_name: Barfield's hanternoz
     links:
@@ -808,6 +938,13 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
   - artist: Sterne
+    track_name: Hanter Dro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2XM3F14LEGywzL5h4U1em8
+    from_playlist:
+    - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
+  - artist: Sterne
     track_name: Hanter dro (Du-hont ar ar manez)
     links:
     - portal: Spotify
@@ -838,6 +975,7 @@ links:
       link: https://www.youtube.com/watch?v=76Idin15C4c
     from_playlist:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
+    - https://open.spotify.com/playlist/3O3LLHaUatVsLeC9ElJnj3
   - artist: Ti Jaz
     track_name: Hanter Dro Bamenjou
     links:
@@ -856,6 +994,13 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
     no_youtube_link: true #Verified
+  - artist: Trio Dhoore
+    track_name: Heartbeat
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4NrwdiLb8Yn6XSf5YAryuz
+    from_playlist:
+    - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
   - artist: Trio Forj
     track_name: Hanter dro
     links:
@@ -865,6 +1010,13 @@ links:
       link: https://www.youtube.com/watch?v=dVvGQoA9yDg
     from_playlist:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
+  - artist: Trio Loubelya
+    track_name: Nid D'Aigle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3QcFNAzKFDxUZAF4zGHlHe
+    from_playlist:
+    - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
   - artist: Trouzerion
     track_name: Hanterdro
     links:
@@ -913,6 +1065,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/25fWKPzv5TegVwGq4DrWTb
     - https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
+    - https://open.spotify.com/playlist/3O3LLHaUatVsLeC9ElJnj3
   - artist: Yann-Fañch Kemener, ba.fnu
     track_name: Hanter Dro
     links:
@@ -925,3 +1078,24 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/25fWKPzv5TegVwGq4DrWTb
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
+  - artist: ZLABYA
+    track_name: Little Horse
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/74wtiCDaHaoeBfJVtqO5kg
+    from_playlist:
+    - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
+  - artist: ZLABYA
+    track_name: Sirop de sureau
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1nwTP1XRSJPLhuCJu0D6wx
+    from_playlist:
+    - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1
+  - artist: Zef
+    track_name: Pélican
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1UUq0sxWoasAxchv4Wy3xG
+    from_playlist:
+    - https://open.spotify.com/playlist/5dHNnndrDAC3K5Hav6V6Q1

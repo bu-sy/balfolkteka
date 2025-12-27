@@ -1,4 +1,4 @@
-## Hanter Dro (97)
+## Hanter Dro (117)
 
 <hr>
 
@@ -217,6 +217,24 @@
 
 <hr>
 
+<h3>Barba Loutig - <b>Eit ma kreskei ar garantez</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5j76us7ezEHiSBACzauluu?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Bargainatt - <b>Hanter dro Kroaz er lann - En route</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2Q42w832knkxli5nBPG8ki?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Bellevue Rendezvous - <b>Hanter Dro / Tuolpagorni</b></h3>
 
 <details>
@@ -282,6 +300,15 @@
 
 <hr>
 
+<h3>Blue Reed - <b>Deleuze</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/22LGNpuo0AvGA0XhfaMH3D?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Boubacar Souleymane, Le Bour Bodros - <b>Roc'h vrein - Hanter dro</b></h3>
 
 <details>
@@ -306,6 +333,33 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/R2zzHrdynE8?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Cadène, Camille Raibaud, Julien Barbances, Sylvain Quéré, Tiennet Simonnin, Tradethik Productions - <b>Hent gwened -épilogue</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2z3YJyaW4x8RnkJNcHFaaR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Cardboard Cabin - <b>Jus d'Orage</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6By4iGXi0zsrI750GEJ0sm?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Cardboard Cabin - <b>Piet Primaat</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3A4Wq25s7Q0Et8CZEl6zjh?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -362,6 +416,11 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1E5WcTKHElU9GpDcrBm48M?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1g3ClC7l2XQwbJg6BbWJS5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>
@@ -553,6 +612,15 @@
 
 <hr>
 
+<h3>EmBRUN - <b>La Belle Dame / Hanterdrone</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2pcx6Tqal328p6SFxNNZsp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Esquisse - <b>Palms - Hanter dro</b></h3>
 
 <details>
@@ -721,6 +789,15 @@
 
 <hr>
 
+<h3>Hot Griselda - <b>Captain Barny - Tinderbox</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0Izu6QBMdhjDp36MtYn0sM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Illa - <b>Madrid</b></h3>
 
 <details>
@@ -773,6 +850,15 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Xj6BGXjIvX4?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Karim Baggili, Kv Express - <b>1302</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3DBupDUydAcCpwxGmcot0v?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -1005,6 +1091,20 @@
 
 <hr>
 
+<h3>Naragonia - <b>Calimero</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/01GJMno5KGfOKGtMgYqaVf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1d9DcVuAzvFsBMGhMcwNyO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Naragonia - <b>Calimero - Live</b></h3>
 
 <details>
@@ -1019,6 +1119,15 @@
 
 <hr>
 
+<h3>Naragonia, Naragonia Quartet - <b>Lilac / Dave the Watchman</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6wQWNiA2V27QYdmrvfLnMZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>NIJ - <b>Chaldéné - Hanter-Dro</b></h3>
 
 <details>
@@ -1029,6 +1138,15 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/n2TyI9HiuAA?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Ormuz - <b>Jeune Marié</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/59utGGIcdBLq3y5yNowFAx?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -1057,6 +1175,15 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/OvuY3liUVo8?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Peut-être Jeanne - <b>Les p'tites frites</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5MYqgTWAduE0U4UCJL5QdS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -1131,6 +1258,15 @@
 
 <hr>
 
+<h3>Snaarmaarwaar - <b>Dance To Your Daddy</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1s2Sc27xpDQ4A0oBpNPwJF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Sonerien Du - <b>Barfield's hanternoz</b></h3>
 
 <details>
@@ -1201,6 +1337,15 @@
 
 <hr>
 
+<h3>Sterne - <b>Hanter Dro</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2XM3F14LEGywzL5h4U1em8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Sterne - <b>Hanter dro (Du-hont ar ar manez)</b></h3>
 
 <details>
@@ -1267,6 +1412,15 @@
 
 <hr>
 
+<h3>Trio Dhoore - <b>Heartbeat</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4NrwdiLb8Yn6XSf5YAryuz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Trio Forj - <b>Hanter dro</b></h3>
 
 <details>
@@ -1277,6 +1431,15 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/dVvGQoA9yDg?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Trio Loubelya - <b>Nid D'Aigle</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3QcFNAzKFDxUZAF4zGHlHe?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -1371,4 +1534,31 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/xPz-zcTY_EI?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Zef - <b>Pélican</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1UUq0sxWoasAxchv4Wy3xG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>ZLABYA - <b>Little Horse</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/74wtiCDaHaoeBfJVtqO5kg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>ZLABYA - <b>Sirop de sureau</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1nwTP1XRSJPLhuCJu0D6wx?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>

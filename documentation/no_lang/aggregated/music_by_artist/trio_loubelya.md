@@ -1,4 +1,4 @@
-# Trio Loubelya (18)
+# Trio Loubelya (20)
 
 <hr>
 
@@ -142,6 +142,20 @@
 
 <hr>
 
+<h3>Trio Loubelya - <b>Lollypop / Churchill Company ( bourrées à 2 temps )</b> (Bourrée 2 temps)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3DOTxA16ox31XTNMSqIboA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/VJ2NabTfcX8?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Trio Loubelya - <b>Marie</b> (Valse 3 temps)</h3>
 
 <details>
@@ -180,6 +194,15 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/cyeutrbX-NI?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Trio Loubelya - <b>Nid D'Aigle</b> (Hanter Dro)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3QcFNAzKFDxUZAF4zGHlHe?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>

@@ -1,4 +1,18 @@
-# Les genoux (1)
+# Les genoux (3)
+
+<hr>
+
+<h3>Les genoux - <b>La bourraude / Bourrée 2 temps</b> (Bourrée 2 temps)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4KCdlnyJgMzsx5ctlTAUDu?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/JDiAcPq8GKA?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
 
 <hr>
 
@@ -12,4 +26,18 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/BbpIrb-G0Rc?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Les genoux - <b>Les pattes velues / Bourrée 2 temps</b> (Bourrée 2 temps)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2gifPffXJvZyu6iJPxrXCI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/JV-ZjEal1qU?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>

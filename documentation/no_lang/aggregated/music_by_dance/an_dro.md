@@ -1,4 +1,4 @@
-## An Dro (31)
+## An Dro (118)
 
 <hr>
 
@@ -12,6 +12,15 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/bt5_m-A2wVw?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Accordzêam - <b>Hotel California</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2nN35LJzAF1dfzqPCu9gS7?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -30,6 +39,15 @@
 
 <hr>
 
+<h3>Alzamantes - <b>Introversi</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7ybOouvPTozt8FI4HwzCyu?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Ampouailh - <b>Lang(u)ages (An dro)</b></h3>
 
 <details>
@@ -40,6 +58,15 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/iSg74HNYk3I?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Annwn - <b>An Dro Medar</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5kV9b4FG7k3EGea1RX93ec?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -72,6 +99,24 @@
 
 <hr>
 
+<h3>Armelle Dousset, Matthieu Metzger - <b>Notte</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7hlkZwnPZIMobfDmNMbnY6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Asynje, Nanna Barslev - <b>Havhingstens jomfrufærd</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0Fj1HAdO3VugpnE1g5uAwZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>ba.fnu - <b>Revolution Onedro. An Dro</b></h3>
 
 <details>
@@ -82,6 +127,60 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6hRKqdZEUNg4YJOJXUlomf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Bal O'Gadjo - <b>Hamajiya</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7vZnZEzOaDRivkViEZefdw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Baliskis - <b>An Anglezed bonedeu ruz - An dro</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6DfM7ssZSTt9rL9aExNH0H?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Baliskis, Solen Lasbleiz - <b>Deus en-dro nevez-amzer</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0JrhQFKT7E8iqDrKb4kSvL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Baltazar Montanaro, Sophie Cavez - <b>Du cidre dans le désert</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2UBJC1EMeR3Yn0ae7iGYav?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Bargainatt - <b>L'arrivée</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2iqHLiOX6bnyg9CSNuZKQK?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Blowzabella - <b>Neylis - Track 5 Tilham</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/72pkZ67vQPQCj7cYIAwJMW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -100,6 +199,24 @@
 
 <hr>
 
+<h3>Broes - <b>Botanist</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4nPgEx0QlDOHB0D5VDZUyE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Broes - <b>El Pimpie</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1UXnY7Z4qvtivLhY0hTKbu?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Carré Manchot - <b>An dro / neg la cho</b></h3>
 
 <details>
@@ -110,6 +227,51 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/PNR5o79qiqw?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Castanha é Vinovèl - <b>Lo mestre de la maison - An-droc</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/00beOjqJrwjt1aX8MnDWOz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Ciac Boum - <b>La Bouetouse</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/27NTyQNTxJ8hCqDSFS5q0r?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Cocanha - <b>Dempuèi auriac</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0qNkaZahHUYumhxlAMgp33?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Coriandre - <b>La camba tòrta</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4YttoSDbcwwxe4zHL8BT4B?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Dahù - <b>Biscoitos</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/68q4hFtKBiMZXpaDFZhid0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -136,8 +298,40 @@
 </details>
 
 <details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2BIMpDJsWmamB8u9F46lae?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/_oBdDwqGN-M?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Duo Absynthe - <b>Azilia</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5S9s5CSmxaFBOI6sjICyrY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Duo Blain-Leyzour - <b>Deus en-dro nevez-amzer</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1IJUbjHSx4VQsEFDBjUxBV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Duo Nello - <b>Le tour du portique / En attendant nono</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3LferSsQY6BZCcPbBhCpQS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -152,6 +346,42 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/CyEBSwjBSZs?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>EmBRUN - <b>Isostar</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6hmph6sXvgwVTm5RBS9eYN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Estbel - <b>Metsakuningas</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3cUhAltDPnwSgSi5D1JzFf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Faun - <b>Andro</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5XSDEsaSSr94oREoi7dp4B?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Faun - <b>Andro II</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3E4FXGWgNHWIz7dEz0tYC2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -184,6 +414,15 @@
 
 <hr>
 
+<h3>Fleuves - <b>Kaza</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2uCPBa2h54luCrTxH145RG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Follia - <b>Andro decancq</b></h3>
 
 <details>
@@ -198,6 +437,24 @@
 
 <hr>
 
+<h3>Geronimo - <b>Wetland Track</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1ZzYbP4ZFXgR2fbE3sxMF4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>GFVP - <b>Er Is Maar Een Weg Naar Hundelgem</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7j7HzlcU1Es9SNanYIeTtM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Groove Factory - <b>First Glitch</b></h3>
 
 <details>
@@ -208,6 +465,33 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/BNL9V9ANILs?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Hidrae - <b>Dolly</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3EA9GR1Ksxa4GtYnAjj4ay?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Hot Griselda - <b>Den Hemel In</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/61cZZHGS6f0ByY9COowGMX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Hot Griselda - <b>Roll On - Roll Off</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1sQi36Dl6hlAWKgJLNa7X3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -254,6 +538,24 @@
 
 <hr>
 
+<h3>Jo Zanders, Karim Baggili, Kv Express - <b>Zafon</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6de2EL71e1Q0NImuVPsApI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Jon Ranes, ULD - <b>Sover du</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7BJNNmsQHnZBd1A5sRXQ5H?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Kendirvi - <b>Plac'hig Bro-Gwened - An dro</b></h3>
 
 <details>
@@ -282,6 +584,114 @@
 
 <hr>
 
+<h3>Kv Express - <b>L'étoile d'or</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3g7odgToYFqSXlHNJKLea2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Kv Express - <b>Little Monster</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1jOS8YGcKV94zcngVjfv6s?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Kv Express - <b>Lua Cheia</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/37ElfhGypYIBWbHt3ZtCie?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>L'herbe folle - <b>N'en parlons plus</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6HdvMi79ya2sF1n6a4F2fL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>La Bottines Artistiques - <b>LBA</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3LzHPW1uHGbYYvGBHVG4fA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>La Machine - <b>Jardin d'Amour</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0Ms10cgT691iYisKwFopVi?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Laïs - <b>Dorothea</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2jobPJa8Ee3lm3W5OtzPe0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Laïs - <b>Le Renard Et La Belette</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/02XJkuSVK6sdApVVpTfrWc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Le bal de l'éphémère - <b>Le bel été</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5bBXTEEeukEsV7Pek76dSW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Le Mange Bal - <b>L'arbre sans image</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1PLPKjLUW1a1qdNaXQMytH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Le Quintet à Claques - <b>Andropophage</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1B3mWM1RMiPcNRPFoIflf7?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Le Sextet à Claques - <b>Caraïbes - Live</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0K0xNwAe9tE6KzgS8IugvT?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Les Frères Paranthoën - <b>Lœiz - En dro</b></h3>
 
 <details>
@@ -296,6 +706,15 @@
 
 <hr>
 
+<h3>Les Zéoles - <b>Codariocalyx (Andro)</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5ugbDKNIK5umOnQWqQLChG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Lirio - <b>Andrito</b></h3>
 
 <details>
@@ -304,8 +723,94 @@
 </details>
 
 <details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2C9QfGKPSz7jGlGxbLvmoe?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Dm7gP5U67U8?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Loogaroo - <b>La Chiave</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/15bYgfuAWz1QXZxorEsBNq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Lothlorien - <b>Dans En Dro</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/258Yxn2JOZicDjwYIcV2Z4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Martina Quiere Bailar - <b>Tierra</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2Hzihc1WcVJtxW9YOTbht2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Mike Vass - <b>Cold Iron</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2Yi0x4XCPbmErwbbz8HZwQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Monsieur Fruits - <b>Afro Celt</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6GjGDrne89YNdxgAqoa8xr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Monsieur Fruits - <b>Moonlight</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6tevV8f7tFNegtvoh30ek1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Naragonia, Naragonia Quartet - <b>De Glind / The Fernhillfriends / An Dro de Vogüé</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4IY8zGj91iU6RAZJlpK6mB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Naragonia, Naragonia Quartet - <b>Hekske - De dieven</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7GlPppbpFSfMTJtOHXehxm?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Navarra - <b>I ett annat land</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6dCuOyumqGcE8jRzOI4up5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -324,6 +829,87 @@
 
 <hr>
 
+<h3>Nubia - <b>Elin & Eugenie</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2Oqf8xJxfybvxSjJ1yNClX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>OMIRI - <b>Dentro da Matriz</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6qjZszJ5TGsO3XQisYsMiG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>OMNIA - <b>An Dro</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1Q8yDlER9fF8s4Vj9Wrl2h?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>OMNIA - <b>Wolf an Dro</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3kZwRLGTgarfSczqw9uchr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>ORAJ - <b>Feu</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2fGw47KeO4khF8GCrs5P1U?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Orfeo - <b>Orfest Andro (Andro)</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0nednQeQ0XR6kF4f7PpgT8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Orfeo - <b>Space (Andro)</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2rzd8OxQ5zkjPjIGa3wkdc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Oubéret - <b>Basmat Et Robin</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6crgwgouY5khG1FJZRlJxQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Pichard Vincendeau, Stevan Vincendeau, Willy Pichard - <b>Andromède</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7jxKYaB2XCV9X1XE6nYh8W?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Plantec - <b>A-raok (andro)</b></h3>
 
 <details>
@@ -334,6 +920,15 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ZQ-AH1keGmQ?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Plantec - <b>A-raok - Andro</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1NkZrYcQt04xg1mVCUuGEO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -366,6 +961,51 @@
 
 <hr>
 
+<h3>Polverfolk - <b>An dro</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1KHLklqYwqJoObd08a7hvi?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Rémi Geffroy - <b>La gifle</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4FuhHZFLcAaMQccm3jlLqi?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Rémi Geffroy - <b>Les larmes de sable</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0Hnm1MjWQP9gEIOt2nLTGr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Samurai Accordion - <b>Sushi Time</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7aAbGGVBAWLJgxg5fRbYcm?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Siger - <b>Barbaren</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3L90eSmyTY2YCKwkjzSNpr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Skolvan - <b>Le retour (An dro) - Live</b></h3>
 
 <details>
@@ -380,7 +1020,30 @@
 
 <hr>
 
+<h3>Snaarmaarwaar - <b>Electric Sheep</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/374DPowGxbYv9Dv6uHq82q?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Snaarmaarwaar - <b>Slagwerk / Une Ardeur d'Avance</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1isamy4PI0VJLaaQ3zKJpR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Sterne - <b>Andro</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0MELoFc54KAUKDDNOTq1Bg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -390,6 +1053,78 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/10YLGjL7I-g?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Talec Noguet Quartet - <b>Olala</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6ED5CvRVg1lq5dBibM23Tr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Tref - <b>Andro Hazes / Tzuica</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0Zh8sQjjcQd1txXIWJnowi?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Tref - <b>Dampf</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3LDS6SkwlwlGVYLSZvt9W6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Tref - <b>Kadar</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0iUNRelyTPRJ91KbQ6lxjr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Tref - <b>Les Crêpres Dans L'oreille</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/32StgtAZMYZRDLlmj4m9xs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Tref - <b>Loop to the Moon</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0jcAcj3bbPDC351aKUmyJt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Tribal Jâze - <b>Centurion</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/51GQ7XZYz5aUddzdIrvUDE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Trio Dhoore - <b>The Red Rabbit / The Missing Pipes</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2HEKCChnkOqTRivSIIBL8n?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -432,4 +1167,67 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/GToIdvTaFN4?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Variomatic - <b>Kerliguen-Belle Île</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/14ksDBSvZNfLXWfDQ70KGb?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Wim te Groen - <b>An Dro</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5pfAzQHFLdrngewj4jzjJS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Wouter en De Draak - <b>Gort met Stroop</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/53JgXddkhXGzyTSQiezRbw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Yann-Fañch Kemener Trio - <b>An dro an Trouzerion</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0qWQOTaJBW9EZ55Jw6tbz5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Zef, zffrs - <b>Triolan</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0pm8TRl6ffFOF5lD5V2oKj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Zlabya - <b>Fire Crackers</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6D1luHijvqRoFJWZuu8u9N?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Zoufris Maracas - <b>Le peuple à l'œil</b></h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4BBwztZjXfhgjagbsnGtkj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>

@@ -1,8 +1,8 @@
-[An Dro (31)](music_by_dance/an_dro.md)
+[An Dro (118)](music_by_dance/an_dro.md)
 
 [Bal Keff (3)](music_by_dance/bal_keff.md)
 
-[Bourrée 2 temps (75)](music_by_dance/bourree_2_temps.md)
+[Bourrée 2 temps (227)](music_by_dance/bourree_2_temps.md)
 
 [Bourrée 3 temps (124)](music_by_dance/bourree_3_temps.md)
 
@@ -22,7 +22,7 @@
 
 [Gavotte de l'Aven (34)](music_by_dance/gavotte_de_l_aven.md)
 
-[Hanter Dro (97)](music_by_dance/hanter_dro.md)
+[Hanter Dro (117)](music_by_dance/hanter_dro.md)
 
 [Kost ar c'hoad (26)](music_by_dance/kost_ar_c_hoad.md)
 

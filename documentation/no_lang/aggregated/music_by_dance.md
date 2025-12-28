@@ -30,6 +30,8 @@
 
 [Maraîchine (21)](music_by_dance/maraichine.md)
 
+[Marchoise (6)](music_by_dance/marchoise.md)
+
 [Mardi Gras (2)](music_by_dance/mardi_gras.md)
 
 [Mazurka (126)](music_by_dance/mazurka.md)

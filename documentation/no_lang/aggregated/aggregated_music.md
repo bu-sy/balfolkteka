@@ -411,6 +411,20 @@
 
 <hr>
 
+<h3>Aimé Bozier - <b>La marchoise</b> (Marchoise)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7EAa5gJCCpfnu4aWHfqB8j?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/wwpM2f54qjE?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Airboxes - <b>Bosvelden</b> (Mazurka)</h3>
 
 <details>
@@ -1427,6 +1441,20 @@
 
 <hr>
 
+<h3>Arbadétorne - <b>Marchoise « Ma position est bien triste et cruelle »</b> (Marchoise)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1YXyd00oydcMqTmI8aJiYa?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/2zIkIpxCHP8?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Arbadétorne - <b>Sur le coffre (Maraîchines)</b> (Maraîchine)</h3>
 
 <details>
@@ -2203,6 +2231,20 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/FjUQldPvIjE?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Ballsy Swing - <b>Marchoises</b> (Marchoise)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/10CaXZ9BvsCZJzcG8cFc97?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/7gky_hGNJe4?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -3998,7 +4040,7 @@
 
 <hr>
 
-<h3>Christian Anneix, Jean Baron - <b>Danse Keff - Bal keff</b> (Dañs Keff, Bal Keff)</h3>
+<h3>Christian Anneix, Jean Baron - <b>Danse Keff - Bal keff</b> (Bal Keff, Dañs Keff)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -6006,7 +6048,7 @@
 
 <hr>
 
-<h3>Duo Pilartz Gielen, Vincent Sionneau - <b>Bourrées à deux et trois temps</b> (Bourrée 3 temps, Bourrée 2 temps)</h3>
+<h3>Duo Pilartz Gielen, Vincent Sionneau - <b>Bourrées à deux et trois temps</b> (Bourrée 2 temps, Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -9886,7 +9928,7 @@
 
 <hr>
 
-<h3>Kv Express - <b>Loulou</b> (Valse 3 temps, Mazurka)</h3>
+<h3>Kv Express - <b>Loulou</b> (Mazurka, Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -10727,6 +10769,20 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/YC6yo7RxK4w?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Le Grand Barouf - <b>Marchoise à Perrine</b> (Marchoise)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5pu9t1d625WguUUC8DtZ7C?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/IWqHiP0daNQ?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -11828,7 +11884,7 @@
 
 <hr>
 
-<h3>Ma petite - <b>La mal mariée (avec Julien Padovani)</b> (Bourrée 3 temps)</h3>
+<h3>Ma petite - <b>La mal mariée (avec Julien Padovani)</b> (Marchoise, Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -14257,6 +14313,20 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ovMeTkFd9tY?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Petit Piment - <b>Le grand déroulement - Marchoise à Madeleine</b> (Marchoise)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/27Xdj0uhzMENWX5osHHQml?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/9n9lv-l00Ko?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -17669,7 +17739,7 @@
 
 <hr>
 
-<h3>Wim te Groen - <b>Eerste Mazurka (mazurka /scottish)</b> (Mazurka, Scottish)</h3>
+<h3>Wim te Groen - <b>Eerste Mazurka (mazurka /scottish)</b> (Scottish, Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

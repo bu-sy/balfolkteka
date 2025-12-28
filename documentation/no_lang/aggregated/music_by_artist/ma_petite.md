@@ -2,7 +2,7 @@
 
 <hr>
 
-<h3>Ma petite - <b>La mal mariée (avec Julien Padovani)</b> (Bourrée 3 temps)</h3>
+<h3>Ma petite - <b>La mal mariée (avec Julien Padovani)</b> (Marchoise, Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

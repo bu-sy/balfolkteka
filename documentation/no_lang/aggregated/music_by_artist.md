@@ -22,6 +22,8 @@
 
 [AedO (2)](music_by_artist/aedo.md)
 
+[Aimé Bozier (1)](music_by_artist/aime_bozier.md)
+
 [Airboxes (15)](music_by_artist/airboxes.md)
 
 [Aixopluc (2)](music_by_artist/aixopluc.md)
@@ -76,7 +78,7 @@
 
 [Ar Re Yaouank (1)](music_by_artist/ar_re_yaouank.md)
 
-[Arbadétorne (3)](music_by_artist/arbadetorne.md)
+[Arbadétorne (4)](music_by_artist/arbadetorne.md)
 
 [Arcandela (2)](music_by_artist/arcandela.md)
 
@@ -126,7 +128,7 @@
 
 [Balley (1)](music_by_artist/balley.md)
 
-[Ballsy Swing (4)](music_by_artist/ballsy_swing.md)
+[Ballsy Swing (5)](music_by_artist/ballsy_swing.md)
 
 [Baltazar Montanaro (1)](music_by_artist/baltazar_montanaro.md)
 
@@ -728,7 +730,7 @@
 
 [Le Bour Bodros (6)](music_by_artist/le_bour_bodros.md)
 
-[Le Grand Barouf (3)](music_by_artist/le_grand_barouf.md)
+[Le Grand Barouf (4)](music_by_artist/le_grand_barouf.md)
 
 [Le Mange Bal (3)](music_by_artist/le_mange_bal.md)
 
@@ -954,7 +956,7 @@
 
 [Peter Moree (1)](music_by_artist/peter_moree.md)
 
-[Petit Piment (3)](music_by_artist/petit_piment.md)
+[Petit Piment (4)](music_by_artist/petit_piment.md)
 
 [Philippe Bataille (1)](music_by_artist/philippe_bataille.md)
 

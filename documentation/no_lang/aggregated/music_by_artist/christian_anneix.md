@@ -2,7 +2,7 @@
 
 <hr>
 
-<h3>Christian Anneix, Jean Baron - <b>Danse Keff - Bal keff</b> (Dañs Keff, Bal Keff)</h3>
+<h3>Christian Anneix, Jean Baron - <b>Danse Keff - Bal keff</b> (Bal Keff, Dañs Keff)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

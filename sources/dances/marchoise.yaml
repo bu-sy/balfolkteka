@@ -1,0 +1,73 @@
+id: marchoise
+name: Marchoise
+links:
+  examples:
+  - link: https://www.youtube.com/watch?v=nYMeg3yTPu8
+  - link: https://www.youtube.com/watch?v=DKwCRZdazx8
+  - link: https://www.youtube.com/watch?v=w5-UKzc2KSw
+  playlists:
+  - link: https://open.spotify.com/playlist/1aZIzlVcrtTPIANv5e6Ll4
+  tracks:
+  - artist: Aimé Bozier
+    track_name: La marchoise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7EAa5gJCCpfnu4aWHfqB8j
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=wwpM2f54qjE
+    from_playlist:
+    - https://open.spotify.com/playlist/1aZIzlVcrtTPIANv5e6Ll4
+  - artist: Arbadétorne
+    track_name: Marchoise « Ma position est bien triste et cruelle »
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1YXyd00oydcMqTmI8aJiYa
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=2zIkIpxCHP8
+    from_playlist:
+    - https://open.spotify.com/playlist/1aZIzlVcrtTPIANv5e6Ll4
+  - artist: Ballsy Swing
+    track_name: Marchoises
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/10CaXZ9BvsCZJzcG8cFc97
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=7gky_hGNJe4
+    from_playlist:
+    - https://open.spotify.com/playlist/1aZIzlVcrtTPIANv5e6Ll4
+  - artist: Benoît Michaud, Zabou Guérin
+    blacklist: true #Unavailable
+    track_name: Marchoises Blanzay - Bozier
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0VXwGSAMi2Pj219yTdifOO
+    from_playlist:
+    - https://open.spotify.com/playlist/1aZIzlVcrtTPIANv5e6Ll4
+    no_youtube_link: true #Verified
+  - artist: Le Grand Barouf
+    track_name: Marchoise à Perrine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5pu9t1d625WguUUC8DtZ7C
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=IWqHiP0daNQ
+    from_playlist:
+    - https://open.spotify.com/playlist/1aZIzlVcrtTPIANv5e6Ll4
+  - artist: Ma petite
+    track_name: La mal mariée (avec Julien Padovani)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6cNt17pfMJbGSiobEiOmoi
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=X7Jg5jk0fjc
+    from_playlist:
+    - https://open.spotify.com/playlist/1aZIzlVcrtTPIANv5e6Ll4
+  - artist: Petit Piment
+    track_name: Le grand déroulement - Marchoise à Madeleine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/27Xdj0uhzMENWX5osHHQml
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=9n9lv-l00Ko
+    from_playlist:
+    - https://open.spotify.com/playlist/1aZIzlVcrtTPIANv5e6Ll4

@@ -16,7 +16,7 @@
 
 <hr>
 
-<h3>Wim te Groen - <b>Eerste Mazurka (mazurka /scottish)</b> (Mazurka, Scottish)</h3>
+<h3>Wim te Groen - <b>Eerste Mazurka (mazurka /scottish)</b> (Scottish, Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

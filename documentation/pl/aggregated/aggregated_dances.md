@@ -1,4 +1,4 @@
-# Lista wszystkich tańców (33)
+# Lista wszystkich tańców (34)
 
 [Powrót do listy stron](../home.md)
 
@@ -33,6 +33,8 @@
 [Madison](../dances/madison.md)
 
 [Maraîchine](../dances/maraichine.md)
+
+[Marchoise](../dances/marchoise.md)
 
 [Mardi Gras](../dances/mardi_gras.md)
 

@@ -191,9 +191,9 @@ def render_aggregated_music(all_music, directory_structure):
     current_file = directory_structure.get_aggregated_music_path()
     write_file(
         "\n\n".join([
-            music_collapsible_section(music, display_dance_name=True, number_in_order=idx)
-            for idx, music
-            in enumerate(sorted(all_music, key=lambda x: (normalize(x.artist), normalize(x.track_name))), start=1)
+            music_collapsible_section(music, display_dance_name=True)
+            for music
+            in sorted(all_music, key=lambda x: (normalize(x.artist), normalize(x.track_name)))
         ]),
         current_file
     )

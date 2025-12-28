@@ -1,0 +1,53 @@
+id: gavotte_du_bas_leon
+name: Gavotte du Bas-Léon
+links:
+  examples:
+  - link: https://www.youtube.com/watch?v=wOxsL_RcXlA
+  playlists:
+  - link: https://open.spotify.com/playlist/7emj2X3l9KJPduXVrrAeVV
+  tracks:
+  - artist: Bagad Ar Meilhou Glaz
+    track_name: Gavotte du Bas Léon - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6uKupdO5wRrYaBWqkptefZ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=4Gr1_PLQPs0
+    from_playlist:
+    - https://open.spotify.com/playlist/7emj2X3l9KJPduXVrrAeVV
+  - artist: Bernard Loffet
+    track_name: Gavotte du bas-Léon
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/19nvpkVNFsRNQviWgep8An
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=GEghBunnVfY
+    from_playlist:
+    - https://open.spotify.com/playlist/7emj2X3l9KJPduXVrrAeVV
+  - artist: Christian Anneix, Jean Baron
+    track_name: Gavotte du bas leon
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1MbYQ2fs1oI1aaWcjfHZ6N
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=1h4vcJN1C84
+    from_playlist:
+    - https://open.spotify.com/playlist/7emj2X3l9KJPduXVrrAeVV
+  - artist: Diou Flo
+    track_name: Gavotte Du Bas-Léon
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2Jet3ENnV1jDChbWmgWxm6
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=MYzlMmoo6dk
+    from_playlist:
+    - https://open.spotify.com/playlist/7emj2X3l9KJPduXVrrAeVV
+  - artist: Ruz Reor
+    track_name: Gavotte Bas Léon
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5OcuQFxEVNHN8DhzuJGWfR
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ohL7YCTTyvE
+    from_playlist:
+    - https://open.spotify.com/playlist/7emj2X3l9KJPduXVrrAeVV

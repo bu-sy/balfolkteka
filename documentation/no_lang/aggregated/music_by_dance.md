@@ -6,7 +6,7 @@
 
 [Bourrée 3 temps (124)](music_by_dance/bourree_3_temps.md)
 
-[Cercle Circassien (68)](music_by_dance/cercle_circassien.md)
+[Cercle Circassien (69)](music_by_dance/cercle_circassien.md)
 
 [Chapelloise (36)](music_by_dance/chapelloise.md)
 
@@ -20,7 +20,7 @@
 
 [Galop Nantais (5)](music_by_dance/galop_nantais.md)
 
-[Gavotte de l'Aven (34)](music_by_dance/gavotte_de_l_aven.md)
+[Gavotte du Bas-Léon (5)](music_by_dance/gavotte_du_bas_leon.md)
 
 [Hanter Dro (116)](music_by_dance/hanter_dro.md)
 
@@ -46,7 +46,7 @@
 
 [Rond de Saint-Vincent (31)](music_by_dance/rond_de_saint_vincent.md)
 
-[Polska (rund polska) (9)](music_by_dance/rund_polska.md)
+[Polska (rund polska) (10)](music_by_dance/rund_polska.md)
 
 [Scottish (81)](music_by_dance/scottish.md)
 

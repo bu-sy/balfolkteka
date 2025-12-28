@@ -16,6 +16,17 @@ links:
       link: https://www.youtube.com/watch?v=QVQyzayEoDk
     from_playlist:
     - https://open.spotify.com/playlist/2YasVhvJQOTOake4ppVpUe
+  - artist: Airboxes
+    track_name: Sylt
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/110xWhipSXZt8o0vcN1O2u
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=gJJlStM13Ho
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=875751694/size=small/bgcol=ffffff/linkcol=0687f5/track=3241533033/transparent=true/
+    from_playlist:
+    - https://open.spotify.com/playlist/2YasVhvJQOTOake4ppVpUe
   - artist: Beat Bouet Trio
     track_name: Vikings (Polska)
     links:

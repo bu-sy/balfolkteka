@@ -24,7 +24,7 @@
 
 [Galop Nantais](../dances/galop_nantais.md)
 
-[Gavotte de l'Aven](../dances/gavotte_de_l_aven.md)
+[Gavotte du Bas-Léon](../dances/gavotte_du_bas_leon.md)
 
 [Hanter Dro](../dances/hanter_dro.md)
 

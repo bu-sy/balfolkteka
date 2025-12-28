@@ -1,0 +1,168 @@
+id: branle_de_noirmoutier
+name: Branle de Noirmoutier
+links:
+  examples:
+  - link: https://www.youtube.com/watch?v=TetafLbunXE
+  playlists:
+  - link: https://open.spotify.com/playlist/2eiyNb4MtgG9aTALkvviKq
+  - link: https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
+  tracks:
+  - artist: Airboxes
+    track_name: Öblarn - Dürnstein Castle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0Weh3dQjIYEQbESfpxL5Gw
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=t4bW5em3Zt4
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=875751694/size=small/bgcol=ffffff/linkcol=0687f5/track=1294368368/transparent=true/
+    from_playlist:
+    - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
+  - artist: Arbadétorne
+    track_name: Branles de L Epine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2xzNTstp4qIZ4qY6VGr6MC
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=pgNWc4ZFljM
+    from_playlist:
+    - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
+  - artist: Arbadétorne
+    track_name: Les gens qui sont riches (Branles de l’Epine)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7Ec6IZ5z05ZAoUJyrPYBWR
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=H_6dl1q4OvY
+    from_playlist:
+    - https://open.spotify.com/playlist/2eiyNb4MtgG9aTALkvviKq
+  - artist: Bal O'Gadjo
+    track_name: Rivières
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7IN9JF0OtI4WYotDna8hbC
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=6eORFXr1YHY
+    from_playlist:
+    - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
+  - artist: Bargainatt
+    track_name: La Batelière
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3XcTJvwz0qfi6D2K1wdjee
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=z4xN6SaBTe4
+    from_playlist:
+    - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
+  - artist: Ciac Boum
+    track_name: Branle daus abelles
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/118OhtRAjSc9Xbe6L4ETeP
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=R4yE_QZhtjw
+    from_playlist:
+    - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
+  - artist: Ciac Boum
+    track_name: Lé Feuilles de léare / Suus la nostra trilha
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2hlHTgMXFbRyw3CknHItr4
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=vEi5_pcyi-0
+    from_playlist:
+    - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
+  - artist: Ciac Boum, Colin Delzant
+    track_name: Suite A Manoue
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6yR2zDE6ZwiIegMNMdgwVv
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=IYrsyNISi1k
+    from_playlist:
+    - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
+  - artist: Dr. Ka
+    track_name: Branle de Noirmoutier
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/26CfyEVm1Lcisa4YS9uFJ4
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=NKFv79nxqms
+    from_playlist:
+    - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
+  - artist: Duo Blain-Leyzour
+    track_name: Branle de Noirmoutier
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0BhrTtbtTDjgJIcUBbvaqB
+    - portal: Spotify
+      link: https://open.spotify.com/track/4ib6M0yBlbahRJdtzJvGhk
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=2nPh9HvQAqI
+    from_playlist:
+    - https://open.spotify.com/playlist/2eiyNb4MtgG9aTALkvviKq
+    - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
+  - artist: Fahrenheit
+    track_name: Le saunier (branle de Noirmoutier)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/02CGLRXGrfMRM6A5qjCskh
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=E7dS9M8aUQI
+    from_playlist:
+    - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
+  - artist: La Sauterelle
+    track_name: La Maladie d'amour
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3MH7tOLb7EKFkGUtfZK6pd
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=untxEal1_VA
+    from_playlist:
+    - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
+  - artist: Le Grand Barouf
+    track_name: L'homme debout
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6JUlMxpS4hZXw5V32qpZko
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=J7FVlcTkFfo
+    from_playlist:
+    - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
+  - artist: Ma petite
+    track_name: La Petite Marguerite
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4N10DFf7xiiTR61nG0i0BS
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=o8-cjZfrUKM
+    from_playlist:
+    - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
+  - artist: NOU
+    track_name: Branle de Noirmoutier
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0S02WYkhvM5jk0QdXFPAMi
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=SJEkDbUVwmA
+    from_playlist:
+    - https://open.spotify.com/playlist/2eiyNb4MtgG9aTALkvviKq
+    - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
+  - artist: Noiranomis
+    track_name: Le valet des riches - Branles de Noirmoutier
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1PQ2cFqs1LEc3a8rfDsiU4
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=PI985PCIhms
+    from_playlist:
+    - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
+  - artist: Rémi Geffroy
+    track_name: Ouroboros
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2i0Fr4TJbpbWPCQmjFKds4
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=LA2cgTlxEqA
+    from_playlist:
+    - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy

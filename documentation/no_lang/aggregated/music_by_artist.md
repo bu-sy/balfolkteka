@@ -78,7 +78,7 @@
 
 [Ar Re Yaouank (1)](music_by_artist/ar_re_yaouank.md)
 
-[Arbadétorne (4)](music_by_artist/arbadetorne.md)
+[Arbadétorne (6)](music_by_artist/arbadetorne.md)
 
 [Arcandela (2)](music_by_artist/arcandela.md)
 
@@ -118,7 +118,7 @@
 
 [Bagad Kerlenn Pondi (2)](music_by_artist/bagad_kerlenn_pondi.md)
 
-[Bal O'Gadjo (8)](music_by_artist/bal_o_gadjo.md)
+[Bal O'Gadjo (9)](music_by_artist/bal_o_gadjo.md)
 
 [Balarù (1)](music_by_artist/balaru.md)
 
@@ -134,7 +134,7 @@
 
 [Barba Loutig (1)](music_by_artist/barba_loutig.md)
 
-[Bargainatt (15)](music_by_artist/bargainatt.md)
+[Bargainatt (16)](music_by_artist/bargainatt.md)
 
 [BAROK (2)](music_by_artist/barok.md)
 
@@ -238,13 +238,15 @@
 
 [Christine Lurquin (1)](music_by_artist/christine_lurquin.md)
 
-[Ciac Boum (5)](music_by_artist/ciac_boum.md)
+[Ciac Boum (8)](music_by_artist/ciac_boum.md)
 
 [Clément Rousse (6)](music_by_artist/clement_rousse.md)
 
 [Clume (1)](music_by_artist/clume.md)
 
 [Cocanha (4)](music_by_artist/cocanha.md)
+
+[Colin Delzant (1)](music_by_artist/colin_delzant.md)
 
 [Colin Grant (1)](music_by_artist/colin_grant.md)
 
@@ -316,6 +318,8 @@
 
 [Dos (7)](music_by_artist/dos.md)
 
+[Dr. Ka (1)](music_by_artist/dr_ka.md)
+
 [Dragonsfly (1)](music_by_artist/dragonsfly.md)
 
 [Dremmwel (2)](music_by_artist/dremmwel.md)
@@ -328,7 +332,7 @@
 
 [Duo Absynthe (19)](music_by_artist/duo_absynthe.md)
 
-[Duo Blain-Leyzour (5)](music_by_artist/duo_blain_leyzour.md)
+[Duo Blain-Leyzour (6)](music_by_artist/duo_blain_leyzour.md)
 
 [Duo Bottasso (2)](music_by_artist/duo_bottasso.md)
 
@@ -420,7 +424,7 @@
 
 [Faburden (5)](music_by_artist/faburden.md)
 
-[Fahrenheit (9)](music_by_artist/fahrenheit.md)
+[Fahrenheit (10)](music_by_artist/fahrenheit.md)
 
 [Faï Petar (7)](music_by_artist/fai_petar.md)
 
@@ -712,7 +716,7 @@
 
 [La Peiro Douso (1)](music_by_artist/la_peiro_douso.md)
 
-[La Sauterelle (5)](music_by_artist/la_sauterelle.md)
+[La Sauterelle (6)](music_by_artist/la_sauterelle.md)
 
 [Lars Lilholt (1)](music_by_artist/lars_lilholt.md)
 
@@ -798,7 +802,7 @@
 
 [LyraDanz (6)](music_by_artist/lyradanz.md)
 
-[Ma petite (2)](music_by_artist/ma_petite.md)
+[Ma petite (3)](music_by_artist/ma_petite.md)
 
 [Mafila Ko (1)](music_by_artist/mafila_ko.md)
 
@@ -890,13 +894,13 @@
 
 [Noëllie Nioulou (1)](music_by_artist/noellie_nioulou.md)
 
-[Noiranomis (1)](music_by_artist/noiranomis.md)
+[Noiranomis (2)](music_by_artist/noiranomis.md)
 
 [Noluen Le Buhe (2)](music_by_artist/noluen_le_buhe.md)
 
 [Nostrad (8)](music_by_artist/nostrad.md)
 
-[NOU (4)](music_by_artist/nou.md)
+[NOU (5)](music_by_artist/nou.md)
 
 [Novar (8)](music_by_artist/novar.md)
 

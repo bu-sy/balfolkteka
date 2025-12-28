@@ -6,6 +6,8 @@
 
 [Bourrée 3 temps (124)](music_by_dance/bourree_3_temps.md)
 
+[Branle de Noirmoutier (17)](music_by_dance/branle_de_noirmoutier.md)
+
 [Cercle Circassien (69)](music_by_dance/cercle_circassien.md)
 
 [Chapelloise (36)](music_by_dance/chapelloise.md)

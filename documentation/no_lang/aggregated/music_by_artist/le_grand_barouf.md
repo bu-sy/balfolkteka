@@ -16,7 +16,7 @@
 
 <hr>
 
-<h3>Le Grand Barouf - <b>L'homme debout</b> (Maraîchine)</h3>
+<h3>Le Grand Barouf - <b>L'homme debout</b> (Branle de Noirmoutier, Maraîchine)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

@@ -1,4 +1,4 @@
-# Lista wszystkich tańców (34)
+# Lista wszystkich tańców (35)
 
 [Powrót do listy stron](../home.md)
 
@@ -13,6 +13,8 @@
 [Cercle Circassien (Cyrkiel)](../dances/cercle_circassien.md)
 
 [Chapelloise](../dances/chapelloise.md)
+
+[Congo de Captieux](../dances/congo_de_captieux.md)
 
 [Dañs Keff](../dances/dans_keff.md)
 

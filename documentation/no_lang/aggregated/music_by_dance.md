@@ -10,6 +10,8 @@
 
 [Chapelloise (36)](music_by_dance/chapelloise.md)
 
+[Congo de Captieux (14)](music_by_dance/congo_de_captieux.md)
+
 [Dañs Keff (3)](music_by_dance/dans_keff.md)
 
 [Danse de l'Ours (5)](music_by_dance/danse_de_l_ours.md)

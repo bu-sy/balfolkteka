@@ -1,0 +1,140 @@
+id: congo_de_captieux
+name: Congo de Captieux
+links:
+  examples:
+  - link: https://www.youtube.com/watch?v=ZHovppdfZBk
+  playlists:
+  - link: https://open.spotify.com/playlist/3F1mXUA2KN8A3oDHlwu6lG
+  - link: https://open.spotify.com/playlist/7JemKuXU0WIwnqM5AKd30F
+  tracks:
+  - artist: Arnaud Bibonne, Camille Raibaud
+    track_name: Suite de congos d'après Marcel Lagardere
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0QatzvCo5gpAOjgZBtrNPN
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=sQbpGh23GIE
+    from_playlist:
+    - https://open.spotify.com/playlist/3F1mXUA2KN8A3oDHlwu6lG
+  - artist: Arnaud Bibonne, Camille Raibaud
+    track_name: Suite de congos der Rene Cabanac
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5qxCIOpUkIMNa2yf8eAmte
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=psI7mEkfNNg
+    from_playlist:
+    - https://open.spotify.com/playlist/3F1mXUA2KN8A3oDHlwu6lG
+  - artist: Bargainatt
+    track_name: Pris entre Captieux
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1BJN18Bw68VzBbuVLG6XTf
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Rhf-BfRGURE
+    from_playlist:
+    - https://open.spotify.com/playlist/7JemKuXU0WIwnqM5AKd30F
+  - artist: Bernard Desblancs, Jeanty Benquet
+    track_name: Suite de congos
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6wYKcLZFY3eoYXKZrfKvZt
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=tD0KS60TY8o
+    from_playlist:
+    - https://open.spotify.com/playlist/3F1mXUA2KN8A3oDHlwu6lG
+  - artist: Cadène, Camille Raibaud, Julien Barbances, Sylvain Quéré, Tiennet Simonnin, Tradethik Productions
+    track_name: Congo des caumonts - Congo des fedies
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/66QlGXPZsytY2UkUa8YxsJ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=4KNbHJT-SqY
+    from_playlist:
+    - https://open.spotify.com/playlist/3F1mXUA2KN8A3oDHlwu6lG
+    - https://open.spotify.com/playlist/7JemKuXU0WIwnqM5AKd30F
+  - artist: Camille Stimbre, Clément Rousse, Guillaume Lopez, Simon Portefaix
+    track_name: Qu'ei venguda l'ora - Congo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4crBnCiGp5EnVjk17c5ERc
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Nd8LS13KbOQ
+    from_playlist:
+    - https://open.spotify.com/playlist/7JemKuXU0WIwnqM5AKd30F
+  - artist: Faburden
+    track_name: Les bohas d'Uzeste / Congo du 49.3
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4DEG45JGczVPN6e79xjpEM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=6yANm4cFRe4
+    from_playlist:
+    - https://open.spotify.com/playlist/3F1mXUA2KN8A3oDHlwu6lG
+  - artist: Laüsa
+    track_name: Congo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6EsAO7QLMoYvf9U0QCbN59
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=1U7IW8oblYc
+    from_playlist:
+    - https://open.spotify.com/playlist/3F1mXUA2KN8A3oDHlwu6lG
+  - artist: Le Bal Brotto Lopez
+    track_name: Suite de congos
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4Z9bGqiT0lXZXcZDtQH6gf
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=9aC_wmqfHpw
+    from_playlist:
+    - https://open.spotify.com/playlist/3F1mXUA2KN8A3oDHlwu6lG
+    - https://open.spotify.com/playlist/7JemKuXU0WIwnqM5AKd30F
+  - artist: Lorenzo Monguzzi, LyraDanz, Matteo Luraghi
+    track_name: Ambarabaccicciccongo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1bY5tQarmeL3vStNxVXAcu
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ZSkzFmq6A2o
+    from_playlist:
+    - https://open.spotify.com/playlist/3F1mXUA2KN8A3oDHlwu6lG
+  - artist: Man Encantada
+    track_name: Au Sabat'squi A Nau Filhas
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5Iw3DNJF5yiawhNH57cSNm
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=fn5-NS-xFM4
+    from_playlist:
+    - https://open.spotify.com/playlist/3F1mXUA2KN8A3oDHlwu6lG
+    - https://open.spotify.com/playlist/7JemKuXU0WIwnqM5AKd30F
+  - artist: Man Encantada
+    track_name: Man Encantada
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6NigknRm9ATgSFufyr07bs
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Yd3amuPKJRw
+    from_playlist:
+    - https://open.spotify.com/playlist/3F1mXUA2KN8A3oDHlwu6lG
+    - https://open.spotify.com/playlist/7JemKuXU0WIwnqM5AKd30F
+  - artist: Mélanie Brelaud, Socam
+    track_name: Congo de Bazas / Lhèva la camisa (congos)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0BJ1HGtbanwj8tk4YN3gFp
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=lpejEBHNVio
+    from_playlist:
+    - https://open.spotify.com/playlist/3F1mXUA2KN8A3oDHlwu6lG
+    - https://open.spotify.com/playlist/7JemKuXU0WIwnqM5AKd30F
+  - artist: Trencadit
+    track_name: Congò de M. Lagardère
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5a3j4bTufiCUZZT9YZrXWy
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=iROwlBHoAyU
+    from_playlist:
+    - https://open.spotify.com/playlist/7JemKuXU0WIwnqM5AKd30F

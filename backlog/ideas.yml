@@ -1,5 +1,5 @@
+- Create a filter that checks if track is matched with multiple dances (shouldn't happen)
+- Create a playlist remover
 - cut "user_playlists" file and remove it from Git history!
 - Add region from which the dance comes from
-- Merge irregular mazurka with mazurka and add irregular tag to the music
-- Create a filter that checks if track is matched with multiple dances (shouldn't happen)
 - Make "instructions" depend on language (not to display video in Polish to the users of English version)

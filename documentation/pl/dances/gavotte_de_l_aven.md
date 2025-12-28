@@ -14,6 +14,10 @@
 
 <br>
 
+### Powiązane tańce
+
+- [Gavotte caresse / Gavotte de Grenoble](gavotte_de_grenoble.md)
+
 ## Utwory (3)
 
 [Utwory do tańca](../../no_lang/aggregated/music_by_dance/gavotte_de_l_aven.md)

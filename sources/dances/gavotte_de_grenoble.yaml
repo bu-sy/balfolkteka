@@ -1,11 +1,90 @@
 id: gavotte_de_grenoble
 name: Gavotte caresse / Gavotte de Grenoble
+connected_dances:
+- gavotte_de_l_aven
 links:
   examples:
   - link: https://www.youtube.com/watch?v=qFbyOqFIzKk
   playlists:
   - link: https://open.spotify.com/playlist/3vGeSvKQYKTZDWR1OosTBI
+  - link: https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
   tracks:
+  - artist: Airboxes
+    track_name: Salle à Manger
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4n39l2kUN9jwvbaJc0XT2G
+    - portal: Spotify
+      link: https://open.spotify.com/track/2Ve68aJdM3z1hOrbIsZXoJ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=8wroVMDQO1o
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=875751694/size=small/bgcol=ffffff/linkcol=0687f5/track=3847881178/transparent=true/
+    from_playlist:
+    - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
+  - artist: Airboxes
+    track_name: Valentino
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0R8NVz87Rxjv4azW5uOvE9
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=qRBXdtHyt-M
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=875751694/size=small/bgcol=ffffff/linkcol=0687f5/track=2317950460/transparent=true/
+    from_playlist:
+    - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
+  - artist: Androneda
+    track_name: Oscar - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2R1pWZQQvzwMZfcV2YnrAp
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=kOT3x6tVzC4
+    lyrics: |
+      Het was heel lang geleden, je woonde nog bij ons.
+      Ik kon toen niet begrijpen dat je vertrekken moest.
+      Ik wist wel dat je zachte vacht en dat je zwarte haar
+      Niet voor iedereen in huis het meest gezonde was.
+
+      Toen kwam de dag waar niemand van hen mij van had verteld.
+      Ze hebben me in plaats daarvan iets op de mouw gespeld.
+      "Hij is nu lekker buiten spelen maak je maar niet druk."
+      Maar ik had overal gezocht en jij kwam niet terug.
+
+      Ik bleef maar vragen waar je was, want ik liet het niet los.
+      Totdat mijn zusje het niet langer voor zich houden kon.
+      Ze was veel jonger maar ze had als enige het lef
+      te zeggen waar het dier was waar ik steeds nog om geef.
+
+      Ze lieten me maar zoeken, ze lieten jou gewoon
+      weggaan zonder afscheid, man, hoe konden ze dat doen?
+
+      De tranen stroomden uiteraard en hielden niet meer op
+      Vol onmacht keek ze toe: het was een trauma in de dop.
+      Ze deed alleen maar voor haar kind het beste dat ze kon
+      maar had daarna echt geen idee hoe ze het vertellen moest.
+
+      Je kind gaat boven ieder dier, dat snap ik ook wel, heus.
+      Maar toch denk ik nog altijd: was er echt geen andere keuze?
+      Een ander huis, een opvang, of iets wat zich daar voor leent?
+      Want ook al was je oud en ziek, dit heb je niet vierdiend.
+
+      Ze lieten me maar zoeken, ze lieten jou gewoon
+      weggaan zonder afscheid, man, hoe konden ze dat doen?
+
+      Ze lieten me maar zoeken, ze zeiden me geen word;
+      ze durfden niets te zeggen want ze hebben je vermoord!
+    from_playlist:
+    - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
+  - artist: Broes
+    track_name: Solmitude
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5t09VDfFXMEQ78sQcuv3jO
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=p-JmJVtWl34
+    from_playlist:
+    - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
   - artist: Cyrille Brotto, Groove Factory, Li'ang Zhao, Stéphane Milleret
     track_name: L'envers de la voix
     links:
@@ -15,6 +94,132 @@ links:
       link: https://www.youtube.com/watch?v=USJ-TjqBi7Q
     from_playlist:
     - https://open.spotify.com/playlist/3vGeSvKQYKTZDWR1OosTBI
+  - artist: Dahù
+    track_name: Shoes off
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1idG5GAsm8MVP54MbB33se
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=7xy5rdDgwyg
+    from_playlist:
+    - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
+  - artist: Dos
+    track_name: Lumbre (Gavotte de L'Aven)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/70uDf4CF82UjM7xCXgixQ0
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=6O6IGiMgra0
+    from_playlist:
+    - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
+  - artist: Duo Absynthe
+    track_name: Mira
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3VGAO7c04Uf6a13zVAdgqe
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=glGsavG83do
+    from_playlist:
+    - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
+  - artist: Duo Nello
+    track_name: À nos espoirs
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1XI9A2Y5we5hLoWunvkLEb
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=mT1UUZrTFe4
+    from_playlist:
+    - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
+  - artist: Duo Oliver-Sentou
+    track_name: Lettre d'islande
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2YqU1S7JmDR8YFeEmFdjaB
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=hRtWLwew-AA
+    from_playlist:
+    - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
+  - artist: Hartwin
+    track_name: Sailors
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/57OVO94Tl257X7T46AayjA
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=jrOsorTcMo8
+    from_playlist:
+    - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
+  - artist: Hartwin
+    track_name: Very Jeune - Gavotte de l Aven
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4AS3mcQF0Pq9JUzBNvZyF9
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=kLvTkiQth7s
+    from_playlist:
+    - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
+  - artist: Hotel Palindrone
+    track_name: Gavotte de l'alpestan
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0JtaDjXPmKkrtrOIivHPgT
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=5ZO79vIZABQ
+    from_playlist:
+    - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
+  - artist: La Bottines Artistiques
+    track_name: Gavotte DL
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7COb9TYt3JyVsZxH2TeLvz
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=mbOoa9Ly5qQ
+    from_playlist:
+    - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
+  - artist: Naragonia
+    track_name: Astor - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3nNMUZz0P2aUtru74uoV9s
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=6xAcko2wV24
+    from_playlist:
+    - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
+  - artist: Naragonia
+    track_name: Les Deux Frères / Batiska - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5BN9nzgz1zxevaUbuZ7pSv
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=VHcCXwKJ4KE
+    from_playlist:
+    - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
+  - artist: Naragonia
+    track_name: Mira - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2T4sx75Wb0EqDBghUSTFCP
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=PlQPbOOyAkE
+    from_playlist:
+    - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
+  - artist: Naragonia, Naragonia Quartet
+    track_name: Nehalennia
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/45nysOAiVpCtYxIZBbe0EL
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=hxkc9uYP6Fc
+    from_playlist:
+    - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
+  - artist: Rémi Geffroy
+    track_name: Maladire
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2mmFlQSn0H3A3U7J7Eprg6
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=-7ejhE1HZoA
+    from_playlist:
+    - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
   - artist: Rémi Geffroy
     track_name: Maladire (gavotte de l'Aven caresse)
     links:
@@ -23,6 +228,24 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/3vGeSvKQYKTZDWR1OosTBI
     no_youtube_link: true #Verified
+  - artist: Rémi Geffroy
+    track_name: Reine de la Nuit
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/40jJyCFrxLjD01LslsVRuI
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ocjUlSEs5zc
+    from_playlist:
+    - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
+  - artist: Wim te Groen
+    track_name: Gavotte De L'aven
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5dCHuX3Rl0lIfY6RFwSdcb
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=yVyQCE1YOE8
+    from_playlist:
+    - https://open.spotify.com/playlist/3vGeSvKQYKTZDWR1OosTBI
   - artist: Wouter en De Draak
     track_name: Gavotte caresse
     links:
@@ -30,8 +253,11 @@ links:
       link: https://open.spotify.com/track/17O4tsa4z1ypJN1cE6hcFy
     - portal: YouTube
       link: https://www.youtube.com/watch?v=1-4-tDVn1wM
+    - portal: Spotify
+      link: https://open.spotify.com/track/1ytfQDkIMFI5wCD48vplAB
     from_playlist:
     - https://open.spotify.com/playlist/3vGeSvKQYKTZDWR1OosTBI
+    - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
   - artist: Wouter en De Draak
     track_name: Gavotte de Grenoble
     links:
@@ -41,3 +267,13 @@ links:
       link: https://www.youtube.com/watch?v=VVBLLPyodBo
     from_playlist:
     - https://open.spotify.com/playlist/3vGeSvKQYKTZDWR1OosTBI
+  - artist: Wouter en De Draak
+    blacklist: true #Duplicate
+    track_name: Gavotte de grenoble
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3TBHQHW2zmzTnYV3IobbCV
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=VVBLLPyodBo
+    from_playlist:
+    - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4

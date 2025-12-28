@@ -60,7 +60,9 @@ def music_collapsible_section(music, display_dance_name, number_in_order=None):
         collapsible(music_link.portal, embed_track(music_link))
         for music_link
         in sorted(music.music_links, key=lambda x: (x.portal, x.link))
-    ])
+    ] + ([
+        collapsible("Text", music.lyrics.replace('\n', '<br>\n'))
+    ] if music.lyrics else []))
 
 def render_dance(loaded_dance, loaded_translation, all_dances, directory_structure):
     lines = [

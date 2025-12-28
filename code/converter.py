@@ -34,13 +34,14 @@ class MusicLinkRecord(object):
         )
 
 class TrackRecord(object):
-    def __init__(self, artist, track_name, music_links, tags, blacklist):
+    def __init__(self, artist, track_name, music_links, tags, lyrics, blacklist):
         self.artist = artist
         self.track_name = track_name
         self.music_links = music_links
         self.tags = tags
         self.blacklist = blacklist
         self.dances = set()
+        self.lyrics = lyrics
 
     @classmethod
     def from_dict(cls, dict_obj):
@@ -51,6 +52,7 @@ class TrackRecord(object):
                 MusicLinkRecord.from_dict(music_link_record_dict) for music_link_record_dict in dict_obj.get('links')
             ],
             tags=dict_obj.get('tags') or [],
+            lyrics=dict_obj.get('lyrics'),
             blacklist=dict_obj.get('blacklist', False)
         )
 

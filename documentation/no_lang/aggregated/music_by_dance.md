@@ -24,7 +24,7 @@
 
 [Galop Nantais (5)](music_by_dance/galop_nantais.md)
 
-[Gavotte caresse / Gavotte de Grenoble (4)](music_by_dance/gavotte_de_grenoble.md)
+[Gavotte caresse / Gavotte de Grenoble (24)](music_by_dance/gavotte_de_grenoble.md)
 
 [Gavotte de l'Aven (3)](music_by_dance/gavotte_de_l_aven.md)
 

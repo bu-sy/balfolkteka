@@ -1,5 +1,7 @@
 id: gavotte_de_l_aven
 name: Gavotte de l'Aven
+connected_dances:
+- gavotte_de_grenoble
 links:
   examples:
   - link: https://www.youtube.com/watch?v=qmG0FHGs8WY

@@ -24,7 +24,7 @@
 
 [Aimé Bozier (1)](music_by_artist/aime_bozier.md)
 
-[Airboxes (15)](music_by_artist/airboxes.md)
+[Airboxes (17)](music_by_artist/airboxes.md)
 
 [Aixopluc (2)](music_by_artist/aixopluc.md)
 
@@ -62,7 +62,7 @@
 
 [André Popp y Su Orquesta (1)](music_by_artist/andre_popp_y_su_orquesta.md)
 
-[Androneda (1)](music_by_artist/androneda.md)
+[Androneda (2)](music_by_artist/androneda.md)
 
 [Andy Cutting (3)](music_by_artist/andy_cutting.md)
 
@@ -184,7 +184,7 @@
 
 [Brick A Drac (1)](music_by_artist/brick_a_drac.md)
 
-[Broes (3)](music_by_artist/broes.md)
+[Broes (4)](music_by_artist/broes.md)
 
 [Brotto Lopez Sextet (2)](music_by_artist/brotto_lopez_sextet.md)
 
@@ -264,7 +264,7 @@
 
 [Cyrille Brotto (5)](music_by_artist/cyrille_brotto.md)
 
-[Dahù (4)](music_by_artist/dahu.md)
+[Dahù (5)](music_by_artist/dahu.md)
 
 [Dan Ar Braz (1)](music_by_artist/dan_ar_braz.md)
 
@@ -316,7 +316,7 @@
 
 [Donder in't hooi (1)](music_by_artist/donder_in_t_hooi.md)
 
-[Dos (7)](music_by_artist/dos.md)
+[Dos (8)](music_by_artist/dos.md)
 
 [Dr. Ka (1)](music_by_artist/dr_ka.md)
 
@@ -330,7 +330,7 @@
 
 [Duivelspack (1)](music_by_artist/duivelspack.md)
 
-[Duo Absynthe (19)](music_by_artist/duo_absynthe.md)
+[Duo Absynthe (20)](music_by_artist/duo_absynthe.md)
 
 [Duo Blain-Leyzour (6)](music_by_artist/duo_blain_leyzour.md)
 
@@ -348,9 +348,9 @@
 
 [Duo Massarelli (1)](music_by_artist/duo_massarelli.md)
 
-[Duo Nello (2)](music_by_artist/duo_nello.md)
+[Duo Nello (3)](music_by_artist/duo_nello.md)
 
-[Duo Oliver-Sentou (2)](music_by_artist/duo_oliver_sentou.md)
+[Duo Oliver-Sentou (3)](music_by_artist/duo_oliver_sentou.md)
 
 [Duo Pilartz Gielen (6)](music_by_artist/duo_pilartz_gielen.md)
 
@@ -548,7 +548,7 @@
 
 [Hans Houckes (1)](music_by_artist/hans_houckes.md)
 
-[Hartwin (4)](music_by_artist/hartwin.md)
+[Hartwin (6)](music_by_artist/hartwin.md)
 
 [Hawktail (1)](music_by_artist/hawktail.md)
 
@@ -566,7 +566,7 @@
 
 [Hot Griselda (4)](music_by_artist/hot_griselda.md)
 
-[Hotel Palindrone (12)](music_by_artist/hotel_palindrone.md)
+[Hotel Palindrone (13)](music_by_artist/hotel_palindrone.md)
 
 [Idyll (3)](music_by_artist/idyll.md)
 
@@ -700,7 +700,7 @@
 
 [La Bazanca (1)](music_by_artist/la_bazanca.md)
 
-[La Bottines Artistiques (4)](music_by_artist/la_bottines_artistiques.md)
+[La Bottines Artistiques (5)](music_by_artist/la_bottines_artistiques.md)
 
 [La Bricole (1)](music_by_artist/la_bricole.md)
 
@@ -880,9 +880,9 @@
 
 [Myrdhin (1)](music_by_artist/myrdhin.md)
 
-[Naragonia (29)](music_by_artist/naragonia.md)
+[Naragonia (33)](music_by_artist/naragonia.md)
 
-[Naragonia Quartet (13)](music_by_artist/naragonia_quartet.md)
+[Naragonia Quartet (14)](music_by_artist/naragonia_quartet.md)
 
 [Nicolas Canavaggia (1)](music_by_artist/nicolas_canavaggia.md)
 
@@ -1020,7 +1020,7 @@
 
 [Regis Huiban (1)](music_by_artist/regis_huiban.md)
 
-[Rémi Geffroy (20)](music_by_artist/remi_geffroy.md)
+[Rémi Geffroy (22)](music_by_artist/remi_geffroy.md)
 
 [Renat Jurie (1)](music_by_artist/renat_jurie.md)
 
@@ -1288,7 +1288,7 @@
 
 [Willy Pichard (5)](music_by_artist/willy_pichard.md)
 
-[Wim te Groen (3)](music_by_artist/wim_te_groen.md)
+[Wim te Groen (4)](music_by_artist/wim_te_groen.md)
 
 [Wipidoup (1)](music_by_artist/wipidoup.md)
 

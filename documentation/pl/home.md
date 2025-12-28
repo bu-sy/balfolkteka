@@ -1,6 +1,6 @@
 [Lista wszystkich tańców (38)](aggregated/aggregated_dances.md)
 
-[Lista wszystkich utworów (1343)](../no_lang/aggregated/aggregated_music.md)
+[Lista wszystkich utworów (1363)](../no_lang/aggregated/aggregated_music.md)
 
 [Muzyka pogrupowana po artystach (670)](../no_lang/aggregated/music_by_artist.md)
 

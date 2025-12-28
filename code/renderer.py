@@ -55,7 +55,7 @@ def music_collapsible_section(music, display_dance_name, number_in_order=None):
         prefix = f"{number_in_order}. "
     return "\n\n".join([
         "<hr>",
-        f"<h3>{prefix}{music.artist} - <b>{music.track_name}</b>" + (f" ({music.dance})" if display_dance_name else "") + "</h3>"
+        f"<h3>{prefix}{music.artist} - <b>{music.track_name}</b>" + (f" ({music.get_dances()})" if display_dance_name else "") + "</h3>"
     ] + [
         collapsible(music_link.portal, embed_track(music_link))
         for music_link

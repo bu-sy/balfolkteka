@@ -320,7 +320,7 @@
 
 [Duivelspack (1)](music_by_artist/duivelspack.md)
 
-[Duo Absynthe (20)](music_by_artist/duo_absynthe.md)
+[Duo Absynthe (19)](music_by_artist/duo_absynthe.md)
 
 [Duo Blain-Leyzour (6)](music_by_artist/duo_blain_leyzour.md)
 
@@ -342,7 +342,7 @@
 
 [Duo Oliver-Sentou (2)](music_by_artist/duo_oliver_sentou.md)
 
-[Duo Pilartz Gielen (7)](music_by_artist/duo_pilartz_gielen.md)
+[Duo Pilartz Gielen (6)](music_by_artist/duo_pilartz_gielen.md)
 
 [Duo Sciapò (1)](music_by_artist/duo_sciapo.md)
 
@@ -680,7 +680,7 @@
 
 [Kreiz Breizh Akademi (1)](music_by_artist/kreiz_breizh_akademi.md)
 
-[Kv Express (13)](music_by_artist/kv_express.md)
+[Kv Express (12)](music_by_artist/kv_express.md)
 
 [L'Art À Tatouille (1)](music_by_artist/l_art_a_tatouille.md)
 
@@ -1252,7 +1252,7 @@
 
 [Vince Raguera (1)](music_by_artist/vince_raguera.md)
 
-[Vincent Sionneau (3)](music_by_artist/vincent_sionneau.md)
+[Vincent Sionneau (2)](music_by_artist/vincent_sionneau.md)
 
 [Vinta (1)](music_by_artist/vinta.md)
 
@@ -1266,7 +1266,7 @@
 
 [Willy Pichard (5)](music_by_artist/willy_pichard.md)
 
-[Wim te Groen (5)](music_by_artist/wim_te_groen.md)
+[Wim te Groen (4)](music_by_artist/wim_te_groen.md)
 
 [Wipidoup (1)](music_by_artist/wipidoup.md)
 

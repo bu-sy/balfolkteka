@@ -4026,7 +4026,7 @@
 
 <hr>
 
-<h3>Christian Anneix, Jean Baron - <b>Danse Keff - Bal keff</b> (Dañs Keff)</h3>
+<h3>Christian Anneix, Jean Baron - <b>Danse Keff - Bal keff</b> (Dañs Keff, Bal Keff)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -5604,21 +5604,7 @@
 
 <hr>
 
-<h3>Duo Absynthe - <b>Monster café</b> (Bourrée 2 temps)</h3>
-
-<details>
-<summary><big>Spotify</big></summary>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1pcZUGkZdSpmvMsGbP9ns9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</details>
-
-<details>
-<summary><big>YouTube</big></summary>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/PNgTZwckMi0?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
-</details>
-
-<hr>
-
-<h3>Duo Absynthe - <b>Monster café</b> (Polka)</h3>
+<h3>Duo Absynthe - <b>Monster café</b> (Bourrée 2 temps, Polka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -6095,21 +6081,7 @@
 
 <hr>
 
-<h3>Duo Pilartz Gielen, Vincent Sionneau - <b>Bourrées à deux et trois temps</b> (Bourrée 3 temps)</h3>
-
-<details>
-<summary><big>Spotify</big></summary>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4uHc8YIxQrq9YcGPQPSyox?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</details>
-
-<details>
-<summary><big>YouTube</big></summary>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/iWtXKR4hGL0?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
-</details>
-
-<hr>
-
-<h3>Duo Pilartz Gielen, Vincent Sionneau - <b>Bourrées à deux et trois temps</b> (Bourrée 2 temps)</h3>
+<h3>Duo Pilartz Gielen, Vincent Sionneau - <b>Bourrées à deux et trois temps</b> (Bourrée 2 temps, Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -10031,21 +10003,7 @@
 
 <hr>
 
-<h3>Kv Express - <b>Loulou</b> (Mazurka)</h3>
-
-<details>
-<summary><big>Spotify</big></summary>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5mqGHMGxqFahGOi0iSHF0I?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</details>
-
-<details>
-<summary><big>YouTube</big></summary>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/gdXjo-4P0I4?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
-</details>
-
-<hr>
-
-<h3>Kv Express - <b>Loulou</b> (Valse 3 temps)</h3>
+<h3>Kv Express - <b>Loulou</b> (Mazurka, Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -17936,21 +17894,7 @@
 
 <hr>
 
-<h3>Wim te Groen - <b>Eerste Mazurka (mazurka /scottish)</b> (Mazurka)</h3>
-
-<details>
-<summary><big>Spotify</big></summary>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3RJ5DGvMPUNE8qS5fD9Nm4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</details>
-
-<details>
-<summary><big>YouTube</big></summary>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/VuY_R9qFZbY?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
-</details>
-
-<hr>
-
-<h3>Wim te Groen - <b>Eerste Mazurka (mazurka /scottish)</b> (Scottish)</h3>
+<h3>Wim te Groen - <b>Eerste Mazurka (mazurka /scottish)</b> (Mazurka, Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

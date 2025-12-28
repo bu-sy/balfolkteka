@@ -12,13 +12,13 @@ links:
   playlists:
   - link: https://open.spotify.com/playlist/69jxBdkZeiRERsiYiIJyyD
   tracks:
-#  - artist: Christian Anneix, Jean Baron TODO add this back once duplicates are supported (and removed in the list of all music)
-#    track_name: Danse Keff - Bal keff
-#    links:
-#    - portal: Spotify
-#      link: https://open.spotify.com/track/7lvGZa8QGZAChZuehi9yIK
-#    - portal: YouTube
-#      link: https://www.youtube.com/watch?v=mDhne-T-ncQ
+  - artist: Christian Anneix, Jean Baron
+    track_name: Danse Keff - Bal keff
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7lvGZa8QGZAChZuehi9yIK
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=mDhne-T-ncQ
   - artist: Diou Flo
     track_name: Bal Kef
     links:

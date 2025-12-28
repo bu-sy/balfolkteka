@@ -40,7 +40,7 @@ class TrackRecord(object):
         self.music_links = music_links
         self.tags = tags
         self.blacklist = blacklist
-        self.dance = None
+        self.dances = set()
 
     @classmethod
     def from_dict(cls, dict_obj):
@@ -54,9 +54,11 @@ class TrackRecord(object):
             blacklist=dict_obj.get('blacklist', False)
         )
 
-    def set_dance(self, dance):
-        self.dance = dance
+    def add_dance(self, dance):
+        self.dances.add(dance)
 
+    def get_dances(self):
+        return ", ".join(self.dances)
 
 
 class YamlDefinedEntity(object):
@@ -207,8 +209,20 @@ all_music = []
 for dance in all_dances:
     for music in dance.get_music_links():
         if not music.blacklist:
-            music.set_dance(dance.get('name'))
+            music.add_dance(dance.get('name'))
             all_music.append(music)
+
+all_music = sorted(all_music, key=lambda x: (x.artist, x.track_name))
+all_music_filtered = all_music[0:1]  # Finding duplicates, track that were categorized as multiple dances
+for i in range(0, len(all_music)-1):
+    if all_music[i].artist == all_music[i+1].artist and all_music[i].track_name == all_music[i+1].track_name  :
+        print(f"Found {all_music[i].artist} - '{all_music[i].track_name}' for {all_music[i].get_dances()} and {all_music[i+1].get_dances()}. Merging")
+        all_music_filtered[-1].add_dance(all_music[i+1].get_dances())
+    else:
+        all_music_filtered.append(all_music[i+1])
+
+assert len(all_music_filtered) == len(set(all_music_filtered))
+all_music = all_music_filtered
 
 for directory_to_create in directoryStructure.get_directories_to_create():
     os.makedirs(directory_to_create, exist_ok=True)
@@ -226,9 +240,6 @@ for translation in all_translations:
 
     for dance in all_dances:
         render_dance(dance, translation, all_dances, directory_structure_for_translation)
-        for music in dance.get_music_links():
-            if not music.blacklist:
-                music.set_dance(dance.get('name'))
 
     render_aggregated_dances(all_dances, translation, directory_structure_for_translation)
     render_home_page(

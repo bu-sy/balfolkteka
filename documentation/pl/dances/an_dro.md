@@ -22,6 +22,6 @@
 
 <br>
 
-## Utwory (118)
+## Utwory (108)
 
 [Utwory do tańca](../../no_lang/aggregated/music_by_dance/an_dro.md)

@@ -11,7 +11,6 @@ links:
   - link: https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
   - link: https://open.spotify.com/playlist/2zoeLgbEClTkOeNnyqzVoV
   - link: https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
-  - link: https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
   tracks:
   - artist: Abnoba
     track_name: Andro
@@ -21,16 +20,8 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=bt5_m-A2wVw
     from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
-  - artist: Accordzêam
-    track_name: Hotel California
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/2nN35LJzAF1dfzqPCu9gS7
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=YNvYg1CLQ7Q
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
   - artist: Adeline Ghilain, Duo Pilartz Gielen
     track_name: Tryptique (Andro)
     links:
@@ -39,17 +30,26 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=whdmyPvEmrI
     from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Alzamantes
-    track_name: Introversi
+  - artist: Aixopluc
+    track_name: Andròspora (andro)
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/7ybOouvPTozt8FI4HwzCyu
+      link: https://open.spotify.com/track/5SmrojaWUJsSp1oBixZJF8
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=87aRCbn14JI
+      link: https://www.youtube.com/watch?v=lXxkPEvtWnE
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Akiyo'ka, Carré Manchot
+    track_name: An dro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4XeGIgmDUE3Gd2vjYtDePZ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=z8EA4BjHYo0
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Ampouailh
     track_name: Lang(u)ages (An dro)
     links:
@@ -67,7 +67,25 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=JAEyoeZGUGg
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Annwn
+    track_name: An Dro Nevez
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5iexyPP6XGQ6L9QtABe9XV
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=hBrch7OBTaM
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Ar Re Yaouank
+    track_name: M-a-l (An-dro)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/39xLzqal1St0d1frZWyMoq
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Wm1fAkVLU8k
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Ar Re Yaouank
     track_name: M-a-l (an-dro)
     links:
@@ -75,6 +93,15 @@ links:
       link: https://open.spotify.com/track/4ljP1S4PWkBoJEjtyIStHT
     - portal: YouTube
       link: https://www.youtube.com/watch?v=Wm1fAkVLU8k
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Arcantus
+    track_name: An Dro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3mu5KQ2UF87Du9RG1AfMHp
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=HZo3UiNw60M
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Archam
@@ -85,33 +112,8 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=hbB9E_j9gg0
     from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
-  - artist: Armelle Dousset, Matthieu Metzger
-    track_name: Notte
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/7hlkZwnPZIMobfDmNMbnY6
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-    no_youtube_link: true #Verified
-  - artist: Asynje, Nanna Barslev
-    track_name: Havhingstens jomfrufærd
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/0Fj1HAdO3VugpnE1g5uAwZ
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=AwubcaucFnQ
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Bal O'Gadjo
-    track_name: Hamajiya
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/7vZnZEzOaDRivkViEZefdw
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=_PXAmPdUf_k
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
   - artist: Baliskis
     track_name: An Anglezed bonedeu ruz - An dro
     links:
@@ -120,7 +122,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=aEFGDPWqnB8
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Baliskis, Solen Lasbleiz
     track_name: Deus en-dro nevez-amzer
     links:
@@ -129,34 +131,34 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=7zlJJCwfWBE
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Baltazar Montanaro, Sophie Cavez
-    track_name: Du cidre dans le désert
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Ball Noir
+    track_name: Cage of Eden (Andro)
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/2UBJC1EMeR3Yn0ae7iGYav
+      link: https://open.spotify.com/track/3Z2qCTN1SQhN0W8UvRydoL
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=tT_L0iRUVdU
+      link: https://www.youtube.com/watch?v=Iqf1cN7fhU4
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Bargainatt
-    track_name: L'arrivée
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Ball Noir
+    track_name: Love and Resonance Symphony (Andro)
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/2iqHLiOX6bnyg9CSNuZKQK
+      link: https://open.spotify.com/track/3IjzkpfYeUs6WHVBqF2Xq7
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=Dx_51GH_ctQ
+      link: https://www.youtube.com/watch?v=L_iltZqW2PM
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Blowzabella
-    track_name: Neylis - Track 5 Tilham
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Ball Noir
+    track_name: The Other (Andro)
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/72pkZ67vQPQCj7cYIAwJMW
+      link: https://open.spotify.com/track/2GMAs1BRzCcSAS7aZ0T2LD
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=uNEyRuvq_1w
+      link: https://www.youtube.com/watch?v=8fvT2T32_tE
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Bran
     track_name: An dro
     links:
@@ -165,26 +167,26 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=376PT2Q5hB0
     from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Broes
-    track_name: Botanist
+  - artist: Carré Manchot
+    track_name: An dro
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/4nPgEx0QlDOHB0D5VDZUyE
+      link: https://open.spotify.com/track/58OnsPS1DNfbDunLJbli8I
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=e_XT2Ot6FKA
+      link: https://www.youtube.com/watch?v=r_FHdVH-Dw4
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Broes
-    track_name: El Pimpie
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Carré Manchot
+    track_name: An dro / Neg la sho
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/1UXnY7Z4qvtivLhY0hTKbu
+      link: https://open.spotify.com/track/5Cy9FrjdTx5uK07Zll7Y2X
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=S1BPgMePmjI
+      link: https://www.youtube.com/watch?v=o6HyvPjRfCg
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Carré Manchot
     track_name: An dro / neg la cho
     links:
@@ -194,51 +196,52 @@ links:
       link: https://www.youtube.com/watch?v=PNR5o79qiqw
     from_playlist:
     - https://open.spotify.com/playlist/2zoeLgbEClTkOeNnyqzVoV
-  - artist: Castanha é Vinovèl
-    track_name: Lo mestre de la maison - An-droc
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Carré Manchot
+    track_name: En dro
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/00beOjqJrwjt1aX8MnDWOz
+      link: https://open.spotify.com/track/0Ko3pdDTxMl1wsgSc0j6JB
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=QfoAF0xPVQE
+      link: https://www.youtube.com/watch?v=-CL-JSDVqN8
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Ciac Boum
-    track_name: La Bouetouse
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Colin Grant
+    track_name: An Drò
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/27NTyQNTxJ8hCqDSFS5q0r
+      link: https://open.spotify.com/track/2NKQosIq0cgGVzNVXsraTY
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=NATVpAKjlHM
+      link: https://www.youtube.com/watch?v=izjrbJlfeEI
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Cocanha
-    track_name: Dempuèi auriac
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Cran
+    track_name: An Dro (Dance Tunes)
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/0qNkaZahHUYumhxlAMgp33
+      link: https://open.spotify.com/track/4brWU4n8sc30upz2Nob06w
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=_X-Q-IKjZ4A
+      link: https://www.youtube.com/watch?v=B4_bTHJ37rw
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Coriandre
-    track_name: La camba tòrta
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Dan Ar Braz, Red Cardell
+    track_name: An dro
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/4YttoSDbcwwxe4zHL8BT4B
+      link: https://open.spotify.com/track/6mOeyQcGJVamEgsMbstA7z
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=Ub0lztw5tIg
+      link: https://www.youtube.com/watch?v=_r34BuHoDmw
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Dahù
-    track_name: Biscoitos
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Dañs Akademi, Klervi Riviere, Érik Marchand
+    track_name: Milin Turki (An Dro)
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/68q4hFtKBiMZXpaDFZhid0
+      link: https://open.spotify.com/track/5MCb9pTR6OtlpSmRYZjYmk
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=9gNq4u1G4to
+      link: https://www.youtube.com/watch?v=jbAZpMPVZrA
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Denez Prigent
     track_name: Android 56 - Live à Yaouank
     links:
@@ -248,6 +251,15 @@ links:
       link: https://www.youtube.com/watch?v=uSOHqj8Hr-s
     from_playlist:
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Didier Squiban
+    track_name: Suite d'Andro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/61laqmdKC0cG6bpKZHacn6
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_oBdDwqGN-M
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Didier Squiban, Yann-Fañch Kemener
     track_name: An dro
     links:
@@ -259,16 +271,42 @@ links:
       link: https://open.spotify.com/track/2BIMpDJsWmamB8u9F46lae
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Duo Absynthe
-    track_name: Azilia
+  - artist: Die Irrlichter
+    track_name: Andro
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/5S9s5CSmxaFBOI6sjICyrY
+      link: https://open.spotify.com/track/3tfsY12dzRspDni7VxQt2p
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=GPzZLGUAKHk
+      link: https://www.youtube.com/watch?v=qQ7v9H_W-18
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Digresk
+    track_name: Andromaque - Andro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6DILGuweYBZsiH0EZOxZxw
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=lxpH1snUCNg
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Diwall
+    track_name: Koumoul (an dro)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3w0eaD7QXLqLlXaUwTn0AI
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=RG_x-n58W-E
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Dremmwel
+    track_name: Re zo re (An-dro)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5aya1VXEhGz7Ufzet7f0F2
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=pwCpiPm3Iu0
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Duo Blain-Leyzour
     track_name: Deus en-dro nevez-amzer
     links:
@@ -277,16 +315,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=Qju1v3CTDGM
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Duo Nello
-    track_name: Le tour du portique / En attendant nono
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/3LferSsQY6BZCcPbBhCpQS
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=lk9vj93wlRU
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Duo Sionneau/Gielen
     track_name: Blaretudan
     links:
@@ -296,24 +325,24 @@ links:
       link: https://www.youtube.com/watch?v=CyEBSwjBSZs
     from_playlist:
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
-  - artist: EmBRUN
-    track_name: Isostar
+  - artist: Elthin, Jan Pouska, Roxane Genot
+    track_name: An Dro
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/6hmph6sXvgwVTm5RBS9eYN
+      link: https://open.spotify.com/track/1rS8fzQLlfHulVA48iBwEM
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=MJttasIhSLQ
+      link: https://www.youtube.com/watch?v=HLWG3adsdWc
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Estbel
-    track_name: Metsakuningas
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: FMB
+    track_name: An oro - An dro du nord"
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/3cUhAltDPnwSgSi5D1JzFf
+      link: https://open.spotify.com/track/6gvee988mpyrDae5P5WEDh
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=w15WiK0ymr0
+      link: https://www.youtube.com/watch?v=DDZlUTaquhU
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Faun
     track_name: Andro
     links:
@@ -322,7 +351,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=o3KC6hQstXE
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Faun
     track_name: Andro II
     links:
@@ -331,7 +360,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=nLm-GcumXz4
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Femme Folk
     track_name: Arno'dro
     links:
@@ -340,7 +369,26 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=Vf9VAQZRPPM
     from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Feuerdorn
+    track_name: Andro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7GTzXvWiCRFb24XaaQpR6W
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=0NMdOn6LNUs
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Fiesta Noz
+    track_name: An Dro de America / An Dro de Carlos Nuñez
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/59UsO4eXMSy8kMbQK2iIjt
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=U_Qmvv6rqGA
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Fleuves
     track_name: Andro
     links:
@@ -349,17 +397,26 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=hutSpAAqoRk
     from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Fleuves
-    track_name: Kaza
+  - artist: Follenn
+    track_name: Les saoulvaches - An-drp
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/2uCPBa2h54luCrTxH145RG
+      link: https://open.spotify.com/track/5Dm7hHY1Nv6EfR9jI4SPM0
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=4qEM86soaWI
+      link: https://www.youtube.com/watch?v=2HF-jNCusOs
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Follia
+    track_name: Andro Decancq - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4ODxlzjgPJRfDB7OcBtext
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=V4iR5j-VTPs
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Follia
     track_name: Andro decancq
     links:
@@ -369,24 +426,33 @@ links:
       link: https://www.youtube.com/watch?v=FngIyQEVVtg
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
-  - artist: GFVP
-    track_name: Er Is Maar Een Weg Naar Hundelgem
+  - artist: Follia!
+    track_name: Andro Decancq
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/7j7HzlcU1Es9SNanYIeTtM
+      link: https://open.spotify.com/track/6WHr3QqVvZefAtxS90GTaq
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=0SFP-phAGSs
+      link: https://www.youtube.com/watch?v=FngIyQEVVtg
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Geronimo
-    track_name: Wetland Track
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Forzh Penaos
+    track_name: Splann (An Dro)
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/1ZzYbP4ZFXgR2fbE3sxMF4
+      link: https://open.spotify.com/track/71gQ3mvSH4127lu8lOUmW3
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=isklzV_cR3I
+      link: https://www.youtube.com/watch?v=KteVvJ38Ics
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Gilbert Hervieux, Jacques Beauchamp
+    track_name: An dro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/52WXjOq1uRLS6DcpV1VUoS
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=kBf7U4HEILg
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Groove Factory
     track_name: First Glitch
     links:
@@ -396,34 +462,15 @@ links:
       link: https://www.youtube.com/watch?v=BNL9V9ANILs
     from_playlist:
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Hidrae
-    track_name: Dolly
+  - artist: Gwendal
+    track_name: An dro nevez
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/3EA9GR1Ksxa4GtYnAjj4ay
+      link: https://open.spotify.com/track/7p30yVch0KUm13MWWO5eye
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=Lwvz14JRQvY
+      link: https://www.youtube.com/watch?v=vvCIHzj27nI
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Hot Griselda
-    track_name: Den Hemel In
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/61cZZHGS6f0ByY9COowGMX
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=2VITNadKbj4
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Hot Griselda
-    track_name: Roll On - Roll Off
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/1sQi36Dl6hlAWKgJLNa7X3
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=CLhSAhiLejA
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Hotel Palindrone
     track_name: 'Andro: Samo Riba - Live Version'
     links:
@@ -433,6 +480,24 @@ links:
       link: https://www.youtube.com/watch?v=KJmrooQeTlY
     from_playlist:
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Idyll
+    track_name: A Saint Nazaire (An dro)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3r9zZGJlbal4wbO6b5sd9k
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=bzsOSGs1ttg
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Idyll
+    track_name: O.G.M. pas ça! (An dro bio)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/20uOhq31h1zrWgr3GeXKsM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=pqeHZOw7Rs4
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Illa
     track_name: Thé au gingembre / La tortue et la chenille
     links:
@@ -451,24 +516,51 @@ links:
       link: https://www.youtube.com/watch?v=On1aELYU040
     from_playlist:
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
-  - artist: Jo Zanders, Karim Baggili, Kv Express
-    track_name: Zafon
+  - artist: Jens Kommnick, Ulli Boegershausen
+    track_name: An Dro des Petits Bateaux
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/6de2EL71e1Q0NImuVPsApI
+      link: https://open.spotify.com/track/68EuihbUPX9J7fVZm9qEYg
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=ZMG-546-roI
+      link: https://www.youtube.com/watch?v=kAPQW2Kt8k8
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Jon Ranes, ULD
-    track_name: Sover du
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Jessica Baran-Surel, Traditional
+    track_name: Andro
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/7BJNNmsQHnZBd1A5sRXQ5H
+      link: https://open.spotify.com/track/2zxOqxa3Ti4MJRdOyjwSkz
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=raThpJ_Xxtw
+      link: https://www.youtube.com/watch?v=dW7JLm8MLTY
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Kadril
+    track_name: En dro mod koh/ En dro folk
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4sKrEITDAtvI2lzJxt5LDv
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=qihdTIdLguo
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Kafe Koefet
+    track_name: An Dro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7g17f0aijFXAkYBYw6sLPy
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=95_-V2ZQDdA
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Kelten Zonder Grenzen
+    track_name: Andro Ofzo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/07En9ly2diYDLa95cBWibx
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=UGw0bt9n3vU
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Kendirvi
     track_name: Plac'hig Bro-Gwened - An dro
     links:
@@ -477,6 +569,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=14S1Vw5AVDs
     from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
   - artist: Kornog
     track_name: Dans An Dro
@@ -487,87 +580,15 @@ links:
       link: https://www.youtube.com/watch?v=aG-0Uf4hHUU
     from_playlist:
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
-  - artist: Kv Express
-    track_name: L'étoile d'or
+  - artist: Koun
+    track_name: An dro
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/3g7odgToYFqSXlHNJKLea2
+      link: https://open.spotify.com/track/68FiojCB73pkYHMYxz86sW
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=U8HbtIihens
+      link: https://www.youtube.com/watch?v=S4QV0mztgAE
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Kv Express
-    track_name: Little Monster
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/1jOS8YGcKV94zcngVjfv6s
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=8aOWjP-l2AQ
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Kv Express
-    track_name: Lua Cheia
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/37ElfhGypYIBWbHt3ZtCie
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=zUAQUfTP7H0
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: L'herbe folle
-    track_name: N'en parlons plus
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/6HdvMi79ya2sF1n6a4F2fL
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=EcBwVFDyCMg
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: La Bottines Artistiques
-    track_name: LBA
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/3LzHPW1uHGbYYvGBHVG4fA
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=x_WrXMvox8g
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: La Machine
-    track_name: Jardin d'Amour
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/0Ms10cgT691iYisKwFopVi
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=CUqOzKPkW6A
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Laïs
-    track_name: Dorothea
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/2jobPJa8Ee3lm3W5OtzPe0
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=cq_x-1w8Ims
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Laïs
-    track_name: Le Renard Et La Belette
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/02XJkuSVK6sdApVVpTfrWc
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=Akmvm3aaFuQ
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Le Mange Bal
-    track_name: L'arbre sans image
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/1PLPKjLUW1a1qdNaXQMytH
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=CQTd26JUsbI
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Le Quintet à Claques
     track_name: Andropophage
     links:
@@ -576,25 +597,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=qCWCcN1Bbk8
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Le Sextet à Claques
-    track_name: Caraïbes - Live
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/0K0xNwAe9tE6KzgS8IugvT
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=YuP2BeQhDMQ
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Le bal de l'éphémère
-    track_name: Le bel été
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/5bBXTEEeukEsV7Pek76dSW
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=w3T7qwLmZfw
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Les Frères Paranthoën
     track_name: Lœiz - En dro
     links:
@@ -612,7 +615,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=2SMGPoRGS_M
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Lirio
     track_name: Andrito
     links:
@@ -624,61 +627,42 @@ links:
       link: https://open.spotify.com/track/2C9QfGKPSz7jGlGxbLvmoe
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Loogaroo
-    track_name: La Chiave
+  - artist: Magpie Lane
+    track_name: An Dro
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/15bYgfuAWz1QXZxorEsBNq
+      link: https://open.spotify.com/track/02g92gUFWtzQJKOCMNHWaK
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=wMv_fJQ_1hA
+      link: https://www.youtube.com/watch?v=Wa-cNYHd5KI
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Lothlorien
-    track_name: Dans En Dro
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Matmatah
+    track_name: Lambé An Dro
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/258Yxn2JOZicDjwYIcV2Z4
+      link: https://open.spotify.com/track/4TQxGBi80EZbm6COxwIcGR
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=hMx4_KOZ-bc
+      link: https://www.youtube.com/watch?v=igjzvIp8WDo
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Martina Quiere Bailar
-    track_name: Tierra
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Mauro Passos
+    track_name: Andro St. Patrick
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/2Hzihc1WcVJtxW9YOTbht2
+      link: https://open.spotify.com/track/41RpionycglSp2B4zY2GUk
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=cT1HQuUpH4c
+      link: https://www.youtube.com/watch?v=7nuGSvpX6Qc
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Mike Vass
-    track_name: Cold Iron
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Michael Howard Gartner, Wolgemut
+    track_name: An Dro
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/2Yi0x4XCPbmErwbbz8HZwQ
+      link: https://open.spotify.com/track/7n1vV352W4l5oilGcxpnyB
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=Zs4plD26b-M
+      link: https://www.youtube.com/watch?v=SdlnzAKjHlY
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Monsieur Fruits
-    track_name: Afro Celt
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/6GjGDrne89YNdxgAqoa8xr
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=Jl6lBlCL_AQ
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Monsieur Fruits
-    track_name: Moonlight
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/6tevV8f7tFNegtvoh30ek1
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=ALfARpeAr30
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Naragonia, Naragonia Quartet
     track_name: De Glind / The Fernhillfriends / An Dro de Vogüé
     links:
@@ -687,25 +671,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=caI-XwsPoHk
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Naragonia, Naragonia Quartet
-    track_name: Hekske - De dieven
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/7GlPppbpFSfMTJtOHXehxm
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=Z9aeA04zeNA
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Navarra
-    track_name: I ett annat land
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/6dCuOyumqGcE8jRzOI4up5
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=nPHaD-KEXpA
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Nostrad
     links:
     - link: https://www.youtube.com/watch?v=EeCi52CgBYA
@@ -713,15 +679,15 @@ links:
     - link: https://open.spotify.com/track/6jHaSHeaNRcZFlT3XW4ScK
       portal: Spotify
     track_name: En Dro - Live
-  - artist: Nubia
-    track_name: Elin & Eugenie
+  - artist: Nostrad
+    track_name: En dro - Live
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/2Oqf8xJxfybvxSjJ1yNClX
+      link: https://open.spotify.com/track/6jHaSHeaNRcZFlT3XW4ScK
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=VVCjRlaye7c
+      link: https://www.youtube.com/watch?v=EeCi52CgBYA
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: OMIRI
     track_name: Dentro da Matriz
     links:
@@ -739,7 +705,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=a5sgu7PAB4Y
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: OMNIA
     track_name: Wolf an Dro
     links:
@@ -748,16 +714,16 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=DDDEfeVkubI
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: ORAJ
-    track_name: Feu
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Obal
+    track_name: Lume de carburo (Andro)
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/2fGw47KeO4khF8GCrs5P1U
+      link: https://open.spotify.com/track/74XT6GTq0bxehCruwfUToD
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=x4ukRQID73E
+      link: https://www.youtube.com/watch?v=atZk2F0gCwc
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Orfeo
     track_name: Orfest Andro (Andro)
     links:
@@ -766,7 +732,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=lqU1Ow1vpc4
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Orfeo
     track_name: Space (Andro)
     links:
@@ -775,25 +741,25 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=3qiX1r4qQBo
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Oubéret
-    track_name: Basmat Et Robin
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Pas De Quoi
+    track_name: An Dro Reggae
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/6crgwgouY5khG1FJZRlJxQ
+      link: https://open.spotify.com/track/3tdQRuVQSVA61eSzicRlCr
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=-azDPU3qpb4
+      link: https://www.youtube.com/watch?v=zt4eWZkr-Do
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Pichard Vincendeau, Stevan Vincendeau, Willy Pichard
-    track_name: Andromède
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Patrick Ball
+    track_name: An Dro Nevez
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/7jxKYaB2XCV9X1XE6nYh8W
+      link: https://open.spotify.com/track/2Fi8EPBm0P7eiYUiX65ipw
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=PCKeTopUh7A
+      link: https://www.youtube.com/watch?v=cRkRYa1eU9k
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Plantec
     track_name: A-raok (andro)
     links:
@@ -803,16 +769,6 @@ links:
       link: https://www.youtube.com/watch?v=ZQ-AH1keGmQ
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Plantec
-    track_name: A-raok - Andro
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/1NkZrYcQt04xg1mVCUuGEO
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=SCDlZEP47nU
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
   - artist: Plantec
     track_name: Androïde (Andro)
     links:
@@ -831,6 +787,15 @@ links:
       link: https://www.youtube.com/watch?v=UMpnzHc9KDQ
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Plantec
+    track_name: Orin (Andro)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2HKcX2QmSuufPg3b6Ko8UO
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=TxRn-GVkFuM
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Polverfolk
     track_name: An dro
     links:
@@ -839,42 +804,25 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=K4KsjqxGMDo
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Rémi Geffroy
-    track_name: La gifle
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Rozenn Talec, Yannig Noguet
+    track_name: Au mois de mai (Andro)
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/4FuhHZFLcAaMQccm3jlLqi
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-    no_youtube_link: true #Verified
-  - artist: Rémi Geffroy
-    track_name: Les larmes de sable
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/0Hnm1MjWQP9gEIOt2nLTGr
+      link: https://open.spotify.com/track/5SrRyxQ6p5WSiWLJmydQL0
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=aertfeVvi6s
+      link: https://www.youtube.com/watch?v=_x0qu4rtXWw
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Samurai Accordion
-    track_name: Sushi Time
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Skeduz
+    track_name: An dro ar bled
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/7aAbGGVBAWLJgxg5fRbYcm
+      link: https://open.spotify.com/track/6HK81XoWFTT1IOf74NmXpk
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=QOtLI0KjEB8
+      link: https://www.youtube.com/watch?v=HVOVQOrTQ10
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Siger
-    track_name: Barbaren
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/3L90eSmyTY2YCKwkjzSNpr
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=xaDCEAarML4
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Skolvan
     track_name: Le retour (An dro) - Live
     links:
@@ -884,24 +832,24 @@ links:
       link: https://www.youtube.com/watch?v=1iRYG80fP_M
     from_playlist:
     - https://open.spotify.com/playlist/2zoeLgbEClTkOeNnyqzVoV
-  - artist: Snaarmaarwaar
-    track_name: Electric Sheep
+  - artist: Skolvan
+    track_name: Sous les lampions - Andro
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/374DPowGxbYv9Dv6uHq82q
+      link: https://open.spotify.com/track/03yKQURNfj50ulnrWNmfTn
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=x5_YlGLr6vs
+      link: https://www.youtube.com/watch?v=cJxYelLieOo
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Snaarmaarwaar
-    track_name: Slagwerk / Une Ardeur d'Avance
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Sonerien Du
+    track_name: An dro
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/1isamy4PI0VJLaaQ3zKJpR
+      link: https://open.spotify.com/track/7mKGM5xjkGGNAtml1NnkZK
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=c7MQqflooHE
+      link: https://www.youtube.com/watch?v=HU95_d30JZI
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Sonerien Du
     track_name: L'artilleur - "50 ans anniversary" [Remastered]
     blacklist: true #not an an dro
@@ -912,6 +860,42 @@ links:
       link: https://www.youtube.com/watch?v=y7mNJyUp1Fc
     from_playlist:
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Startijenn
+    track_name: Skeud (Radio Edit) [An dro]
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7otMAiPDMUXIbo34IFvhES
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=RRr3n0iBFIg
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Startijenn
+    track_name: Skeud - An dro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4dHalMk5dM0wB2coVDYJ0A
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=xgAAml7K4xU
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Startijenn
+    track_name: Sofa kozh (Andro)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0zsovzuHBJI5y3hClv7YOn
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=6DdQnOgh0_g
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Stefano Principini
+    track_name: Andro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3IcTnW0ev6ch4cTUBnLwUD
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=dLVYfbcSJe0
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Sterne
     track_name: Andro
     links:
@@ -923,16 +907,16 @@ links:
       link: https://open.spotify.com/track/0MELoFc54KAUKDDNOTq1Bg
     from_playlist:
     - https://open.spotify.com/playlist/2zoeLgbEClTkOeNnyqzVoV
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Talec Noguet Quartet
-    track_name: Olala
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: TitoM
+    track_name: An dro gast
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/6ED5CvRVg1lq5dBibM23Tr
+      link: https://open.spotify.com/track/4yWAWC0bQvvSE3bEaMF6s3
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=xc1rXTaxhxI
+      link: https://www.youtube.com/watch?v=uvE68dG6itY
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Tref
     track_name: Andro Hazes / Tzuica
     links:
@@ -941,61 +925,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=axMj31g6aaA
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Tref
-    track_name: Dampf
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/3LDS6SkwlwlGVYLSZvt9W6
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=Y2uGOQkO7d0
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Tref
-    track_name: Kadar
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/0iUNRelyTPRJ91KbQ6lxjr
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=FGKzaGrSRwQ
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Tref
-    track_name: Les Crêpres Dans L'oreille
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/32StgtAZMYZRDLlmj4m9xs
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=30uaPu80fpw
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Tref
-    track_name: Loop to the Moon
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/0jcAcj3bbPDC351aKUmyJt
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=5--i1CTKn5I
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Tribal Jâze
-    track_name: Centurion
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/51GQ7XZYz5aUddzdIrvUDE
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=u5g7Y1pDESM
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Trio Dhoore
-    track_name: The Red Rabbit / The Missing Pipes
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/2HEKCChnkOqTRivSIIBL8n
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=14VxHucxTcc
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Trio Loubelya
     track_name: Andrò a torino e poi a casa
     links:
@@ -1004,8 +934,8 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=PaMPgExergo
     from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
   - artist: Trio Loubelya, Tristan Le Breton
     track_name: Andromac
     links:
@@ -1014,8 +944,8 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=9fCoHww-PvU
     from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
   - artist: Tud
     track_name: An dro
     links:
@@ -1026,15 +956,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/2zoeLgbEClTkOeNnyqzVoV
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
-  - artist: Variomatic
-    track_name: Kerliguen-Belle Île
+  - artist: Vach'inton.g
+    track_name: Que la Cyprine Coule À Flots, Andro
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/14ksDBSvZNfLXWfDQ70KGb
+      link: https://open.spotify.com/track/1GBzh4bNVamFI739MWDcez
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=VWJqr3sboDY
+      link: https://www.youtube.com/watch?v=3LEq7qQouaU
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Wim te Groen
     track_name: An Dro
     links:
@@ -1043,16 +973,16 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=LbvAGzUEUkA
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Wouter en De Draak
-    track_name: Gort met Stroop
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Wolgemut
+    track_name: An Dro
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/53JgXddkhXGzyTSQiezRbw
+      link: https://open.spotify.com/track/6kyqFagXX9hcwcim6SQBob
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=r00g8QksOQk
+      link: https://www.youtube.com/watch?v=SdlnzAKjHlY
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Yann-Fañch Kemener Trio
     track_name: An dro an Trouzerion
     links:
@@ -1061,34 +991,16 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=RPynG_k53Ig
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Zef, zffrs
-    track_name: Triolan
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Yvon Etienne Et Jean-Luc Roudaut
+    track_name: Pemp Den A Zo (En Dro)
     links:
     - portal: Spotify
-      link: https://open.spotify.com/track/0pm8TRl6ffFOF5lD5V2oKj
+      link: https://open.spotify.com/track/3gaMBhSLJqRI9H95pT5vDv
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=CCDfKwnfEiw
+      link: https://www.youtube.com/watch?v=g0SarZ7IUso
     from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Zlabya
-    track_name: Fire Crackers
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/6D1luHijvqRoFJWZuu8u9N
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=ZNqcd6WBcWE
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
-  - artist: Zoufris Maracas
-    track_name: Le peuple à l'œil
-    links:
-    - portal: Spotify
-      link: https://open.spotify.com/track/4BBwztZjXfhgjagbsnGtkj
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=oRAC1nKTAE0
-    from_playlist:
-    - https://open.spotify.com/playlist/5tyGV9WzFysBYJHtRS3RB2
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: ba.fnu
     track_name: Revolution Onedro. An Dro
     links:

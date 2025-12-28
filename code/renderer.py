@@ -234,23 +234,28 @@ def render_music_by_artist(all_music, directory_structure):
         current_file
     )
 
-def render_home_page(loaded_translation, directory_structure):
+    return artists
+
+def render_home_page(loaded_translation, directory_structure, number_of_tracks, number_of_dances, number_of_artists):
+    def get_text_to_display(text_to_load_from_translation, number_to_display):
+        return f"{loaded_translation.get_page_name(text_to_load_from_translation)} ({number_to_display})"
+
     write_file(
         '\n\n'.join([
         link(
-            loaded_translation.get_page_name('aggregated_list_of_dances'),
+            get_text_to_display('aggregated_list_of_dances', number_of_dances),
             directory_structure.get_aggregated_dances_path(directory_structure.get_home_page_path())
         ),
         link(
-            loaded_translation.get_page_name('aggregated_list_of_music'),
+            get_text_to_display('aggregated_list_of_music', number_of_tracks),
             directory_structure.get_aggregated_music_path(directory_structure.get_home_page_path())
         ),
         link(
-            loaded_translation.get_page_name('list_of_music_by_artist'),
+            get_text_to_display('list_of_music_by_artist', number_of_artists),
             directory_structure.get_aggregated_music_by_artist(directory_structure.get_home_page_path())
         ),
         link(
-            loaded_translation.get_page_name('list_of_music_by_dance'),
+            get_text_to_display('list_of_music_by_dance', number_of_dances),
             directory_structure.get_aggregated_music_by_dance(directory_structure.get_home_page_path())
         )
         ]),

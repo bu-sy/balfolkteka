@@ -214,7 +214,7 @@ for directory_to_create in directoryStructure.get_directories_to_create():
     os.makedirs(directory_to_create, exist_ok=True)
 
 render_aggregated_music(all_music, directoryStructure)
-render_music_by_artist(all_music, directoryStructure)
+all_artists = render_music_by_artist(all_music, directoryStructure)
 render_music_by_dance(all_dances, directoryStructure)
 
 for translation in all_translations:
@@ -231,7 +231,13 @@ for translation in all_translations:
                 music.set_dance(dance.get('name'))
 
     render_aggregated_dances(all_dances, translation, directory_structure_for_translation)
-    render_home_page(translation, directory_structure_for_translation)
+    render_home_page(
+        translation,
+        directory_structure_for_translation,
+        number_of_tracks=len(all_music),
+        number_of_dances=len(all_dances),
+        number_of_artists=len(all_artists)
+    )
 
     print(f"Done translation {translation.name}")
 

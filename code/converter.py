@@ -58,7 +58,7 @@ class TrackRecord(object):
         self.dances.add(dance)
 
     def get_dances(self):
-        return ", ".join(self.dances)
+        return ", ".join(sorted(list(self.dances)))
 
 
 class YamlDefinedEntity(object):

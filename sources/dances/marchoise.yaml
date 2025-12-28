@@ -13,10 +13,9 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7EAa5gJCCpfnu4aWHfqB8j
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=wwpM2f54qjE
     from_playlist:
     - https://open.spotify.com/playlist/1aZIzlVcrtTPIANv5e6Ll4
+    no_youtube_link: true #Verified
   - artist: Arbadétorne
     track_name: Marchoise « Ma position est bien triste et cruelle »
     links:

@@ -1,4 +1,4 @@
-# Lista wszystkich tańców (36)
+# Lista wszystkich tańców (38)
 
 [Powrót do listy stron](../home.md)
 
@@ -27,6 +27,10 @@
 [Fandango & Arin Arin](../dances/fandango.md)
 
 [Galop Nantais](../dances/galop_nantais.md)
+
+[Gavotte caresse / Gavotte de Grenoble](../dances/gavotte_de_grenoble.md)
+
+[Gavotte de l'Aven](../dances/gavotte_de_l_aven.md)
 
 [Gavotte du Bas-Léon](../dances/gavotte_du_bas_leon.md)
 

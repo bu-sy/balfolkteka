@@ -1,0 +1,37 @@
+id: gavotte_de_l_aven
+name: Gavotte de l'Aven
+links:
+  examples:
+  - link: https://www.youtube.com/watch?v=qmG0FHGs8WY
+  - link: https://www.youtube.com/watch?v=6zlEldNjyIE
+  playlists:
+  - link: https://open.spotify.com/playlist/4qPJFMv4NySdPwm4ICIUNX
+#  - link: https://open.spotify.com/playlist/7bjBMyVAhlVUEaQ8vKiUCU
+  tracks:
+  - artist: Alain Pennec Quartet
+    track_name: Gavotte de l'aven
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/644FR21u4UbF9Krz4yWWjw
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=-_k4PCQH4qA
+    from_playlist:
+    - https://open.spotify.com/playlist/4qPJFMv4NySdPwm4ICIUNX
+  - artist: Dañs Akademi
+    track_name: Gavottes de l'Aven
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5NVYkpoj1unC3CdqVcjXgK
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=6LvMOoiq_68
+    from_playlist:
+    - https://open.spotify.com/playlist/4qPJFMv4NySdPwm4ICIUNX
+  - artist: Les Zéoles
+    track_name: La traversée (Gavotte De l'Aven)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/47hSj9jIDEumUPRhE4aFjV
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=KMq6mW6Lyeo
+    from_playlist:
+    - https://open.spotify.com/playlist/4qPJFMv4NySdPwm4ICIUNX

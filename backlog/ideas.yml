@@ -1,4 +1,5 @@
-- Create a filter that checks if track is matched with multiple dances (shouldn't happen)
+- Dispatch https://open.spotify.com/playlist/7bjBMyVAhlVUEaQ8vKiUCU into separate tracks (Gavottes)
+- For breton dances try to find good examples from Tristan Gloaguen
 - Create a playlist remover
 - cut "user_playlists" file and remove it from Git history!
 - Add region from which the dance comes from

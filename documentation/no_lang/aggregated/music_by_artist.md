@@ -34,7 +34,7 @@
 
 [Alain Pennec (7)](music_by_artist/alain_pennec.md)
 
-[Alain Pennec Quartet (1)](music_by_artist/alain_pennec_quartet.md)
+[Alain Pennec Quartet (2)](music_by_artist/alain_pennec_quartet.md)
 
 [Alberto Varillas (1)](music_by_artist/alberto_varillas.md)
 
@@ -262,13 +262,13 @@
 
 [Cyril Roche (8)](music_by_artist/cyril_roche.md)
 
-[Cyrille Brotto (4)](music_by_artist/cyrille_brotto.md)
+[Cyrille Brotto (5)](music_by_artist/cyrille_brotto.md)
 
 [Dahù (4)](music_by_artist/dahu.md)
 
 [Dan Ar Braz (1)](music_by_artist/dan_ar_braz.md)
 
-[Dañs Akademi (1)](music_by_artist/dans_akademi.md)
+[Dañs Akademi (2)](music_by_artist/dans_akademi.md)
 
 [Dave Shepherd (1)](music_by_artist/dave_shepherd.md)
 
@@ -516,7 +516,7 @@
 
 [Grégory Jolivet (1)](music_by_artist/gregory_jolivet.md)
 
-[Groove Factory (10)](music_by_artist/groove_factory.md)
+[Groove Factory (11)](music_by_artist/groove_factory.md)
 
 [Groupe Dir Ha Tan (1)](music_by_artist/groupe_dir_ha_tan.md)
 
@@ -768,9 +768,11 @@
 
 [Les Poufs à Cordes (3)](music_by_artist/les_poufs_a_cordes.md)
 
-[Les Zéoles (16)](music_by_artist/les_zeoles.md)
+[Les Zéoles (17)](music_by_artist/les_zeoles.md)
 
 [Lhi Balòs (2)](music_by_artist/lhi_balos.md)
+
+[Li'ang Zhao (1)](music_by_artist/li_ang_zhao.md)
 
 [Lionel Neyssenssas (1)](music_by_artist/lionel_neyssenssas.md)
 
@@ -1018,7 +1020,7 @@
 
 [Regis Huiban (1)](music_by_artist/regis_huiban.md)
 
-[Rémi Geffroy (19)](music_by_artist/remi_geffroy.md)
+[Rémi Geffroy (20)](music_by_artist/remi_geffroy.md)
 
 [Renat Jurie (1)](music_by_artist/renat_jurie.md)
 
@@ -1124,7 +1126,7 @@
 
 [Stefano Principini (1)](music_by_artist/stefano_principini.md)
 
-[Stéphane Milleret (4)](music_by_artist/stephane_milleret.md)
+[Stéphane Milleret (5)](music_by_artist/stephane_milleret.md)
 
 [Stephane Robert (1)](music_by_artist/stephane_robert.md)
 
@@ -1294,7 +1296,7 @@
 
 [Woodlands (1)](music_by_artist/woodlands.md)
 
-[Wouter en De Draak (13)](music_by_artist/wouter_en_de_draak.md)
+[Wouter en De Draak (15)](music_by_artist/wouter_en_de_draak.md)
 
 [WoWaKin (1)](music_by_artist/wowakin.md)
 

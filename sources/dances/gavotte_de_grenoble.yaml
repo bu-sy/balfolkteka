@@ -1,0 +1,43 @@
+id: gavotte_de_grenoble
+name: Gavotte caresse / Gavotte de Grenoble
+links:
+  examples:
+  - link: https://www.youtube.com/watch?v=qFbyOqFIzKk
+  playlists:
+  - link: https://open.spotify.com/playlist/3vGeSvKQYKTZDWR1OosTBI
+  tracks:
+  - artist: Cyrille Brotto, Groove Factory, Li'ang Zhao, Stéphane Milleret
+    track_name: L'envers de la voix
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3OioGwf5VnZZfBaAnbpSVu
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=USJ-TjqBi7Q
+    from_playlist:
+    - https://open.spotify.com/playlist/3vGeSvKQYKTZDWR1OosTBI
+  - artist: Rémi Geffroy
+    track_name: Maladire (gavotte de l'Aven caresse)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2UzAxKGEZt9DJKefcGbe1M
+    from_playlist:
+    - https://open.spotify.com/playlist/3vGeSvKQYKTZDWR1OosTBI
+    no_youtube_link: true #Verified
+  - artist: Wouter en De Draak
+    track_name: Gavotte caresse
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/17O4tsa4z1ypJN1cE6hcFy
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=1-4-tDVn1wM
+    from_playlist:
+    - https://open.spotify.com/playlist/3vGeSvKQYKTZDWR1OosTBI
+  - artist: Wouter en De Draak
+    track_name: Gavotte de Grenoble
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3vQqn0tgoO9yIFpmA0N9EO
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=VVBLLPyodBo
+    from_playlist:
+    - https://open.spotify.com/playlist/3vGeSvKQYKTZDWR1OosTBI

@@ -24,6 +24,10 @@
 
 [Galop Nantais (5)](music_by_dance/galop_nantais.md)
 
+[Gavotte caresse / Gavotte de Grenoble (4)](music_by_dance/gavotte_de_grenoble.md)
+
+[Gavotte de l'Aven (3)](music_by_dance/gavotte_de_l_aven.md)
+
 [Gavotte du Bas-Léon (5)](music_by_dance/gavotte_du_bas_leon.md)
 
 [Hanter Dro (112)](music_by_dance/hanter_dro.md)

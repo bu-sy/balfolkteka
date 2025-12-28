@@ -16,6 +16,6 @@
 
 <br>
 
-## Utwory (18)
+## Utwory (17)
 
 [Utwory do tańca](../../no_lang/aggregated/music_by_dance/repasseado.md)

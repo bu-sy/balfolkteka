@@ -896,6 +896,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - artist: Naragonia Quartet
+    blacklist: true #Duplicate
     track_name: Batiska
     links:
     - portal: Spotify
@@ -1285,6 +1286,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
   - artist: Wouter en De Draak
+    blacklist: true #This is valse 8 temps
     track_name: Davy's waltz
     links:
     - portal: Spotify

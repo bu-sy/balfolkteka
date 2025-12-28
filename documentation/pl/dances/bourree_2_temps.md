@@ -19,6 +19,6 @@
 
 - [Bourrée 3 temps](bourree_3_temps.md)
 
-## Utwory (225)
+## Utwory (223)
 
 [Utwory do tańca](../../no_lang/aggregated/music_by_dance/bourree_2_temps.md)

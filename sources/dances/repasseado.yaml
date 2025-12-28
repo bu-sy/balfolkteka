@@ -32,7 +32,8 @@ links:
     - https://open.spotify.com/playlist/35vUki5yJ0M8ueuyFcJgmL
     - https://open.spotify.com/playlist/7BOEzP2B81UbXg6INdfLEe
   - artist: Dazkarieh
-    track_name: Repasseado da calçada #TODO verify this is not a duplicate
+    blacklist: true #Duplicate
+    track_name: Repasseado da calçada
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0w2Es6iKe9duHdd9AB4E4U

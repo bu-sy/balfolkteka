@@ -2,7 +2,7 @@
 
 <hr>
 
-<h3>Duo Pilartz Gielen, Vincent Sionneau - <b>Bourrées à deux et trois temps</b> (Bourrée 2 temps, Bourrée 3 temps)</h3>
+<h3>Duo Pilartz Gielen, Vincent Sionneau - <b>Bourrées à deux et trois temps</b> (Bourrée 3 temps, Bourrée 2 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

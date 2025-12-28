@@ -68,6 +68,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/0RetIIIsTDwh2I1DLzRnAT
   - artist: Duo Blain-Leyzour
+    blacklist: true #Duplicate
     track_name: Maraichine
     links:
     - portal: Spotify

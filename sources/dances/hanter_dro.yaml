@@ -358,6 +358,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
   - artist: Didier Squiban, Yann-Fañch Kemener
+    blacklist: true #Duplicate
     track_name: Hanter dro
     links:
     - portal: Spotify
@@ -632,6 +633,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
   - artist: Koun
+    blacklist: true #Duplicate
     track_name: Hanter Dro - Ar paueger pariz
     links:
     - portal: Spotify
@@ -642,6 +644,7 @@ links:
     - https://open.spotify.com/playlist/25fWKPzv5TegVwGq4DrWTb
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
   - artist: Koun
+    blacklist: true #Duplicate
     track_name: Hanter dro - Ar paueger pariz
     links:
     - portal: Spotify
@@ -966,6 +969,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
   - artist: Sterne
+    blacklist: true #Duplicate
     track_name: Hanter Dro
     links:
     - portal: Spotify

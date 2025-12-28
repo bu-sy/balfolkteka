@@ -87,6 +87,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Ar Re Yaouank
+    blacklist: true #Duplicate
     track_name: M-a-l (an-dro)
     links:
     - portal: Spotify
@@ -257,7 +258,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/61laqmdKC0cG6bpKZHacn6
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=_oBdDwqGN-M
+      link: https://www.youtube.com/watch?v=h8lHPgf17-E
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Didier Squiban, Yann-Fañch Kemener
@@ -418,6 +419,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Follia
+    blacklist: true #Duplicate
     track_name: Andro decancq
     links:
     - portal: Spotify
@@ -673,13 +675,6 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Nostrad
-    links:
-    - link: https://www.youtube.com/watch?v=EeCi52CgBYA
-      portal: YouTube
-    - link: https://open.spotify.com/track/6jHaSHeaNRcZFlT3XW4ScK
-      portal: Spotify
-    track_name: En Dro - Live
-  - artist: Nostrad
     track_name: En dro - Live
     links:
     - portal: Spotify
@@ -779,6 +774,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/2zoeLgbEClTkOeNnyqzVoV
   - artist: Plantec
+    blacklist: true #Duplicate
     track_name: Androïde - Andro
     links:
     - portal: Spotify
@@ -980,7 +976,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/6kyqFagXX9hcwcim6SQBob
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=SdlnzAKjHlY
+      link: https://www.youtube.com/watch?v=CkV0yyldllI
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Yann-Fañch Kemener Trio

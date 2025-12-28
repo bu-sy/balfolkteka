@@ -101,11 +101,11 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/14Qr9QgcyRVHxqg9lu2T74
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=0OS9KD2ZtS4
+      link: https://www.youtube.com/watch?v=e6Ij3aBeWM0
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
   - artist: Korrontzi
-    track_name: Arin-Latin #TODO this seems to be a duplicate
+    track_name: Arin-Latin
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6CRMZugaWjsXrTpJPzfV1I

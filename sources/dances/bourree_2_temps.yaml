@@ -1559,6 +1559,7 @@ links:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
   - artist: Naragonia Quartet
+    blacklist: true #duplicate
     track_name: Gij Met Mij
     links:
     - portal: Spotify
@@ -1873,12 +1874,11 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4CeqsOCnFofxBmAdmiAR0J
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=aFYRQ6mKVjo
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
+    no_youtube_link: true #Verified
   - artist: Rémi Geffroy
     track_name: L'estropié
     links:
@@ -2183,7 +2183,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/2oQoxUU6UIyaabA2HKHhii
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=IWpy83OMe-k
+      link: https://www.youtube.com/watch?v=HhFIgv4QCkk
     from_playlist:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
   - artist: Variomatic
@@ -2226,6 +2226,7 @@ links:
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
   - artist: ZLABYA
     track_name: La Fille En Feuilles d'Arbre
+    blacklist: true #Unavailable and possibly a duplicate
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6dNaAE3U8vj0HcRo6v9VUW
@@ -2298,7 +2299,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/72vAmLpNyoa8Y23uGeDju1
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=QR9dPIaSyQ8
+      link: https://www.youtube.com/watch?v=xB6y0orQxEw
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05

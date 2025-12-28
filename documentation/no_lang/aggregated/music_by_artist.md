@@ -48,7 +48,7 @@
 
 [Alzamantes (1)](music_by_artist/alzamantes.md)
 
-[Ampouailh (7)](music_by_artist/ampouailh.md)
+[Ampouailh (6)](music_by_artist/ampouailh.md)
 
 [An Tour Tan (1)](music_by_artist/an_tour_tan.md)
 
@@ -74,7 +74,7 @@
 
 [Antti Paalanen (1)](music_by_artist/antti_paalanen.md)
 
-[Ar Re Yaouank (2)](music_by_artist/ar_re_yaouank.md)
+[Ar Re Yaouank (1)](music_by_artist/ar_re_yaouank.md)
 
 [Arbadétorne (3)](music_by_artist/arbadetorne.md)
 
@@ -268,7 +268,7 @@
 
 [David Munnelly (1)](music_by_artist/david_munnelly.md)
 
-[Dazkarieh (4)](music_by_artist/dazkarieh.md)
+[Dazkarieh (3)](music_by_artist/dazkarieh.md)
 
 [DCA Trio (2)](music_by_artist/dca_trio.md)
 
@@ -290,7 +290,7 @@
 
 [Didier Pauvert (1)](music_by_artist/didier_pauvert.md)
 
-[Didier Squiban (6)](music_by_artist/didier_squiban.md)
+[Didier Squiban (5)](music_by_artist/didier_squiban.md)
 
 [Die Irrlichter (3)](music_by_artist/die_irrlichter.md)
 
@@ -322,7 +322,7 @@
 
 [Duo Absynthe (19)](music_by_artist/duo_absynthe.md)
 
-[Duo Blain-Leyzour (6)](music_by_artist/duo_blain_leyzour.md)
+[Duo Blain-Leyzour (5)](music_by_artist/duo_blain_leyzour.md)
 
 [Duo Bottasso (2)](music_by_artist/duo_bottasso.md)
 
@@ -454,7 +454,7 @@
 
 [Follenn (2)](music_by_artist/follenn.md)
 
-[Follia (2)](music_by_artist/follia.md)
+[Follia (1)](music_by_artist/follia.md)
 
 [Follia! (2)](music_by_artist/follia_.md)
 
@@ -676,7 +676,7 @@
 
 [Korrontzi (4)](music_by_artist/korrontzi.md)
 
-[Koun (5)](music_by_artist/koun.md)
+[Koun (3)](music_by_artist/koun.md)
 
 [Kreiz Breizh Akademi (1)](music_by_artist/kreiz_breizh_akademi.md)
 
@@ -762,7 +762,7 @@
 
 [Lionel Neyssenssas (1)](music_by_artist/lionel_neyssenssas.md)
 
-[Lirio (16)](music_by_artist/lirio.md)
+[Lirio (15)](music_by_artist/lirio.md)
 
 [Litha (1)](music_by_artist/litha.md)
 
@@ -862,7 +862,7 @@
 
 [Naragonia (29)](music_by_artist/naragonia.md)
 
-[Naragonia Quartet (16)](music_by_artist/naragonia_quartet.md)
+[Naragonia Quartet (13)](music_by_artist/naragonia_quartet.md)
 
 [Nicolas Canavaggia (1)](music_by_artist/nicolas_canavaggia.md)
 
@@ -880,7 +880,7 @@
 
 [Noluen Le Buhe (2)](music_by_artist/noluen_le_buhe.md)
 
-[Nostrad (9)](music_by_artist/nostrad.md)
+[Nostrad (8)](music_by_artist/nostrad.md)
 
 [NOU (4)](music_by_artist/nou.md)
 
@@ -972,7 +972,7 @@
 
 [Planchée (2)](music_by_artist/planchee.md)
 
-[Plantec (12)](music_by_artist/plantec.md)
+[Plantec (11)](music_by_artist/plantec.md)
 
 [Polverfolk (1)](music_by_artist/polverfolk.md)
 
@@ -1110,7 +1110,7 @@
 
 [Stephane Robert (1)](music_by_artist/stephane_robert.md)
 
-[Sterne (7)](music_by_artist/sterne.md)
+[Sterne (6)](music_by_artist/sterne.md)
 
 [Stevan Vincendeau (6)](music_by_artist/stevan_vincendeau.md)
 
@@ -1266,7 +1266,7 @@
 
 [Willy Pichard (5)](music_by_artist/willy_pichard.md)
 
-[Wim te Groen (4)](music_by_artist/wim_te_groen.md)
+[Wim te Groen (3)](music_by_artist/wim_te_groen.md)
 
 [Wipidoup (1)](music_by_artist/wipidoup.md)
 
@@ -1274,7 +1274,7 @@
 
 [Woodlands (1)](music_by_artist/woodlands.md)
 
-[Wouter en De Draak (14)](music_by_artist/wouter_en_de_draak.md)
+[Wouter en De Draak (13)](music_by_artist/wouter_en_de_draak.md)
 
 [WoWaKin (1)](music_by_artist/wowakin.md)
 
@@ -1288,7 +1288,7 @@
 
 [Yann Honoré (1)](music_by_artist/yann_honore.md)
 
-[Yann-Fañch Kemener (7)](music_by_artist/yann_fanch_kemener.md)
+[Yann-Fañch Kemener (6)](music_by_artist/yann_fanch_kemener.md)
 
 [Yann-Fañch Kemener Trio (1)](music_by_artist/yann_fanch_kemener_trio.md)
 
@@ -1312,6 +1312,6 @@
 
 [Zirp (1)](music_by_artist/zirp.md)
 
-[Zlabya (13)](music_by_artist/zlabya.md)
+[Zlabya (12)](music_by_artist/zlabya.md)
 
 [Zurgó (1)](music_by_artist/zurgo.md)

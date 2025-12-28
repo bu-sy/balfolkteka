@@ -28,16 +28,17 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/4wSi9BZ3ctQqM6C1d8qLTI
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=v1jZC5yu-ZI
+      link: https://www.youtube.com/watch?v=A-HqEgvwDEg
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
   - artist: Ampouailh
+    blacklist: true #Duplicate
     track_name: Tri bali 41vet (Ronds de saint-Vincent) - Live
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3AhdFAJ7HzN9HdscUIuWTu
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=v1jZC5yu-ZI
+      link: https://www.youtube.com/watch?v=A-HqEgvwDEg
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
   - artist: BAROK, Ronan Pellen

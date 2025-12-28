@@ -224,6 +224,20 @@ for i in range(0, len(all_music)-1):
 assert len(all_music_filtered) == len(set(all_music_filtered))
 all_music = all_music_filtered
 
+#VERIFY FOR DUPLICATE LINKS
+youtube_links = {}
+for music in all_music_filtered:
+    for link in music.music_links:
+        if link.portal.lower() == 'youtube':
+            youtube_links[link.link] = youtube_links.get(link.link, []) + [f"{music.artist} - {music.track_name}"]
+
+
+for link, track_descriptions in youtube_links.items():
+    if len(track_descriptions) > 1:
+        print(f"Found YouTube link {link} in following tracks")
+        for description in track_descriptions:
+            print(description)
+
 for directory_to_create in directoryStructure.get_directories_to_create():
     os.makedirs(directory_to_create, exist_ok=True)
 

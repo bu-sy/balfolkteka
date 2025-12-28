@@ -1,8 +1,8 @@
-[An Dro (108)](music_by_dance/an_dro.md)
+[An Dro (104)](music_by_dance/an_dro.md)
 
 [Bal Keff (4)](music_by_dance/bal_keff.md)
 
-[Bourrée 2 temps (225)](music_by_dance/bourree_2_temps.md)
+[Bourrée 2 temps (223)](music_by_dance/bourree_2_temps.md)
 
 [Bourrée 3 temps (124)](music_by_dance/bourree_3_temps.md)
 
@@ -22,17 +22,17 @@
 
 [Gavotte du Bas-Léon (5)](music_by_dance/gavotte_du_bas_leon.md)
 
-[Hanter Dro (116)](music_by_dance/hanter_dro.md)
+[Hanter Dro (112)](music_by_dance/hanter_dro.md)
 
 [Kost ar c'hoad (26)](music_by_dance/kost_ar_c_hoad.md)
 
 [Madison (1)](music_by_dance/madison.md)
 
-[Maraîchine (22)](music_by_dance/maraichine.md)
+[Maraîchine (21)](music_by_dance/maraichine.md)
 
 [Mardi Gras (2)](music_by_dance/mardi_gras.md)
 
-[Mazurka (128)](music_by_dance/mazurka.md)
+[Mazurka (126)](music_by_dance/mazurka.md)
 
 [Pas de Sept (1)](music_by_dance/pas_de_sept.md)
 
@@ -40,15 +40,15 @@
 
 [Porcher (2)](music_by_dance/porcher.md)
 
-[Repasseado (18)](music_by_dance/repasseado.md)
+[Repasseado (17)](music_by_dance/repasseado.md)
 
 [Rond de Landéda (6)](music_by_dance/rond_de_landeda.md)
 
-[Rond de Saint-Vincent (31)](music_by_dance/rond_de_saint_vincent.md)
+[Rond de Saint-Vincent (30)](music_by_dance/rond_de_saint_vincent.md)
 
 [Polska (rund polska) (10)](music_by_dance/rund_polska.md)
 
-[Scottish (81)](music_by_dance/scottish.md)
+[Scottish (80)](music_by_dance/scottish.md)
 
 [Scottish impaire (7)](music_by_dance/scottish_impaire.md)
 
@@ -56,7 +56,7 @@
 
 [Valse 11 temps (5)](music_by_dance/valse_11_temps.md)
 
-[Valse 3 temps (147)](music_by_dance/valse_3_temps.md)
+[Valse 3 temps (145)](music_by_dance/valse_3_temps.md)
 
 [Valse 5 temps (35)](music_by_dance/valse_5_temps.md)
 

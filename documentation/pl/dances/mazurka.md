@@ -14,6 +14,6 @@
 
 <br>
 
-## Utwory (128)
+## Utwory (126)
 
 [Utwory do tańca](../../no_lang/aggregated/music_by_dance/mazurka.md)

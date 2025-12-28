@@ -44,7 +44,7 @@
 
 <hr>
 
-<h3>Kv Express - <b>Loulou</b> (Mazurka, Valse 3 temps)</h3>
+<h3>Kv Express - <b>Loulou</b> (Valse 3 temps, Mazurka)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

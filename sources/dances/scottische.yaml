@@ -465,6 +465,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Lirio
+    blacklist: true #Duplicate
     track_name: Scottish à bruno & scottish vreeswijk
     links:
     - portal: Spotify

@@ -1128,10 +1128,9 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5HcQhBLwbLZEnWTn8Yassy
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=GUSJtDk-CHs
     from_playlist:
     - https://open.spotify.com/playlist/60rT8z0AbQ5ZQIrWsvSOWq
+    no_youtube_link: true #Verified
   - artist: Trio Trad
     track_name: Suite Auvergnate 2
     links:

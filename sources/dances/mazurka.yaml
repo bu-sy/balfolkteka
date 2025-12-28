@@ -827,6 +827,7 @@ links:
     - https://open.spotify.com/playlist/2hL4rLYe9FdRs1pgbQyyy1
   - artist: Naragonia Quartet
     track_name: The Lilly Ponds
+    blacklist: true
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3Uv5efsDtt0ak3f0vTIUzG
@@ -1137,6 +1138,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Wim te Groen
+    blacklist: true #duplicate
     track_name: Wat een leuk walsje (mazurka)
     links:
     - portal: Spotify

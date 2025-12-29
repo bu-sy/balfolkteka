@@ -19,6 +19,33 @@ links:
       link: https://www.youtube.com/watch?v=-_k4PCQH4qA
     from_playlist:
     - https://open.spotify.com/playlist/4qPJFMv4NySdPwm4ICIUNX
+  - artist: Annie Ebrel, Marthe Vassallo, Nolùen Le Buhé
+    track_name: Bilhedoù du 2 - Gavotte
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2xzHYP20lfcYev5cfEhsMG
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=xtcJO3u4nYA
+    from_playlist:
+    - https://open.spotify.com/playlist/4qPJFMv4NySdPwm4ICIUNX
+  - artist: Ball Noir
+    track_name: Last Day (Gavotte)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2axGCVDzByAUDLMzPTIIB9
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=CJODLSvcfpU
+    from_playlist:
+    - https://open.spotify.com/playlist/4qPJFMv4NySdPwm4ICIUNX
+  - artist: Blue Reed
+    track_name: Iopas
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6TlnnTYE91dB0oXp7Sh4aW
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ueWzq54CoX0
+    from_playlist:
+    - https://open.spotify.com/playlist/4qPJFMv4NySdPwm4ICIUNX
   - artist: Dañs Akademi
     track_name: Gavottes de l'Aven
     links:
@@ -26,6 +53,33 @@ links:
       link: https://open.spotify.com/track/5NVYkpoj1unC3CdqVcjXgK
     - portal: YouTube
       link: https://www.youtube.com/watch?v=6LvMOoiq_68
+    from_playlist:
+    - https://open.spotify.com/playlist/4qPJFMv4NySdPwm4ICIUNX
+  - artist: Duo Brotto Milleret
+    track_name: Ivoirine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/761Pm4DU6fIphRgfZk7iC3
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=0Zd5pFf3la0
+    from_playlist:
+    - https://open.spotify.com/playlist/4qPJFMv4NySdPwm4ICIUNX
+  - artist: Johann Sebastian Bach, Sefa Emre İlikli
+    track_name: Gavotte in G Minor, BWV 822
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1vu0pkNN2cUM7HjmuLVxxY
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=wn2zDWKTRes
+    from_playlist:
+    - https://open.spotify.com/playlist/4qPJFMv4NySdPwm4ICIUNX
+  - artist: Kornog
+    track_name: Gavotten Ar Menez
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/71MU8CCqYxiVmEzcMHUTdU
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=gezVCZbUQzI
     from_playlist:
     - https://open.spotify.com/playlist/4qPJFMv4NySdPwm4ICIUNX
   - artist: Les Zéoles

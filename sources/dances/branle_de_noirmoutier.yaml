@@ -3,9 +3,11 @@ name: Branle de Noirmoutier
 links:
   examples:
   - link: https://www.youtube.com/watch?v=TetafLbunXE
+  - link: https://www.youtube.com/watch?v=13UD8GVFcMg
   playlists:
   - link: https://open.spotify.com/playlist/2eiyNb4MtgG9aTALkvviKq
   - link: https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
+  - link: https://open.spotify.com/playlist/4qxQ6ks47rPlSXzTqTssuN
   tracks:
   - artist: Airboxes
     track_name: Öblarn - Dürnstein Castle
@@ -129,6 +131,15 @@ links:
       link: https://www.youtube.com/watch?v=J7FVlcTkFfo
     from_playlist:
     - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
+  - artist: Le Mange Bal
+    track_name: Noir (Suite de bransle de Sebastien Bertrand et Christian Pacher)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7m1WKRgT1mPCaCm3QM17yW
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=lp7Sarj_1t8
+    from_playlist:
+    - https://open.spotify.com/playlist/4qxQ6ks47rPlSXzTqTssuN
   - artist: Ma petite
     track_name: La Petite Marguerite
     links:

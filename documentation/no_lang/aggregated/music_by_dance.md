@@ -6,9 +6,9 @@
 
 [Bourrée 3 temps (124)](music_by_dance/bourree_3_temps.md)
 
-[Branle de Noirmoutier (17)](music_by_dance/branle_de_noirmoutier.md)
+[Branle de Noirmoutier (18)](music_by_dance/branle_de_noirmoutier.md)
 
-[Cercle Circassien (69)](music_by_dance/cercle_circassien.md)
+[Cercle Circassien (70)](music_by_dance/cercle_circassien.md)
 
 [Chapelloise (36)](music_by_dance/chapelloise.md)
 
@@ -24,9 +24,9 @@
 
 [Galop Nantais (5)](music_by_dance/galop_nantais.md)
 
-[Gavotte caresse / Gavotte de Grenoble (24)](music_by_dance/gavotte_de_grenoble.md)
+[Gavotte caresse / Gavotte de Grenoble (37)](music_by_dance/gavotte_de_grenoble.md)
 
-[Gavotte de l'Aven (3)](music_by_dance/gavotte_de_l_aven.md)
+[Gavotte de l'Aven (9)](music_by_dance/gavotte_de_l_aven.md)
 
 [Gavotte du Bas-Léon (5)](music_by_dance/gavotte_du_bas_leon.md)
 

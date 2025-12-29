@@ -68,7 +68,7 @@
 
 [Anne-Lise Foy (10)](music_by_artist/anne_lise_foy.md)
 
-[Annie Ebrel (2)](music_by_artist/annie_ebrel.md)
+[Annie Ebrel (3)](music_by_artist/annie_ebrel.md)
 
 [Annwn (2)](music_by_artist/annwn.md)
 
@@ -118,13 +118,13 @@
 
 [Bagad Kerlenn Pondi (2)](music_by_artist/bagad_kerlenn_pondi.md)
 
-[Bal O'Gadjo (9)](music_by_artist/bal_o_gadjo.md)
+[Bal O'Gadjo (10)](music_by_artist/bal_o_gadjo.md)
 
 [Balarù (1)](music_by_artist/balaru.md)
 
 [Baliskis (2)](music_by_artist/baliskis.md)
 
-[Ball Noir (3)](music_by_artist/ball_noir.md)
+[Ball Noir (4)](music_by_artist/ball_noir.md)
 
 [Balley (1)](music_by_artist/balley.md)
 
@@ -170,7 +170,7 @@
 
 [Blowzabella (3)](music_by_artist/blowzabella.md)
 
-[Blue Reed (6)](music_by_artist/blue_reed.md)
+[Blue Reed (7)](music_by_artist/blue_reed.md)
 
 [Bon Débarras (1)](music_by_artist/bon_debarras.md)
 
@@ -282,6 +282,8 @@
 
 [Decibal (3)](music_by_artist/decibal.md)
 
+[Decombel - Van Mierlo (1)](music_by_artist/decombel_van_mierlo.md)
+
 [Deli Reçel (1)](music_by_artist/deli_recel.md)
 
 [Denez Prigent (2)](music_by_artist/denez_prigent.md)
@@ -302,7 +304,7 @@
 
 [Die Irrlichter (3)](music_by_artist/die_irrlichter.md)
 
-[Digresk (3)](music_by_artist/digresk.md)
+[Digresk (4)](music_by_artist/digresk.md)
 
 [Diou Flo (3)](music_by_artist/diou_flo.md)
 
@@ -336,7 +338,7 @@
 
 [Duo Bottasso (2)](music_by_artist/duo_bottasso.md)
 
-[Duo Brotto Milleret (5)](music_by_artist/duo_brotto_milleret.md)
+[Duo Brotto Milleret (6)](music_by_artist/duo_brotto_milleret.md)
 
 [Duo Cozian Oberlé (1)](music_by_artist/duo_cozian_oberle.md)
 
@@ -358,7 +360,7 @@
 
 [Duo Sionneau/Gielen (8)](music_by_artist/duo_sionneau_gielen.md)
 
-[Duo TTC (2)](music_by_artist/duo_ttc.md)
+[Duo TTC (3)](music_by_artist/duo_ttc.md)
 
 [Duo Vargoz (5)](music_by_artist/duo_vargoz.md)
 
@@ -408,7 +410,7 @@
 
 [Estbel (1)](music_by_artist/estbel.md)
 
-[Estrad (1)](music_by_artist/estrad.md)
+[Estrad (2)](music_by_artist/estrad.md)
 
 [Etienne Choquet (1)](music_by_artist/etienne_choquet.md)
 
@@ -626,6 +628,8 @@
 
 [Jocelyn Papon (1)](music_by_artist/jocelyn_papon.md)
 
+[Johann Sebastian Bach (1)](music_by_artist/johann_sebastian_bach.md)
+
 [Johnny Flynn (1)](music_by_artist/johnny_flynn.md)
 
 [Jon Maia (1)](music_by_artist/jon_maia.md)
@@ -674,6 +678,8 @@
 
 [Kerbedig (2)](music_by_artist/kerbedig.md)
 
+[Khaled Mouzanar (1)](music_by_artist/khaled_mouzanar.md)
+
 [Kitus (6)](music_by_artist/kitus.md)
 
 [KKC Orchestra (1)](music_by_artist/kkc_orchestra.md)
@@ -682,7 +688,7 @@
 
 [Komred (10)](music_by_artist/komred.md)
 
-[Kornog (2)](music_by_artist/kornog.md)
+[Kornog (3)](music_by_artist/kornog.md)
 
 [Korriganed (1)](music_by_artist/korriganed.md)
 
@@ -742,9 +748,9 @@
 
 [Le Grand Barouf (4)](music_by_artist/le_grand_barouf.md)
 
-[Le Mange Bal (3)](music_by_artist/le_mange_bal.md)
+[Le Mange Bal (4)](music_by_artist/le_mange_bal.md)
 
-[Le Quintet à Claques (2)](music_by_artist/le_quintet_a_claques.md)
+[Le Quintet à Claques (3)](music_by_artist/le_quintet_a_claques.md)
 
 [Le Sextet à Claques (6)](music_by_artist/le_sextet_a_claques.md)
 
@@ -768,7 +774,7 @@
 
 [Les Poufs à Cordes (3)](music_by_artist/les_poufs_a_cordes.md)
 
-[Les Zéoles (17)](music_by_artist/les_zeoles.md)
+[Les Zéoles (18)](music_by_artist/les_zeoles.md)
 
 [Lhi Balòs (2)](music_by_artist/lhi_balos.md)
 
@@ -828,7 +834,7 @@
 
 [Marthe Tourret (5)](music_by_artist/marthe_tourret.md)
 
-[Marthe Vassallo (2)](music_by_artist/marthe_vassallo.md)
+[Marthe Vassallo (3)](music_by_artist/marthe_vassallo.md)
 
 [Martina Quiere Bailar (5)](music_by_artist/martina_quiere_bailar.md)
 
@@ -880,7 +886,7 @@
 
 [Myrdhin (1)](music_by_artist/myrdhin.md)
 
-[Naragonia (33)](music_by_artist/naragonia.md)
+[Naragonia (36)](music_by_artist/naragonia.md)
 
 [Naragonia Quartet (14)](music_by_artist/naragonia_quartet.md)
 
@@ -898,7 +904,7 @@
 
 [Noiranomis (2)](music_by_artist/noiranomis.md)
 
-[Noluen Le Buhe (2)](music_by_artist/noluen_le_buhe.md)
+[Nolùen Le Buhé (3)](music_by_artist/noluen_le_buhe.md)
 
 [Nostrad (8)](music_by_artist/nostrad.md)
 
@@ -940,7 +946,7 @@
 
 [Par Péron (1)](music_by_artist/par_peron.md)
 
-[Paracetamol (5)](music_by_artist/paracetamol.md)
+[Paracetamol (6)](music_by_artist/paracetamol.md)
 
 [Pärlin (2)](music_by_artist/parlin.md)
 
@@ -1065,6 +1071,8 @@
 [Saraï (1)](music_by_artist/sarai.md)
 
 [Sébastien Gisbert (1)](music_by_artist/sebastien_gisbert.md)
+
+[Sefa Emre İlikli (1)](music_by_artist/sefa_emre_ilikli.md)
 
 [Seiva (1)](music_by_artist/seiva.md)
 
@@ -1218,11 +1226,11 @@
 
 [Trio Aman (1)](music_by_artist/trio_aman.md)
 
-[Trio Dhoore (10)](music_by_artist/trio_dhoore.md)
+[Trio Dhoore (11)](music_by_artist/trio_dhoore.md)
 
 [Trio Forj (1)](music_by_artist/trio_forj.md)
 
-[Trio Loubelya (19)](music_by_artist/trio_loubelya.md)
+[Trio Loubelya (20)](music_by_artist/trio_loubelya.md)
 
 [Trio Patrick Bouffard (2)](music_by_artist/trio_patrick_bouffard.md)
 

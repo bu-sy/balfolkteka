@@ -19,6 +19,6 @@
 
 - [An Dro](an_dro.md)
 
-## Utwory (6)
+## Utwory (21)
 
 [Utwory do tańca](../../no_lang/aggregated/music_by_dance/tricot.md)

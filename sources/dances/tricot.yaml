@@ -12,6 +12,33 @@ links:
   - link: https://open.spotify.com/playlist/2wXDt2cz9wyceOmQSFxif8
   - link: https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
   tracks:
+  - artist: Alain Pennec
+    track_name: Ardran ti me zad - Hanter Dro An Dro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3gGEC9xbkjbGlDeCVWT2zV
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=9VvCQeQCnOE
+    from_playlist:
+    - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
+  - artist: An Diaoul Ha Peder
+    track_name: Prizonidi Groe (Trikot)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/13DuPtBK2qdZKHrNdApgzu
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=-CLzNBmzrtI
+    from_playlist:
+    - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
+  - artist: Arvest
+    track_name: Fantazi
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5y4ZIxwvFHgqPL9TTmf25f
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=BTecWF7MewQ
+    from_playlist:
+    - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
   - artist: Bargainatt
     track_name: Joli mois de mai
     links:
@@ -21,6 +48,15 @@ links:
       link: https://www.youtube.com/watch?v=MrTlBUxt2Nw
     from_playlist:
     - https://open.spotify.com/playlist/2wXDt2cz9wyceOmQSFxif8
+  - artist: Bernard Loffet
+    track_name: Dans Trikot
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5nWVHVC46RkHppf8SvgK0h
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=aTUfUiptFcw
+    from_playlist:
+    - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
   - artist: Dos
     track_name: Amarenas y Ciliegias (Hanter Dro_An Dro)
     links:
@@ -30,6 +66,16 @@ links:
       link: https://www.youtube.com/watch?v=Qhd6_WVf8cs
     from_playlist:
     - https://open.spotify.com/playlist/2wXDt2cz9wyceOmQSFxif8
+    - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
+  - artist: Dremmwel
+    track_name: E-barzh an ti-mañ (Hanter-dro, an-dro)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/29r9HVpLgMp8faPelevmiu
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=z5nEbuLohZs
+    from_playlist:
+    - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
   - artist: Duetu
     track_name: La Cabanya (Trikot)
     links:
@@ -39,6 +85,16 @@ links:
       link: https://www.youtube.com/watch?v=Pap1FmXq_vQ
     from_playlist:
     - https://open.spotify.com/playlist/2wXDt2cz9wyceOmQSFxif8
+  - artist: Duetu
+    blacklist: true #Duplicate
+    track_name: La cabanya (Trikot)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2rXjDJFlu9voY1TmQJNA0Y
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Pap1FmXq_vQ
+    from_playlist:
+    - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
   - artist: Duo Absynthe
     track_name: Dave
     links:
@@ -48,6 +104,69 @@ links:
       link: https://www.youtube.com/watch?v=-HJSFCiidX8
     from_playlist:
     - https://open.spotify.com/playlist/2wXDt2cz9wyceOmQSFxif8
+  - artist: Follenn
+    track_name: Revenezy - Tricot
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1uThx92X03U4v7RI8qVKQs
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=9ii9vs0Jp0U
+    from_playlist:
+    - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
+  - artist: Gand Loeiz Ropars ha Kanerien Pleuigner
+    track_name: Hanter dro - En dro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4c7eYtDGgKJQhHf6ACF7VQ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=fmiOV0_FijE
+    from_playlist:
+    - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
+  - artist: Idyll
+    track_name: Danse, danse (Hanter dro an dro)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/44QHAvQGiaB8GplO1ePnUm
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=9-vzfPwmG0Y
+    from_playlist:
+    - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
+  - artist: Idyll
+    track_name: Saute blonde (Hanter an dro)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0GOzob8NoZ3nr2ES9xll7H
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=tq7s5hEYtrk
+    from_playlist:
+    - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
+  - artist: Kadril
+    track_name: Hanter dro/ En dro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5S2llQXWbVZHC2asCNQVqX
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=10bezXw4e-U
+    from_playlist:
+    - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
+  - artist: Kastelodenn
+    track_name: Le coq Martin (An dro-hanter dro)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0S6lxlwXp5sJf8B6f3K0u1
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_wPVGtO6fM8
+    from_playlist:
+    - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
+  - artist: La Godinette
+    track_name: Dans Trikot
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2yhMPkUw7gXznCOZPQMW5B
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=A6yTa-P1IF8
+    from_playlist:
+    - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
   - artist: Mr. Folxlide
     track_name: Quand j'étais chez mon pére - Trikot
     links:
@@ -58,6 +177,33 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
     no_youtube_link: true #Verified
+  - artist: Naragonia
+    track_name: Le beau rosier
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7pdHkI9kt9X4AzeBSxQIc7
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=RNg2I-mXHlM
+    from_playlist:
+    - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
+  - artist: Obal
+    track_name: Danza das baleas (Dañs trikot)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2t0J0vkxOn9wWEb233nIY2
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=j3_du4cmzEw
+    from_playlist:
+    - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
+  - artist: Sonerien Du
+    track_name: Hanter dro - Andro minig
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1YNsr1QIZ993JuxIfSlVhs
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=vFaw1kLDviw
+    from_playlist:
+    - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
   - artist: Spontus
     track_name: Ar c'helion - Trikot
     links:

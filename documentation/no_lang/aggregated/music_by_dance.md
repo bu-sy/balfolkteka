@@ -22,7 +22,7 @@
 
 [Fandango & Arin Arin (24)](music_by_dance/fandango_arin_arin.md)
 
-[Galop Nantais (5)](music_by_dance/galop_nantais.md)
+[Galop Nantais (10)](music_by_dance/galop_nantais.md)
 
 [Gavotte caresse / Gavotte de Grenoble (37)](music_by_dance/gavotte_de_grenoble.md)
 
@@ -62,7 +62,7 @@
 
 [Scottish impaire (7)](music_by_dance/scottish_impaire.md)
 
-[Tricot (6)](music_by_dance/tricot.md)
+[Tricot (21)](music_by_dance/tricot.md)
 
 [Valse 11 temps (5)](music_by_dance/valse_11_temps.md)
 

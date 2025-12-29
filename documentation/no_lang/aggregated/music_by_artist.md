@@ -32,7 +32,7 @@
 
 [Alain Buhé (1)](music_by_artist/alain_buhe.md)
 
-[Alain Pennec (7)](music_by_artist/alain_pennec.md)
+[Alain Pennec (8)](music_by_artist/alain_pennec.md)
 
 [Alain Pennec Quartet (2)](music_by_artist/alain_pennec_quartet.md)
 
@@ -51,6 +51,8 @@
 [Alzamantes (1)](music_by_artist/alzamantes.md)
 
 [Ampouailh (6)](music_by_artist/ampouailh.md)
+
+[An Diaoul Ha Peder (1)](music_by_artist/an_diaoul_ha_peder.md)
 
 [An Tour Tan (1)](music_by_artist/an_tour_tan.md)
 
@@ -89,6 +91,8 @@
 [Arnaud Bibonne (3)](music_by_artist/arnaud_bibonne.md)
 
 [Aroze (2)](music_by_artist/aroze.md)
+
+[Arvest (1)](music_by_artist/arvest.md)
 
 [Ástura (1)](music_by_artist/astura.md)
 
@@ -162,7 +166,7 @@
 
 [Bernard Desblancs (1)](music_by_artist/bernard_desblancs.md)
 
-[Bernard Loffet (5)](music_by_artist/bernard_loffet.md)
+[Bernard Loffet (6)](music_by_artist/bernard_loffet.md)
 
 [BF 15 (1)](music_by_artist/bf_15.md)
 
@@ -324,7 +328,7 @@
 
 [Dragonsfly (1)](music_by_artist/dragonsfly.md)
 
-[Dremmwel (2)](music_by_artist/dremmwel.md)
+[Dremmwel (4)](music_by_artist/dremmwel.md)
 
 [Duea (2)](music_by_artist/duea.md)
 
@@ -464,7 +468,7 @@
 
 [FMB (1)](music_by_artist/fmb.md)
 
-[Follenn (2)](music_by_artist/follenn.md)
+[Follenn (4)](music_by_artist/follenn.md)
 
 [Follia (1)](music_by_artist/follia.md)
 
@@ -497,6 +501,8 @@
 [Gaëtan Samson (1)](music_by_artist/gaetan_samson.md)
 
 [Galandum Galundaina (1)](music_by_artist/galandum_galundaina.md)
+
+[Gand Loeiz Ropars ha Kanerien Pleuigner (1)](music_by_artist/gand_loeiz_ropars_ha_kanerien_pleuigner.md)
 
 [Gari Greu (1)](music_by_artist/gari_greu.md)
 
@@ -570,7 +576,7 @@
 
 [Hotel Palindrone (13)](music_by_artist/hotel_palindrone.md)
 
-[Idyll (3)](music_by_artist/idyll.md)
+[Idyll (5)](music_by_artist/idyll.md)
 
 [Illa (5)](music_by_artist/illa.md)
 
@@ -650,7 +656,7 @@
 
 [Kaan Sancakar (1)](music_by_artist/kaan_sancakar.md)
 
-[Kadril (6)](music_by_artist/kadril.md)
+[Kadril (7)](music_by_artist/kadril.md)
 
 [Kafe Koefet (1)](music_by_artist/kafe_koefet.md)
 
@@ -668,11 +674,11 @@
 
 [Karsu (1)](music_by_artist/karsu.md)
 
-[Kastelodenn (1)](music_by_artist/kastelodenn.md)
+[Kastelodenn (2)](music_by_artist/kastelodenn.md)
 
 [Kelten Zonder Grenzen (1)](music_by_artist/kelten_zonder_grenzen.md)
 
-[Kendirvi (6)](music_by_artist/kendirvi.md)
+[Kendirvi (7)](music_by_artist/kendirvi.md)
 
 [Kepa Junkera (1)](music_by_artist/kepa_junkera.md)
 
@@ -711,6 +717,8 @@
 [La Bricole (1)](music_by_artist/la_bricole.md)
 
 [La Forcelle (3)](music_by_artist/la_forcelle.md)
+
+[La Godinette (1)](music_by_artist/la_godinette.md)
 
 [La Machine (1)](music_by_artist/la_machine.md)
 
@@ -886,7 +894,7 @@
 
 [Myrdhin (1)](music_by_artist/myrdhin.md)
 
-[Naragonia (36)](music_by_artist/naragonia.md)
+[Naragonia (37)](music_by_artist/naragonia.md)
 
 [Naragonia Quartet (14)](music_by_artist/naragonia_quartet.md)
 
@@ -914,7 +922,7 @@
 
 [Nubia (5)](music_by_artist/nubia.md)
 
-[Obal (2)](music_by_artist/obal.md)
+[Obal (3)](music_by_artist/obal.md)
 
 [Oîma (1)](music_by_artist/oima.md)
 
@@ -1114,7 +1122,7 @@
 
 [Solune duo (1)](music_by_artist/solune_duo.md)
 
-[Sonerien Du (3)](music_by_artist/sonerien_du.md)
+[Sonerien Du (5)](music_by_artist/sonerien_du.md)
 
 [Sons d'Embat (1)](music_by_artist/sons_d_embat.md)
 

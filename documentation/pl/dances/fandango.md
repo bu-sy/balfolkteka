@@ -14,6 +14,6 @@
 
 <br>
 
-## Utwory (24)
+## Utwory (46)
 
 [Utwory do tańca](../../no_lang/aggregated/music_by_dance/fandango_arin_arin.md)

@@ -1,4 +1,8 @@
 - Go through other playlists of https://open.spotify.com/user/11174333213
+- Add aliases to the examples/instructions
+-- Instructions -> video in english/french
+-- Examples -> Video from contest/Video from dance class/Video from dance
+- Revamp blacklist. Instead of it being a bool, make it a string. If blacklist is defined, then it is blacklisted, string defines reason for blacklist.
 - For breton dances try to find good examples from Tristan Gloaguen
 - Create a playlist remover
 - cut "user_playlists" file and remove it from Git history!

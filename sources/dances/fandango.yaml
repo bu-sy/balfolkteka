@@ -6,6 +6,7 @@ links:
   - link: https://www.youtube.com/watch?v=vNesYhKl1B8
   playlists:
   - link: https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - link: https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
   tracks:
   - artist: Accordzêam
     track_name: Fandango go
@@ -14,6 +15,25 @@ links:
       link: https://open.spotify.com/track/2QKiZrlUJQJFKEGV6jzEOC
     - portal: YouTube
       link: https://www.youtube.com/watch?v=oYQE9KlnIaY
+  - artist: Accordzêam
+    blacklist: true #Duplicate
+    track_name: Fandango, go
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6ehPnEOfdWrX4VdOD568GU
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=oYQE9KlnIaY
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
+  - artist: Alan Griffin, Alboka, Josean Martín Zarko, Joxan Goikoetxea, Txomin Artola
+    track_name: Hiru Fandango
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6pHj3tJx2jqmwRVqcILVCG
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=2gdUQpCwTO0
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
   - artist: Alberto Varillas, Anabel Santiago, Ástura
     track_name: Fandangu d'Uviéu
     links:
@@ -23,6 +43,34 @@ links:
       link: https://www.youtube.com/watch?v=KXDd8AgwiK0
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Alboka
+    track_name: Fandango
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1URLXGkCtZ5yzYpwyx9nO8
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_OitAWfe42Y
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
+  - artist: Alzamantes
+    track_name: Fandango
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4l98szXp71MibCQsxyrPhw
+    - portal: Soundcloud
+      link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A167699065&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
+    no_youtube_link: true #Verified
+  - artist: Bal O'Gadjo
+    track_name: Fandanguinho
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0xzzUyfcCjeMXyVBbGqYRu
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=SB-SHAO1rZk
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
   - artist: Bal O'Gadjo, Julie Mary, Vassilli
     track_name: Petits secrets des garrigues
     links:
@@ -59,6 +107,15 @@ links:
       link: https://www.youtube.com/watch?v=JoB9M_bboJ4
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Castanha é Vinovèl
+    track_name: Fandango arin arin - Fandango
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5yrvH6SNvyw90MhnZXunIW
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=iDfTwzG4_wA
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
   - artist: Duo Absynthe
     track_name: Albitzur
     links:
@@ -68,6 +125,7 @@ links:
       link: https://www.youtube.com/watch?v=PHK0kysNDNE
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
   - artist: Duo Absynthe
     track_name: Arin-Arin
     links:
@@ -77,6 +135,51 @@ links:
       link: https://www.youtube.com/watch?v=Ke5xspgeJcg
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Estrad
+    blacklist: true #Unavailable
+    track_name: Fandango-arin arin
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4CLgBgtXTJETVF6LCecwKH
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
+    no_youtube_link: true #Verified
+  - artist: Etzakit
+    track_name: Fandangoa
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6AVwlOk6nab4WiLb0YNGMf
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=8lLp7QLS_20
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
+  - artist: Euskal dantzarien biltzarra
+    track_name: Fandango
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6mHcWiRlRXiww33lVFvd1u
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=T3k32QchNi0
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
+  - artist: Evskal Dantzak
+    track_name: Fandango-arin arin / Leitzako ingurutxoa - Danse circulaire
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2eovaWL4Z9TxkVpVBEa6th
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_WpdF_NZolc
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
+  - artist: F.B.A.
+    track_name: Fandango
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5V2xkWW1LgxMdU5wYNrRGt
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=yN9fLzswbM8
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
   - artist: Fandango
     track_name: Fandango
     links:
@@ -86,6 +189,24 @@ links:
       link: https://www.youtube.com/watch?v=6IFkQq2-Mc0
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Gaiteiros de Lisboa
+    track_name: Fandango/Ai por Cima
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0tJMlCqz1nxOzENglDZ3gq
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=XuX2Zj5TGFU
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
+  - artist: Kepa Junkera
+    track_name: Arrano Fandangoa
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2WXUpkp7Jhe67kuw7Xh7F3
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=rYHKmZH0zxk
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
   - artist: Kepa Junkera, Melonious Quartet
     track_name: Fandango
     links:
@@ -133,6 +254,15 @@ links:
       link: https://www.youtube.com/watch?v=wj5KzfwMzzY
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Lou Dalfin, Sustraia
+    track_name: Fandango / Lantzeko
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/10aAPLbsikuPPT1k1swHtM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=T2Zw3AMZL8A
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
   - artist: Lou Pitakass
     track_name: Nivolet
     links:
@@ -151,6 +281,7 @@ links:
       link: https://www.youtube.com/watch?v=tEK5keXYPC0
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
   - artist: Martina Quiere Bailar
     track_name: La Guarida Fandango
     links:
@@ -160,6 +291,16 @@ links:
       link: https://www.youtube.com/watch?v=pkeH7EaWvz4
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
+  - artist: OMIRI
+    track_name: Fandango da Asseiceira
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6ZAt66wvYaTAsC4wKQWEif
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=eGZLgcEhiJk
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
   - artist: Orquestrina Trama
     track_name: Beharrezkoa
     links:
@@ -178,6 +319,16 @@ links:
       link: https://www.youtube.com/watch?v=L_7IMheewZ8
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
+  - artist: Patxi eta Batbiru
+    track_name: Antzina (Basusarriko gaita)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2OFQUsKqfqXKLwQlpfImWX
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=HeU8iUzulRc
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
   - artist: Patxi eta Batbiru
     track_name: Antzina (Fandango)
     links:
@@ -187,6 +338,34 @@ links:
       link: https://www.youtube.com/watch?v=kCD8xRBHNiM
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
+  - artist: Patxi eta Batbiru
+    track_name: Bumbadabum (Fandango)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7upNnVm1V7gruD8oHpxuNj
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=jl5T-ZfqQV4
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
+  - artist: Patxi eta Batbiru
+    track_name: Otoi (Fandango)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5rgYot6p9NsEW3wMLSP9Uc
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=18ccOqXhmy8
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
+  - artist: Patxi eta konpania
+    track_name: Fandango
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6DuKBoFmlKEoXMOKJGvIXU
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=O9-GO8Kxm5I
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
   - artist: Patxi eta konpania
     track_name: Fandangoa
     links:
@@ -196,6 +375,25 @@ links:
       link: https://www.youtube.com/watch?v=cvR5E7kzs00
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
+  - artist: Rancho folclórico 'Os Camponeses' de Riachos (The "Country Folk" of Riachos)
+    track_name: Fandango
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3AccCvpYALnr2fWUYOVMDU
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=rtrMdsu3PRA
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
+  - artist: Roncos do Diabo
+    track_name: Fandango Asturiano
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2I9QJQnUas3n3A6gkTmEkP
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=SRYdetDlFVY
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
   - artist: Rémi Geffroy
     track_name: Kixmi
     links:
@@ -213,6 +411,33 @@ links:
       link: https://www.youtube.com/watch?v=OMNaYK4w6sw
     from_playlist:
     - https://open.spotify.com/playlist/1kW0PQ8l8tjJ4O4hklLyYL
+  - artist: Tapia eta Leturia
+    track_name: Fandango Tristea
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/09rC3ay1gcEP6c9N4ivLeh
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=3TjJEXXHvhY
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
+  - artist: UXU Kalhus
+    track_name: Fandango Mundano
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0I1CNvlPWGFC5XJTrGnfCY
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=aF9sVukvorU
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
+  - artist: Vanesa Muela
+    track_name: Fandangos
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5gf2syNoYQ47yY2IwZ2uHI
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Qt4Vh0amvbI
+    from_playlist:
+    - https://open.spotify.com/playlist/6pMdhPzMHFNRwxJSQAnqC0
   - artist: Xabi Aburruzaga
     track_name: Afreekandango
     links:

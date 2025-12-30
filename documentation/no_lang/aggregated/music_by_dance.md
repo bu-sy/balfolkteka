@@ -18,9 +18,9 @@
 
 [Danse de l'Ours (5)](music_by_dance/danse_de_l_ours.md)
 
-[Drumul Dracului (5)](music_by_dance/drumul_dracului.md)
+[Drumul Dracului (10)](music_by_dance/drumul_dracului.md)
 
-[Fandango & Arin Arin (24)](music_by_dance/fandango_arin_arin.md)
+[Fandango & Arin Arin (46)](music_by_dance/fandango_arin_arin.md)
 
 [Galop Nantais (10)](music_by_dance/galop_nantais.md)
 
@@ -50,11 +50,13 @@
 
 [Porcher (2)](music_by_dance/porcher.md)
 
-[Repasseado (17)](music_by_dance/repasseado.md)
+[Repasseado (18)](music_by_dance/repasseado.md)
 
 [Rond de Landéda (6)](music_by_dance/rond_de_landeda.md)
 
 [Rond de Saint-Vincent (30)](music_by_dance/rond_de_saint_vincent.md)
+
+[Rondeau en couple (10)](music_by_dance/rondeau_en_couple.md)
 
 [Polska (rund polska) (10)](music_by_dance/rund_polska.md)
 

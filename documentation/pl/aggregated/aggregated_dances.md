@@ -1,4 +1,4 @@
-# Lista wszystkich tańców (38)
+# Lista wszystkich tańców (39)
 
 [Powrót do listy stron](../home.md)
 
@@ -61,6 +61,8 @@
 [Rond de Landéda](../dances/rond_de_landeda.md)
 
 [Rond de Saint-Vincent](../dances/rond_de_saint_vincent.md)
+
+[Rondeau en couple (Rondo w parach)](../dances/rondeau_en_couple.md)
 
 [Scottish](../dances/scottische.md)
 

@@ -5,7 +5,17 @@ tags:
 links:
   playlists:
   - link: https://open.spotify.com/playlist/4Ve2NyYNXOP28f5XAbDh3J
+  - link: https://open.spotify.com/playlist/7JvEs0mRCIul9SdIXuazdS
   tracks:
+  - artist: Balamuc
+    track_name: Drumul Dracului
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/165wkOOqR6trqGVjitDNn2
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=fm1eHciUTK0
+    from_playlist:
+    - https://open.spotify.com/playlist/7JvEs0mRCIul9SdIXuazdS
   - artist: Bencze Balázs, Benke Grátzy, Hodorog András, Rossa Levente Bors
     track_name: Ördög Útja - Demo
     links:
@@ -24,6 +34,43 @@ links:
       link: https://www.youtube.com/watch?v=iosBxnT1GM8
     from_playlist:
     - https://open.spotify.com/playlist/4Ve2NyYNXOP28f5XAbDh3J
+  - artist: Emanuela perlini
+    track_name: Drumul dracului
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5fOW56WXBqzV2jwWbbOFSq
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=2xEZWJfZfdA
+    from_playlist:
+    - https://open.spotify.com/playlist/7JvEs0mRCIul9SdIXuazdS
+  - artist: Ion Matache
+    blacklist: true #Spotify link inactive
+    track_name: Drumul Dracului
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6k5xlAwsgf0ljDKeslb8vA
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=xIHQBrUdRBQ
+    from_playlist:
+    - https://open.spotify.com/playlist/7JvEs0mRCIul9SdIXuazdS
+  - artist: Ion Matache
+    track_name: Drumul dracului
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2GIpBopKmXzcoKKiWHb61D
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=xIHQBrUdRBQ
+    from_playlist:
+    - https://open.spotify.com/playlist/7JvEs0mRCIul9SdIXuazdS
+  - artist: Obscurus Orbis
+    track_name: Drumul Drakului
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/664YctFC2Us4eBMj4XNrxq
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_b9K6LVX5P0
+    from_playlist:
+    - https://open.spotify.com/playlist/7JvEs0mRCIul9SdIXuazdS
   - artist: PásztorHóra
     track_name: Az Ördög Útja
     links:
@@ -31,8 +78,11 @@ links:
       link: https://open.spotify.com/track/2MoQtRfpSmbIO1Q1x1ltln
     - portal: YouTube
       link: https://www.youtube.com/watch?v=G4bgGkdsBaA
+    - portal: Spotify
+      link: https://open.spotify.com/track/4cshrZTCh4WXSg6mTaBavx
     from_playlist:
     - https://open.spotify.com/playlist/4Ve2NyYNXOP28f5XAbDh3J
+    - https://open.spotify.com/playlist/7JvEs0mRCIul9SdIXuazdS
   - artist: ViatoreS
     track_name: Drumul Dracului
     links: #TODO blacklist spotify, as it is removed
@@ -52,3 +102,13 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/4Ve2NyYNXOP28f5XAbDh3J
     - https://open.spotify.com/playlist/4Ve2NyYNXOP28f5XAbDh3Jwe
+    - https://open.spotify.com/playlist/7JvEs0mRCIul9SdIXuazdS
+  - artist: ÍGY TEDD RÁ!
+    track_name: Ördög Útja
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3AmlnH9zVc9BJdoF03ABwt
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=kLn9AGExHNU
+    from_playlist:
+    - https://open.spotify.com/playlist/7JvEs0mRCIul9SdIXuazdS

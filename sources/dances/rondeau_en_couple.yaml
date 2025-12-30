@@ -1,0 +1,99 @@
+id: rondeau_en_couple
+name: Rondeau en couple
+links:
+  examples:
+  - link: https://www.youtube.com/watch?v=mVhtKWSECWU
+  playlists:
+  - link: https://open.spotify.com/playlist/0xZ6Nlt5cxbIeXlW4rPvci
+  tracks:
+  - artist: Arnaud Bibonne, Camille Raibaud
+    track_name: Rondeau d'après Fernand Tarrit
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6EcQYTHGm38dfLtoNiiHOG
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=lRb0teaFVGI
+    from_playlist:
+    - https://open.spotify.com/playlist/0xZ6Nlt5cxbIeXlW4rPvci
+  - artist: Arnaud Bibonne, Camille Raibaud
+    track_name: Rondeau d'après Marcel Lagardere
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6gv8AnZPD75ZNgGYk1YYm4
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=GzaxcPjMK9Y
+    from_playlist:
+    - https://open.spotify.com/playlist/0xZ6Nlt5cxbIeXlW4rPvci
+  - artist: Faburden
+    track_name: Suite de Rondeaux
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6pC3Chbrt7leQx7gm1Ei2Q
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=1KAOVdtvExE
+    from_playlist:
+    - https://open.spotify.com/playlist/0xZ6Nlt5cxbIeXlW4rPvci
+  - artist: La Forcelle
+    track_name: Rondeau de Lestrille / Rondeau de Bourdillan
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/42wLI4GuEjtZx3Hwy4i06S
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ryq8i08XNls
+    from_playlist:
+    - https://open.spotify.com/playlist/0xZ6Nlt5cxbIeXlW4rPvci
+  - artist: La Forcelle
+    track_name: Suite de Rondeaux
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2pX6DjdduthmJhFa0mQF3O
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=-0Ahlvli-Sw
+    from_playlist:
+    - https://open.spotify.com/playlist/0xZ6Nlt5cxbIeXlW4rPvci
+  - artist: Le Bal Brotto Lopez
+    track_name: Sons et soufflets - Rondeau
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6MVVQu4oVkYXb3BILigNqb
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=SlsbmR1VCog
+    from_playlist:
+    - https://open.spotify.com/playlist/0xZ6Nlt5cxbIeXlW4rPvci
+  - artist: Man Encantada
+    track_name: Jo me'n vau pausar mas bòtas
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5ZazyAUnlcVr5AncDH2LPe
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=JtxWYj03WAk
+    from_playlist:
+    - https://open.spotify.com/playlist/0xZ6Nlt5cxbIeXlW4rPvci
+  - artist: Moizbat
+    track_name: Las joenas
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0imrFQjRqsqMUUQ9tgU3oi
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=3179376676/size=small/bgcol=ffffff/linkcol=0687f5/track=3602524983/transparent=true/
+    from_playlist:
+    - https://open.spotify.com/playlist/0xZ6Nlt5cxbIeXlW4rPvci
+    no_youtube_link: true #Verified
+  - artist: NOU
+    track_name: Rondeau en couple
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3EZNw42v08EuHz8OGgzJIB
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=9aoSoeUfRoY
+    from_playlist:
+    - https://open.spotify.com/playlist/0xZ6Nlt5cxbIeXlW4rPvci
+  - artist: Socam
+    track_name: Sarreguilhòt qu'a nau vacòtas / Cauderòt se luva (rondeaux)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/334ayAKhWRxnRP2yPjiwK1
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Nnqx_X8IF98
+    from_playlist:
+    - https://open.spotify.com/playlist/0xZ6Nlt5cxbIeXlW4rPvci

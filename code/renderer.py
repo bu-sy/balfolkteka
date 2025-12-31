@@ -49,13 +49,16 @@ def embed_track(link_object):
 def secondary_header(text):
     return f"## {text}"
 
-def music_collapsible_section(music, display_dance_name, number_in_order=None):
-    prefix = ""
-    if number_in_order:
-        prefix = f"{number_in_order}. "
+def music_collapsible_section(music, display_dance_name, artist_first=True):
+    def get_first_part(artist, track_name):
+        if artist_first:
+            return f"{artist} - <b>{track_name}</b>"
+        else:
+            return f"<b>{track_name}</b> - {artist}"
+
     return "\n\n".join([
         "<hr>",
-        f"<h3>{prefix}{music.artist} - <b>{music.track_name}</b>" + (f" ({music.get_dances()})" if display_dance_name else "") + "</h3>"
+        f"<h3>{get_first_part(music.artist, music.track_name)}" + (f" ({music.get_dances()})" if display_dance_name else "") + "</h3>"
     ] + [
         collapsible(music_link.portal, embed_track(music_link))
         for music_link
@@ -189,17 +192,6 @@ def render_aggregated_dances(all_dances, loaded_translation, directory_structure
         current_file
     )
 
-def render_aggregated_music(all_music, directory_structure):
-    current_file = directory_structure.get_aggregated_music_path()
-    write_file(
-        "\n\n".join([
-            music_collapsible_section(music, display_dance_name=True)
-            for music
-            in sorted(all_music, key=lambda x: (normalize(x.artist), normalize(x.track_name)))
-        ]),
-        current_file
-    )
-
 def render_music_by_artist(all_music, directory_structure):
     artists = {}
     for music in all_music:
@@ -238,7 +230,60 @@ def render_music_by_artist(all_music, directory_structure):
 
     return artists
 
-def render_home_page(loaded_translation, directory_structure, number_of_tracks, number_of_dances, number_of_artists):
+def render_music_by_track_name(all_music, directory_structure):
+    letters = {}
+    for music in all_music:
+        letter = normalize(music.track_name[0]).upper()
+        letters[letter] = letters.get(letter, []) + [music]
+
+    for letter, music_on_letter in letters.items():
+        current_file = directory_structure.get_music_alphabetically(letter)
+        write_file(
+            "\n\n".join([
+                f"# {letter} ({len(music_on_letter)})"
+            ] + [
+                music_collapsible_section(track, display_dance_name=True, artist_first=False) for track in
+                sorted(music_on_letter, key=lambda x: (normalize(x.track_name), normalize(x.artist)))
+            ]),
+            current_file
+        )
+
+    current_file = directory_structure.get_aggregated_music_alphabetically()
+    write_file(
+        "\n\n".join([
+            link(f"{letter} ({len(music_on_letter)})", directory_structure.get_music_alphabetically(
+                letter,
+                relative_to=current_file)
+                 ) for letter, music_on_letter in sorted(letters.items(), key=lambda x: normalize(x[0]))
+        ]),
+        current_file
+    )
+
+
+def render_music_redirect_page(loaded_translation, directory_structure, number_of_dances, number_of_artists):
+    def get_text_to_display(text_to_load_from_translation, number_to_display):
+        return f"{loaded_translation.get_page_name(text_to_load_from_translation)} ({number_to_display})"
+
+    write_file(
+        '\n\n'.join([
+            link(
+                get_text_to_display('list_of_music_by_artist', number_of_artists),
+                directory_structure.get_aggregated_music_by_artist(directory_structure.get_music_redirect_page())
+            ),
+            link(
+                get_text_to_display('list_of_music_by_dance', number_of_dances),
+                directory_structure.get_aggregated_music_by_dance(directory_structure.get_music_redirect_page())
+            ),
+            link(
+                loaded_translation.get_page_name('list_of_music_sorted_alphabetically'),
+                directory_structure.get_aggregated_music_alphabetically(directory_structure.get_music_redirect_page())
+            )
+        ]),
+        directory_structure.get_music_redirect_page()
+    )
+
+
+def render_home_page(loaded_translation, directory_structure, number_of_tracks, number_of_dances):
     def get_text_to_display(text_to_load_from_translation, number_to_display):
         return f"{loaded_translation.get_page_name(text_to_load_from_translation)} ({number_to_display})"
 
@@ -250,15 +295,7 @@ def render_home_page(loaded_translation, directory_structure, number_of_tracks, 
         ),
         link(
             get_text_to_display('aggregated_list_of_music', number_of_tracks),
-            directory_structure.get_aggregated_music_path(directory_structure.get_home_page_path())
-        ),
-        link(
-            get_text_to_display('list_of_music_by_artist', number_of_artists),
-            directory_structure.get_aggregated_music_by_artist(directory_structure.get_home_page_path())
-        ),
-        link(
-            get_text_to_display('list_of_music_by_dance', number_of_dances),
-            directory_structure.get_aggregated_music_by_dance(directory_structure.get_home_page_path())
+            directory_structure.get_music_redirect_page(directory_structure.get_home_page_path())
         )
         ]),
         directory_structure.get_home_page_path()

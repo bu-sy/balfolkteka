@@ -19,8 +19,9 @@ pages:
   aggregated_list_of_dances: Lista wszystkich tańców
   aggregated_list_of_music: Lista wszystkich utworów
   aggregated_list_of_artists: Lista wszystkich artystów
-  list_of_music_by_artist: Muzyka pogrupowana po artystach
-  list_of_music_by_dance: Muzyka pogrupowana po tańcach
+  list_of_music_by_artist: Utwory pogrupowane po artystach
+  list_of_music_by_dance: Utwory pogrupowane po tańcach
+  list_of_music_sorted_alphabetically: Utwory pogrupowane alfabetycznie
   music_for_dance: Utwory do tańca
 translatable:
   _in_pairs: "W parach"

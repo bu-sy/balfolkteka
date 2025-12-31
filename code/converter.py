@@ -1,7 +1,8 @@
 import os
 import yaml
 import glob
-from renderer import render_dance, render_aggregated_dances, render_home_page, render_aggregated_music, render_music_by_artist, render_music_by_dance
+from renderer import render_dance, render_aggregated_dances, render_home_page,\
+    render_music_by_artist, render_music_by_dance, render_music_redirect_page, render_music_by_track_name
 from unidecode import unidecode
 import re
 
@@ -128,6 +129,7 @@ class DirectoryStructure(object):
         self.global_aggregated = os.path.join(self.global_path, 'aggregated')
         self.music_by_artist_directory = os.path.join(self.global_aggregated, 'music_by_artist')
         self.music_by_dance_directory = os.path.join(self.global_aggregated, 'music_by_dance')
+        self.music_alphabetically_directory = os.path.join(self.global_aggregated, 'music_alphabetically')
 
     def _get_path(self, full_path, relative_to=None):
         if not relative_to:
@@ -146,17 +148,18 @@ class DirectoryStructure(object):
             self.global_path,
             self.global_aggregated,
             self.music_by_artist_directory,
-            self.music_by_dance_directory
+            self.music_by_dance_directory,
+            self.music_alphabetically_directory
         ]
-
-    def get_aggregated_music_path(self, relative_to=None):
-        return self._get_path(os.path.join(self.global_aggregated, 'aggregated_music.md'), relative_to)
 
     def get_aggregated_music_by_artist(self, relative_to=None):
         return self._get_path(os.path.join(self.global_aggregated, 'music_by_artist.md'), relative_to)
 
     def get_aggregated_music_by_dance(self, relative_to=None):
         return self._get_path(os.path.join(self.global_aggregated, 'music_by_dance.md'), relative_to)
+
+    def get_aggregated_music_alphabetically(self, relative_to=None):
+        return self._get_path(os.path.join(self.global_aggregated, 'music_alphabetically.md'), relative_to)
 
     def get_music_by_artist(self, artist, relative_to=None):
         file_name = re.sub(r'\W+', '_', unidecode(artist.lower()))
@@ -167,6 +170,9 @@ class DirectoryStructure(object):
     def get_music_by_dance(self, dance, relative_to=None):
         file_name = dance.get('id')
         return self._get_path(os.path.join(self.music_by_dance_directory, f"{file_name}.md"), relative_to)
+
+    def get_music_alphabetically(self, letter, relative_to=None):
+        return self._get_path(os.path.join(self.music_alphabetically_directory, f"on_letter_{letter}.md"), relative_to)
 
 class DirectoryStructureForTranslation(DirectoryStructure):
     def __init__(self, translation):
@@ -185,6 +191,9 @@ class DirectoryStructureForTranslation(DirectoryStructure):
 
     def get_dance_file_path(self, dance_obj, relative_to=None):
         return self._get_path(os.path.join(self.translated_dances_directory, dance_obj.name + '.md'), relative_to)
+
+    def get_music_redirect_page(self, relative_to=None):
+        return self._get_path(os.path.join(self.translated_dances_directory, 'music_redirect.md'), relative_to)
 
     def get_home_page_path(self, relative_to=None):
         return self._get_path(os.path.join(self.translation_toplevel_path, 'home.md'), relative_to)
@@ -243,8 +252,8 @@ for link, track_descriptions in youtube_links.items():
 for directory_to_create in directoryStructure.get_directories_to_create():
     os.makedirs(directory_to_create, exist_ok=True)
 
-render_aggregated_music(all_music, directoryStructure)
 all_artists = render_music_by_artist(all_music, directoryStructure)
+render_music_by_track_name(all_music, directoryStructure)
 render_music_by_dance(all_dances, directoryStructure)
 
 for translation in all_translations:
@@ -258,12 +267,17 @@ for translation in all_translations:
         render_dance(dance, translation, all_dances, directory_structure_for_translation)
 
     render_aggregated_dances(all_dances, translation, directory_structure_for_translation)
+    render_music_redirect_page(
+        translation,
+        directory_structure_for_translation,
+        number_of_dances=len(all_dances),
+        number_of_artists=len(all_artists)
+    )
     render_home_page(
         translation,
         directory_structure_for_translation,
         number_of_tracks=len(all_music),
-        number_of_dances=len(all_dances),
-        number_of_artists=len(all_artists)
+        number_of_dances=len(all_dances)
     )
 
     print(f"Done translation {translation.name}")

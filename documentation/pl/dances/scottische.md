@@ -23,6 +23,6 @@
 
 <br>
 
-## Utwory (86)
+## Utwory (88)
 
 [Utwory do tańca](../../no_lang/aggregated/music_by_dance/scottish.md)

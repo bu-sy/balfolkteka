@@ -141,6 +141,15 @@ links:
       link: https://www.youtube.com/watch?v=glGsavG83do
     from_playlist:
     - https://open.spotify.com/playlist/4P5gipjsezBYfnZH6w0VN4
+  - artist: Duo L'Hêtre Heureux
+    track_name: Gavotte de l'aube
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3WZkhuK7EZ6myTAOBGVmTE
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=eS0GOH5e-lo
+    from_playlist:
+    - https://open.spotify.com/playlist/3vGeSvKQYKTZDWR1OosTBI
   - artist: Duo Nello
     track_name: À nos espoirs
     links:

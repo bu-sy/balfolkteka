@@ -269,6 +269,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=5clkQ0DL8-o
     from_playlist:
+    - https://open.spotify.com/playlist/25fWKPzv5TegVwGq4DrWTb
     - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
   - artist: Cardboard Cabin
     track_name: Piet Primaat

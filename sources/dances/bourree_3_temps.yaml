@@ -341,6 +341,15 @@ links:
       link: https://www.youtube.com/watch?v=0BzOSP_MPvw
     from_playlist:
     - https://open.spotify.com/playlist/60rT8z0AbQ5ZQIrWsvSOWq
+  - artist: Duo L'Hêtre Heureux
+    track_name: Black Sails
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4bwLWLB248LOvRj3pwN9UU
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=3vD-kK8RR54
+    from_playlist:
+    - https://open.spotify.com/playlist/1WUytEw4LQUtV8HxDeZ7O0
   - artist: Duo Oliver-Sentou
     track_name: Passat Deman
     links:

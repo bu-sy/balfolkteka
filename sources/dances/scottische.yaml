@@ -132,6 +132,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Cardboard Cabin
+    track_name: Skateboard Scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/52IgldMf8P8y9QsmPovGIr
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=NFnRHNlrk_8
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Coriandre
     track_name: Scottish a Gozar
     links:
@@ -208,6 +217,15 @@ links:
       link: https://www.youtube.com/watch?v=nSB3vo6pyfg
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Duo L'Hêtre Heureux
+    track_name: Les sept sens
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4U7SrndRhWfQePtyd0XwU7
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=NMp9acc1STQ
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Electrad
     track_name: Scottish Norvégienne (Scottish)
     links:

@@ -128,7 +128,7 @@
 
 [Bagad Kerlenn Pondi (2)](music_by_artist/bagad_kerlenn_pondi.md)
 
-[Bal O'Gadjo (12)](music_by_artist/bal_o_gadjo.md)
+[Bal O'Gadjo (13)](music_by_artist/bal_o_gadjo.md)
 
 [Balamuc (1)](music_by_artist/balamuc.md)
 
@@ -210,7 +210,7 @@
 
 [Camille Stimbre (1)](music_by_artist/camille_stimbre.md)
 
-[Cardboard Cabin (3)](music_by_artist/cardboard_cabin.md)
+[Cardboard Cabin (7)](music_by_artist/cardboard_cabin.md)
 
 [Carlo Massarelli (3)](music_by_artist/carlo_massarelli.md)
 
@@ -360,7 +360,7 @@
 
 [Duo Gestrikt (1)](music_by_artist/duo_gestrikt.md)
 
-[Duo L'Hêtre Heureux (2)](music_by_artist/duo_l_hetre_heureux.md)
+[Duo L'Hêtre Heureux (9)](music_by_artist/duo_l_hetre_heureux.md)
 
 [Duo Massarelli (1)](music_by_artist/duo_massarelli.md)
 
@@ -1042,7 +1042,7 @@
 
 [Planchée (2)](music_by_artist/planchee.md)
 
-[Plantec (16)](music_by_artist/plantec.md)
+[Plantec (17)](music_by_artist/plantec.md)
 
 [Polverfolk (1)](music_by_artist/polverfolk.md)
 

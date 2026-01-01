@@ -98,6 +98,15 @@ links:
       link: https://www.youtube.com/watch?v=VMfpvSS4QgY
     from_playlist:
     - https://open.spotify.com/playlist/5ENzeSmn9biGAsXGYGyTN2
+  - artist: Duo L'Hêtre Heureux
+    track_name: Electricité pratique
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0WVyPxaUqKxBIUp3uW1e0i
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=plxBae-xVXg
+    from_playlist:
+    - https://open.spotify.com/playlist/6aRUcSTqY91CcEv5pYYhyi
   - artist: Hartwin
     track_name: Lepatriinu - Waltz 8t
     links:

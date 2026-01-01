@@ -529,6 +529,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=ieROxh53pv4
     from_playlist:
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
   - artist: Carmelo Russo, Filippo Gambetta, Sergio Caputo
     track_name: "Medley Bourrèe: Bourrèe Vecchia,Bourèe, Avant de s'en aller"
@@ -1750,6 +1751,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
   - artist: Ormuz

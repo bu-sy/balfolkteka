@@ -4,11 +4,11 @@
 
 [Bourrée 2 temps (223)](music_by_dance/bourree_2_temps.md)
 
-[Bourrée 3 temps (125)](music_by_dance/bourree_3_temps.md)
+[Bourrée 3 temps (126)](music_by_dance/bourree_3_temps.md)
 
 [Branle de Noirmoutier (19)](music_by_dance/branle_de_noirmoutier.md)
 
-[Cercle Circassien (71)](music_by_dance/cercle_circassien.md)
+[Cercle Circassien (73)](music_by_dance/cercle_circassien.md)
 
 [Chapelloise (36)](music_by_dance/chapelloise.md)
 
@@ -24,7 +24,7 @@
 
 [Galop Nantais (10)](music_by_dance/galop_nantais.md)
 
-[Gavotte caresse / Gavotte de Grenoble (37)](music_by_dance/gavotte_de_grenoble.md)
+[Gavotte caresse / Gavotte de Grenoble (38)](music_by_dance/gavotte_de_grenoble.md)
 
 [Gavotte de l'Aven (9)](music_by_dance/gavotte_de_l_aven.md)
 
@@ -42,7 +42,7 @@
 
 [Mardi Gras (2)](music_by_dance/mardi_gras.md)
 
-[Mazurka (128)](music_by_dance/mazurka.md)
+[Mazurka (132)](music_by_dance/mazurka.md)
 
 [Pas de Sept (1)](music_by_dance/pas_de_sept.md)
 
@@ -58,9 +58,9 @@
 
 [Rondeau en couple (10)](music_by_dance/rondeau_en_couple.md)
 
-[Polska (rund polska) (10)](music_by_dance/rund_polska.md)
+[Polska (rund polska) (11)](music_by_dance/rund_polska.md)
 
-[Scottish (86)](music_by_dance/scottish.md)
+[Scottish (88)](music_by_dance/scottish.md)
 
 [Scottish impaire (7)](music_by_dance/scottish_impaire.md)
 
@@ -68,10 +68,10 @@
 
 [Valse 11 temps (5)](music_by_dance/valse_11_temps.md)
 
-[Valse 3 temps (146)](music_by_dance/valse_3_temps.md)
+[Valse 3 temps (147)](music_by_dance/valse_3_temps.md)
 
 [Valse 5 temps (35)](music_by_dance/valse_5_temps.md)
 
-[Valse 8 temps (20)](music_by_dance/valse_8_temps.md)
+[Valse 8 temps (21)](music_by_dance/valse_8_temps.md)
 
 [Zwiefacher (3)](music_by_dance/zwiefacher.md)

@@ -77,6 +77,15 @@ links:
       link: https://www.youtube.com/watch?v=ZcL_PYMsgyI
     from_playlist:
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
+  - artist: Bal O'Gadjo
+    track_name: Khamsin Mazur
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0JGz8Bm7xLkUYFDA70JBre
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Ht-JL7UKCmU
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Ballsy Swing
     track_name: Mazurka des gaziers - Britany
     links:
@@ -213,6 +222,15 @@ links:
       link: https://www.youtube.com/watch?v=4_wB8KKoxGc
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+  - artist: Cardboard Cabin
+    track_name: Regenrinne
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0SvkJ7pqlydDP7V5WuK7ye
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=10nnCzpaPJc
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Carlos Beceiro, Martina Quiere Bailar
     track_name: Valsurka
     links:
@@ -328,6 +346,15 @@ links:
       link: https://www.youtube.com/watch?v=Qx2SJga1xDc
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+  - artist: Duo L'Hêtre Heureux
+    track_name: Dans tes yeux, Pt. 2
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/30y7wBd17eMvcuRTJP811K
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=3N_FHU3kA_k
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Duo Oliver-Sentou
     track_name: The New Land
     links:
@@ -934,6 +961,15 @@ links:
       link: https://www.youtube.com/watch?v=721TpqojH9M
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+  - artist: Plantec
+    track_name: Son an treizh (Mazurka)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1lsQStvbT6PfHKFTPqzRqa
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=M1JOQgRmFGA
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Rachel Averly
     track_name: Mazurka à rigal
     links:

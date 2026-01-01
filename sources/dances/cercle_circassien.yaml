@@ -282,6 +282,24 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Duo L'Hêtre Heureux
+    track_name: La croisade
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7GhUljTOovuibD6Yi8QHxA
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=oQoG9-CmKOo
+    from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
+  - artist: Duo L'Hêtre Heureux
+    track_name: Le ventre de chimères
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2bP4t3Zj2y23MR8A2HfQv7
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=J1U5hMP956Q
+    from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
   - artist: Duo Sciapò
     track_name: Gau's Jig
     links:
@@ -568,7 +586,10 @@ links:
       link: https://open.spotify.com/track/69AKCOGAd9cCrCnvsBAYXk
     - portal: YouTube
       link: https://www.youtube.com/watch?v=mUVGXo5BZFg
+    - portal: Spotify
+      link: https://open.spotify.com/track/53IfDmKwFJfJuj0ZUiR0EH
     from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
   - artist: Startijenn

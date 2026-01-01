@@ -42,6 +42,15 @@ links:
       link: https://www.youtube.com/watch?v=0DKH5Hw4JOM
     from_playlist:
     - https://open.spotify.com/playlist/0wgFA5FZvEomzQqUct5CbQ
+  - artist: Le Mange Bal
+    track_name: Ours qui danse
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0703wDvmIasgYBdo7R1fSP
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_SxfWsdks0c
+    from_playlist:
+    - https://open.spotify.com/playlist/0wgFA5FZvEomzQqUct5CbQ
   - artist: Les Cuisiniers Musiciens
     track_name: Danse de l'Ours
     links:

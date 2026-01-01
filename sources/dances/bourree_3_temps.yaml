@@ -928,6 +928,15 @@ links:
       link: https://www.youtube.com/watch?v=LynvpCBZgqk
     from_playlist:
     - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Plantec
+    track_name: Red an Amzer - Bourrée
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6saCBgkghku8haPq3a9DcI
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Ekc04UIRv-o
+    from_playlist:
+    - https://open.spotify.com/playlist/1WUytEw4LQUtV8HxDeZ7O0
   - artist: Pèire Boissièra
     track_name: Flòc de borrèias
     links:

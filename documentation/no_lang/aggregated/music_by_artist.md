@@ -10,6 +10,8 @@
 
 [Abnoba (1)](music_by_artist/abnoba.md)
 
+[Accordeon Melancolique (1)](music_by_artist/accordeon_melancolique.md)
+
 [Accordzêam (10)](music_by_artist/accordzeam.md)
 
 [Ad Vielle Que Pourra (4)](music_by_artist/ad_vielle_que_pourra.md)
@@ -126,7 +128,7 @@
 
 [Bagad Kerlenn Pondi (2)](music_by_artist/bagad_kerlenn_pondi.md)
 
-[Bal O'Gadjo (11)](music_by_artist/bal_o_gadjo.md)
+[Bal O'Gadjo (12)](music_by_artist/bal_o_gadjo.md)
 
 [Balamuc (1)](music_by_artist/balamuc.md)
 
@@ -144,7 +146,7 @@
 
 [Barba Loutig (1)](music_by_artist/barba_loutig.md)
 
-[Bargainatt (16)](music_by_artist/bargainatt.md)
+[Bargainatt (17)](music_by_artist/bargainatt.md)
 
 [BAROK (2)](music_by_artist/barok.md)
 
@@ -344,7 +346,7 @@
 
 [Duivelspack (1)](music_by_artist/duivelspack.md)
 
-[Duo Absynthe (20)](music_by_artist/duo_absynthe.md)
+[Duo Absynthe (21)](music_by_artist/duo_absynthe.md)
 
 [Duo Blain-Leyzour (6)](music_by_artist/duo_blain_leyzour.md)
 
@@ -778,7 +780,7 @@
 
 [Le Bal Brotto Lopez (8)](music_by_artist/le_bal_brotto_lopez.md)
 
-[Le bal de l'éphémère (9)](music_by_artist/le_bal_de_l_ephemere.md)
+[Le bal de l'éphémère (10)](music_by_artist/le_bal_de_l_ephemere.md)
 
 [Le Bal en Chantier (7)](music_by_artist/le_bal_en_chantier.md)
 
@@ -786,7 +788,7 @@
 
 [Le Grand Barouf (4)](music_by_artist/le_grand_barouf.md)
 
-[Le Mange Bal (4)](music_by_artist/le_mange_bal.md)
+[Le Mange Bal (5)](music_by_artist/le_mange_bal.md)
 
 [Le Quintet à Claques (3)](music_by_artist/le_quintet_a_claques.md)
 
@@ -806,7 +808,7 @@
 
 [Les Frères Paranthoën (2)](music_by_artist/les_freres_paranthoen.md)
 
-[Les genoux (3)](music_by_artist/les_genoux.md)
+[Les genoux (4)](music_by_artist/les_genoux.md)
 
 [Les Ogres De Barback (1)](music_by_artist/les_ogres_de_barback.md)
 
@@ -910,7 +912,7 @@
 
 [Mineur Swing (1)](music_by_artist/mineur_swing.md)
 
-[Mister Klof (5)](music_by_artist/mister_klof.md)
+[Mister Klof (6)](music_by_artist/mister_klof.md)
 
 [Modkozmik (2)](music_by_artist/modkozmik.md)
 
@@ -954,7 +956,7 @@
 
 [Nubia (5)](music_by_artist/nubia.md)
 
-[Obal (3)](music_by_artist/obal.md)
+[Obal (4)](music_by_artist/obal.md)
 
 [Obscurus Orbis (1)](music_by_artist/obscurus_orbis.md)
 
@@ -1040,7 +1042,7 @@
 
 [Planchée (2)](music_by_artist/planchee.md)
 
-[Plantec (12)](music_by_artist/plantec.md)
+[Plantec (16)](music_by_artist/plantec.md)
 
 [Polverfolk (1)](music_by_artist/polverfolk.md)
 
@@ -1284,6 +1286,8 @@
 
 [Trio Trad (1)](music_by_artist/trio_trad.md)
 
+[Triskill (1)](music_by_artist/triskill.md)
+
 [Tristan Le Breton (1)](music_by_artist/tristan_le_breton.md)
 
 [Trobairitz d'Oc (1)](music_by_artist/trobairitz_d_oc.md)
@@ -1392,7 +1396,7 @@
 
 [zffrs (1)](music_by_artist/zffrs.md)
 
-[Zirp (1)](music_by_artist/zirp.md)
+[Zirp (2)](music_by_artist/zirp.md)
 
 [Zlabya (12)](music_by_artist/zlabya.md)
 

@@ -57,6 +57,15 @@ links:
       link: https://www.youtube.com/watch?v=bVPcetOx12g
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Bal O'Gadjo
+    track_name: Scottish à billy
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2hmp82paIi8cTIYP6xmTz8
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=TQBXj2gqskE
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Ballsy Swing
     track_name: Scottish des Aqueducs
     links:
@@ -85,6 +94,7 @@ links:
       link: https://www.youtube.com/watch?v=2YR0IIGFRQ4
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Beat Bouet Trio
     track_name: M.A.F.I.A (Scottish)
     links:
@@ -427,6 +437,14 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
     no_youtube_link: true #Verified
+  - artist: Le bal de l'éphémère
+    track_name: Uyuni (Scottish)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6PSAjyxjANsFdOMkD90uUQ
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+    no_youtube_link: true
   - artist: Les Zéoles
     track_name: 93 (Scottish)
     links:
@@ -445,6 +463,15 @@ links:
       link: https://www.youtube.com/watch?v=uiB4lEQ3ck4
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Les genoux
+    track_name: Berryland / Scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6eOZMjzrdvo2X8gJTpRdRL
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=MQ95YpiDzd0
+    from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Lirio
     track_name: Forumscottish
@@ -521,6 +548,15 @@ links:
       link: https://www.youtube.com/watch?v=tnigV11WPcU
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Mister Klof
+    track_name: Octave - midsommerschottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5TKfXb1z38isscFXcLonnM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=7krft5Gqq3I
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Mr. Folxlide
     track_name: Mind the Gap - Scottish
     links:
@@ -604,6 +640,15 @@ links:
       link: https://open.spotify.com/track/39VqgIc0FUyyGudZkXOOr2
     - portal: YouTube
       link: https://www.youtube.com/watch?v=JgLYgrz2Hzo
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Plantec
+    track_name: Kalon (Scottish)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4BcxBhK9Hdj52u7pd2JJnT
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=5WlATMJa2tA
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Plantec
@@ -742,6 +787,15 @@ links:
       link: https://open.spotify.com/track/2EqKt3BBQaw5HnrW5a4Pg6
     - portal: YouTube
       link: https://www.youtube.com/watch?v=x6nzrI3S7WI
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Zirp
+    track_name: Schottisch Lounge
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5nUDIjrbviZC1U2eSOrRuY
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=JIzydeHrVz8
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: ba.fnu

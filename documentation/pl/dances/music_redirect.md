@@ -1,4 +1,4 @@
-[Utwory pogrupowane po artystach (700)](../../no_lang/aggregated/music_by_artist.md)
+[Utwory pogrupowane po artystach (702)](../../no_lang/aggregated/music_by_artist.md)
 
 [Utwory pogrupowane po tańcach (39)](../../no_lang/aggregated/music_by_dance.md)
 

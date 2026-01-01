@@ -244,6 +244,15 @@ links:
       link: https://www.youtube.com/watch?v=_divdAgthSw
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+  - artist: Plantec
+    track_name: Sant uzin (Rond de Saint Vincent)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3uBhe31O3okv97zdp5aTY7
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=nDe7KTmeWuE
+    from_playlist:
+    - https://open.spotify.com/playlist/3Jrp8mpVQZusdrG98oSCSO
   - artist: Ruz Reor
     track_name: Rond de Saint-Vincent
     links:

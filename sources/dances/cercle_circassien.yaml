@@ -620,6 +620,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Triskill
+    track_name: Cercle circassien
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/76paPBLp4UEdeQPYEZPcIu
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=yn-axpRDKTg
+    from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
   - artist: Vach'inton.g
     track_name: Morricone jig, Cercle circassien
     links:

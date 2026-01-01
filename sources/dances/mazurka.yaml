@@ -104,6 +104,15 @@ links:
       link: https://www.youtube.com/watch?v=I1s2X2o8U-w
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+  - artist: Bargainatt
+    track_name: Mazurkanoë
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7ifzHKubTddD0RGKDdm94l
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=OkoZupsTPl0
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Beat Bouet Trio
     track_name: A L'Armée (Mazurka)
     links:
@@ -259,6 +268,15 @@ links:
       link: https://www.youtube.com/watch?v=_Xf0TRJvXYo
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+  - artist: Duo Absynthe
+    track_name: Mazurka à Clément
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2PM8xrC5NbYMVNN11RSD7D
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=L_j0ppqZ-d8
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Duo Absynthe
     track_name: Nina
     links:

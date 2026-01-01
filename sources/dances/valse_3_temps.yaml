@@ -13,6 +13,15 @@ links:
   - link: https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - link: https://open.spotify.com/playlist/6Frtoa6VNsp0n814HSZEfG
   tracks:
+  - artist: Accordeon Melancolique
+    track_name: Helena - musette waltz
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5fGtyr2b9ufPebHGGsjkBK
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=jJy35xhVIk0
+    from_playlist:
+    - https://open.spotify.com/playlist/6Frtoa6VNsp0n814HSZEfG
   - artist: Ad Vielle Que Pourra
     track_name: L'Agacante/Valse Du Milieu/Valse Du Faucigny
     links:

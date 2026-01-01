@@ -168,6 +168,15 @@ links:
       link: https://www.youtube.com/watch?v=PI985PCIhms
     from_playlist:
     - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
+  - artist: Obal
+    track_name: Branles de Noirmouitier
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1EOi3D7pa5zKABR9cabf39
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=UyCv_ziqY7A
+    from_playlist:
+    - https://open.spotify.com/playlist/4qxQ6ks47rPlSXzTqTssuN
   - artist: Rémi Geffroy
     track_name: Ouroboros
     links:

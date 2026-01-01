@@ -181,6 +181,15 @@ links:
       link: https://www.youtube.com/watch?v=HmRMIFOI2Rw
     from_playlist:
     - https://open.spotify.com/playlist/2yMyRimR4t8Jx6zUl60dOI
+  - artist: Plantec
+    track_name: Tennder - Kost er hœt
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4sWML5ydEutuN0ee7Yr5P0
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=BQjE0zztrVo
+    from_playlist:
+    - https://open.spotify.com/playlist/1tCvBl3LHJOn4maksaUXBx
   - artist: Ruz Reor
     track_name: Kost ar Hoat
     links:

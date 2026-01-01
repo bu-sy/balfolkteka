@@ -10,13 +10,13 @@
 
 [9 (1)](music_alphabetically/on_letter_9.md)
 
-[A (129)](music_alphabetically/on_letter_A.md)
+[A (130)](music_alphabetically/on_letter_A.md)
 
 [B (116)](music_alphabetically/on_letter_B.md)
 
-[C (77)](music_alphabetically/on_letter_C.md)
+[C (78)](music_alphabetically/on_letter_C.md)
 
-[D (75)](music_alphabetically/on_letter_D.md)
+[D (77)](music_alphabetically/on_letter_D.md)
 
 [E (26)](music_alphabetically/on_letter_E.md)
 

@@ -116,7 +116,7 @@
 
 [Bagad Ar Meilhou Glaz (1)](music_by_artist/bagad_ar_meilhou_glaz.md)
 
-[Bagad de Lann Bihoué (1)](music_by_artist/bagad_de_lann_bihoue.md)
+[Bagad de Lann Bihoué (2)](music_by_artist/bagad_de_lann_bihoue.md)
 
 [Bagad de Vannes (2)](music_by_artist/bagad_de_vannes.md)
 
@@ -568,6 +568,8 @@
 
 [Gwendoline DOLBEAULT (1)](music_by_artist/gwendoline_dolbeault.md)
 
+[GWENDORN (1)](music_by_artist/gwendorn.md)
+
 [Hajda Banda (2)](music_by_artist/hajda_banda.md)
 
 [Hamon Martin Quartet (1)](music_by_artist/hamon_martin_quartet.md)
@@ -944,7 +946,7 @@
 
 [Nolùen Le Buhé (3)](music_by_artist/noluen_le_buhe.md)
 
-[Nostrad (8)](music_by_artist/nostrad.md)
+[Nostrad (9)](music_by_artist/nostrad.md)
 
 [NOU (6)](music_by_artist/nou.md)
 
@@ -1038,7 +1040,7 @@
 
 [Planchée (2)](music_by_artist/planchee.md)
 
-[Plantec (11)](music_by_artist/plantec.md)
+[Plantec (12)](music_by_artist/plantec.md)
 
 [Polverfolk (1)](music_by_artist/polverfolk.md)
 

@@ -12,6 +12,15 @@ links:
   playlists:
   - link: https://open.spotify.com/playlist/2dpaO8c3uUnuwL066wXawn
   tracks:
+  - artist: Bagad de Lann Bihoué
+    track_name: Dans keff - Solo ensemble bombardes
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4NwgMzccFAOoLkULTNqMfl
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=1t9UTI36NZg
+    from_playlist:
+    - https://open.spotify.com/playlist/2dpaO8c3uUnuwL066wXawn
   - artist: Bagad de Vannes
     track_name: Keff
     links:
@@ -37,5 +46,19 @@ links:
       link: https://open.spotify.com/track/6JYHUe0OQEZJeMp0NfmsXy
     - portal: YouTube
       link: https://www.youtube.com/watch?v=JPFjOaVimw8
+    from_playlist:
+    - https://open.spotify.com/playlist/2dpaO8c3uUnuwL066wXawn
+  - artist: GWENDORN
+    track_name: DANS KEFF (Gwendorn et Isabelle Victoire)
+    links:
+    - portal: Soundcloud
+      link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A570137625&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
+  - artist: Plantec
+    track_name: Croissant de letiez - Dañs keff
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/05XJpfmsD2dASA6iVNn67b
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=W0WpK4F5_qM
     from_playlist:
     - https://open.spotify.com/playlist/2dpaO8c3uUnuwL066wXawn

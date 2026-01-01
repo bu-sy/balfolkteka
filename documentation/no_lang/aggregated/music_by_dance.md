@@ -14,7 +14,7 @@
 
 [Congo de Captieux (14)](music_by_dance/congo_de_captieux.md)
 
-[Dañs Keff (3)](music_by_dance/dans_keff.md)
+[Dañs Keff (6)](music_by_dance/dans_keff.md)
 
 [Danse de l'Ours (5)](music_by_dance/danse_de_l_ours.md)
 
@@ -64,7 +64,7 @@
 
 [Scottish impaire (7)](music_by_dance/scottish_impaire.md)
 
-[Tricot (21)](music_by_dance/tricot.md)
+[Tricot (22)](music_by_dance/tricot.md)
 
 [Valse 11 temps (5)](music_by_dance/valse_11_temps.md)
 

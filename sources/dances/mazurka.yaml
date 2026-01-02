@@ -277,6 +277,33 @@ links:
       link: https://www.youtube.com/watch?v=Dp_e-n-tDhs
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+  - artist: Dr. Ka
+    track_name: 7 Clouds - Mazurka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3HSmIVDt5nznms8wqPuAvl
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=gaZOg3JH_yM
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+  - artist: Dr. Ka
+    track_name: 7 Clouds - Version 2
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2mxnIeAEeg0wM2GpChiOpP
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=jLjbNANjw40
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+  - artist: Dr. Ka
+    track_name: Kazurka - Mazurka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3kNz9PJYFD017fcutH21Y9
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=cGM0xgbTYXY
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Duo Absynthe
     track_name: Candela - Remastered
     links:

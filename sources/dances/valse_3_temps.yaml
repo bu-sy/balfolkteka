@@ -395,6 +395,15 @@ links:
       link: https://www.youtube.com/watch?v=HeLHzKuVlFA
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Dr. Ka
+    track_name: Valse de Gnomes - Walzer
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3KhOKJPdomMSUfdCczwg6G
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Pu60IAb4AoU
+    from_playlist:
+    - https://open.spotify.com/playlist/6Frtoa6VNsp0n814HSZEfG
   - artist: Duea
     track_name: Lhi carn marinas
     links:

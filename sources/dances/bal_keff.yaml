@@ -19,6 +19,8 @@ links:
       link: https://open.spotify.com/track/7lvGZa8QGZAChZuehi9yIK
     - portal: YouTube
       link: https://www.youtube.com/watch?v=mDhne-T-ncQ
+    from_playlist:
+    - https://open.spotify.com/playlist/69jxBdkZeiRERsiYiIJyyD
   - artist: Diou Flo
     track_name: Bal Kef
     links:
@@ -26,6 +28,15 @@ links:
       link: https://open.spotify.com/track/7ErBNbcJfxkWqF4RdzPKUZ
     - portal: YouTube
       link: https://www.youtube.com/watch?v=_5xfHToH2o8
+    from_playlist:
+    - https://open.spotify.com/playlist/69jxBdkZeiRERsiYiIJyyD
+  - artist: Dr. Ka
+    track_name: Danse Keff
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5qsv8Ohz87c449MDeGpwMN
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=dIt-ETkEbEY
     from_playlist:
     - https://open.spotify.com/playlist/69jxBdkZeiRERsiYiIJyyD
   - artist: Kastelodenn

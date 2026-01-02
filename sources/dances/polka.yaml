@@ -97,6 +97,15 @@ links:
       link: https://www.youtube.com/watch?v=wQdXLOMZImA
     from_playlist:
     - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Dr. Ka
+    track_name: Regen Tropfen - Polka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/72ZclywPvb2EviAotvxVC4
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=CrAKrPSGbAM
+    from_playlist:
+    - https://open.spotify.com/playlist/5E98ffJHf8h58DSUP6XUKU
   - artist: Duo Absynthe
     track_name: Monster café
     links:
@@ -124,6 +133,15 @@ links:
       link: https://www.youtube.com/watch?v=7sAV7KQV2Dg
     from_playlist:
     - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Electrad
+    track_name: La Polka du Moulinet (Polka)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3KNIIPAatsKQE0TMaBs88U
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=pKhAaV9vxVo
+    from_playlist:
+    - https://open.spotify.com/playlist/5E98ffJHf8h58DSUP6XUKU
   - artist: Eric Champion
     track_name: Polka à Dodo - Polka à Félix Robillon
     links:

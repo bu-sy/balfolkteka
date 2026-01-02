@@ -91,6 +91,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
     - https://open.spotify.com/playlist/3Jrp8mpVQZusdrG98oSCSO
+  - artist: Dr. Ka
+    track_name: Ronde de St. Vincent
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4u4z4u3DBG0NTlOCJPzBrk
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=YfXf3SJT2Tw
+    from_playlist:
+    - https://open.spotify.com/playlist/3Jrp8mpVQZusdrG98oSCSO
   - artist: Duo Absynthe
     track_name: Azilia
     links:

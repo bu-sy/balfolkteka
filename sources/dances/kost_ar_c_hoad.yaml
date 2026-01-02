@@ -89,6 +89,15 @@ links:
       link: https://www.youtube.com/watch?v=J22JuDMQLgU
     from_playlist:
     - https://open.spotify.com/playlist/2yMyRimR4t8Jx6zUl60dOI
+  - artist: Dr. Ka
+    track_name: Kost Ax Choat
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3VxeMOvTNvX1pfUbXGdUUN
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=09sZ5JrdsrU
+    from_playlist:
+    - https://open.spotify.com/playlist/1tCvBl3LHJOn4maksaUXBx
   - artist: Duo Sionneau/Gielen
     track_name: Oscar
     links:
@@ -115,6 +124,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=10H8pguYDh8
     from_playlist:
+    - https://open.spotify.com/playlist/1tCvBl3LHJOn4maksaUXBx
     - https://open.spotify.com/playlist/2yMyRimR4t8Jx6zUl60dOI
   - artist: Erwan Moal, Julien Stevenin, Tangi Le Gall-Carre
     track_name: Elya / Disoursi (Kost Ar C'Hoad)

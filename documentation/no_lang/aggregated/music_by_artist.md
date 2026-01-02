@@ -334,7 +334,7 @@
 
 [Dos (8)](music_by_artist/dos.md)
 
-[Dr. Ka (1)](music_by_artist/dr_ka.md)
+[Dr. Ka (14)](music_by_artist/dr_ka.md)
 
 [Dragonsfly (1)](music_by_artist/dragonsfly.md)
 
@@ -392,7 +392,7 @@
 
 [Elanor (3)](music_by_artist/elanor.md)
 
-[Electrad (4)](music_by_artist/electrad.md)
+[Electrad (8)](music_by_artist/electrad.md)
 
 [Élisa Trebouville (4)](music_by_artist/elisa_trebouville.md)
 
@@ -677,6 +677,8 @@
 [Josefina Paulson (3)](music_by_artist/josefina_paulson.md)
 
 [Joxan Goikoetxea (1)](music_by_artist/joxan_goikoetxea.md)
+
+[Juliañ (1)](music_by_artist/julian.md)
 
 [Julie Mary (1)](music_by_artist/julie_mary.md)
 

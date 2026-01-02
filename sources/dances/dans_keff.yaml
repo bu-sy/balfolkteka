@@ -48,11 +48,29 @@ links:
       link: https://www.youtube.com/watch?v=JPFjOaVimw8
     from_playlist:
     - https://open.spotify.com/playlist/2dpaO8c3uUnuwL066wXawn
+  - artist: Dr. Ka
+    track_name: Danse Keff
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5qsv8Ohz87c449MDeGpwMN
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=dIt-ETkEbEY
+    from_playlist:
+    - https://open.spotify.com/playlist/2dpaO8c3uUnuwL066wXawn
   - artist: GWENDORN
     track_name: DANS KEFF (Gwendorn et Isabelle Victoire)
     links:
     - portal: Soundcloud
       link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A570137625&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
+  - artist: Juliañ
+    track_name: Keff
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2qErljrtF2VpET0Ykrr6Kl
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=-iNlmqg9c98
+    from_playlist:
+    - https://open.spotify.com/playlist/2dpaO8c3uUnuwL066wXawn
   - artist: Plantec
     track_name: Croissant de letiez - Dañs keff
     links:

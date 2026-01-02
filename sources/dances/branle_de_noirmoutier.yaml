@@ -91,6 +91,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=NKFv79nxqms
     from_playlist:
+    - https://open.spotify.com/playlist/4qxQ6ks47rPlSXzTqTssuN
     - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
   - artist: Duo Blain-Leyzour
     track_name: Branle de Noirmoutier

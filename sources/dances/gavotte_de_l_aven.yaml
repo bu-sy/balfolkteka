@@ -64,6 +64,15 @@ links:
       link: https://www.youtube.com/watch?v=0Zd5pFf3la0
     from_playlist:
     - https://open.spotify.com/playlist/4qPJFMv4NySdPwm4ICIUNX
+  - artist: Electrad
+    track_name: La Poursuite, Pt. 1 (Gavotte de l'Aven)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0TcyWLvXdjIzTu42xUbLnG
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=su_YpEv8KYI
+    from_playlist:
+    - https://open.spotify.com/playlist/4qPJFMv4NySdPwm4ICIUNX
   - artist: Johann Sebastian Bach, Sefa Emre İlikli
     track_name: Gavotte in G Minor, BWV 822
     links:

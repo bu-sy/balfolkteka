@@ -7,6 +7,7 @@ links:
   - link: https://www.youtube.com/watch?v=w5-UKzc2KSw
   playlists:
   - link: https://open.spotify.com/playlist/1aZIzlVcrtTPIANv5e6Ll4
+  - link: https://open.spotify.com/playlist/7Kfc700EIfKVlbYiP4pfLT
   tracks:
   - artist: Aimé Bozier
     track_name: La marchoise
@@ -25,6 +26,7 @@ links:
       link: https://www.youtube.com/watch?v=2zIkIpxCHP8
     from_playlist:
     - https://open.spotify.com/playlist/1aZIzlVcrtTPIANv5e6Ll4
+    - https://open.spotify.com/playlist/7Kfc700EIfKVlbYiP4pfLT
   - artist: Ballsy Swing
     track_name: Marchoises
     links:
@@ -34,6 +36,7 @@ links:
       link: https://www.youtube.com/watch?v=7gky_hGNJe4
     from_playlist:
     - https://open.spotify.com/playlist/1aZIzlVcrtTPIANv5e6Ll4
+    - https://open.spotify.com/playlist/7Kfc700EIfKVlbYiP4pfLT
   - artist: Benoît Michaud, Zabou Guérin
     blacklist: true #Unavailable
     track_name: Marchoises Blanzay - Bozier
@@ -52,6 +55,7 @@ links:
       link: https://www.youtube.com/watch?v=IWqHiP0daNQ
     from_playlist:
     - https://open.spotify.com/playlist/1aZIzlVcrtTPIANv5e6Ll4
+    - https://open.spotify.com/playlist/7Kfc700EIfKVlbYiP4pfLT
   - artist: Ma petite
     track_name: La mal mariée (avec Julien Padovani)
     links:
@@ -70,3 +74,4 @@ links:
       link: https://www.youtube.com/watch?v=9n9lv-l00Ko
     from_playlist:
     - https://open.spotify.com/playlist/1aZIzlVcrtTPIANv5e6Ll4
+    - https://open.spotify.com/playlist/7Kfc700EIfKVlbYiP4pfLT

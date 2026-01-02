@@ -295,6 +295,24 @@ links:
       link: https://www.youtube.com/watch?v=SNotn0gVjvY
     from_playlist:
     - https://open.spotify.com/playlist/60rT8z0AbQ5ZQIrWsvSOWq
+  - artist: Dr. Ka
+    track_name: Degem Nazer - 3er Bourrée
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5Dsq0rg7WtLEEH5EaSpYbT
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=HX3pv7NZcIM
+    from_playlist:
+    - https://open.spotify.com/playlist/1WUytEw4LQUtV8HxDeZ7O0
+  - artist: Dr. Ka
+    track_name: Degem Nazer - Version 2
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2gzjuNeBFmobmJhE7v9Zgm
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=dEGdGZ3DjbM
+    from_playlist:
+    - https://open.spotify.com/playlist/1WUytEw4LQUtV8HxDeZ7O0
   - artist: Duea
     track_name: 'Montanharda de Rochefort: La Novia'
     links:

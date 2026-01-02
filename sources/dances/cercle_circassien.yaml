@@ -337,6 +337,24 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Electrad
+    track_name: Cercle Circassien à Tiroirs
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4tXQEXA72olauFmlJ4dr0y
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=970otCDyReo
+    from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
+  - artist: Electrad
+    track_name: Cercle Circassien à Tiroirs - Version Courte
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3ZL7BM6kOoXClpKZ8f4X5e
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=KV6qs6lW7PE
+    from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
   - artist: Erwan Hamon, Janick Martin, Orchestre national de Bretagne
     track_name: Banian's jig (Cercle circassien)
     links:

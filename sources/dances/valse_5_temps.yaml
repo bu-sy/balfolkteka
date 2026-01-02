@@ -11,6 +11,7 @@ links:
   - link: https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - link: https://open.spotify.com/playlist/0hnXz6KqlM4B9yph9dwwUj
   - link: https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
+  - link: https://open.spotify.com/playlist/0IR30VEjD5oPb5XDcpJGP7
   tracks:
   - artist: Accordzêam
     track_name: La lilloise
@@ -67,6 +68,15 @@ links:
       link: https://www.youtube.com/watch?v=K6TtEDTncuc
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
+  - artist: Cardboard Cabin
+    track_name: Epipentisme
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7jPTUColgQb7LSxT27H9L1
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_1lt5aU96IQ
+    from_playlist:
+    - https://open.spotify.com/playlist/0IR30VEjD5oPb5XDcpJGP7
   - artist: Catherine Grimault, Eric Thézé, Jean-Jacques Limeul
     track_name: Fam
     links:
@@ -94,6 +104,15 @@ links:
       link: https://www.youtube.com/watch?v=71i2eNeQZrY
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
+  - artist: Dr. Ka
+    track_name: Möwe - 5er Walzer
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/35wQJAUzUNGgZd9fmjunAT
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=SdVgBUiRxAo
+    from_playlist:
+    - https://open.spotify.com/playlist/0IR30VEjD5oPb5XDcpJGP7
   - artist: Duo Absynthe
     track_name: Evening Glory
     links:

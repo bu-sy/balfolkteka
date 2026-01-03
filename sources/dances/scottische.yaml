@@ -2848,6 +2848,7 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0XMNr6oVX02CGorbPIjDde
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=cFDsruLwlTA
     from_playlist:
     - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
-    no_youtube_link: true

@@ -1000,6 +1000,7 @@ links:
     - https://open.spotify.com/playlist/2zHebVsR6T5fuDahaFLQ3w
   - artist: Отава Ё
     track_name: Sumetskaya
+    blacklist: true #Duplicate and unavailable
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6hWziHYXFDGT0NkkDVGaDj

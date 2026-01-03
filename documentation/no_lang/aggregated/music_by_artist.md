@@ -86,7 +86,7 @@
 
 [Amorroma (1)](music_by_artist/amorroma.md)
 
-[Ampouailh (13)](music_by_artist/ampouailh.md)
+[Ampouailh (12)](music_by_artist/ampouailh.md)
 
 [An Diaoul Ha Peder (1)](music_by_artist/an_diaoul_ha_peder.md)
 
@@ -1428,7 +1428,7 @@
 
 [Orquestrina Trama (1)](music_by_artist/orquestrina_trama.md)
 
-[Отава Ё (6)](music_by_artist/otava_io.md)
+[Отава Ё (5)](music_by_artist/otava_io.md)
 
 [Oubéret (1)](music_by_artist/ouberet.md)
 

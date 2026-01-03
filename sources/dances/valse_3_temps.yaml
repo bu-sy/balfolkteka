@@ -252,12 +252,13 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
   - artist: Ampouailh
+    blacklist: true #This is Ronds de saint-Vincent
     track_name: Tri bali 41vet (Ronds de saint-Vincent) - Live
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3AhdFAJ7HzN9HdscUIuWTu
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=v1jZC5yu-ZI
+      link: https://www.youtube.com/watch?v=A-HqEgvwDEg
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
   - artist: Andreas Utnem, Gjermund Larsen, Gjermund Larsen Trio, Sondre Meisfjord
@@ -1788,7 +1789,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/2HUAjeHWA7FQNbnWhlboOL
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=9xi9zDqrSn8
+      link: https://www.youtube.com/watch?v=fjTk-tvUWx4
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
   - artist: HollowRiku, ViolinGamer
@@ -2933,7 +2934,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/6M665tf7ZKQzUFA5yOrUE4
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=EA6gIyLT3c0
+      link: https://www.youtube.com/watch?v=49gBBHUG5Tc
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
   - artist: Peter Sun, SarahBeth Gossett

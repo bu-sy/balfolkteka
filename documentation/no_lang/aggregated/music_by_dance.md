@@ -54,7 +54,7 @@
 
 [Pas de Sept (1)](music_by_dance/pas_de_sept.md)
 
-[Polka (115)](music_by_dance/polka.md)
+[Polka (114)](music_by_dance/polka.md)
 
 [Porcher (2)](music_by_dance/porcher.md)
 
@@ -76,7 +76,7 @@
 
 [Valse 11 temps (12)](music_by_dance/valse_11_temps.md)
 
-[Valse 3 temps (417)](music_by_dance/valse_3_temps.md)
+[Valse 3 temps (416)](music_by_dance/valse_3_temps.md)
 
 [Valse 5 temps (80)](music_by_dance/valse_5_temps.md)
 

@@ -6,7 +6,7 @@
 
 [Bal Limousine (7)](music_by_dance/bal_limousine.md)
 
-[Bourrée 2 temps (240)](music_by_dance/bourree_2_temps.md)
+[Bourrée 2 temps (311)](music_by_dance/bourree_2_temps.md)
 
 [Bourrée 3 temps (150)](music_by_dance/bourree_3_temps.md)
 
@@ -46,7 +46,7 @@
 
 [Mardi Gras (2)](music_by_dance/mardi_gras.md)
 
-[Mazurka (199)](music_by_dance/mazurka.md)
+[Mazurka (348)](music_by_dance/mazurka.md)
 
 [Mazurka 11 temps (3)](music_by_dance/mazurka_11_temps.md)
 
@@ -68,7 +68,7 @@
 
 [Polska (rund polska) (43)](music_by_dance/rund_polska.md)
 
-[Scottish (233)](music_by_dance/scottish.md)
+[Scottish (308)](music_by_dance/scottish.md)
 
 [Scottish impaire (20)](music_by_dance/scottish_impaire.md)
 
@@ -76,7 +76,7 @@
 
 [Valse 11 temps (12)](music_by_dance/valse_11_temps.md)
 
-[Valse 3 temps (237)](music_by_dance/valse_3_temps.md)
+[Valse 3 temps (417)](music_by_dance/valse_3_temps.md)
 
 [Valse 5 temps (80)](music_by_dance/valse_5_temps.md)
 

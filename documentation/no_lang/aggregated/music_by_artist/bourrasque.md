@@ -2,7 +2,7 @@
 
 <hr>
 
-<h3>Bourrasque, Jacques Puech - <b>Bourrée à Lachaud / Bourrée à Gavinet</b> (Bourrée 3 temps)</h3>
+<h3>Bourrasque, Jacques Puech - <b>Bourrée à Lachaud / Bourrée à Gavinet</b> (Bourrée 2 temps, Bourrée 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

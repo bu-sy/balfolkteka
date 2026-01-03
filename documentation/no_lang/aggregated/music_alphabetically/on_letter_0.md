@@ -16,7 +16,7 @@
 
 <hr>
 
-<h3><b>007 - Schottisch, 5er Walzer</b> - Dr. Ka (Valse 5 temps)</h3>
+<h3><b>007 - Schottisch, 5er Walzer</b> - Dr. Ka (Scottish, Valse 5 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

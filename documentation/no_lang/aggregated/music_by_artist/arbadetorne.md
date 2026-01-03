@@ -1,4 +1,4 @@
-# Arbadétorne (14)
+# Arbadétorne (15)
 
 <hr>
 
@@ -49,6 +49,15 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/32zwMz2ImXKVFqD7jARNHb?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Arbadétorne - <b>L’empêchement aux bans (Valse)</b> (Valse 3 temps)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/54qhSo1EVlmBwQfuvSVvZD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -137,7 +146,7 @@
 
 <hr>
 
-<h3>Arbadétorne - <b>Mazurka-valse « C'est un garçon de 18 ans »</b> (Mazurka)</h3>
+<h3>Arbadétorne - <b>Mazurka-valse « C'est un garçon de 18 ans »</b> (Mazurka, Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

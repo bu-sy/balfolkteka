@@ -40,7 +40,7 @@
 
 <hr>
 
-<h3>Accordzêam - <b>Des hauts débats</b> (Valse 3 temps)</h3>
+<h3>Accordzêam - <b>Des hauts débats</b> (Mazurka, Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

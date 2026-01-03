@@ -1,4 +1,4 @@
-# Airboxes (20)
+# Airboxes (22)
 
 <hr>
 
@@ -73,7 +73,16 @@
 
 <hr>
 
-<h3>Airboxes - <b>Dy</b> (Valse 8 temps)</h3>
+<h3>Airboxes - <b>Duo's Journey</b> (Scottish)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1WdMrtgg04v4a3KZ4dwIYd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Airboxes - <b>Dy</b> (Scottish, Valse 8 temps)</h3>
 
 <details>
 <summary><big>Bandcamp</big></summary>
@@ -97,6 +106,15 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0N53wRhFnTsZ5DYpL1LRZX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Airboxes - <b>Isa</b> (Mazurka)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3QSX99c3GYxcxNg7AP7ek8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>

@@ -67,7 +67,7 @@ def search_youtube_video(track):
             print(f"  Artist: {result['description3']}")
         print(f"Under {tested_url}.")
 
-        verification_needed = (track['track_name'].strip() != result['description1'].strip()) or (track['artist'].strip() != result['description3'].strip())
+        verification_needed = (track['track_name'].strip().lower() != result['description1'].strip().lower()) or (track['artist'].strip().lower() != result['description3'].strip().lower())
 
         what_to_do = None
         if verification_needed:

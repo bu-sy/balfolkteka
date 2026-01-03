@@ -112,6 +112,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
+    no_youtube_link: true
   - artist: AedO
     track_name: Bouquet bloumé
     links:
@@ -197,6 +198,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2BQ4dzf3p4QI6thF9C4UWL
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ljMBPeEE9UU
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -248,6 +251,7 @@ links:
       link: https://open.spotify.com/track/3qo5eZ1lqu3CY1fewvP078
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
+    no_youtube_link: true
   - artist: Andrea Capezzuoli E Compagnia
     track_name: Bourrée - Live
     links:
@@ -256,6 +260,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
+    no_youtube_link: true
   - artist: Andrea Capezzuoli E Compagnia
     track_name: Bourrée del ciucat - bourrée de thiers
     links:
@@ -263,6 +268,7 @@ links:
       link: https://open.spotify.com/track/1QFtS3IMIrycUV5MIDOrRN
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
+    no_youtube_link: true
   - artist: André Popp y Su Orquesta, Jacques Brel
     track_name: La Bourrée Du Célibataire
     links:
@@ -390,6 +396,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1yWYkjWPlPMTplh1II4xaF
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=2-4rza_rpqA
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -466,6 +474,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0QRUmV450yUFKcdAMmlbiL
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=69bQLe3J4YI
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -474,6 +484,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3DufuT2W5ftFZqrdniYRVn
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=K0OL65_eDpw
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -580,6 +592,7 @@ links:
       link: https://open.spotify.com/track/0heTtXoQex3EiHkyiL8GFs
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
+    no_youtube_link: true
   - artist: Benoît Michaud, Zabou Guérin
     track_name: Y a Moy1
     links:
@@ -607,6 +620,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2TBuQfr4zqiRZO7d6oBVmj
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=M16Dm0We4Uw
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -615,6 +630,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4azUMteL895ppTIUCTVV6a
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=OBV8UUxF7so
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -623,6 +640,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3tAWFMZSBvIKedVMKzPdOS
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=UEoKPXaiPBg
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -631,6 +650,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/49YnWwt3Cwt42yoMFgkNEQ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=t1bEiQyQlsc
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -639,6 +660,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3LsJHOKCNo8kWrUw1N2gFe
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=6HjKIFqP-JQ
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -657,6 +680,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1suwyY8OUWEIueFJJhDqJH
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_IhGNwoJMS0
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -665,6 +690,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/38mMFNNbpLfcbqY8Kg6ya9
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=wx6SpqO519o
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -694,6 +721,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2RGK5BpCwmcQsXnm9rUv3p
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=6EL8OpRFLdM
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -772,6 +801,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0gVozIbAMkoSCMM6gi5mSB
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=FW4OoCtL7ns
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -780,6 +811,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2kZjw1NLOjjvVZqHlYNccz
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=y9D2XWjqQ-U
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -808,6 +841,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4FN8oWrPzWvWSNGZovHVbg
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=sNtVzSttvVc
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -816,6 +851,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4hP4J96l2LPif1WERIzZDB
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=xf_DijTPqIM
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -824,6 +861,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5DApgk3vqQ2VhcFxCdXvsh
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ndC9gpL5kFQ
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -832,6 +871,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1F012QFmNpwVvTQD7hwaQX
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=dIGIwhEV-CA
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -840,6 +881,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0NAzEzA3eSkRcwQlLlIMtg
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=GZvyczYpYTM
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -848,6 +891,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/512N6xp2gtIsNA0VP5fHBJ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=EkzEIZTisFM
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -875,6 +920,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/64PQM8cKdGjnhVIxgBN9Mw
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=s8iy-EjQBQc
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -937,6 +984,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/32KokKEj7VnId1DCaoyCR1
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Y_Sz1Tp168E
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -945,6 +994,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6zIXqaCCfY2pLs1qTzVnGw
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=gXxEWplVZJc
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -953,6 +1004,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4XJ1XEdTtnF28Z870pKzqp
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ECJC8zoUtMU
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1075,6 +1128,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2MsAlQi5Pcg9BUOvbpNhi3
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=cmx9LSBKndY
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1093,11 +1148,14 @@ links:
       link: https://open.spotify.com/track/4NUs9ZyDdz1pT6mgXdPvoR
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
+    no_youtube_link: true
   - artist: Duo Nello
     track_name: John O'Gaunt Morris Men / I'll go and Enlist for a Sailor
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/76xwKLkza0A39KqaQ5yE8H
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=lNJdPE8d6Yw
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1118,6 +1176,7 @@ links:
       link: https://open.spotify.com/track/1ZgZDizyFHkYcCq5cEfLT1
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
+    no_youtube_link: true
   - artist: Duo Pilartz Gielen, Vincent Sionneau
     track_name: Bourrées à deux et trois temps
     links:
@@ -1154,6 +1213,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3Kh538xcm4WPi5yaVZo9Es
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=WodREK9x7_8
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1192,6 +1253,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7l994ild8FJJYUhK5o2fgy
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=m0qQl6l--_8
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1229,6 +1292,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5NhV440uoaDDzpwsLruzvh
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=fwyFmFVeYPY
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1294,6 +1359,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/26qRyuiFK6IPGAqzunVKyL
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=HH1N0itrW88
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1351,6 +1418,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0iMM5eASiK9KF2o2Xp1mfa
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=mvdYoG96eRg
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1397,6 +1466,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3R1edTDpZ6M10sDatdoqen
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=cF5ZgWtJD-g
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1415,6 +1486,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4ISWW40dPefJ78UNJT7nCM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=bdZ3IEjsrdo
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1455,6 +1528,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1j6I1IwD255D2Z9wrcI7Ap
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=7Abva3Ph4r8
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1481,6 +1556,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4zC4O79n3as9TSLcHzcoWk
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=vzeQk75PN7I
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1489,6 +1566,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0NfjwqcIIfm9MUKpPKnGjU
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ju4smkppku0
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1542,6 +1621,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0kZHrJeONmBZBOXsKBpJGr
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=baGflDxHB1Q
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1625,6 +1706,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2wGRiX8u3OBJqwUHbmfYcm
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=PibHpu9iw2Q
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1633,6 +1716,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4zPTcozmMkhoiFobF8VZ6O
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=3dekubLZmXE
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1641,6 +1726,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0lszPcetlnYayU4jnWAXcc
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=BZWwdOKjb_A
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1688,6 +1775,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0QMe9619bITsIeFMzLCcxX
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=-xeKLlXpDfA
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1731,6 +1820,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1jVdgZNJh5yazUAOHh0R7n
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Tg29UyFELxE
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1739,6 +1830,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/26zEQqCzHRLB6jgy8vV36q
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=oPWl59YOYNA
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1747,6 +1840,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4Js0tXE5tlwRl3QIoGevzO
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Mb4raEv-kKc
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1883,6 +1978,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5DZ2bOlK2sMZnm3d2mPmGh
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=sKHOMZYto8E
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -1938,6 +2035,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5c1ajCa0Gt0fyN7VOiRxWg
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=J13Gte9ZRO8
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -2124,6 +2223,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6FNn4ZpWAc6yaorNV1paCX
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=1kXpNYMhbDI
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -2177,11 +2278,14 @@ links:
       link: https://open.spotify.com/track/25L5DshbBqoZJ5PMccqxac
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
+    no_youtube_link: true
   - artist: Mister Klof
     track_name: Bourrée de l'éouve - bourrée d'isly
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3tG158bB5n5Rp5G2dI8NyH
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=D032a5W7t7A
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -2190,6 +2294,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6BBUX54YHFLjQbKE2Pznjz
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=4etOWfqS-uY
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -2460,6 +2566,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0MdUKKTKOAh6JBKGiz236M
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=nYppjK1CGo0
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -2531,6 +2639,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4aswcYy2KxYHdKuitikWSM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=8vOHFRIvsv8
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -2548,6 +2658,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0FwCgEylGOet1KomJ0WW3C
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=9HpfLYPvb7s
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -2826,6 +2938,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4YQibYmr4QcJhMrx7OReRX
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=kiYqKpEdQeY
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -2845,6 +2959,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1qSmdST7sFwE7bYs7WboBK
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=QhC8iKOmvgY
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -2916,6 +3032,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
+    no_youtube_link: true
   - artist: Tribal Jâze
     track_name: La clef
     links:
@@ -2932,6 +3049,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0ea9ZvvAyFC9mqXjQiEz4o
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=TToGp_E48Y8
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -3012,6 +3131,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2R4PkHSHNMCQR2nQuHnx7s
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=QzTSy0-nzKg
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -3020,6 +3141,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3EQN6cIyjHOi8sCyS28mED
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=NimoGmLD4OU
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -3046,6 +3169,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1dK04UzeGFg9vw6GsrnsUl
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=iqdqNRRHqeE
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
@@ -3075,6 +3200,7 @@ links:
       link: https://open.spotify.com/track/6VmzkYYFf5kixe9gSs6v0S
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
+    no_youtube_link: true
   - artist: Viorel
     track_name: On Tour no Tour
     links:
@@ -3148,6 +3274,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
+    no_youtube_link: true
   - artist: Zef
     track_name: K.c.
     links:
@@ -3177,11 +3304,14 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
+    no_youtube_link: true
   - artist: Zef
     track_name: Vodka déglacée
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5iODZMJVuXUETttlFkkj1K
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=eL3IUi9tjhU
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05

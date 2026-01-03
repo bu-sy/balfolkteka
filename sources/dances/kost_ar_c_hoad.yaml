@@ -19,6 +19,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/1tCvBl3LHJOn4maksaUXBx
   - artist: Alain Pennec
+    track_name: Kost ar c'hoad
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6fgDDR1okj5vGccqujWf98
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=VlNdXVy1zI4
+    from_playlist:
+    - https://open.spotify.com/playlist/0g3LUsF2I7jbUNuCugqm2O
+  - artist: Alain Pennec
     track_name: Le soir à la brunette - Orgies nocturnes
     links:
     - portal: Spotify
@@ -27,6 +36,15 @@ links:
       link: https://www.youtube.com/watch?v=5Xae-RCzhAw
     from_playlist:
     - https://open.spotify.com/playlist/2yMyRimR4t8Jx6zUl60dOI
+  - artist: Alan Stivell
+    track_name: Kost Ar C'Hoad
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/21GKPbGJXTr4YwumzW1Ssv
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=P9iccG4k5aA
+    from_playlist:
+    - https://open.spotify.com/playlist/0g3LUsF2I7jbUNuCugqm2O
   - artist: Ampouailh
     track_name: Deñved Guerveno (Kost ar c'hoat)
     links:
@@ -36,6 +54,15 @@ links:
       link: https://www.youtube.com/watch?v=a8uX7I4Ysso
     from_playlist:
     - https://open.spotify.com/playlist/2yMyRimR4t8Jx6zUl60dOI
+  - artist: Ampouailh
+    track_name: Kost er hoet - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6kqDIlJn5hr8LQ8ra1cMIg
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=RUWRw7a5lrY
+    from_playlist:
+    - https://open.spotify.com/playlist/0g3LUsF2I7jbUNuCugqm2O
   - artist: BAROK
     track_name: Dañs-tro ar saozon e Kenekan (Kost ar c'hoad)
     links:
@@ -44,7 +71,17 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=pVPmx8HqvaI
     from_playlist:
+    - https://open.spotify.com/playlist/0g3LUsF2I7jbUNuCugqm2O
     - https://open.spotify.com/playlist/2yMyRimR4t8Jx6zUl60dOI
+  - artist: Bal O'Gadjo, Guilhem Chapeau Centurion
+    track_name: East Coast or What?
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4QKssFvLgsqlygu2m2WbDa
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=JUT7KVX-tFk
+    from_playlist:
+    - https://open.spotify.com/playlist/0g3LUsF2I7jbUNuCugqm2O
   - artist: Carré Manchot
     track_name: Kost Er Hoed
     links:
@@ -53,6 +90,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=YKff7JYSyww
     from_playlist:
+    - https://open.spotify.com/playlist/0g3LUsF2I7jbUNuCugqm2O
     - https://open.spotify.com/playlist/2yMyRimR4t8Jx6zUl60dOI
   - artist: Carré Manchot
     track_name: Kost ar c'hoad
@@ -62,6 +100,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=jW9-sQ6zLQo
     from_playlist:
+    - https://open.spotify.com/playlist/0g3LUsF2I7jbUNuCugqm2O
     - https://open.spotify.com/playlist/2yMyRimR4t8Jx6zUl60dOI
   - artist: Carré Manchot
     track_name: Kost ar c'hoat
@@ -99,6 +138,24 @@ links:
       link: https://www.youtube.com/watch?v=09sZ5JrdsrU
     from_playlist:
     - https://open.spotify.com/playlist/1tCvBl3LHJOn4maksaUXBx
+  - artist: Duo Anthracite
+    track_name: Nous Deux (Kost'ar c'hoat)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7mnTw3QPe4hg7P51KiGNV4
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Sw0p7e1mCaM
+    from_playlist:
+    - https://open.spotify.com/playlist/0g3LUsF2I7jbUNuCugqm2O
+  - artist: Duo Blain-Leyzour
+    track_name: Kost ar c'hoat
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0C5VrKWhUdu2oleGEuGfre
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=N7uetstCKxw
+    from_playlist:
+    - https://open.spotify.com/playlist/0g3LUsF2I7jbUNuCugqm2O
   - artist: Duo Sionneau/Gielen
     track_name: Oscar
     links:
@@ -108,6 +165,15 @@ links:
       link: https://www.youtube.com/watch?v=gx3hvY2oQ-4
     from_playlist:
     - https://open.spotify.com/playlist/2yMyRimR4t8Jx6zUl60dOI
+  - artist: Duo TTC
+    track_name: Kost Ar What?
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7wVCxIZIIn8ZbouZSay34l
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=RlWwivHPTHM
+    from_playlist:
+    - https://open.spotify.com/playlist/0g3LUsF2I7jbUNuCugqm2O
   - artist: Eben
     track_name: Ar vretonez vihan (Kost ar c'hoad)
     links:
@@ -135,6 +201,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=jk9kRpuUNuw
     from_playlist:
+    - https://open.spotify.com/playlist/0g3LUsF2I7jbUNuCugqm2O
     - https://open.spotify.com/playlist/1tCvBl3LHJOn4maksaUXBx
   - artist: Esquisse
     track_name: Chouette ton costar - Kost ar c'hoat
@@ -162,6 +229,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=UzVeysuGHu4
     from_playlist:
+    - https://open.spotify.com/playlist/0g3LUsF2I7jbUNuCugqm2O
     - https://open.spotify.com/playlist/1tCvBl3LHJOn4maksaUXBx
     - https://open.spotify.com/playlist/2yMyRimR4t8Jx6zUl60dOI
   - artist: Hamon Martin Quintet
@@ -172,7 +240,17 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=ufaVgL9OCVw
     from_playlist:
+    - https://open.spotify.com/playlist/0g3LUsF2I7jbUNuCugqm2O
     - https://open.spotify.com/playlist/2yMyRimR4t8Jx6zUl60dOI
+  - artist: Le Quintet à Claques
+    track_name: Poivre aisselles
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2WLKlFqO64YmIFgiXNbO2h
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=yFD3AlPZLc8
+    from_playlist:
+    - https://open.spotify.com/playlist/0g3LUsF2I7jbUNuCugqm2O
   - artist: Le bal de l'éphémère
     track_name: Kostar Chouette
     links:
@@ -183,6 +261,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/2yMyRimR4t8Jx6zUl60dOI
     no_youtube_link: true #Verified
+  - artist: Les Galvodeux
+    track_name: Kost ar c'hoat
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/55VelD6KYJiSVWfY6NB5pt
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=XVS3aIIiF6k
+    from_playlist:
+    - https://open.spotify.com/playlist/0g3LUsF2I7jbUNuCugqm2O
   - artist: Modkozmik
     track_name: D'an eur a hanternoz (Koste 'r hoed)
     links:
@@ -211,6 +298,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/2yMyRimR4t8Jx6zUl60dOI
   - artist: Sterne
+    track_name: Kost ar C'hoat
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3hZk11mTTR1OyYFCgJWmOr
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=P28UkRduNXM
+    from_playlist:
+    - https://open.spotify.com/playlist/0g3LUsF2I7jbUNuCugqm2O
+  - artist: Sterne
     track_name: Kost ar c'hoat
     links:
     - portal: Spotify
@@ -236,6 +332,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=TJrHtKnif3A
     from_playlist:
+    - https://open.spotify.com/playlist/0g3LUsF2I7jbUNuCugqm2O
     - https://open.spotify.com/playlist/1tCvBl3LHJOn4maksaUXBx
   - artist: Wouter en De Draak
     track_name: Costa Gwad

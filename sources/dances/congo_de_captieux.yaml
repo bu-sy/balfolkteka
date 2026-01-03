@@ -8,6 +8,15 @@ links:
   - link: https://open.spotify.com/playlist/7JemKuXU0WIwnqM5AKd30F
   - link: https://open.spotify.com/playlist/0ySs2tQ7JMqsOUZgqL8nmH
   tracks:
+  - artist: Airboxes
+    track_name: Öblarn - Dürnstein Castle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0Weh3dQjIYEQbESfpxL5Gw
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=t4bW5em3Zt4
+    from_playlist:
+    - https://open.spotify.com/playlist/0ySs2tQ7JMqsOUZgqL8nmH
   - artist: Arnaud Bibonne, Camille Raibaud
     track_name: Suite de congos d'après Marcel Lagardere
     links:
@@ -34,6 +43,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=Rhf-BfRGURE
     from_playlist:
+    - https://open.spotify.com/playlist/0ySs2tQ7JMqsOUZgqL8nmH
     - https://open.spotify.com/playlist/7JemKuXU0WIwnqM5AKd30F
   - artist: Bernard Desblancs, Jeanty Benquet
     track_name: Suite de congos
@@ -43,6 +53,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=tD0KS60TY8o
     from_playlist:
+    - https://open.spotify.com/playlist/0ySs2tQ7JMqsOUZgqL8nmH
     - https://open.spotify.com/playlist/3F1mXUA2KN8A3oDHlwu6lG
   - artist: Cadène, Camille Raibaud, Julien Barbances, Sylvain Quéré, Tiennet Simonnin, Tradethik Productions
     track_name: Congo des caumonts - Congo des fedies
@@ -63,6 +74,15 @@ links:
       link: https://www.youtube.com/watch?v=Nd8LS13KbOQ
     from_playlist:
     - https://open.spotify.com/playlist/7JemKuXU0WIwnqM5AKd30F
+  - artist: Castanha é Vinovèl
+    track_name: Séguida de congos - Congo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4nQ5GVsC7G4ydXEfomE3Lg
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=gcF3J1G8aHI
+    from_playlist:
+    - https://open.spotify.com/playlist/0ySs2tQ7JMqsOUZgqL8nmH
   - artist: Faburden
     track_name: Les bohas d'Uzeste / Congo du 49.3
     links:
@@ -72,6 +92,15 @@ links:
       link: https://www.youtube.com/watch?v=6yANm4cFRe4
     from_playlist:
     - https://open.spotify.com/playlist/3F1mXUA2KN8A3oDHlwu6lG
+  - artist: La Forcelle
+    track_name: Suite de Congos
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/588Ig1kQsnhetD4chx5qrc
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Xwhj9RpYlV8
+    from_playlist:
+    - https://open.spotify.com/playlist/0ySs2tQ7JMqsOUZgqL8nmH
   - artist: Laüsa
     track_name: Congo
     links:
@@ -80,6 +109,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=1U7IW8oblYc
     from_playlist:
+    - https://open.spotify.com/playlist/0ySs2tQ7JMqsOUZgqL8nmH
     - https://open.spotify.com/playlist/3F1mXUA2KN8A3oDHlwu6lG
   - artist: Le Bal Brotto Lopez
     track_name: Suite de congos
@@ -89,6 +119,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=9aC_wmqfHpw
     from_playlist:
+    - https://open.spotify.com/playlist/0ySs2tQ7JMqsOUZgqL8nmH
     - https://open.spotify.com/playlist/3F1mXUA2KN8A3oDHlwu6lG
     - https://open.spotify.com/playlist/7JemKuXU0WIwnqM5AKd30F
   - artist: Lorenzo Monguzzi, LyraDanz, Matteo Luraghi
@@ -99,6 +130,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=ZSkzFmq6A2o
     from_playlist:
+    - https://open.spotify.com/playlist/0ySs2tQ7JMqsOUZgqL8nmH
     - https://open.spotify.com/playlist/3F1mXUA2KN8A3oDHlwu6lG
   - artist: Man Encantada
     track_name: Au Sabat'squi A Nau Filhas
@@ -130,6 +162,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/3F1mXUA2KN8A3oDHlwu6lG
     - https://open.spotify.com/playlist/7JemKuXU0WIwnqM5AKd30F
+  - artist: Solune duo
+    track_name: Lou curcuchou - Congo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1ePNRdD6Z4T1Ik4X0zfmXK
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=fqGSrBvd4XQ
+    from_playlist:
+    - https://open.spotify.com/playlist/0ySs2tQ7JMqsOUZgqL8nmH
   - artist: Trencadit
     track_name: Congò de M. Lagardère
     links:

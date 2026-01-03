@@ -42,6 +42,7 @@ links:
       link: https://www.youtube.com/watch?v=A-HqEgvwDEg
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+    - https://open.spotify.com/playlist/7BOeaxu0flSfAaA7jETqw9
   - artist: BAROK, Ronan Pellen
     track_name: Les pies se pavanent (Rond de Saint-Vincent)
     links:
@@ -51,6 +52,7 @@ links:
       link: https://www.youtube.com/watch?v=0M4TTknulgQ
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+    - https://open.spotify.com/playlist/7BOeaxu0flSfAaA7jETqw9
   - artist: Bagad de Vannes
     track_name: Rond de Saint-Vincent
     links:
@@ -70,6 +72,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/3Jrp8mpVQZusdrG98oSCSO
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+    - https://open.spotify.com/playlist/7BOeaxu0flSfAaA7jETqw9
   - artist: Carré Manchot
     track_name: Rond de Saint-Vincent
     links:
@@ -82,6 +85,16 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/3Jrp8mpVQZusdrG98oSCSO
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+    - https://open.spotify.com/playlist/7BOeaxu0flSfAaA7jETqw9
+  - artist: Carré Manchot
+    track_name: Rond de St Vincent
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5zca9dmLIqIib5QbPZXuDQ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=BhxSnKw0TM4
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOeaxu0flSfAaA7jETqw9
   - artist: Carré Manchot
     track_name: Ronds de Saint Vincent
     links:
@@ -92,6 +105,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
     - https://open.spotify.com/playlist/3Jrp8mpVQZusdrG98oSCSO
+    - https://open.spotify.com/playlist/7BOeaxu0flSfAaA7jETqw9
   - artist: Dr. Ka
     track_name: Ronde de St. Vincent
     links:
@@ -101,6 +115,7 @@ links:
       link: https://www.youtube.com/watch?v=YfXf3SJT2Tw
     from_playlist:
     - https://open.spotify.com/playlist/3Jrp8mpVQZusdrG98oSCSO
+    - https://open.spotify.com/playlist/7BOeaxu0flSfAaA7jETqw9
   - artist: Duo Absynthe
     track_name: Azilia
     links:
@@ -110,6 +125,24 @@ links:
       link: https://www.youtube.com/watch?v=GPzZLGUAKHk
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  - artist: Duo Blain-Leyzour
+    track_name: Rond de Saint-Vincent
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2JUxsOGOYP53AegUxGm23W
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=EFDBjavG0b8
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOeaxu0flSfAaA7jETqw9
+  - artist: ERIS
+    track_name: C'était une jeune fille (Rond de Saint-Vincent)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/32g02C87abkOrQ3EX3VfUm
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=bTE8s3p753A
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOeaxu0flSfAaA7jETqw9
   - artist: Edgar Trio, Regis Huiban
     track_name: Le chant des lucioles (Rond de Saint-Vincent)
     links:
@@ -119,6 +152,15 @@ links:
       link: https://www.youtube.com/watch?v=RjD19I6q4NM
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+  - artist: Erwan Menguy, Erwan Moal, Florian Satche, Le Bour Bodros
+    track_name: 5 Rue Ty Koz - Rond De Saint Vincent
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1t70pYYtPwvbmE3gzUm0xx
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=W2Sl4A4zBcM
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOeaxu0flSfAaA7jETqw9
   - artist: Esquisse
     track_name: Une grosse faim - Rond saint vincent sur oust
     links:
@@ -135,8 +177,11 @@ links:
       link: https://open.spotify.com/track/6qGrB5K4dzEWqWVRy7kaCs
     - portal: YouTube
       link: https://www.youtube.com/watch?v=VEWNggd6ark
+    - portal: Spotify
+      link: https://open.spotify.com/track/5ULvNMYZIe6xogXslHi7ZD
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+    - https://open.spotify.com/playlist/7BOeaxu0flSfAaA7jETqw9
   - artist: Fleuves
     track_name: Rond de Saint-Vincent
     links:
@@ -175,6 +220,15 @@ links:
       link: https://www.youtube.com/watch?v=N8JSI5IhtI0
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+  - artist: Hamon Martin Quintet
+    track_name: Vingt-sept à la dizaine (Rond de Saint-Vincent)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3KhzTgfC5weHPNQOKN0cHA
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=7YO6qKgo3Os
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOeaxu0flSfAaA7jETqw9
   - artist: Hotel Palindrone
     track_name: Ronds de Saint-Vincent - Live Version
     links:
@@ -238,6 +292,7 @@ links:
       link: https://www.youtube.com/watch?v=Zi6RQowJJoI
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+    - https://open.spotify.com/playlist/7BOeaxu0flSfAaA7jETqw9
   - artist: Nostrad
     links:
     - link: https://www.youtube.com/watch?v=qLupCk9NEIQ
@@ -254,6 +309,7 @@ links:
       link: https://www.youtube.com/watch?v=_divdAgthSw
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+    - https://open.spotify.com/playlist/7BOeaxu0flSfAaA7jETqw9
   - artist: Plantec
     track_name: Sant uzin (Rond de Saint Vincent)
     links:
@@ -290,6 +346,16 @@ links:
       link: https://www.youtube.com/watch?v=7JazMPfG5SU
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+    - https://open.spotify.com/playlist/7BOeaxu0flSfAaA7jETqw9
+  - artist: Sterne
+    track_name: Rond de Saint-Vincent
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7wf4GV8LmmDDFlvBwUfLpB
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=7JazMPfG5SU
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOeaxu0flSfAaA7jETqw9
   - artist: Stevan Vincendeau, Thomas Felder
     track_name: Bouic - Ronds de Saint Vincent sur Oust
     links:
@@ -309,6 +375,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
     - https://open.spotify.com/playlist/3Jrp8mpVQZusdrG98oSCSO
+    - https://open.spotify.com/playlist/7BOeaxu0flSfAaA7jETqw9
   - artist: Wipidoup
     track_name: Mademoiselle Ficelle - Rond De Saint-Vincent
     blacklist: true #Unavailable on Spotify

@@ -2,7 +2,7 @@
 
 <hr>
 
-<h3>Vicki Swan & Jonny Dyer - <b>Driving Home Chapelloise</b> (Chapelloise)</h3>
+<h3>Vicki Swan & Jonny Dyer - <b>Driving Home Chapelloise</b> (Chapelloise, Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

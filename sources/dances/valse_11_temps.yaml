@@ -15,6 +15,14 @@ links:
   - link: https://open.spotify.com/playlist/2ZaR5jzwvQo3ZSPw8QsYfs
   - link: https://open.spotify.com/playlist/3Axsxp4dyH31cDiL9vjPkY
   tracks:
+  - artist: Andrea Capezzuoli E Compagnia
+    track_name: Teresa è Tornata a Cantare
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3BXXBSnZoJFuJiBWTONBI2
+    from_playlist:
+    - https://open.spotify.com/playlist/3Axsxp4dyH31cDiL9vjPkY
+    no_youtube_link: true
   - artist: Aurélien Claranbaux
     track_name: Les 11
     links:
@@ -22,6 +30,17 @@ links:
       link: https://open.spotify.com/track/3sTY7dlDuieXjPh8WauIHT
     - portal: YouTube
       link: https://www.youtube.com/watch?v=J_0hli2OrgA
+    from_playlist:
+    - https://open.spotify.com/playlist/3Axsxp4dyH31cDiL9vjPkY
+  - artist: Cecilia
+    track_name: Onze Ogen
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/03CJb658kxsOOqR1ByIbQr
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=U6KOntetwl4
+    from_playlist:
+    - https://open.spotify.com/playlist/3Axsxp4dyH31cDiL9vjPkY
   - artist: Dos
     track_name: Alma de Pícea (Vals a 11 Tiempos)
     links:
@@ -31,6 +50,16 @@ links:
       link: https://www.youtube.com/watch?v=7qAovpDCt20
     from_playlist:
     - https://open.spotify.com/playlist/2ZaR5jzwvQo3ZSPw8QsYfs
+    - https://open.spotify.com/playlist/3Axsxp4dyH31cDiL9vjPkY
+  - artist: Dr. Ka
+    track_name: Tabalou - 11er Walzer
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6sI3LVM3iAuzWsjbbjRPlX
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=RQTgeTzmrhE
+    from_playlist:
+    - https://open.spotify.com/playlist/3Axsxp4dyH31cDiL9vjPkY
   - artist: Eric Thézé, Samuel Thézé
     from_playlist:
     - https://open.spotify.com/playlist/7kW0sWDENcRgwqV1geUjym
@@ -40,8 +69,44 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=4qmyuIoY-qQ
     track_name: Knicklicht
+  - artist: Estbel
+    track_name: Peterburi
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5qoTNOdRGDdugtKCeZ7xzh
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=7xtinZ9p4VQ
+    from_playlist:
+    - https://open.spotify.com/playlist/3Axsxp4dyH31cDiL9vjPkY
+  - artist: Le bal de l'éphémère
+    track_name: L'éperdue (Valse à 11 temps)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/639s66Akflu2VHwpAx4gpk
+    from_playlist:
+    - https://open.spotify.com/playlist/3Axsxp4dyH31cDiL9vjPkY
+    no_youtube_link: true
+  - artist: Orfeo
+    track_name: 11 Fantasy (Waltz in 11 Times)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2ijHTUfbP8J5gWT4x74BMF
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Ru6RUgJphvo
+    from_playlist:
+    - https://open.spotify.com/playlist/3Axsxp4dyH31cDiL9vjPkY
+  - artist: T/Aboret
+    track_name: Mak
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2X9OotwMCJDA66cgckRxOL
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=STDWwVqRIzA
+    from_playlist:
+    - https://open.spotify.com/playlist/3Axsxp4dyH31cDiL9vjPkY
   - artist: Trio Loubelya
     from_playlist:
+    - https://open.spotify.com/playlist/3Axsxp4dyH31cDiL9vjPkY
     - https://open.spotify.com/playlist/7kW0sWDENcRgwqV1geUjym
     links:
     - link: https://open.spotify.com/track/5CSzPeK5nQhwdRpt02f0Yt
@@ -51,6 +116,7 @@ links:
     track_name: Vals'Constant
   - artist: Wouter en De Draak
     from_playlist:
+    - https://open.spotify.com/playlist/3Axsxp4dyH31cDiL9vjPkY
     - https://open.spotify.com/playlist/7kW0sWDENcRgwqV1geUjym
     links:
     - link: https://open.spotify.com/track/2hLEYIziamOpMzwiSk5P8P

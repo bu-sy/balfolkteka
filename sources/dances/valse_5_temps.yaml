@@ -22,6 +22,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=2kccDtj8Mpo
     from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Alexis Chauvelier, Le Bal en Chantier
     track_name: Montagne Sainte Lucile
@@ -31,7 +32,80 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=-o99sAaN9m4
     from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
+  - artist: Ambrozijn
+    track_name: Voktijn
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/40SnumiYFRaXliTSKwrNS1
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=XrxmuXLmMYQ
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Andoorn
+    track_name: De Winterzon (Wals in Vijf)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4q1oNhuX0ZdM5PyM9kn6by
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=qjZsw6u47yU
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Andoorn
+    track_name: Ver Weg (wals in vijf)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6iEJ7VIJMOowdpjpJopXkR
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=x8aZsr-7Nk4
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Arbadétorne
+    track_name: Valse à 5 temps mes bons amis
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7v4C1OCfeI2sciCnWMMCWP
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=XXjSK_N0_EA
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Arcandela
+    track_name: Waltz on Five (waltz)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1JMEeMJt0ktLNMoJFBaUTn
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Bn-mzlvuWvE
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Bal O'Gadjo
+    track_name: Benga Faniko Na
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2wlu7xtHmm7RCU5FzRBLIW
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=NdaAR9M-62Y
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Bal O'Gadjo
+    track_name: Compostella
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5O6JyqYCgjJIFSHkP7gAUG
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=vZARTCmAnD4
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Bal O'Gadjo
+    track_name: Le poids de la terre
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0cjskmbw2mjFHt9jqvcKJP
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Uct8DGeOinE
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
   - artist: Bal O'Gadjo
     track_name: Valse toi même
     links:
@@ -40,7 +114,25 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=841EBWlcn28
     from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Ballsy Swing
+    track_name: Crabe de cristal
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0es0BW2hwpBMx03GjmOKAF
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=MWzEqLqYqSM
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Baltazar Montanaro, Sophie Cavez
+    track_name: Torgnoles en cinq
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1HHUhoGWL5dKm5uZ95RBaB
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+    no_youtube_link: true
   - artist: Beat Bouet Trio
     track_name: Itinéraires
     links:
@@ -51,6 +143,24 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
     no_youtube_link: true #Verified
+  - artist: Brian Crain
+    track_name: Wind
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4PKwJdzbDk0tcXc9IIagka
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=OUyOCOu1d44
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Broes
+    track_name: Flora
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6e7ChvpJpzr0L2ipWvSgLY
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=N0zd_D_Sp2c
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
   - artist: Bruno Le Tron, Franck Fagon, Laurent Cabané, Olivier Le Gallo
     track_name: Mirabelle
     links:
@@ -59,6 +169,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=U3EuI1eCX0M
     from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Bruno Le Tron, François Heim
     track_name: Bréhattitude
@@ -68,6 +179,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=K6TtEDTncuc
     from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
   - artist: Cardboard Cabin
     track_name: Epipentisme
@@ -104,7 +216,17 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=71i2eNeQZrY
     from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
+  - artist: Dr. Ka
+    track_name: 007 - Schottisch, 5er Walzer
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5fTpFA6c5dUV08jjxJYTGh
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=PcckxOEPCzA
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
   - artist: Dr. Ka
     track_name: Möwe - 5er Walzer
     links:
@@ -114,6 +236,16 @@ links:
       link: https://www.youtube.com/watch?v=SdVgBUiRxAo
     from_playlist:
     - https://open.spotify.com/playlist/0IR30VEjD5oPb5XDcpJGP7
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Duo Abbas Thézé
+    track_name: Maura
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6iPDCbGIBvVa38syCtQJ3X
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=NgfWxnNTQYU
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
   - artist: Duo Absynthe
     track_name: Evening Glory
     links:
@@ -122,6 +254,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=FAHwc5_uk0k
     from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Duo Absynthe
@@ -133,6 +266,23 @@ links:
       link: https://www.youtube.com/watch?v=UTnMfdbMEm0
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Duo Anthracite
+    track_name: La Valse Déboîtante (Valse 5 tps)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/21HXR90tTdJKT4vz6U7Nym
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=qYA_zVhqLG8
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Duo Gestrikt
+    track_name: Wals Rond De Paal
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1EB393DEh29FFU0zPmcOLs
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+    no_youtube_link: true
   - artist: Duo Massarelli
     track_name: Mimà
     links:
@@ -141,7 +291,26 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=BDhPsA0_plk
     from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Entre Deux
+    track_name: Marla
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/231PkqM4pS0cSaJR3XH8ws
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=-wl8gV9Tb8s
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Eostiged Ar Stangala
+    track_name: Moteur 5 temps
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5ILa3t85fZWGZ2aPytJk2j
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Mb9DFWKHkXE
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
   - artist: Eric Thézé, Samuel Thézé
     track_name: La Motte en Provence
     links:
@@ -151,6 +320,24 @@ links:
       link: https://www.youtube.com/watch?v=jQJLMaIJqCQ
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Eric Thézé, Samuel Thézé
+    track_name: Veny valse
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1yLaJgWESsZSDwrTzz7j5a
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=stNRDyaEyc0
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Ezio Bosso
+    track_name: Rain, in Your Black Eyes
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5Xf8gE5CdRnWfkFpm5RUgR
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=vkiVWpf_tW4
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
   - artist: Femme Folk
     track_name: Viola
     links:
@@ -160,6 +347,24 @@ links:
       link: https://www.youtube.com/watch?v=RbyU2EGxe1A
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
+  - artist: Flavia Escartin, Hartwin, Pavel Souvandjiev
+    track_name: Eagle Feather
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3lqeSiUwarhA0LdXBVrZoA
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Ctjjh-O-fug
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Gonnagles
+    track_name: Walsje voor Dennis
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6WDUP74A6ao0pk93LMxv2L
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=R_KCLDyBCSE
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
   - artist: Hot Griselda
     track_name: Dorpeldanske
     links:
@@ -178,6 +383,15 @@ links:
       link: https://www.youtube.com/watch?v=rBfDmNgxPmk
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
+  - artist: Karamaus
+    track_name: Red Yarn
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7b8wOSFaT80tGPXFun8AhW
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=a-GSpKHrwxo
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
   - artist: Kitus
     track_name: Les mouettes
     links:
@@ -186,6 +400,24 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
     no_youtube_link: true #Verified
+  - artist: Kv Express
+    track_name: Rose
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5Su0h3T2eNGDuOJykSc73l
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=k03o15yz8Ik
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: La Bottines Artistiques
+    track_name: Tuur
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4W54RipALRXHqtN3hChZzW
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=1b7FEIfX_oc
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
   - artist: La Machine
     track_name: Valse Éthiopique
     links:
@@ -213,6 +445,40 @@ links:
       link: https://www.youtube.com/watch?v=YC6yo7RxK4w
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
+  - artist: Le bal de l'éphémère
+    track_name: Cinéplume (Valse à 5 temps)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4U4lZURYH0SN15FEYSnESN
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+    no_youtube_link: true
+  - artist: Le bal de l'éphémère
+    track_name: Entre 2 trèfles (Valse à 5 temps)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1VrUtoXvofy6Mq7j3MnHsH
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+    no_youtube_link: true
+  - artist: Leana & Hartwin
+    track_name: Kotkasulg - Eagle feather
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4ddKk26BJzqZNV7h8FkIma
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=tJjUel1e5fA
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Les Folkeux de Pie
+    track_name: Rencontre du 5° temps - Valse 5 temps
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/52PJrGlfMLz0YRFbPKlLha
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=anoQPo2GaJE
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
   - artist: Les Zéoles
     track_name: Dans un bouton (Valse à 5 temps)
     links:
@@ -222,8 +488,54 @@ links:
       link: https://www.youtube.com/watch?v=gMONZbAExeg
     from_playlist:
     - https://open.spotify.com/playlist/0hnXz6KqlM4B9yph9dwwUj
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Lirio
+    track_name: Blauwbaardwals
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3obKCw8TgkyunXRfYySHvm
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=u3wVgHnOGVA
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Lirio
+    track_name: NS-wals
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3xwNF9I8LGRs3LLvNFupdp
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=5ysaLQ_q1KI
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Mister Klof
+    track_name: The Buckfast 5
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0GlFIldmlDgVCtZq5ilAxL
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Ppkon7TnGl8
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Monsieur Fruits
+    track_name: Fleur sauvage
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2S11KczlH0RVSDhLBc3L8r
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=DW_RNqMH3dw
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Monsieur Fruits
+    track_name: L'instant présent
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7uJ3qDCWBPVI1Tjb6rU05D
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=kxKFgO0GRiw
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
   - artist: Monsieur Fruits
     track_name: Living Stone in Yellowstone
     links:
@@ -232,7 +544,17 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=v86tco1a_90
     from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Monsieur Fruits
+    track_name: Mes Excuses
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6myj74XXC7j5VebRBbPLcw
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=XcrXkOYsdpo
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
   - artist: NIJ
     track_name: Ersa - Valse À 5 Temps
     links:
@@ -249,7 +571,10 @@ links:
       link: https://open.spotify.com/track/10flVGe7gADPt8ZXxIXJb2
     - portal: YouTube
       link: https://www.youtube.com/watch?v=2X7WOYVKP4c
+    - portal: Spotify
+      link: https://open.spotify.com/track/5TIxJq2HtylubjGrgz5oMl
     from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Naragonia
     track_name: Sahzi - Live
@@ -260,6 +585,33 @@ links:
       link: https://www.youtube.com/watch?v=VZ2etjtpSTk
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
+  - artist: Nubia
+    track_name: De Herfstvluchteling
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0TmietbyhKfVJ1tYaIb6IQ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=cLh-xeqEaRc
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Nubia
+    track_name: Het Schilderij
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1jUq7bWngWCPdfFLuJmL21
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=EaV9aS3Al8g
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Ormuz
+    track_name: Je m'en fus trouver ma maîtresse
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3g6MgqS47drBq95SEdy7la
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=u9ZMqvRtVNI
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
   - artist: Oîma
     track_name: Xirar Hei!
     links:
@@ -278,6 +630,14 @@ links:
       link: https://www.youtube.com/watch?v=OTZDPS0dOwE
     from_playlist:
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
+  - artist: Peut-être Jeanne
+    track_name: La chute
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/768WQEcJ3mCvSTNdBsHenC
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+    no_youtube_link: true
   - artist: Rémi Geffroy
     track_name: Elle
     links:
@@ -287,9 +647,20 @@ links:
       link: https://open.spotify.com/track/1YxJNZS6jW41wX98vCut8J
     - portal: YouTube
       link: https://www.youtube.com/watch?v=8ouJERpc40M
+    - portal: Spotify
+      link: https://open.spotify.com/track/4iPk9QO1dDlqLJzEmml5xo
     from_playlist:
     - https://open.spotify.com/playlist/0hnXz6KqlM4B9yph9dwwUj
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Rémi Geffroy
+    track_name: Une Goutte D'eau Dans Le Brasier
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/14BmOUSi9qSN9L08jZTRZp
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+    no_youtube_link: true
   - artist: Sous les quais
     track_name: Valse à 5 temps
     links:
@@ -299,6 +670,7 @@ links:
       link: https://www.youtube.com/watch?v=-z7t8fPXctM
     from_playlist:
     - https://open.spotify.com/playlist/0hnXz6KqlM4B9yph9dwwUj
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
   - artist: Tralala Lovers
     track_name: Les jours de grandes marées
     links:
@@ -315,7 +687,10 @@ links:
       link: https://open.spotify.com/track/3dOpSWwpmB9zy0ff2dYbdh
     - portal: YouTube
       link: https://www.youtube.com/watch?v=1Bh1ulD_IEM
+    - portal: Spotify
+      link: https://open.spotify.com/track/5kJdocVMPpUbJijaS0RYwW
     from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Trio Loubelya
     track_name: Cinco tempoush
@@ -325,6 +700,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=2pmXei-u3D4
     from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
   - artist: Trio Loubelya
     track_name: Piclune ( valse à 5 temps )
@@ -344,7 +720,17 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=mq0mZb-WDQE
     from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
+  - artist: Wouter en De Draak
+    track_name: Vliegende Graafmachine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0rGwrhQivenquKL5fYlcjV
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Dw1BEBcZi0o
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
   - artist: Wouter en De Draak
     track_name: Vliegende graafmachine
     links:
@@ -354,3 +740,20 @@ links:
       link: https://www.youtube.com/watch?v=Dw1BEBcZi0o
     from_playlist:
     - https://open.spotify.com/playlist/4E6G7EReNrr2UA6RRGs4M6
+  - artist: Zlabya
+    track_name: Harmonikka Tuuli - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6fASQcZsIJXUaw1BcVF4rC
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=8suz5k0c0q4
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+  - artist: Šakar Makar
+    track_name: Penki po Tiltu
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2nXYNRptdQgndxnjLoY3nz
+    from_playlist:
+    - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
+    no_youtube_link: true

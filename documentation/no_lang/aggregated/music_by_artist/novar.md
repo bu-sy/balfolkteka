@@ -58,7 +58,7 @@
 
 <hr>
 
-<h3>Novar - <b>Mathijs In Den Aldi</b> (Chapelloise)</h3>
+<h3>Novar - <b>Mathijs In Den Aldi</b> (Chapelloise, Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

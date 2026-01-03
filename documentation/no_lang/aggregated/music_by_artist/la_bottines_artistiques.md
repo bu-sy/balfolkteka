@@ -1,4 +1,4 @@
-# La Bottines Artistiques (5)
+# La Bottines Artistiques (8)
 
 <hr>
 
@@ -44,6 +44,15 @@
 
 <hr>
 
+<h3>La Bottines Artistiques - <b>Kopke Koffie</b> (Cercle Circassien)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3F1c1pVMwsm4V8L0PjGoYq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>La Bottines Artistiques - <b>LBA</b> (Bourrée 2 temps)</h3>
 
 <details>
@@ -58,14 +67,32 @@
 
 <hr>
 
-<h3>La Bottines Artistiques - <b>Zieke Kiek</b> (Cercle Circassien)</h3>
+<h3>La Bottines Artistiques - <b>Lost in Italy</b> (Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7KgmMgPtXu85w5fZi1DK1D?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5uFEZ7MlzM2IvaZOfZFvoh?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>La Bottines Artistiques - <b>Tuur</b> (Valse 5 temps)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4W54RipALRXHqtN3hChZzW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <details>
 <summary><big>YouTube</big></summary>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/LNOUZGqFopY?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/1b7FEIfX_oc?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>La Bottines Artistiques - <b>Zieke Kiek</b> (Cercle Circassien, Scottish)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7KgmMgPtXu85w5fZi1DK1D?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>

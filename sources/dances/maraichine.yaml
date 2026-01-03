@@ -30,6 +30,7 @@ links:
       link: https://www.youtube.com/watch?v=ty_74UQmLWE
     from_playlist:
     - https://open.spotify.com/playlist/0RetIIIsTDwh2I1DLzRnAT
+    - https://open.spotify.com/playlist/6mtTR46QK4LwZ6zUSCk70O
   - artist: Arbadétorne
     track_name: Sur le coffre (Maraîchines)
     links:
@@ -40,6 +41,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/0RetIIIsTDwh2I1DLzRnAT
     - https://open.spotify.com/playlist/50ztJARsYERh5bN24BaQhM
+    - https://open.spotify.com/playlist/6mtTR46QK4LwZ6zUSCk70O
   - artist: Ciac Boum
     track_name: Suite de maraichines
     links:
@@ -49,6 +51,7 @@ links:
       link: https://www.youtube.com/watch?v=-pTp2MvyeB8
     from_playlist:
     - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
+    - https://open.spotify.com/playlist/6mtTR46QK4LwZ6zUSCk70O
   - artist: Ciac Boum, François Robin
     track_name: Maraîchines
     links:
@@ -59,6 +62,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/0RetIIIsTDwh2I1DLzRnAT
     - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
+    - https://open.spotify.com/playlist/6mtTR46QK4LwZ6zUSCk70O
   - artist: David Morand, Erwann Tobie, Florian Kernéis, Laurent Hilairet
     track_name: MacMogette - Maraichine
     links:
@@ -80,6 +84,7 @@ links:
       link: https://www.youtube.com/watch?v=e9-fk2Me7j8
     from_playlist:
     - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
+    - https://open.spotify.com/playlist/6mtTR46QK4LwZ6zUSCk70O
   - artist: Duo Blain-Leyzour
     track_name: Maraîchine
     links:
@@ -98,6 +103,15 @@ links:
       link: https://www.youtube.com/watch?v=RaEXjVe2BfE
     from_playlist:
     - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
+  - artist: Duo Pennec Bertrand
+    track_name: Maraîchines
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1xyI0p0zbmYuCopcCjtSVp
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Vjc8FxcbRyo
+    from_playlist:
+    - https://open.spotify.com/playlist/6mtTR46QK4LwZ6zUSCk70O
   - artist: Esquisse
     track_name: Hopopup - Maraîchine
     links:
@@ -117,6 +131,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
     - https://open.spotify.com/playlist/6ULURD94hBNJogf7oByGGB
+    - https://open.spotify.com/playlist/6mtTR46QK4LwZ6zUSCk70O
   - artist: La Sauterelle
     track_name: Battements
     links:
@@ -167,6 +182,7 @@ links:
     - https://open.spotify.com/playlist/50ztJARsYERh5bN24BaQhM
     - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
     - https://open.spotify.com/playlist/6ULURD94hBNJogf7oByGGB
+    - https://open.spotify.com/playlist/6mtTR46QK4LwZ6zUSCk70O
   - artist: Planchée
     track_name: Club IIB (maraîchine)
     links:
@@ -186,6 +202,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/0RetIIIsTDwh2I1DLzRnAT
     - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
+    - https://open.spotify.com/playlist/6mtTR46QK4LwZ6zUSCk70O
   - artist: Stevan Vincendeau, Willy Pichard
     track_name: Les brumes (maraîchine)
     links:
@@ -195,6 +212,7 @@ links:
       link: https://www.youtube.com/watch?v=5pbdv0WlQfg
     from_playlist:
     - https://open.spotify.com/playlist/0RetIIIsTDwh2I1DLzRnAT
+    - https://open.spotify.com/playlist/6mtTR46QK4LwZ6zUSCk70O
   - artist: The Zydepunks
     track_name: La Maraichine
     links:

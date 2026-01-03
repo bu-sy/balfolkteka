@@ -1,4 +1,13 @@
-# Le bal de l'éphémère (10)
+# Le bal de l'éphémère (18)
+
+<hr>
+
+<h3>Le bal de l'éphémère - <b>ABCD'Elle</b> (Mazurka 11 temps)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0fEmMlBhaScUpsoHdgsoN1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
 
 <hr>
 
@@ -12,6 +21,15 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6HoPEtStK3Cn4FaOMABLr4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Le bal de l'éphémère - <b>Cinéplume (Valse à 5 temps)</b> (Valse 5 temps)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4U4lZURYH0SN15FEYSnESN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -30,6 +48,24 @@
 
 <hr>
 
+<h3>Le bal de l'éphémère - <b>Entre 2 trèfles (Valse à 5 temps)</b> (Valse 5 temps)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1VrUtoXvofy6Mq7j3MnHsH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Le bal de l'éphémère - <b>Fil de lune</b> (Mazurka)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1xcFvMtrUwD8w2UJYu90D1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Le bal de l'éphémère - <b>Kostar Chouette</b> (Kost ar c'hoad)</h3>
 
 <details>
@@ -44,7 +80,7 @@
 
 <hr>
 
-<h3>Le bal de l'éphémère - <b>L'élan</b> (Bourrée 2 temps)</h3>
+<h3>Le bal de l'éphémère - <b>L'élan</b> (Bourrée 2 temps, Scottish)</h3>
 
 <details>
 <summary><big>Soundcloud</big></summary>
@@ -54,6 +90,15 @@
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5GJCD4Jt4DMHt7t1cVqMaB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Le bal de l'éphémère - <b>L'éperdue (Valse à 11 temps)</b> (Valse 11 temps)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/639s66Akflu2VHwpAx4gpk?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -72,7 +117,7 @@
 
 <hr>
 
-<h3>Le bal de l'éphémère - <b>Le nouvel ordre est là (Chapeloise)</b> (Chapelloise)</h3>
+<h3>Le bal de l'éphémère - <b>Le nouvel ordre est là (Chapeloise)</b> (Chapelloise, Scottish)</h3>
 
 <details>
 <summary><big>Soundcloud</big></summary>
@@ -86,7 +131,7 @@
 
 <hr>
 
-<h3>Le bal de l'éphémère - <b>Les intermittents</b> (Chapelloise)</h3>
+<h3>Le bal de l'éphémère - <b>Les intermittents</b> (Chapelloise, Scottish)</h3>
 
 <details>
 <summary><big>Bandcamp</big></summary>
@@ -101,6 +146,38 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/BsbA3BgOrjk?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Le bal de l'éphémère - <b>Levons la voile</b> (Scottish)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6ogdpPqf2hDibZabjiuqMD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Le bal de l'éphémère - <b>Loïtsu</b> (Polska (rund polska))</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3N1DhSKJwC5KwMwjDNfmo3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/m2Ij2yF-g2M?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Le bal de l'éphémère - <b>Néebulle (Mazurka)</b> (Mazurka)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2b6A3nFzYgH9PHYeusYg2T?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>

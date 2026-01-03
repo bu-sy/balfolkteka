@@ -44,7 +44,7 @@
 
 <hr>
 
-<h3>La Mesquia - <b>Revolucion - Chapelloise</b> (Chapelloise)</h3>
+<h3>La Mesquia - <b>Revolucion - Chapelloise</b> (Chapelloise, Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

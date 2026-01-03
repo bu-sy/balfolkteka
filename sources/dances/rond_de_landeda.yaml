@@ -19,6 +19,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=jRoLBJqyvwE
     from_playlist:
+    - https://open.spotify.com/playlist/2yf7wYQUAzMN3s3kuhfn5L
     - https://open.spotify.com/playlist/5dpO1DxrArXEX41LwHtcCf
   - artist: Eben
     track_name: Son an ibil gwer (Rond Landeda)
@@ -45,7 +46,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/229Us9TuzrSL48nqmv2MOE
+    - portal: Spotify
+      link: https://open.spotify.com/track/2WmOyY98N1Rp4TVeig4uSU
     from_playlist:
+    - https://open.spotify.com/playlist/2yf7wYQUAzMN3s3kuhfn5L
     - https://open.spotify.com/playlist/5dpO1DxrArXEX41LwHtcCf
     no_youtube_link: true #Verified
   - artist: Nostrad
@@ -55,6 +59,17 @@ links:
     - link: https://open.spotify.com/track/5sMNYHsc0rlyQ0DiKHTZdr
       portal: Spotify
     track_name: Rond de Landéda - Live
+    from_playlist:
+    - https://open.spotify.com/playlist/2yf7wYQUAzMN3s3kuhfn5L
+  - artist: Pevar Den
+    track_name: Rond de Landeda
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4VaVt27hNZgh8rl8FRBFdv
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=IKBRBl54O1k
+    from_playlist:
+    - https://open.spotify.com/playlist/2yf7wYQUAzMN3s3kuhfn5L
   - artist: Plantec
     track_name: Skorn - Rond de landéda
     links:
@@ -72,4 +87,5 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=G8HSUIPE-RM
     from_playlist:
+    - https://open.spotify.com/playlist/2yf7wYQUAzMN3s3kuhfn5L
     - https://open.spotify.com/playlist/5dpO1DxrArXEX41LwHtcCf

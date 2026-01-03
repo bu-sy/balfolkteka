@@ -16,7 +16,7 @@
 
 <hr>
 
-<h3>Duo Brotto Milleret - <b>Le mistigri / Lentille verveine</b> (Bourrée 3 temps)</h3>
+<h3>Duo Brotto Milleret - <b>Le mistigri / Lentille verveine</b> (Bourrée 3 temps, Cercle Circassien)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -44,7 +44,7 @@
 
 <hr>
 
-<h3>Duo Brotto Milleret - <b>Sur les quais / La presqu'ile / Au coin de la rue</b> (Bourrée 2 temps)</h3>
+<h3>Duo Brotto Milleret - <b>Sur les quais / La presqu'ile / Au coin de la rue</b> (Bourrée 2 temps, Rondeau en couple)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

@@ -3,4 +3,167 @@ name: Avant Deux
 links:
   # examples: TODO
   playlists:
-    - link: https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - link: https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  tracks:
+  - artist: Arbadétorne
+    track_name: Avant-Deux aux quatre coins
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3xM5AtGpDcp5VfA468JXm4
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=qlIov_cDWpE
+    from_playlist:
+    - https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - artist: Arbadétorne
+    track_name: Avant-deux
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7oZOQ5UtlajAHLqDVL7N7k
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=p8bBq7NY2mo
+    from_playlist:
+    - https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - artist: Beat Bouet Trio
+    track_name: Barnabé (Avant-Deux Nord Ille-et-Vilaine)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5Buf0C2ajHtTeXrYpSnDvE
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=HIDg3iJzutI
+    from_playlist:
+    - https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - artist: Carré Manchot
+    track_name: Avant-deux de travers
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0EqpcYzEF4oyePZrYcgyKT
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=DVuLCR5X2a8
+    from_playlist:
+    - https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - artist: Duo Blain-Leyzour
+    track_name: Avant-Deux de travers
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5tbMTIP4Csb73LQsF0bmQh
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=LsfqSJINNyY
+    from_playlist:
+    - https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - artist: Duo Blain-Leyzour
+    track_name: Travers collection (Avant-Deux de travers)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5hnuXwwsIXeTzhSPLzbr9J
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=tYhsHtr3nDk
+    from_playlist:
+    - https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - artist: Fahrenheit
+    track_name: Les drones (avant-deux de Bazouges)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0iCJUJy3zQC3C59AEZMCdl
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=AVAk8oSnRaM
+    from_playlist:
+    - https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - artist: La Mézanj
+    track_name: Veiçi les ânes
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1nLLQ2vgNincs71hIaiSG7
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Kjb3en4ydU0
+    from_playlist:
+    - https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - artist: Les Folkeux de Pie
+    track_name: Avant deux du forgeron
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4jrlEoVnrqAfHFSc9QNn1O
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=-Mmj9PM4msM
+    from_playlist:
+    - https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - artist: Marthe Tourret, Planchée
+    track_name: Les Petits Oignons (avant-deux de long)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3A7KF1mhQdgDM2eJipbd2v
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=xaILCTX57BE
+    from_playlist:
+    - https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - artist: NOU
+    track_name: Avant deux
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/15Y9bPYhFvG1Xhrk51twrT
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=9zbScEUeJzo
+    from_playlist:
+    - https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - artist: Noiranomis, Thierry Nouat
+    track_name: Le Poulet du cimetière - Avant-deux
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3JK7QzpvwRWc4YFlmdevOs
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=tb2HNlTA9cM
+    from_playlist:
+    - https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - artist: Petit Piment
+    track_name: Avant-deux à Paul Gabard - Avant-deux à Monique
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1K0uhyFIhjfeA4KeZZHzuh
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=v4qE-PjwVpQ
+    from_playlist:
+    - https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - artist: Planchée
+    track_name: Avant-deux du Tube 4 (avant-deux de travers)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6pKGDAaSTlpbptLhYbKyc3
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=fMDZ4xbEVO4
+    from_playlist:
+    - https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - artist: Planchée
+    track_name: Les Filles de Montours (avant-deux du Nord Ille-et-Vilaine)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3NLF0zXAgcQTVHLp9OE2Wo
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=tcS8XIkhKUg
+    from_playlist:
+    - https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - artist: Plantec
+    track_name: Tal ouzh tal (Avant deux de travers)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5s4hXiaDc1bCJQgE8Zn5uf
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=34E_BYe_ZS4
+    from_playlist:
+    - https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - artist: Sterne
+    track_name: En avant deux de Saint-Cast
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2zlY3bLCbGtEjM9ziSVxdv
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=a1v6_63c8Ew
+    from_playlist:
+    - https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - artist: Trio Forj
+    track_name: Avant deux de Bazouge
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4t4uRn5ZctwnKs3zWpT2Zq
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=dzBfP3kuLA8
+    from_playlist:
+    - https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz

@@ -5,4 +5,26 @@ connected_dances:
 - mazurka_5_temps
 links:
   playlists:
-    - link: https://open.spotify.com/playlist/7zgHJzThp1oLdgG70wAcXZ
+  - link: https://open.spotify.com/playlist/7zgHJzThp1oLdgG70wAcXZ
+  tracks:
+  - artist: Le bal de l'éphémère
+    track_name: ABCD'Elle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0fEmMlBhaScUpsoHdgsoN1
+    from_playlist:
+    - https://open.spotify.com/playlist/7zgHJzThp1oLdgG70wAcXZ
+  - artist: Nubia
+    track_name: Tranen voor Paulo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4iaMV0KXek5a33rFdYwT6b
+    from_playlist:
+    - https://open.spotify.com/playlist/7zgHJzThp1oLdgG70wAcXZ
+  - artist: Trio Loubelya
+    track_name: MicheusStef
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3wTknJVxFA4CufASrxM1hM
+    from_playlist:
+    - https://open.spotify.com/playlist/7zgHJzThp1oLdgG70wAcXZ

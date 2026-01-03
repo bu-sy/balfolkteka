@@ -39,6 +39,15 @@ links:
       link: https://www.youtube.com/watch?v=H_6dl1q4OvY
     from_playlist:
     - https://open.spotify.com/playlist/2eiyNb4MtgG9aTALkvviKq
+  - artist: Auka
+    track_name: Branle de Noirmoutier
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/63mAgFjIPnx19hQD5iSiRk
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=JB98nbNX7lg
+    from_playlist:
+    - https://open.spotify.com/playlist/0h7f6F684DVN6o904OK7fb
   - artist: Bal O'Gadjo
     track_name: Rivières
     links:
@@ -47,7 +56,17 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=6eORFXr1YHY
     from_playlist:
+    - https://open.spotify.com/playlist/0h7f6F684DVN6o904OK7fb
     - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
+  - artist: Ballsy Swing
+    track_name: "Coup de houle: Diving Suit - La grâce dans l'oeil - Feux dans l'eau (Noirmoutiers)"
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/19YyWHlAH4szk6w2z9oJ4P
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=LlkOxUwU1UI
+    from_playlist:
+    - https://open.spotify.com/playlist/0h7f6F684DVN6o904OK7fb
   - artist: Bargainatt
     track_name: La Batelière
     links:
@@ -65,6 +84,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=R4yE_QZhtjw
     from_playlist:
+    - https://open.spotify.com/playlist/0h7f6F684DVN6o904OK7fb
     - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
   - artist: Ciac Boum
     track_name: Lé Feuilles de léare / Suus la nostra trilha
@@ -103,9 +123,21 @@ links:
       link: https://open.spotify.com/track/4ib6M0yBlbahRJdtzJvGhk
     - portal: YouTube
       link: https://www.youtube.com/watch?v=2nPh9HvQAqI
+    - portal: Spotify
+      link: https://open.spotify.com/track/6ZqOsdQydtYQGcPuXrdVl6
     from_playlist:
+    - https://open.spotify.com/playlist/0h7f6F684DVN6o904OK7fb
     - https://open.spotify.com/playlist/2eiyNb4MtgG9aTALkvviKq
     - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
+  - artist: Duo Pennec Bertrand
+    track_name: Branles de noirmourier
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6Z15vR9AAD1LfiEi1vpmgJ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=vTqmmWOs2WE
+    from_playlist:
+    - https://open.spotify.com/playlist/0h7f6F684DVN6o904OK7fb
   - artist: Fahrenheit
     track_name: Le saunier (branle de Noirmoutier)
     links:
@@ -169,6 +201,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=PI985PCIhms
     from_playlist:
+    - https://open.spotify.com/playlist/0h7f6F684DVN6o904OK7fb
     - https://open.spotify.com/playlist/6Tsg5hqwdQuzju9k5Dmjoy
   - artist: Obal
     track_name: Branles de Noirmouitier
@@ -178,6 +211,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=UyCv_ziqY7A
     from_playlist:
+    - https://open.spotify.com/playlist/0h7f6F684DVN6o904OK7fb
     - https://open.spotify.com/playlist/4qxQ6ks47rPlSXzTqTssuN
   - artist: Rémi Geffroy
     track_name: Ouroboros

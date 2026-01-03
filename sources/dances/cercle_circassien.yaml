@@ -45,7 +45,15 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=JsT6Mz4lbEY
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
+  - artist: Adriano Sangineto
+    track_name: Un giro a vialfrè
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1DUxl5hyiLdNGTfWQj3M2S
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Airboxes
     track_name: La Vida Loca - Tit
     links:
@@ -54,6 +62,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=GiLqH98kT2E
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
   - artist: Airboxes
@@ -66,6 +75,7 @@ links:
     - portal: Bandcamp
       link: https://bandcamp.com/EmbeddedPlayer/album=875751694/size=small/bgcol=ffffff/linkcol=0687f5/track=1744256003/transparent=true/
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
   - artist: Airboxes
     track_name: Tides
@@ -88,6 +98,13 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
   - artist: Ampouailh
+    track_name: Jigs
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1jdO9QN69T1RxmTKGJ0Ouz
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Ampouailh
     track_name: Serr-noz (cercles)
     links:
     - portal: Spotify
@@ -95,7 +112,15 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=m105CTZDRbc
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Andoorn
+    track_name: Witte Strepen & Belgian Fever (cercle circassien)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7BrroSRh0HYZ5KJBVZSbNX
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Androneda
     track_name: Midzomercirkel - Live
     links:
@@ -105,6 +130,13 @@ links:
       link: https://www.youtube.com/watch?v=CuWaJOPsxbI
     from_playlist:
     - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
+  - artist: Arvest
+    track_name: Setu aze
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5xAVCaFVY2Uw2qJwLKoAtJ
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Aurélien Claranbaux
     track_name: Arrow in the Milkyway - La poule et la bombe
     links:
@@ -115,6 +147,48 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Bal O'Gadjo
+    track_name: Cerclikos
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1gaNgUPy0l9vaI14vfFE4k
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Bal O'Gadjo
+    track_name: Fabulous Circle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5KwLzFM2Q8RcUSksvBffcu
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Bal O'Gadjo
+    track_name: Les fous du bateau
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1xxq0cfAnEmSV5tkLpIwD2
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Ballsy Swing
+    track_name: Bonus
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1CuK4lQCkz71iJMtm3eINz
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Ballsy Swing
+    track_name: 'Le palais de la tortue: Encore plus au nord - Happy Ending - La bay des Chevauchées (Cercles)'
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/77JMowna0c8CDuHk9FfyhB
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Ballsy Swing
+    track_name: Lief
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0hgZsCEvgHsvXrSJrLc5gh
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Bargainatt
     track_name: Banana Circle
     links:
@@ -123,6 +197,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=-y_VHLmgJSk
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
   - artist: Bargainatt
@@ -133,6 +208,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=pDWsC8oIeCQ
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
   - artist: Beat Bouet Trio
@@ -152,6 +228,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=eEArcahXX8g
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
   - artist: Bernard Loffet, Lionel Neyssenssas
     track_name: Cercle Circassien - Feat. Lionel Neyssenssas
@@ -161,6 +238,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=dz6VAqeyscA
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
@@ -173,6 +251,20 @@ links:
       link: https://www.youtube.com/watch?v=GN73Ni5BrO4
     from_playlist:
     - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
+  - artist: Blue Reed
+    track_name: Circoletto
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/19COYkFKg8AVle93GYLGkX
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Blue Reed
+    track_name: The Vat's Favourite / Circle Reloaded
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6tpdt6tlnFE9wucNFE6SwP
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Boubacar Souleymane, Le Bour Bodros
     track_name: Surmañ - Cercle circassien
     links:
@@ -181,6 +273,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=wzoMEXQFPE8
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
   - artist: Brotto Lopez Sextet
     track_name: Cercle de Thoux
@@ -190,6 +283,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=jcIpT8AR1f8
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
   - artist: Brotto-Lopez
     track_name: Se vòls venir ambe ieu - Cercle circassien
@@ -199,8 +293,23 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=ck8Qnm7x5bk
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Cardboard Cabin
+    track_name: Piet Primaat
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3A4Wq25s7Q0Et8CZEl6zjh
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Carré Manchot
+    track_name: Cercle Circassien
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6NvOBQTY2LqvbpVWToWNRm
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Carré Manchot
     track_name: Cercle circassien
     links:
@@ -208,8 +317,25 @@ links:
       link: https://open.spotify.com/track/1inw7X9svbXH5GEbaG85DD
     - portal: YouTube
       link: https://www.youtube.com/watch?v=d3Kp7uL-YUY
+    - portal: Spotify
+      link: https://open.spotify.com/track/3yEYuqkIrcVK7oNmEUU2Hl
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
+  - artist: Castanha é Vinovèl
+    track_name: Brave gens de la maison - Cercle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/70aFmuM1bMU6Yv7fpCiDES
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Castanha é Vinovèl
+    track_name: La cremada - Cercle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5IevrCx7MvL96U0K42ymts
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Dahù
     track_name: '3106'
     links:
@@ -218,6 +344,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=JTVF-oRBamc
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
   - artist: DiaTon
     track_name: Le Funambule
@@ -254,6 +381,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=HCDpdYMNkFw
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
   - artist: Digresk
     track_name: Crop Circle - 2023
@@ -264,6 +392,22 @@ links:
       link: https://www.youtube.com/watch?v=hM9SiBMev2o
     from_playlist:
     - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
+  - artist: Diwall
+    track_name: Pull to Stop the Engine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6MggNT1xcqEJtGSBXiFtDj
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Djal
+    track_name: Ex nihilo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/66aBB8mvFhikRTOxDL3yfV
+    - portal: Spotify
+      link: https://open.spotify.com/track/5y2zJWvQCzXj8j9Lih6g3u
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Dos
     track_name: Perpetuum Mobile (Círculo Circasiano)
     links:
@@ -272,6 +416,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=1QGwujjTGFo
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
   - artist: Duo Absynthe
     track_name: Boite à Blicks
@@ -281,8 +426,23 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=wk7u9cnoedc
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Duo Brotto Milleret
+    track_name: Le mistigri / Lentille verveine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6aG6IGi7pDwEN7oy8ulhJq
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Duo Gestrikt
+    track_name: Jig Pig Jig
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3IAu6P3yYeD9h7ohkXKZ0o
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Duo L'Hêtre Heureux
     track_name: La croisade
     links:
@@ -301,6 +461,13 @@ links:
       link: https://www.youtube.com/watch?v=J1U5hMP956Q
     from_playlist:
     - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
+  - artist: Duo Massarelli
+    track_name: Circolo di Famiglia
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7ERL2eSoGe76WfMBQm9uXj
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Duo Sciapò
     track_name: Gau's Jig
     links:
@@ -329,6 +496,13 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
   - artist: Elanor
+    track_name: Blown Away & Nuit Noire
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3OiyXSaYmVC1rzfASYCQIy
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Elanor
     track_name: Blown Away - Nuit Noire
     links:
     - portal: Spotify
@@ -336,6 +510,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=tpKvBMjfhbI
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
   - artist: Electrad
@@ -365,6 +540,20 @@ links:
       link: https://www.youtube.com/watch?v=H_tY55tzDyY
     from_playlist:
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Estrad
+    track_name: Jump At the Sun - Fall Down the Moon
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2SsymBNF8viH5JByq04OMQ
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Estrad
+    track_name: Le bec de l'Orient
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1AkRQHttvFKVSx4TvPcXb9
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Fahrenheit
     track_name: La plaine (cercle circassien)
     links:
@@ -373,6 +562,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=9cc5BC53Q5g
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
   - artist: Femme Folk
@@ -392,7 +582,15 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=7udESr5gEtc
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Fluxus, Hans Helewaut, P. Garriau
+    track_name: Kaleban
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1P8OPChEK9CYaU18j4ozqW
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Gaëtan Samson, Le Bour Bodros
     track_name: Café vert
     links:
@@ -430,6 +628,13 @@ links:
       link: https://www.youtube.com/watch?v=09wZJB7xguQ
     from_playlist:
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: I Fratelli Tarzanelli
+    track_name: Scie 69
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3e9o59xGoUY1pOmwavOje9
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Jean-Charles Guichen
     track_name: Breizh Nevez
     links:
@@ -439,6 +644,41 @@ links:
       link: https://www.youtube.com/watch?v=h4SsH22qtxk
     from_playlist:
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Jérémie Congrega, Luc Pilartz, Noiranomis, Thierry Nouat
+    track_name: Soleil d'été / Vent d'été - Cercle circassien
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6KoRrcCX5aiI2qgSBIMMA1
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Karamaus
+    track_name: Dreamer's Circle / Il Picchio
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/603ypyo0wEPUVt04Y5IXSB
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Kv Express
+    track_name: Batman
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2xKJ1Mo9KcT3GgiaknXo9m
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Kv Express
+    track_name: G.P.S.
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3er2BbN2gOXOtXrVBeHRGj
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: La Bottines Artistiques
+    track_name: Kopke Koffie
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3F1c1pVMwsm4V8L0PjGoYq
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: La Bottines Artistiques
     track_name: Zieke Kiek
     links:
@@ -457,7 +697,15 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=L-QkUDJn4-c
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
+  - artist: La Forcelle, Le Mange Bal
+    track_name: Forcercle - La Forcelle Remix
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6PAuXlbJG8JwDj5n43Vrd8
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: La Sauterelle
     track_name: A nos amis
     links:
@@ -467,6 +715,13 @@ links:
       link: https://www.youtube.com/watch?v=HTw5W9kxb9g
     from_playlist:
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Laüsa
+    track_name: La lega crescèra
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/06tGREJxjK04IHGkLFTn2x
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Le Bour Bodros
     track_name: Saouzan - Cercle Circassien
     links:
@@ -475,7 +730,15 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=r8UymJfFo9E
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Le Quintet à Claques
+    track_name: Les Zozos Frileux / Elixir
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4b1NwnHtPxKnpQy53hfaMh
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Le Sextet à Claques
     track_name: Laryngo-rhino-phraryngite - Live
     links:
@@ -484,8 +747,23 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=z-HiK9g8lyk
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Le Sextet à Claques
+    track_name: Run After the Ring - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5ELsyYAvlX3zmBC5M3RXND
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Les Folkeux de Pie
+    track_name: Jig and Co - Cercle Circassien
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/56NvG9EounQHJAP1r7WaNp
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Les Zéoles
     track_name: Macadam' pyjama (Cercle circassien)
     links:
@@ -494,8 +772,16 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=01Rgd_SWYII
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Lirio
+    track_name: Marco's Cercle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3psrmSMF9CzhiP3qnV8iHA
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Lirio
     track_name: Marco's cercle
     links:
@@ -505,6 +791,13 @@ links:
       link: https://www.youtube.com/watch?v=l7SL8AQp_BQ
     from_playlist:
     - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
+  - artist: Loogaroo
+    track_name: Rikitikitavi
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5N5EQze1WuGEsbCM0uBUTk
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Marian Iacob Maciuca, Ronan Robert, Simon Mary
     track_name: Patience infuse
     links:
@@ -543,6 +836,13 @@ links:
       link: https://www.youtube.com/watch?v=51XEv_9XUOk
     from_playlist:
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Monsieur Fruits
+    track_name: Crop Circle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4PWyLRfv06eCy56Z7MEYoR
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Naragonia
     track_name: Andanças / Shake Hans / Le Petit Tarré
     links:
@@ -551,8 +851,44 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=N0VfseycUDI
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: OMNIA
+    track_name: Tine Bealtaine - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0OWW8zL9fU7kPFd82hzlCv
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: ORAJ
+    track_name: Père Soleil
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3iVxYsUQWXTkLEJPmhSY6M
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Obal
+    track_name: Arredor, arredor (Circassian circle)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2gRgmmJqyymRsJJCOo3SqG
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Orchestre International des Guides et Scouts d'Europe
+    track_name: Jig/Cercle circassien
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4GvtaTAtHtqDA9eHnPrFis
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Orfeo
+    track_name: Fluitfeeks (Cercle)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6CGjbXOXAemHvwHNQIjbS0
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Paracetamol
     track_name: Taka Takata
     links:
@@ -562,6 +898,20 @@ links:
       link: https://www.youtube.com/watch?v=IYfeI6uzgRM
     from_playlist:
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Pere Romaní
+    track_name: Cercle a L'Haran
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/34eLxwmlteLT6xAr6CD53s
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Plantec
+    track_name: Hep harz - Cercle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6H6rkOaMEaIegk0INpfcjv
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Plantec
     track_name: Kihaus Woods - Cercle circassien
     links:
@@ -570,6 +920,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=7mc1S6YPJTQ
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
   - artist: Pärlin
     track_name: I buried my wife
@@ -608,9 +959,17 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/53IfDmKwFJfJuj0ZUiR0EH
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Shenanigans
+    track_name: Muffin Man's Jig/Circassian Circle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/29Q27vfykmSomKp7lAwIUz
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Startijenn
     track_name: Backpaker
     links:
@@ -621,6 +980,13 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
   - artist: Sterne
+    track_name: Cercle Circassien
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7F7So1FFtj5ABI7J62n7uH
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Sterne
     track_name: Cercle circassien
     links:
     - portal: Spotify
@@ -628,6 +994,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=I3rMvopevXQ
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
   - artist: Tribal Jâze
     track_name: Circus
@@ -637,8 +1004,16 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=PH2TvhnWzO4
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Trio Aman
+    track_name: Cercle Circassien
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2qWE55wr8rxDrRvrXtDPoq
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Trio Loubelya
     track_name: La quadrature du cercle
     links:
@@ -647,6 +1022,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=iAOT-9MMSYI
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
@@ -658,6 +1034,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=Kvwb17Syx_M
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
   - artist: Triskill
@@ -677,7 +1054,15 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=XHkW9lGw9wI
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
+  - artist: Viorel
+    track_name: Captain Emmet - Swampride
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6FC8aOrHiSo8FjTtWSCTL7
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Wouter en De Draak
     track_name: New Horizons, New Adventures
     links:
@@ -686,8 +1071,16 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=Quhnv0vt174
     from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
+  - artist: Wouter en De Draak
+    track_name: Witte tonny / witte danny
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/17TiALOA3uENS4i9ceEC1U
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: ZLABYA
     track_name: Jammin
     links:
@@ -699,6 +1092,34 @@ links:
     - https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
     no_youtube_link: true #Verified
+  - artist: Zef
+    track_name: Krump
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2asEFf7bicZcJ7kzcrvgB8
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Zef
+    track_name: La sauvage
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3PEfK7182trbRGQ9AaAvKx
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Zef, zffrs
+    track_name: Tonton bordel
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0ZYIWL5uipVqbVUVeRqc6y
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Zirp
+    track_name: Circle Divine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4SFra1NWV57gz7SiYwPsKz
+    from_playlist:
+    - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Zlabya
     track_name: Circulo - Live
     links:

@@ -7,6 +7,32 @@ links:
   - link: https://open.spotify.com/playlist/0xZ6Nlt5cxbIeXlW4rPvci
   - link: https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
   tracks:
+  - artist: Accordzêam
+    track_name: Valhermeil
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4Ecjhg840HTtMQYsYRo38z
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=npRJgwIkiAg
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: Adriano Sangineto
+    track_name: Rondeau Passeggero
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6ek26JirfLFq2WjG4woeqC
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+    no_youtube_link: true
+  - artist: Airboxes
+    track_name: Valentino
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0R8NVz87Rxjv4azW5uOvE9
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=qRBXdtHyt-M
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
   - artist: Arnaud Bibonne, Camille Raibaud
     track_name: Rondeau d'après Fernand Tarrit
     links:
@@ -25,6 +51,114 @@ links:
       link: https://www.youtube.com/watch?v=GzaxcPjMK9Y
     from_playlist:
     - https://open.spotify.com/playlist/0xZ6Nlt5cxbIeXlW4rPvci
+  - artist: Aurélien Claranbaux
+    track_name: Eau - Small Dried Flowers
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2RjfMlwoQNqiOJfPPAf2I3
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=rk65ZolZiOc
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: Bal O'Gadjo
+    track_name: Step by Steppes
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2HsPDsM3exI6b0CwhqQmAW
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=4ZjeuH2aO_0
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: Ballsy Swing
+    track_name: 'St-Pierre-Des-Dents: Lo Gazion (Rondeaux)'
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3JuePcWoxEKh4kkUAEZwz1
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=QzG8L2lUZl0
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: Blue Reed
+    track_name: Rondelleau
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5UnJftaT1eceoBfqtjx3pD
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=4gDPrvVoGTE
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: Bruno Le Tron, David Munnelly, Didier Laloy, Markku Lepistö, Riccardo Tesi
+    track_name: Le grand cèdre
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/15NTR2qKA2RG8PXkxt0RvN
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=TvDthwGF_B4
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: CPC, KKC Orchestra
+    track_name: La moliera
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/04I7wPh28FLaO3tl5qSwWC
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=yw57FQ9hAtI
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: Cardboard Cabin
+    track_name: Schemerdonker
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0aXWiBU32sIVdDdOVmoAwk
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=7A9iybjHHag
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: Castanha é Vinovèl
+    track_name: Cançon de messorgas - Rondeau
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1CSttR3Sb7VgQuf0ohtBcy
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=y3Qpu2dA4_I
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: Castanha é Vinovèl
+    track_name: De besièrs a san pablo - Rondeau
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4B446lcn0Zk21cVbCMTIRB
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=eHrNmDWDbqQ
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: Castanha é Vinovèl
+    track_name: La comaire - Rondeau
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/79hXr9F61G4ozCBewsZ2Uo
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=1vsX_xn2rXY
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: Dos
+    track_name: El Valle de las Batuecas (Rondó)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/08h03JShJfXkZCsend6wkh
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=gIgSCvq1eIs
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: Duo Brotto Milleret
+    track_name: Sur les quais / La presqu'ile / Au coin de la rue
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/60ogRXJrfWlCdPvKixOw6R
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=moKiQhbJXBc
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
   - artist: Faburden
     track_name: Suite de Rondeaux
     links:
@@ -34,6 +168,15 @@ links:
       link: https://www.youtube.com/watch?v=1KAOVdtvExE
     from_playlist:
     - https://open.spotify.com/playlist/0xZ6Nlt5cxbIeXlW4rPvci
+  - artist: Groove Factory
+    track_name: Poudre de Perlinpinpin
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2Ohwwk3BkPZIgs8wxgMG6L
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=uVQIvVip8hs
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
   - artist: La Forcelle
     track_name: Rondeau de Lestrille / Rondeau de Bourdillan
     links:
@@ -52,6 +195,16 @@ links:
       link: https://www.youtube.com/watch?v=-0Ahlvli-Sw
     from_playlist:
     - https://open.spotify.com/playlist/0xZ6Nlt5cxbIeXlW4rPvci
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: Laüsa
+    track_name: Qu'ei a
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1AAdnvCS0EJR7ojNxiKbJE
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=F6Vj9NqdgR0
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
   - artist: Le Bal Brotto Lopez
     track_name: Sons et soufflets - Rondeau
     links:
@@ -61,6 +214,42 @@ links:
       link: https://www.youtube.com/watch?v=SlsbmR1VCog
     from_playlist:
     - https://open.spotify.com/playlist/0xZ6Nlt5cxbIeXlW4rPvci
+  - artist: Le Bal en Chantier
+    track_name: Une danse démodée
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1lM3FyWHIZtJ6MXMooaOPP
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=uOCfS9GTAYs
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: Le Quintet à Claques
+    track_name: Lénine et Stalone
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/61EkNJkt8mCimyRyA5VqrO
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=MTu8bSEr0Gw
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: LyraDanz
+    track_name: Rondeau dei marinai
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/08zGz0WmVyawaY85MqK0cD
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_rtRHr_fV5E
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: Ma petite
+    track_name: La petite Marguerite
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3Gv4b49xZv5GAZ03tuRB9j
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=o8-cjZfrUKM
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
   - artist: Man Encantada
     track_name: Jo me'n vau pausar mas bòtas
     links:
@@ -80,6 +269,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/0xZ6Nlt5cxbIeXlW4rPvci
     no_youtube_link: true #Verified
+  - artist: Monsieur Fruits
+    track_name: Cordillera
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5NVTfLse3QfVoyA6Bv8J0W
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=J6HWn4_DT38
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
   - artist: NOU
     track_name: Rondeau en couple
     links:
@@ -89,6 +287,33 @@ links:
       link: https://www.youtube.com/watch?v=9aoSoeUfRoY
     from_playlist:
     - https://open.spotify.com/playlist/0xZ6Nlt5cxbIeXlW4rPvci
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: Naragonia, Naragonia Quartet
+    track_name: Bilibocco / Happy Rain
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3bIyEhTeIONIHs2X8bUJAS
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+    no_youtube_link: true
+  - artist: Orfeo
+    track_name: Eria Rond'or (Rondo)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/28wGQbU5z56XrxdR3syDTG
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=L5p8wP5eCCA
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: Petit Piment
+    track_name: Suite de rondeaux d'après Arnaudin - Djengy
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/37zdHMU2hXSmZzOufC80qF
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=L-ylO4z7NKM
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
   - artist: Socam
     track_name: Sarreguilhòt qu'a nau vacòtas / Cauderòt se luva (rondeaux)
     links:
@@ -98,3 +323,48 @@ links:
       link: https://www.youtube.com/watch?v=Nnqx_X8IF98
     from_playlist:
     - https://open.spotify.com/playlist/0xZ6Nlt5cxbIeXlW4rPvci
+  - artist: Solune duo
+    track_name: Jolie brise - Rondeau
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/33GTYoQtF4c0Ej72BUBszD
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=sjO82pW_Ap0
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: The Folk Messengers
+    track_name: Roue Libre - Le Rondeau d'Indron
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3AkpVYiHNl2mjjictTj8db
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Lhd83EXLbTs
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: Trio Loubelya
+    track_name: Le Rondeau d'Indron
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0050qHV0VplvOFHVa2gZBW
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=vT66semZbPY
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: Wim te Groen
+    track_name: Rondeau en couple
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/164wNd16Krj1Abep0FARQZ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=h7gZLcCNTUY
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
+  - artist: ba.fnu
+    track_name: Paper kat (rondeau)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3BFYXox6zr9hDuBmJ0oepw
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=H_PBdbgtJCs
+    from_playlist:
+    - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA

@@ -5,4 +5,14 @@ connected_dances:
 - mazurka_11_temps
 links:
   playlists:
-    - link: https://open.spotify.com/playlist/2fekKatWMT64RpOuDc2qcm
+  - link: https://open.spotify.com/playlist/2fekKatWMT64RpOuDc2qcm
+  tracks:
+  - artist: Trio Loubelya
+    track_name: Hallux
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0npDnBbTYwQ3iPhCn7RBlB
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=7U6jD-1zg1U
+    from_playlist:
+    - https://open.spotify.com/playlist/2fekKatWMT64RpOuDc2qcm

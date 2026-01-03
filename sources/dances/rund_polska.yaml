@@ -28,6 +28,34 @@ links:
       link: https://bandcamp.com/EmbeddedPlayer/album=875751694/size=small/bgcol=ffffff/linkcol=0687f5/track=3241533033/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/2YasVhvJQOTOake4ppVpUe
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Andreas Tophøj, Rune Barslund, Timo Alakotila
+    track_name: The Kerry Polska
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5rac5jf8B3INjYn48t9HUh
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=TQ8_D9iDjVs
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Ballsy Swing
+    track_name: "Polska de Chambàrat: Pad'poufs (Polska-Bourée 3 Tps)"
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5fOXXA6oT7M94zMpawAhAJ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=k5f3F9DADgQ
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Ballsy Swing
+    track_name: Si seulement j'avais su
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3AMPvYxf4R8xmgaoLau64P
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=R_p3J1r5a3k
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
   - artist: Beat Bouet Trio
     track_name: Vikings (Polska)
     links:
@@ -37,6 +65,25 @@ links:
       link: https://www.youtube.com/watch?v=3nertq-WHcI
     from_playlist:
     - https://open.spotify.com/playlist/2YasVhvJQOTOake4ppVpUe
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Coriandre
+    track_name: Si on se cache
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2dYeFEbhEwSSFSVXzCYLwM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=NOmBNvuzTEA
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Daniel Pettersson, Mattias Pérez, Nina Pérez
+    track_name: Polska De Barsebäck
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3Ibd1aUq7XQkkGsZ1urQKz
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=7RH35HYZEb8
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
   - artist: Dr. Ka
     track_name: Polska
     links:
@@ -46,6 +93,16 @@ links:
       link: https://www.youtube.com/watch?v=JGDuFRMtq7k
     from_playlist:
     - https://open.spotify.com/playlist/2YasVhvJQOTOake4ppVpUe
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Dr. Ka
+    track_name: Polska efter Zakarias Jansson
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4eY9VzWnUIyJ6y2nTutuC1
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=JJm9omYNrFM
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
   - artist: Duo De Schepper-Sanczuk
     track_name: Polska Mia
     links:
@@ -55,6 +112,51 @@ links:
       link: https://www.youtube.com/watch?v=YzNNCqBTpho
     from_playlist:
     - https://open.spotify.com/playlist/2YasVhvJQOTOake4ppVpUe
+  - artist: Geir Egil Larsen
+    track_name: Bukkehornpols
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3X70LwoHY0UswQ0WzQH3ge
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=AY7N-GuptXQ
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Illa
+    track_name: Polska från Hälsingland / Polska du Värmland
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6ThPPNMmw36CLLSxdh3W3k
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=sRm8cWlM0fU
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: JZAC
+    track_name: POLSKA
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3Ss9ngYcVhqiusYrppQTBI
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=7wHaY267SrM
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Jan Erik Kongshaug, Sven Nyhus, Åshild Breie Nyhus
+    track_name: Mo-Anders (Pols)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4Gu9woYz6PsVHVRiKMaPdO
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ayvTWkF5L7o
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Jan Johansson
+    track_name: Polska efter Höök Olle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6QasXgYSJVxXt5tkn0nKvb
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Ls3EsSo67cU
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
   - artist: Jonas Akerlund, Josefina Paulson
     track_name: Polska efter schedin
     links:
@@ -64,6 +166,33 @@ links:
       link: https://www.youtube.com/watch?v=Psp_yLuDcHY
     from_playlist:
     - https://open.spotify.com/playlist/2YasVhvJQOTOake4ppVpUe
+  - artist: Kaunan
+    track_name: Svärdsjö Polska
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1UoA51tZWc7zl7IjMGwfYr
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=HIC1dhZPdXY
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Kiiora
+    track_name: Kom Lunkom
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5kGF16tucDL9bPHIwFtcfg
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=58agGSNEP5g
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Kvarts
+    track_name: Tvilspols
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1y0e4Ij2nCPTNgksggw3cw
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=cyz9yG5tbX0
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
   - artist: Laurie Hart & Andrew VanNorstrand
     track_name: Södermanland- Polska efter Axel Axelsson
     links:
@@ -73,8 +202,36 @@ links:
       link: https://www.youtube.com/watch?v=bMEzvnVWq7I
     from_playlist:
     - https://open.spotify.com/playlist/2YasVhvJQOTOake4ppVpUe
+  - artist: Laurie Hart & Sarah Cummings
+    track_name: Polska from Östra Ryd / Slängpolska from Tryserum (Småland)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3XrW5K3d5Y5LYCq9Jctxzk
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=TpieZA2q5F4
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Le bal de l'éphémère
+    track_name: Loïtsu
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3N1DhSKJwC5KwMwjDNfmo3
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=m2Ij2yF-g2M
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Les Folkeux de Pie
+    track_name: Polsk' à elise - Polska
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2ooP9yyF7EGaZkrDFAX9rR
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Ey0iCBAOy2M
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
   - artist: Les Zéoles
     from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
     - https://open.spotify.com/playlist/5cCY4elHzy96xmNLD9EaaZ
     links:
     - link: https://open.spotify.com/track/38Dw0iVdhxLnpt2Ezis6Z1
@@ -82,6 +239,69 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=pgPU0x71cPI
     track_name: Blue Magma (Polska)
+  - artist: Media Noctis
+    track_name: Polska efter niklas Larsson
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4No18ZJ0G8GEkVMuqQr3Fl
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=j5XpN_YEGX0
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Media Noctis
+    track_name: Polska efter zakarias Jansson
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1w01fCE3VigR0vnLtDlDRj
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Gd_LKLrpv4c
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Nae Plans
+    track_name: Røros Pols
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5cvtEWWuNhuwqoEMhuQ1uJ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=M1GWZ082jUY
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Nubia
+    track_name: Kleine Druppels & Zonnestralen
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2mJGNZy5CbUJq4A6X2sDXl
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=SwLN-6IO9v0
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Nubia
+    track_name: Sneeuwjacht
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/693tnHNUQocZ6H6OGc8Ng3
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=dTZC4iSR0xI
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Nubia
+    track_name: Snö
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6XcD9Nuhx9axDGufDaL8mV
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=t4xxkyby_f0
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Olav Luksengård Mjelva
+    track_name: Kjøbenhavneren, Pols
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4JJtJHCVNQxaAxR2FxGAU2
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=AFEXBN8irnM
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
   - artist: Olof Kennemark, Pers Alexander Olsson
     track_name: Polska av Alexander Olsson
     links:
@@ -91,6 +311,42 @@ links:
       link: https://www.youtube.com/watch?v=4yE2gkfnTTo
     from_playlist:
     - https://open.spotify.com/playlist/2YasVhvJQOTOake4ppVpUe
+  - artist: Orfeo
+    track_name: Birds (Polska)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2MPXARPxQGlohrJrcV47Vd
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=QkYS5QD6u-4
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Siger
+    track_name: Meander
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4W9MxfagoL6lTOL4X6qYbc
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=gGR3b9KaKQ4
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Teppo Välimäki
+    track_name: Nestorin polska
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5cgjFAJ87pHWBA9hjhDMmz
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Ak8jWrkVfc4
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: The Folk Messengers
+    track_name: Polksa Suite
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6Nk1JcOdxp30ZdaiKCApQb
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ZKSTC2m5JNE
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
   - artist: Tref
     links:
     - link: https://www.youtube.com/watch?v=ZZy4Vp3OpKQ
@@ -98,6 +354,42 @@ links:
     - link: https://open.spotify.com/track/6kTrlRT7pqIhuZQWQjImEN
       portal: Spotify
     track_name: Plasko ö polska
+  - artist: Trio Trad
+    track_name: Polska
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4h8xIOxENFnCN7JmKqMGcL
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=z7p772_nTSY
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Väsen
+    track_name: Polska for Tom Morrow
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3kxzwrUeLGnMi31Gun2gh3
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=wjB-Aw80aiI
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Wouter en De Draak
+    track_name: Legopolska
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0d7IXYu2sxlrv8kf0N0kJi
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Kb2bMZ6-u-A
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Zirp
+    track_name: Wasa Polska
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7iGe1v4t1j7sa0GuBDMizu
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=a_pJm8gp2hs
+    from_playlist:
+    - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
   - artist: ba.fnu
     track_name: Mjölska (polska)
     links:

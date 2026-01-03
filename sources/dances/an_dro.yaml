@@ -97,6 +97,7 @@ links:
       link: https://www.youtube.com/watch?v=Wm1fAkVLU8k
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
   - artist: Arcantus
     track_name: An Dro
     links:
@@ -116,6 +117,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Bal O'Gadjo
+    track_name: Hamajiya
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7vZnZEzOaDRivkViEZefdw
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_PXAmPdUf_k
+    from_playlist:
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
   - artist: Baliskis
     track_name: An Anglezed bonedeu ruz - An dro
     links:
@@ -125,6 +135,7 @@ links:
       link: https://www.youtube.com/watch?v=aEFGDPWqnB8
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
   - artist: Baliskis, Solen Lasbleiz
     track_name: Deus en-dro nevez-amzer
     links:
@@ -180,6 +191,7 @@ links:
       link: https://www.youtube.com/watch?v=r_FHdVH-Dw4
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
   - artist: Carré Manchot
     track_name: An dro / Neg la sho
     links:
@@ -189,6 +201,7 @@ links:
       link: https://www.youtube.com/watch?v=o6HyvPjRfCg
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
   - artist: Carré Manchot
     track_name: An dro / neg la cho
     links:
@@ -199,6 +212,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/2zoeLgbEClTkOeNnyqzVoV
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
   - artist: Carré Manchot
     track_name: En dro
     links:
@@ -208,6 +222,7 @@ links:
       link: https://www.youtube.com/watch?v=-CL-JSDVqN8
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
   - artist: Colin Grant
     track_name: An Drò
     links:
@@ -273,6 +288,7 @@ links:
       link: https://open.spotify.com/track/2BIMpDJsWmamB8u9F46lae
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
   - artist: Die Irrlichter
     track_name: Andro
     links:
@@ -318,6 +334,15 @@ links:
       link: https://www.youtube.com/watch?v=Qju1v3CTDGM
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Duo Oliver-Sentou
+    track_name: Andro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2c1q2xD0dDBNfqbbrfHFoc
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=MhW5N7oUogk
+    from_playlist:
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
   - artist: Duo Sionneau/Gielen
     track_name: Blaretudan
     links:
@@ -400,6 +425,7 @@ links:
       link: https://www.youtube.com/watch?v=hutSpAAqoRk
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
   - artist: Follenn
     track_name: Les saoulvaches - An-drp
@@ -429,6 +455,7 @@ links:
       link: https://www.youtube.com/watch?v=FngIyQEVVtg
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
   - artist: Follia!
     track_name: Andro Decancq
     links:
@@ -474,6 +501,15 @@ links:
       link: https://www.youtube.com/watch?v=vvCIHzj27nI
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Hamon Martin Quintet
+    track_name: Où donc est ma peine ? (An dro)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7pf5PGibu9KKws4y9E0n69
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=DA-GYQ3gyac
+    from_playlist:
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
   - artist: Hotel Palindrone
     track_name: 'Andro: Samo Riba - Live Version'
     links:
@@ -592,6 +628,15 @@ links:
       link: https://www.youtube.com/watch?v=S4QV0mztgAE
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: La Machine
+    track_name: Jardin d'Amour
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0Ms10cgT691iYisKwFopVi
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=CUqOzKPkW6A
+    from_playlist:
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
   - artist: Le Quintet à Claques
     track_name: Andropophage
     links:
@@ -657,6 +702,15 @@ links:
       link: https://www.youtube.com/watch?v=7nuGSvpX6Qc
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Media Noctis
+    track_name: Andro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6R0xJuyJANX4sDsB5DIrJY
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=YCzHnC6yfz0
+    from_playlist:
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
   - artist: Michael Howard Gartner, Wolgemut
     track_name: An Dro
     links:
@@ -675,6 +729,7 @@ links:
       link: https://www.youtube.com/watch?v=caI-XwsPoHk
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
   - artist: Nostrad
     track_name: En dro - Live
     links:
@@ -720,6 +775,7 @@ links:
       link: https://www.youtube.com/watch?v=atZk2F0gCwc
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
   - artist: Orfeo
     track_name: Orfest Andro (Andro)
     links:
@@ -729,6 +785,7 @@ links:
       link: https://www.youtube.com/watch?v=lqU1Ow1vpc4
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
   - artist: Orfeo
     track_name: Space (Andro)
     links:
@@ -738,6 +795,16 @@ links:
       link: https://www.youtube.com/watch?v=3qiX1r4qQBo
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
+  - artist: Pacho Andean
+    track_name: An Dro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1ob2BfPY5D6lyWE4BVujYw
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=1n1Kwz_TNV4
+    from_playlist:
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
   - artist: Pas De Quoi
     track_name: An Dro Reggae
     links:
@@ -765,6 +832,15 @@ links:
       link: https://www.youtube.com/watch?v=ZQ-AH1keGmQ
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Plantec
+    track_name: A-raok - Andro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1NkZrYcQt04xg1mVCUuGEO
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ZQ-AH1keGmQ
+    from_playlist:
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
   - artist: Plantec
     track_name: Androïde (Andro)
     links:
@@ -905,6 +981,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/2zoeLgbEClTkOeNnyqzVoV
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
   - artist: TitoM
     track_name: An dro gast
     links:
@@ -932,6 +1009,7 @@ links:
       link: https://www.youtube.com/watch?v=PaMPgExergo
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
   - artist: Trio Loubelya, Tristan Le Breton
     track_name: Andromac
@@ -953,6 +1031,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/2zoeLgbEClTkOeNnyqzVoV
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
   - artist: Vach'inton.g
     track_name: Que la Cyprine Coule À Flots, Andro
     links:
@@ -1007,4 +1086,5 @@ links:
       link: https://bandcamp.com/EmbeddedPlayer/album=2861639636/size=small/bgcol=ffffff/linkcol=0687f5/track=2709560383/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+    - https://open.spotify.com/playlist/5IggpomV4BewPGbq40RR28
     no_youtube_link: true #Verified

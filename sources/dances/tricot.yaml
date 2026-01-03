@@ -21,6 +21,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=9VvCQeQCnOE
     from_playlist:
+    - https://open.spotify.com/playlist/55XrYL1TsWyRWKhDWx0CvL
     - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
   - artist: An Diaoul Ha Peder
     track_name: Prizonidi Groe (Trikot)
@@ -57,7 +58,17 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=aTUfUiptFcw
     from_playlist:
+    - https://open.spotify.com/playlist/55XrYL1TsWyRWKhDWx0CvL
     - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
+  - artist: BmB
+    track_name: De edele wijn
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1g8a2EJUuxD7TEN3DaPVBY
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=x1IZIzSZB4w
+    from_playlist:
+    - https://open.spotify.com/playlist/55XrYL1TsWyRWKhDWx0CvL
   - artist: Dos
     track_name: Amarenas y Ciliegias (Hanter Dro_An Dro)
     links:
@@ -167,6 +178,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=A6yTa-P1IF8
     from_playlist:
+    - https://open.spotify.com/playlist/55XrYL1TsWyRWKhDWx0CvL
     - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
   - artist: Mr. Folxlide
     track_name: Quand j'étais chez mon pére - Trikot
@@ -186,6 +198,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=RNg2I-mXHlM
     from_playlist:
+    - https://open.spotify.com/playlist/55XrYL1TsWyRWKhDWx0CvL
     - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
   - artist: Nostrad
     track_name: À Deux Line (Trikot)
@@ -204,6 +217,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=j3_du4cmzEw
     from_playlist:
+    - https://open.spotify.com/playlist/55XrYL1TsWyRWKhDWx0CvL
     - https://open.spotify.com/playlist/7nDPomvvjgipngjiIpJwUt
   - artist: Sonerien Du
     track_name: Hanter dro - Andro minig

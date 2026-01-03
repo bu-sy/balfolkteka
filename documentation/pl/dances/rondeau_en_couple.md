@@ -15,6 +15,6 @@
 
 <br>
 
-## Utwory (10)
+## Utwory (40)
 
 [Utwory do tańca](../../no_lang/aggregated/music_by_dance/rondeau_en_couple.md)

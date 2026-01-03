@@ -1,4 +1,4 @@
-# Brotto-Lopez (9)
+# Brotto-Lopez (10)
 
 <hr>
 
@@ -26,6 +26,20 @@
 <details>
 <summary><big>YouTube</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/xrXHgmYjguM?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
+<h3>Alexandre Cador, Brotto-Lopez, Claude Puisségur, Harmonie de Tournefeuille, Jean-Christophe Cholet - <b>Harmonia limosin</b> (Bal Limousine)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/56QQNNCrxMWwcF0a43lKdZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/IC6iLyGxAXU?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <hr>
@@ -86,7 +100,7 @@
 
 <hr>
 
-<h3>Brotto-Lopez - <b>Tres son seroletas - Chant de la vallée d'Ossau</b> (Mazurka)</h3>
+<h3>Brotto-Lopez - <b>Tres son seroletas - Chant de la vallée d'Ossau</b> (Mazurka, Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

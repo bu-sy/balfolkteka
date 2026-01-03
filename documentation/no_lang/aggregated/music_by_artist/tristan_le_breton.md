@@ -2,7 +2,7 @@
 
 <hr>
 
-<h3>Trio Loubelya, Tristan Le Breton - <b>Andromac</b> (An Dro)</h3>
+<h3>Trio Loubelya, Tristan Le Breton - <b>Andromac</b> (An Dro, Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

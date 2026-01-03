@@ -30,7 +30,7 @@
 
 <hr>
 
-<h3>Les Zéoles - <b>Cailloux blancs (Chapelloise)</b> (Chapelloise)</h3>
+<h3>Les Zéoles - <b>Cailloux blancs (Chapelloise)</b> (Chapelloise, Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -240,7 +240,7 @@
 
 <hr>
 
-<h3>Les Zéoles - <b>Speculoos - My Friend (Chapelloise - Scottish)</b> (Chapelloise)</h3>
+<h3>Les Zéoles - <b>Speculoos - My Friend (Chapelloise - Scottish)</b> (Chapelloise, Scottish)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

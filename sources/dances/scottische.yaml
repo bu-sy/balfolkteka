@@ -14,6 +14,15 @@ links:
   - link: https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - link: https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   tracks:
+  - artist: 21 BOuTONS
+    track_name: Scottish Flamande - Écossaise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4vu6YIJcJuvzhNmBgCJSKV
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=DphmAtSFP_E
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Accordzêam
     track_name: Hotel California
     links:
@@ -24,6 +33,17 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
   - artist: Accordzêam
+    track_name: Jopelloise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4Cpelf1NFoWSsu6fvek68J
+    - portal: Spotify
+      link: https://open.spotify.com/track/3XQs8gYIenLBaHekdnWmd4
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=fdsuRWAwj7Y
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Accordzêam
     track_name: Mario
     links:
     - portal: Spotify
@@ -32,6 +52,13 @@ links:
       link: https://www.youtube.com/watch?v=jZgwX9cvmTY
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
+  - artist: Accordzêam
+    track_name: Slip Jigs
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2qckxIwybRh5kqZ5ncW8nK
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: Ad Vielle Que Pourra
     track_name: Schottische Du Stockfish
     links:
@@ -41,6 +68,13 @@ links:
       link: https://www.youtube.com/watch?v=rFpiF3zcyII
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Adeline Ghilain, Duo Pilartz Gielen
+    track_name: Suite de gigues irlandaises
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6oaI2xietnC94GmLHKpTk2
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: Airboxes
     track_name: Bultkets
     links:
@@ -50,6 +84,34 @@ links:
       link: https://www.youtube.com/watch?v=aVlUKV4MrQ8
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Airboxes
+    track_name: Shouting Time
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4GRyFOKZumQsZRjUldacxI
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Airboxes
+    track_name: Straffen Hendrik
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3UggQrpxtfRM68T1rGGauy
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Aller Hopp
+    track_name: Chapelloise / aleman´s marsj
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2uLl4ylfy60U6iVlEoiFZc
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Andoorn
+    track_name: De Koffiemolen (jig)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/56hWEzDmlxfcNKQx92xIcT
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: Andy Cutting, Nigel Eaton
     track_name: The Ice House Schottisches
     links:
@@ -59,6 +121,90 @@ links:
       link: https://www.youtube.com/watch?v=bVPcetOx12g
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Anette Gebauer, Das Niveau, Duivelspack
+    track_name: Chapelloise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4Klm9I8556VSpU6N3TUkfT
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Arbadétorne
+    track_name: Jeanneton (Scottish)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/32zwMz2ImXKVFqD7jARNHb
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Arbadétorne
+    track_name: Scottish « Glissante - à Poupin »
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6Q0QCrxiJhDTamrJLj4U47
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Arcandela
+    track_name: Scottiche (scottich)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3z9thcSrcVh4MxYaPrKFTf
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Arcandela
+    track_name: Scottiche Sansvette (scottich)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6hKCJSsiCTTkKt0axg4DFS
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Auka
+    track_name: Chapelloise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7H06YEGXoBUrziZGJWUK8X
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Aurélien Claranbaux
+    track_name: Arrow in the Milkyway - La poule et la bombe
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5KFLgYhlYmNvwezsoGnKsu
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Aurélien Claranbaux
+    track_name: Beaudésert
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7M0xK3zvfrEWEyiMccMuS0
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Bal O'Gadjo
+    track_name: Chap O'Gadjo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5nsZkhqcojx4gtIeNgnA0m
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Bal O'Gadjo
+    track_name: Dilen azad
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0QYLskZbajwoH8qga47ZJ9
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Bal O'Gadjo
+    track_name: Désertion
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7djAnNvtw1gRPQVRJrCZCq
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Bal O'Gadjo
+    track_name: Les chastes Gauloises
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2TskR8q6sO3IT5QH8ShTio
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: Bal O'Gadjo
     track_name: Scottish à billy
     links:
@@ -68,6 +214,27 @@ links:
       link: https://www.youtube.com/watch?v=TQBXj2gqskE
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Bal O'Gadjo
+    track_name: Vents d'ouest, vent d'est
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5PQAPBqkY6miEyt6UmhXqr
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Bal O'Gadjo, Kamel Dembri
+    track_name: Réveil agité
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0RvkdKwElqe6x7yhjBFJ4G
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Ballsy Swing
+    track_name: Les pulls à Lucas (Chapelloise)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/43y78oQHpn5Sizb0EKz0jR
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: Ballsy Swing
     track_name: Scottish des Aqueducs
     links:
@@ -76,7 +243,22 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=uRUrf1T2H7Y
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Ballsy Swing
+    track_name: Scottish à Chloé
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/323oTrr5Y4hg1Vzf9ODyBu
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Baltic Crossing
+    track_name: International Jigs
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6SFUMgsZEdxCE4mAizldRY
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: Bargainatt
     track_name: Captain Scottish
     links:
@@ -85,8 +267,23 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=7Glh9FcE_c8
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Bargainatt
+    track_name: Chapi - Chapo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4lYR4PuthBjKod1tr5qhvI
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Bargainatt
+    track_name: Rue Enclos Rey - Poretto Village
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3v6oZfEWyczd7A8crUNClZ
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Bargainatt
     track_name: Scottish du Moulin
     links:
@@ -105,7 +302,36 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=-qQeqmXDpV0
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Blowzabella
+    track_name: Horizonto
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6zdyuDYumy0cmODKPXUwbD
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Blue Reed
+    track_name: Cerclelloise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4ZIq4hmY8b3y6Igtw8zswS
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Blue Reed
+    track_name: Fiebre
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6Qkdl7yY1NsKFIL9C4WcZb
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Blue Reed
+    track_name: Hypnoticon
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5hPfwGuwli7GJKb2HylCib
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: Bran
     track_name: Shottish
     links:
@@ -134,6 +360,34 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Bruno Le Tron, David Munnelly, Didier Laloy, Markku Lepistö, Riccardo Tesi
+    track_name: Reel Finlandia
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1geUwS8eMqa7LXOKt5VdmJ
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: CPC, KKC Orchestra
+    track_name: Scottish Roquefort
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/01GgNcNAZUCQ238ioneksL
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Cardboard Cabin
+    track_name: Anton En Jolien
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6o2v4VLlxYKdm4psTJ4NpC
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Cardboard Cabin
+    track_name: Media Naranja
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7gApcWJDG1dybrFzs7RVR4
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Cardboard Cabin
     track_name: Skateboard Scottish
     links:
@@ -142,7 +396,71 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=NFnRHNlrk_8
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Carré Manchot
+    track_name: Scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1x47U735f9AemXG24SSiSw
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Castanha é Vinovèl
+    track_name: A l'ombra dal Boscage - Scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6SCs1idgb3rnoBcQOUaixB
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Castanha é Vinovèl
+    track_name: Amor cerca son estela - Scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7orLnsC6fhCO0cjcae0tbA
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Castanha é Vinovèl
+    track_name: Femna pichona - Chapeloise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5NVSIki5NSmG5WNJd0ygqR
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Cecilia
+    track_name: Finse Scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6fSdE2QDmodHQhnZ953loh
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Cecilia
+    track_name: Mominette - ScLOTtisch - In bad
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3fMNMTpOHUQf8aewlrXMOF
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Cecilia
+    track_name: Scottish 'Ah, Ca Ira' (Mominette)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2oZqA5QmZBQlV8UgqHX37w
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Cecilia
+    track_name: Scottish pour Maud
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5QIUfCegAxh1vJX8xLdBLU
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Coriandre
+    track_name: Bella ciao - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/36GTw1qO9nbEpDopcjR6yY
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: Coriandre
     track_name: Scottish a Gozar
     links:
@@ -151,7 +469,15 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=OSkllIRYlKQ
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Csókolom
+    track_name: Amari Szi, Amari (Kéren Chave)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/04FRiLlG7jnRK88czXop94
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Cyrille Brotto, Groove Factory, Stéphane Milleret
     track_name: Hypernaire
     links:
@@ -173,6 +499,27 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Dancing Hammers
+    track_name: La Chapelloise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3JACQf8N47GMsFqONqKbxq
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: David Maxim Micic, Scampi
+    track_name: The Flock
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5y3Kjiqzcb4BmUHr6MC9r2
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Didier Squiban, Orchestre de Bretagne
+    track_name: Scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4NQnvJ5dzjfr0D1dYx4V1S
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Diwall
     track_name: Scotch brein
     links:
@@ -182,6 +529,20 @@ links:
       link: https://www.youtube.com/watch?v=H3M2cIVNdOs
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Doolin', Mary Shannon
+    track_name: Mary’s Jigs
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3ryFf25MiyRoCq9GMxofRV
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Dr. Ka
+    track_name: Chapeau bleu - Chapelloise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1Xo5GtZN3ym0CMMChLh4u2
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: Dr. Ka
     track_name: Why not - Schottisch
     links:
@@ -191,6 +552,27 @@ links:
       link: https://www.youtube.com/watch?v=Z6VpeB4Hn98
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Duivelspack
+    track_name: Chapelloise (feat. Das Niveau & Anette Gebauer)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6PtrPIFE5l9vOIIA7wdSVx
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Duo Abbas Thézé
+    track_name: Scottish Roumaine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6ptMrUF2DP1TRL9ZTgWFS2
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Duo Abbas Thézé
+    track_name: Scottish à Fernanda
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5SvE0ETsgJWi7jZWMdbCVA
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Duo Absynthe
     track_name: British Swing
     links:
@@ -201,6 +583,13 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
   - artist: Duo Absynthe
+    track_name: L'élan - Remastered
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3cXmFF6rPy2nFx9kC3k7wb
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Duo Absynthe
     track_name: Scottish du quintet - Remastered
     links:
     - portal: Spotify
@@ -208,6 +597,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=hktwrAAbjMs
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Duo Absynthe
     track_name: Scottish urbaine - Remastered
@@ -219,6 +609,13 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Duo Blain-Leyzour
+    track_name: Scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1YzhJQ9TO8iFpfHTj71767
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Duo Brotto Milleret
     track_name: Scottish pour Anatole / Inhibitude
     links:
@@ -237,6 +634,20 @@ links:
       link: https://www.youtube.com/watch?v=NMp9acc1STQ
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Duo Pilartz Gielen
+    track_name: Suite de gigues irlandaises
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4qMyxzhVrb9JGRYD7RcBd2
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Edita Gumauskaitė, Mantas Zigmantas, Marius Narbutis
+    track_name: Jaunas karalaitis
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2vMrO6KJlusJjr72d9UO6M
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Electrad
     track_name: Scottish Norvégienne (Scottish)
     links:
@@ -246,6 +657,20 @@ links:
       link: https://www.youtube.com/watch?v=VOHed7qlYcM
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Eostiged Ar Stangala
+    track_name: Scottich
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/220oj5ZbLb6J9DTxFynHJ6
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Erwan Moal, Etienne Callac, Jerome Kerihuel, Tangi Le Gall-Carre
+    track_name: Ti Ar C'hranked / Billie's Jig / Ttantto ! - Jigs
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0XtErn7AEDDF8isBoTpjTJ
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: Etienne Choquet, Pulcinella, Trio Loubelya
     track_name: Leo
     links:
@@ -265,6 +690,13 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Fahrenheit
+    track_name: Autre Âge
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0emulU7Hq7Cr6rQHLKY3Lz
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Fahrenheit
     track_name: Garden swing (scottish)
     links:
     - portal: Spotify
@@ -272,8 +704,16 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=R0GSXxvgsTM
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Femme Folk
+    track_name: Locomotive Jiga / Zelda
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0rJey75dDeumlwsUNxylLj
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: Fior
     track_name: Schottisch nach H.N. Philipp
     links:
@@ -291,6 +731,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=8j4osytcqRc
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Floating Sofa Quartet
@@ -301,6 +742,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=dkm-na5nHMU
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Floating Sofa Quartet
@@ -321,6 +763,13 @@ links:
       link: https://www.youtube.com/watch?v=S60MC5oCbkM
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
+  - artist: Floating Sofa Quartet, Guro Kvifte Nesheim
+    track_name: Reinlender etter Gustav Olsen Berge
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4XQ6DkbStIeulQiyEK8vNc
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Floating Sofa Quartet, Lars Lilholt
     track_name: Kun een Jord
     links:
@@ -347,7 +796,22 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=Js-AizZGhqk
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Göze
+    track_name: Quand on est bien amoureux
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6NJzoHqmKtrgWIZjuNpror
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Hamon Martin Quintet
+    track_name: L'étang moderne (Scottish)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0SiTj7s1uUETPEyDRs7pfc
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Hartwin
     track_name: Laugu - Scottish
     links:
@@ -367,6 +831,13 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
   - artist: Hot Griselda
+    track_name: Royal Nord - Fahy's - Exmoor
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/24GfIv4qsjHw8jxphBTsEE
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Hot Griselda
     track_name: Schojaseuten
     links:
     - portal: Spotify
@@ -384,6 +855,13 @@ links:
       link: https://www.youtube.com/watch?v=9Qi26pp0J_o
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
+  - artist: Illa
+    track_name: Échos / Scottish ambrée
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/63dkSGGPIYlo6flHaGVCFV
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Josefina Paulson, Sophie Cavez
     track_name: Skymningsschottis
     links:
@@ -401,7 +879,36 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=uMJ3l_KeOOM
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Kelten Zonder Grenzen
+    track_name: Grab-a-Jack & Bunnyhop
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1RhddHvTlcTwwz04uVakCB
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Kiiora
+    track_name: Hommikujooks
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4kTVf2AzEHaIbavQNn8K9b
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Kitus
+    track_name: Vert anis / Paris-Clermont
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2PsLhroc1msC2didPIEIkG
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Komred
+    track_name: Papillon de nuit - Les oranges bleues
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4FO1XyPSoturuH3lrHXolx
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Koun
     track_name: Scottish
     links:
@@ -410,6 +917,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=wm-gGSRIWGI
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Kv Express
     track_name: Scottish des Boiteux
@@ -419,6 +927,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=XzogobUp-Bg
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: La Bottines Artistiques
     track_name: Demons
@@ -429,6 +938,20 @@ links:
       link: https://www.youtube.com/watch?v=VCIr-bF4bJ0
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
+  - artist: La Bottines Artistiques
+    track_name: Zieke Kiek
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7KgmMgPtXu85w5fZi1DK1D
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: La Forcelle
+    track_name: Scottish Dark
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/21b4eP3ke2czbOBAyGaFKT
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: La Forcelle
     track_name: Scottish De Åby / Scottish Septentrionale
     links:
@@ -437,7 +960,36 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=5ixE_ooAT18
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: La Mesquia
+    track_name: Revolucion - Chapelloise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3iQmAb5qLoZjUs4Bq8Vuar
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: La cuivraille
+    track_name: Scottish Des Terrils
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2mA4xlWHhtTkRnUHYmBqd7
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Le Bal en Chantier
+    track_name: Le beau bonnet
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2Rd4IfNQ2TGy1rWOlyet3N
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Le Mange Bal, Naragonia
+    track_name: Moon Scootish - Naragonia Remix
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1JGxVJ53pjhu4cBgsRYMl6
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Le Quintet à Claques
     track_name: British String
     links:
@@ -445,8 +997,27 @@ links:
       link: https://open.spotify.com/track/5prACOhX4iH1n9lxmYTdOz
     - portal: YouTube
       link: https://www.youtube.com/watch?v=Z7GtI2C3E8k
+    - portal: Spotify
+      link: https://open.spotify.com/track/3AxgUeAJVdB6NzUS0n9Tlo
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Le Quintet à Claques
+    track_name: Ratatouille à la Raspoutine - Le Tombeau du Gnome
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/06IYhFWJj0BoR4FmQeKxET
+    - portal: Spotify
+      link: https://open.spotify.com/track/6ntzZFseDg3mDwQNVvIjTl
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Le Quintet à Claques
+    track_name: Scottish Finlandaise - Truckmuch - L'Amante Religieuse
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1LYaDA7ja4XIOJNukt12D1
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Le Sextet à Claques
     track_name: Scottish du point du jour, Ramon y Cornichon, Dark Lemon - Live
     links:
@@ -455,7 +1026,36 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=NZEXcR7qfsg
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Le bal de l'éphémère
+    track_name: L'élan
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5GJCD4Jt4DMHt7t1cVqMaB
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Le bal de l'éphémère
+    track_name: Le nouvel ordre est là (Chapeloise)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2dvg0I2TLnD8O4lKQbqFSS
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Le bal de l'éphémère
+    track_name: Les intermittents
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/31Mftz4vNvSrUGsYS3qYaU
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Le bal de l'éphémère
+    track_name: Levons la voile
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6ogdpPqf2hDibZabjiuqMD
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: Le bal de l'éphémère
     track_name: Oncle Scott (Scottisch)
     links:
@@ -464,6 +1064,7 @@ links:
     - portal: Soundcloud
       link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A664307387&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
     no_youtube_link: true #Verified
   - artist: Le bal de l'éphémère
@@ -472,8 +1073,23 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/6PSAjyxjANsFdOMkD90uUQ
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
     no_youtube_link: true
+  - artist: Les Folkeux de Pie
+    track_name: Groovy Peggy - Scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4A3pkxYlfpdz3sLRza4eRx
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Les Folkeux de Pie
+    track_name: Scottish des pies
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4bd04E0lMQL4mf0zW9fuVa
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Les Zéoles
     track_name: 93 (Scottish)
     links:
@@ -482,7 +1098,15 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=yXjORBg-2aQ
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Les Zéoles
+    track_name: Cailloux blancs (Chapelloise)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7c5xczedEM0nzVdLnEQGqM
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: Les Zéoles
     track_name: La p'tite bête (Scottish)
     links:
@@ -491,8 +1115,23 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=uiB4lEQ3ck4
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Les Zéoles
+    track_name: Speculoos - My Friend (Chapelloise - Scottish)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0RNbvKUstSW9bPuu0AGPsB
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Les genoux
+    track_name: Adèle blanc sec / Scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/30EIZEZy5juzxNYBKM4Ujv
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Les genoux
     track_name: Berryland / Scottish
     links:
@@ -501,7 +1140,29 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=MQ95YpiDzd0
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Les genoux
+    track_name: La carpe velloise / Chapelloise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3V4fI8zdTqoONUTIMHUKLo
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Les genoux
+    track_name: La fraudisiaque / Scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2kBIkpkM8lGroKF7yIbS1D
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Les genoux
+    track_name: La marmotte / Chapelloise (traditionnel) / Jump at the sun / Cercle circassien
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7BCHs6iS8WxP1lCcsV51DO
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: Lirio
     track_name: Forumscottish
     links:
@@ -512,6 +1173,13 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Lirio
+    track_name: Leliejig
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/429eREzfVlzhdOT5NCk7kv
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Lirio
     track_name: Scottish à Bruno & Scottish Vreeswijk
     links:
     - portal: Spotify
@@ -519,6 +1187,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=icAZREhQ-cQ
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Lirio
     blacklist: true #Duplicate
@@ -549,6 +1218,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/31AR3TuRG82OzGiWgcL2mV
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Loogaroo
     track_name: La Chiave
@@ -559,6 +1229,13 @@ links:
       link: https://www.youtube.com/watch?v=wMv_fJQ_1hA
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: M-1, Vilniaus universiteto folkloro ansamblis „Ratilio“
+    track_name: POVALIAI LEIDŽIASI SAULĖ (Karališka erdvė „Iš Lėto Leidžiasi Saulė“)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2Pa7SipzFdWyrSXEQ4lRaA
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: MUJI BGM
     track_name: Schottis från Indal
     links:
@@ -568,6 +1245,13 @@ links:
       link: https://www.youtube.com/watch?v=cHEi5gv727U
     from_playlist:
     - https://open.spotify.com/playlist/3hByy7egT3aPjBSk7dbrSs
+  - artist: Magister
+    track_name: Roses jig
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6NF1efTJCSirGW1wlNdBy9
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: Man Encantada
     track_name: La Calorada
     links:
@@ -576,7 +1260,50 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=tnigV11WPcU
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: MandoTrio, Riffarrica
+    track_name: Hakkame mehed minema
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0PwXbexEPoqzHnm2yXDbCc
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Marc Perrone
+    track_name: Esperanza
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1MZSlN1SkgrD1JcgU4tg0r
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Martina Quiere Bailar
+    track_name: La Taberna Elisa
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6m3AKP0abPJaaqYMAtNhMW
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Massalès Brouff
+    track_name: Mamazine, scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6O535K6t6Dio8R7LF9STcR
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Massalès Brouff
+    track_name: Scottish de Mouret
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7tRxUZ8mkml6AlexbyLu3l
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Media Noctis
+    track_name: Chappelnoctis
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5gbhrB6FzkFzOOMW98nPiz
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: Mister Klof
     track_name: Octave - midsommerschottish
     links:
@@ -586,6 +1313,20 @@ links:
       link: https://www.youtube.com/watch?v=7krft5Gqq3I
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Modena City Ramblers
+    track_name: I Cento Passi
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/21lwDJtzbGDJ92lCQs6AQX
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Monika LIU
+    track_name: Šampanas (bul bul bul)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6fd5kDvxREHQVUOtreViXO
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Mr. Folxlide
     track_name: Mind the Gap - Scottish
     links:
@@ -596,6 +1337,7 @@ links:
     - portal: Bandcamp
       link: https://bandcamp.com/EmbeddedPlayer/album=1025616882/size=small/bgcol=ffffff/linkcol=0687f5/track=3959144873/transparent=true/
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
     no_youtube_link: true #Verified
   - artist: Naragonia
@@ -627,6 +1369,20 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
   - artist: Naragonia, Naragonia Quartet
+    track_name: De spijtigen duvel - Galleyhead
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/77Yf2Arbs5G9BOgNmVmC7q
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Naragonia, Naragonia Quartet
+    track_name: Devote Fishing / Fikkingale
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6Lo9lAGC0nqvWAHgDz8g5R
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Naragonia, Naragonia Quartet
     track_name: Hellebore / Too Late to Sleep
     links:
     - portal: Spotify
@@ -634,7 +1390,15 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=UuSqgnNole4
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Nigel Eaton
+    track_name: Scottische - Gloryflower (Arr. Eaton)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/655QN5vpnqecMlEXarIwyt
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Nina Nordvall Vahlberg
     track_name: Schottis Till Håge & Hans Vänner
     links:
@@ -662,6 +1426,55 @@ links:
       link: https://www.youtube.com/watch?v=4gHf011A2t0
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Novar
+    track_name: Mathijs In Den Aldi
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2hZozK20mDC6WQ9Ku44LgF
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Obal
+    track_name: Greenway (Chapelloise)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5vJacZDQXiNRbf0Z7UhoWw
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Obal
+    track_name: Scotex (scottish)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/05Ag41I9Fa6B8i1MuDSvIg
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Obal
+    track_name: Sunshine (Scottish)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3IkitauBbvjuBz33xzYL1D
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Patxi eta Batbiru
+    track_name: Txapel mix (Txapeloaz)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7FXlXwV19JMt4a4FPV2XhV
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Pere Romaní
+    track_name: Xotis de la Notícia | Xotis de Rocacorba
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0m0OuUMwzLrj2cLLFMe7uv
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Peut-être Jeanne
+    track_name: Dobranoc
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/00c6UtrMLqxoM6KosGCbXF
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: Phonix
     track_name: Nordlys Schottish
     links:
@@ -679,6 +1492,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=5WlATMJa2tA
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Plantec
     track_name: Skediñ (Scottish)
@@ -688,7 +1502,15 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=nLsRa1bINNw
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Poolidor
+    track_name: Ceux qui voient le vent
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5ar9HWBWGl1W6XFkQuplGa
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Rémi Geffroy
     track_name: Cranberrie (scottish)
     links:
@@ -699,6 +1521,20 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Rémi Geffroy
+    track_name: La gifle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6Q3FvmncrOedhLSX4cEw06
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Rémi Geffroy
+    track_name: Le danseur de cordes
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0SUfuQU1vIA6UN23rCOThB
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Rémi Geffroy
     track_name: Les larmes de sable
     links:
     - portal: Spotify
@@ -707,6 +1543,13 @@ links:
       link: https://www.youtube.com/watch?v=aertfeVvi6s
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
+  - artist: Sharon Shannon
+    track_name: The Zonkeys Of Easkey
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7dDUEAbzGa9I6PYvyNSyWB
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Snaarmaarwaar
     track_name: Horlepijp / Castro
     links:
@@ -725,6 +1568,62 @@ links:
       link: https://www.youtube.com/watch?v=pS7cphdi9es
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
+  - artist: Solia
+    track_name: Scottisch de Moustier / Scottisch du bois de Spy
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1WsUtNzeugFgWdqikqoFzr
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Solune duo
+    track_name: Vertigo - Chapelloise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0xZ76Wy2UqgELSQ2o1q2Zz
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Startijenn
+    track_name: Trawalc'h ! - Scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1flBWRwYzp8qzrTxsjDVAz
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Talisk
+    track_name: Crooked Water Valley
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/06J7niKvpNeKiZAl4Vy9Cc
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: The Folk Messengers
+    track_name: Boite à Blicks
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5xI7ZgvpDdYzE26VKgafmI
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: The Folk Messengers
+    track_name: British Swing - Ice House Scottish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5dxD5ViukqzQxttkSZWZxI
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: The Folk Messengers
+    track_name: Cansun 'd Rusbela - Ballo Del Curioso Accidente
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3RZG4PqsyDuxaDZUZ8Wox5
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Tralala Lovers
+    track_name: Scottish ma biche
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6m23Ozc4Hjb37GtVBS5qvx
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Tref
     track_name: Scottische en neige
     links:
@@ -743,6 +1642,20 @@ links:
       link: https://www.youtube.com/watch?v=cKgC78YBfNg
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Trio Aman
+    track_name: Scottish Des 45 000 Orteils
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/05FzaZ3X6bJn20ScAcz2pE
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Trio Dhoore
+    track_name: DMG / Pater Lieven / Spring Monday
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6uPKKojQ2RWz3c1cNAy6GN
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: Trio Dhoore
     track_name: Kallis
     links:
@@ -755,6 +1668,20 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/21HX5xYg2CJyw0WKXXBD8g
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Trio Dhoore
+    track_name: Maasland Jig / Wij 3
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/68NPGWhNtuSKFestvwd1iD
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Trio Dhoore
+    track_name: The Offbeat Jig / Keep Dreaming
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1wJDhL32TTWGqyz0Vf4jSw
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: Trio Loubelya
     track_name: Euforriz ( scottish )
     links:
@@ -773,6 +1700,34 @@ links:
       link: https://www.youtube.com/watch?v=tYOOEUHsAr8
     from_playlist:
     - https://open.spotify.com/playlist/57LdI2vT6Uy35mvQx0v5kr
+  - artist: Trio Loubelya
+    track_name: Toshta mishta
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5G3j9sfizHFPlpX1ZzPpRL
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Trio Loubelya, Tristan Le Breton
+    track_name: Andromac
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/68ziu9YPRutpgwJnN7O2Xs
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Tud
+    track_name: Scottishe à belle maman
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6E6tHVY6uNFPCDNxXkgGkq
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Vach'inton.g
+    track_name: Morricone jig
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2yJunEt2DFHJYPHU30V0sK
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: Vandiekomsa
     track_name: Schots In Cm
     links:
@@ -782,6 +1737,27 @@ links:
       link: https://www.youtube.com/watch?v=KqbN_oJ2BqY
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Vegetal Jam
+    track_name: Lúa
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/76NpMPpbYbiZaazzgKTHqW
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Vicki Swan & Jonny Dyer
+    track_name: Driving Home Chapelloise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0MCAa6qaj16hqE8gr2YPMc
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Viorel
+    track_name: Mississippi River - Big Easy
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0KQykDUszm81ywQNIKQEDl
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Vädur
     track_name: Fusk Olles schottis
     links:
@@ -800,6 +1776,27 @@ links:
       link: https://www.youtube.com/watch?v=VuY_R9qFZbY
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Wouter en De Draak
+    track_name: Ballon / tosti
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/50w8krnBpjJUWfTeYYiynu
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Wouter en De Draak
+    track_name: Fireflies and Mosquitoes
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0S1gAxqj8vVGm5d5CG5RDp
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Wouter en De Draak
+    track_name: Scottish périphérique
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2qDGEv4KzQunL9d19mwhfj
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Yann-Fañch Kemener, ba.fnu
     track_name: Scottish
     links:
@@ -809,6 +1806,20 @@ links:
       link: https://www.youtube.com/watch?v=mFR5kKIzbdw
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Zayendo
+    track_name: Chapeloise de Seguret
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2OucFhgrDGfUg8YRzzqwP4
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Zef
+    track_name: Arrow in the Milky Way
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5qA5m7nlabeDw4xmdolHly
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: Zef
     track_name: Scottish a Julo
     links:
@@ -817,7 +1828,15 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=x6nzrI3S7WI
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Zetod
+    track_name: Karmoškale
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/17yV3hBEsxrcuhDpkxPZFG
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Zirp
     track_name: Schottisch Lounge
     links:
@@ -826,7 +1845,15 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=JIzydeHrVz8
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Zirp
+    track_name: Zirpelloise
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6fl0O7pX0RKGA3b5gox0Pj
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: ba.fnu
     track_name: L'orient express (scottish)
     links:
@@ -837,6 +1864,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=kZk1w9pfw-A
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: ba.fnu
     track_name: Skočíš
@@ -846,6 +1874,7 @@ links:
     - portal: Bandcamp
       link: https://bandcamp.com/EmbeddedPlayer/album=2861639636/size=small/bgcol=ffffff/linkcol=0687f5/track=1489448231/transparent=true/
     from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
     no_youtube_link: true #Verified
   - artist: ba.fnu
@@ -857,3 +1886,24 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
     no_youtube_link: true #Verified
+  - artist: Šakar Makar
+    track_name: Aplinkou
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5fStawfHHbyR8LiEojolD4
+    from_playlist:
+    - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Šakar Makar
+    track_name: Bezmenas
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0i1s6SFlPueotoLVrZHniV
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Отава Ё
+    track_name: Ой, Дуся, ой, Маруся (казачья лезгинка)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0XMNr6oVX02CGorbPIjDde
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j

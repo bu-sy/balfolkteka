@@ -3,4 +3,66 @@ name: Bal Limousine
 links:
   # examples: TODO
   playlists:
-    - link: https://open.spotify.com/playlist/2y1yOErY5dGxq4y7SFHkfC
+  - link: https://open.spotify.com/playlist/2y1yOErY5dGxq4y7SFHkfC
+  tracks:
+  - artist: Alexandre Cador, Brotto-Lopez, Claude Puisségur, Harmonie de Tournefeuille, Jean-Christophe Cholet
+    track_name: Harmonia limosin
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/56QQNNCrxMWwcF0a43lKdZ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=IC6iLyGxAXU
+    from_playlist:
+    - https://open.spotify.com/playlist/2y1yOErY5dGxq4y7SFHkfC
+  - artist: Alzamantes
+    track_name: Bal limousine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5fKTHMEc4FPFpwnBMW5OEl
+    from_playlist:
+    - https://open.spotify.com/playlist/2y1yOErY5dGxq4y7SFHkfC
+    no_youtube_link: true
+  - artist: Ballsy Swing
+    track_name: Princesse Plume - Le bal de l'Ogre
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4nfOVBvxvr5ihJZCm6IK7c
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=5G1T0U-cbjQ
+    from_playlist:
+    - https://open.spotify.com/playlist/2y1yOErY5dGxq4y7SFHkfC
+  - artist: Bargainatt
+    track_name: Face au prieuré
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/241UrHTQM8xnRm7cWHR8kd
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=qAbL6yqDe8E
+    from_playlist:
+    - https://open.spotify.com/playlist/2y1yOErY5dGxq4y7SFHkfC
+  - artist: Ciac Boum
+    track_name: Bal des cousins
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7oPfv9KYlr7KDyAAX7XLpv
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=x8VHr3dznao
+    from_playlist:
+    - https://open.spotify.com/playlist/2y1yOErY5dGxq4y7SFHkfC
+  - artist: Gabriel Lenoir
+    track_name: Bal Limousine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3e9Jsz91M9wJj2Uxy1tivd
+    from_playlist:
+    - https://open.spotify.com/playlist/2y1yOErY5dGxq4y7SFHkfC
+    no_youtube_link: true
+  - artist: Petit Piment
+    track_name: Un grand chapeau - La coquille de ses bras
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0L7oMIbo5JRVPpwO9z0rK7
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ETUFlD-b48M
+    from_playlist:
+    - https://open.spotify.com/playlist/2y1yOErY5dGxq4y7SFHkfC

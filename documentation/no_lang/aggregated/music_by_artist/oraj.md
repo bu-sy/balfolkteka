@@ -30,7 +30,7 @@
 
 <hr>
 
-<h3>ORAJ - <b>Père Soleil</b> (Bourrée 2 temps)</h3>
+<h3>ORAJ - <b>Père Soleil</b> (Bourrée 2 temps, Cercle Circassien)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

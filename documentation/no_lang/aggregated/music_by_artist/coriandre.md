@@ -1,4 +1,13 @@
-# Coriandre (4)
+# Coriandre (6)
+
+<hr>
+
+<h3>Coriandre - <b>Bella ciao - Live</b> (Scottish)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/36GTw1qO9nbEpDopcjR6yY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
 
 <hr>
 
@@ -30,6 +39,20 @@
 
 <hr>
 
+<h3>Coriandre - <b>Mazurcaline</b> (Mazurka)</h3>
+
+<details>
+<summary><big>Spotify</big></summary>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0bF2BISS3dGBfb3MPLKJiw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>YouTube</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/PA815_jYnZE?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<hr>
+
 <h3>Coriandre - <b>Scottish a Gozar</b> (Scottish)</h3>
 
 <details>
@@ -44,7 +67,7 @@
 
 <hr>
 
-<h3>Coriandre - <b>Si on se cache</b> (Valse 3 temps)</h3>
+<h3>Coriandre - <b>Si on se cache</b> (Polska (rund polska), Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

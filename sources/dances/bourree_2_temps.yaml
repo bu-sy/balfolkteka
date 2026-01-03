@@ -54,6 +54,15 @@ links:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
+  - artist: ARDANTE
+    track_name: Au château d'hirondelle / Bourrée de Marcillat
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4ZyCuV2xtgCILtXgy6wkCp
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=pCsEUwWJ5Gk
+    from_playlist:
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Accordzêam
     track_name: Allez, bourrés
     links:
@@ -67,6 +76,7 @@ links:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
     - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Accordzêam
     track_name: Bourraph
     links:
@@ -114,6 +124,7 @@ links:
       link: https://www.youtube.com/watch?v=J_nNmluWPhA
     from_playlist:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Airboxes
     track_name: Bourrée S'y D'dans - Troyes
     links:
@@ -127,6 +138,7 @@ links:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Airboxes
     track_name: Confluence - Hurdegaryp
     links:
@@ -142,6 +154,15 @@ links:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
+  - artist: Airboxes
+    track_name: Tides
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3jLi9Op2v384Lwe3qO4fmG
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=0vmrcFZ2zek
+    from_playlist:
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Airboxes
     track_name: Öblarn - Dürnstein Castle
     links:
@@ -230,6 +251,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Anne-Lise Foy, Benoit Mager, Cyril Roche, Patrick Bouffard
     track_name: Bourrées à 2 temps, chavouisses, le pont, la forge
     links:
@@ -276,6 +298,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Arcandela
     track_name: De Montford (bourrée)
     links:
@@ -289,6 +312,7 @@ links:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Aroze
     track_name: Darkening Skies
     links:
@@ -307,6 +331,15 @@ links:
       link: https://www.youtube.com/watch?v=PmUkI6IN-64
     from_playlist:
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
+  - artist: Auka
+    track_name: Bourrée
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4D92RX5naSPVUZQOte1gyL
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=TNiANyFvKFo
+    from_playlist:
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Aurélien Claranbaux
     track_name: Lynomantique
     links:
@@ -318,6 +351,7 @@ links:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Bachir Rouimi, Poolidor
     track_name: Babalwood
     links:
@@ -350,6 +384,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Bal O'Gadjo
     track_name: Le temps des poëts
     links:
@@ -380,6 +415,16 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
+  - artist: Ballsy Swing
+    track_name: 'À nos Mamans: Bourée des criées - Bourée du 22 Novembre (2 Tps)'
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5r1DzMD8GVg7O2d7YGDmuR
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=p7D8pmCZLZ8
+    from_playlist:
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Bargainatt
     track_name: Après la pluie
     links:
@@ -401,6 +446,7 @@ links:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Bargainatt
     track_name: Kutsabo - Mémoire sombre
     links:
@@ -541,6 +587,15 @@ links:
       link: https://www.youtube.com/watch?v=F-tGrpS_8X8
     from_playlist:
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
+  - artist: Castanha é Vinovèl
+    track_name: Avem cargat la mula - Bourrée 2 temps
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6jd3omB10OvTnFENkpKU1A
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=SAUvi0NtY-Y
+    from_playlist:
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Clément Rousse, Guillaume Lopez
     track_name: Canard-Isard
     links:
@@ -637,6 +692,16 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
+  - artist: Dr. Ka
+    track_name: Flash - Bourrée 2 temps
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2LqI6ZviPy0A1JBuQYgyMl
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=SiIbDYMnjoM
+    from_playlist:
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Duo Absynthe
     track_name: Bourrée de Montserrat
     links:
@@ -683,6 +748,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
+  - artist: Duo Anthracite
+    track_name: Le Cric Du Kammthaar (Bourrée 2 temps)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/03gaEUAtvmJH1VvCqRa8Iz
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=e2et7GGeCek
+    from_playlist:
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Duo Brotto Milleret
     track_name: Sur les quais / La presqu'ile / Au coin de la rue
     links:
@@ -713,6 +787,14 @@ links:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
+  - artist: Duo Gestrikt
+    track_name: Bourrée Zonder Naam
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3y5DGM3yQ1KZydDZZyzxVr
+    from_playlist:
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
+    no_youtube_link: true
   - artist: Duo Nello
     track_name: Quand le soldat
     links:
@@ -816,6 +898,7 @@ links:
       link: https://www.youtube.com/watch?v=P2V0KSHja84
     from_playlist:
     - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Faï Petar
     track_name: Bourrée de l'enclume
     links:
@@ -832,9 +915,12 @@ links:
       link: https://open.spotify.com/track/46vosTntMtCRZl0RotNb9h
     - portal: YouTube
       link: https://www.youtube.com/watch?v=k1HqqzLxdL4
+    - portal: Spotify
+      link: https://open.spotify.com/track/775NoCJJufvoiyaynAE1vz
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Fleuves
     track_name: Lagenn
     links:
@@ -853,6 +939,7 @@ links:
       link: https://www.youtube.com/watch?v=yh0CHWEZ18U
     from_playlist:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Frédéric Paris
     track_name: Quand le soldat revient de la guerre (Bourrée 2 tps)
     links:
@@ -874,6 +961,7 @@ links:
       link: https://www.youtube.com/watch?v=MEg3ztcWNtQ
     from_playlist:
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Geronimo
     track_name: Punkin Chunkin
     links:
@@ -911,6 +999,7 @@ links:
     - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Gonnagles
     track_name: Honderd Harphaakjes Bourrée
     links:
@@ -972,6 +1061,7 @@ links:
       link: https://www.youtube.com/watch?v=IbSpfU9xbAA
     from_playlist:
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Hotel Palindrone
     track_name: Maijodler
     links:
@@ -1062,6 +1152,7 @@ links:
       link: https://www.youtube.com/watch?v=4k5XIxwTE2Y
     from_playlist:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Kadril
     track_name: Bourrée la belle inconnue
     links:
@@ -1080,6 +1171,7 @@ links:
       link: https://www.youtube.com/watch?v=1dZhx-OS7fA
     from_playlist:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Karamaus
     track_name: La Danse Perdue
     links:
@@ -1090,6 +1182,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
+  - artist: Karamaus
+    track_name: La Mediterranea
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0CE77IOYlJ6lP7l9er1vac
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=nKqiU6YzZcs
+    from_playlist:
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Kitus
     track_name: Bourrée de Vichy / A bout de souffle
     links:
@@ -1161,6 +1262,7 @@ links:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: La Bottines Artistiques
     track_name: LBA
     links:
@@ -1170,6 +1272,15 @@ links:
       link: https://www.youtube.com/watch?v=x_WrXMvox8g
     from_playlist:
     - https://open.spotify.com/playlist/1hH5pvX6kSh9JYGNftoZwy
+  - artist: La Chavannee
+    track_name: Piloune, Tout En Allant
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4Wxwckf62fEgFEjmTIb2qG
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=zCM-V7NH6nI
+    from_playlist:
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: La Marche
     track_name: Nuit blanche, journée noire
     links:
@@ -1309,6 +1420,16 @@ links:
       link: https://www.youtube.com/watch?v=rlaYaN98OXw
     from_playlist:
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
+  - artist: Les Folkeux de Pie
+    track_name: La petite compote - Bourrée 2T
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/29ieX1f1GMSMJxqyxgl8Bf
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=xC7Cr9tcBRA
+    from_playlist:
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Les Zéoles
     track_name: Dance Machine (Bourrée 2tps)
     links:
@@ -1323,6 +1444,15 @@ links:
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
   - artist: Les genoux
+    track_name: Andrèlefique / Bourrée 2 temps
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4oTz0yIQdeT2EbTcczsRkr
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=LGUUpSGZxSA
+    from_playlist:
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
+  - artist: Les genoux
     track_name: La bourraude / Bourrée 2 temps
     links:
     - portal: Spotify
@@ -1331,6 +1461,7 @@ links:
       link: https://www.youtube.com/watch?v=JDiAcPq8GKA
     from_playlist:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Les genoux
     track_name: Les pattes velues / Bourrée 2 temps
     links:
@@ -1340,6 +1471,16 @@ links:
       link: https://www.youtube.com/watch?v=JV-ZjEal1qU
     from_playlist:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
+  - artist: Les genoux
+    track_name: Tabouret / Bourrée 2 temps
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4ljayk8LYw8yh6dQlUGmYQ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=-MPrYU1PlEA
+    from_playlist:
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Lirio
     track_name: Coockabourrée
     links:
@@ -1441,6 +1582,7 @@ links:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
     - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: LyraDanz, Stéphane Milleret
     track_name: Carneval
     links:
@@ -1619,6 +1761,24 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
+  - artist: Nicolas Peuch
+    track_name: Les nouveaux nez
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7E1Xx38Oy0Zcxc0yioUHae
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=BkK821jWZSQ
+    from_playlist:
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
+  - artist: Nigel Eaton
+    track_name: Bourree 2 (Arr. Eaton)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4TYOuRVwteY0koDKdgZLp7
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Gh_crelkq9I
+    from_playlist:
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Nigel Eaton
     track_name: Three Sharks
     links:
@@ -1637,6 +1797,7 @@ links:
       link: https://www.youtube.com/watch?v=hgmEUaEDKfI
     from_playlist:
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Nostrad
     links:
     - link: https://www.youtube.com/watch?v=4QlMooprx4w
@@ -1655,6 +1816,7 @@ links:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Novar
     track_name: La Descente au Moulin / Les Miroirs / Emerald
     links:
@@ -1706,6 +1868,7 @@ links:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: OMNIA
     track_name: Fee Ra Huri - Live
     links:
@@ -1742,6 +1905,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
     - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Obal
     track_name: Bourrée de montford (Bourrée a 2t)
     links:
@@ -1755,6 +1919,16 @@ links:
     - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
+  - artist: Orfeo
+    track_name: Inferno (Bourrée)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/773CePBqzReD2nUPhnapar
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=eit8aApxYtI
+    from_playlist:
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Ormuz
     track_name: L'amour elle m'y tourmente
     links:
@@ -1802,6 +1976,7 @@ links:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
     - https://open.spotify.com/playlist/1hH5pvX6kSh9JYGNftoZwy
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Peut-être Jeanne
     track_name: Dobranoc
     blacklist: true #Track seems unavailable on spotify
@@ -1822,6 +1997,15 @@ links:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
+  - artist: Plantec
+    track_name: Red an amzer - Bourrée
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7i2qlMxy8k62pLIql7GNkO
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Ekc04UIRv-o
+    from_playlist:
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: QuBa Libre
     track_name: Seguida de borreias / Last Chance / Famous Wolf / Avant de s'en aller
     links:
@@ -1963,6 +2147,7 @@ links:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Solune duo
     track_name: Matisa iela - Bourrée 2 temps
     links:
@@ -1974,6 +2159,7 @@ links:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/1hH5pvX6kSh9JYGNftoZwy
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Stefano Baldan
     track_name: Il Brenta / La brentana
     links:
@@ -2001,6 +2187,7 @@ links:
       link: https://www.youtube.com/watch?v=KP8E5vSc_YQ
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Sylvain Butté
     track_name: L'araignée du lavabo (le jet du robinet)
     links:
@@ -2029,6 +2216,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Tralala Lovers
     track_name: Vive l'amour
     links:
@@ -2054,6 +2242,7 @@ links:
     - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Tref
     track_name: Famine
     links:
@@ -2105,6 +2294,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
     - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Trio Dhoore
     track_name: Cinema Central / Stimulo
     links:
@@ -2152,6 +2342,7 @@ links:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Trio Loubelya
     track_name: Lollypop / Churchill Company ( bourrées à 2 temps )
     links:
@@ -2219,6 +2410,7 @@ links:
       link: https://www.youtube.com/watch?v=0MObdjlFcEo
     from_playlist:
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
+    - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Wouter en De Draak
     track_name: Fireflies and Mosquitoes
     links:

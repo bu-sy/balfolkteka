@@ -4,7 +4,9 @@ keywords:
   tags: Charakterystyka
   links: Odnośniki
   how_to_dance: Jak tańczyć
+  instruction_video: Wideo instruktażowe
   examples: Przykłady
+  example: Przykład
   playlists: Playlisty
   tracks: Utwory
 #  example_video: Film z przykładem tańca
@@ -41,6 +43,12 @@ alt_names:
   valse_5_temps: "Walczyk na 5"
   valse_8_temps: "Walczyk na 8"
   valse_11_temps: "Walczyk na 11"
-  mazurka_irregular: "Nieregularna mazurka"
   cercle_circassien: "Cyrkiel"
   rondeau_en_couple: "Rondo w parach"
+video_tags:
+  video_from_workshops: "Nagranie z warsztatów"
+  recording_of_dancers: "Nagranie tancerzy"
+  recording_from_balfolk: "Nagranie z balfolku"
+  in_french: "Po francusku"
+  in_english: "Po angielsku"
+  in_polish: "Po polsku"

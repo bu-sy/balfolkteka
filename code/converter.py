@@ -13,13 +13,15 @@ def remove_suffix(text, suffix):
 
 class ExampleRecord(object):
     VALID_TYPES = ['example_video']
-    def __init__(self, link):
+    def __init__(self, link, tags):
         self.link = link
+        self.tags = tags
 
     @classmethod
     def from_dict(cls, dict_obj):
         return ExampleRecord(
-            link=dict_obj.get('link')
+            link=dict_obj.get('link'),
+            tags=dict_obj.get('tags', [])
         )
 
 class MusicLinkRecord(object):
@@ -115,6 +117,9 @@ class TranslationFile(YamlDefinedEntity):
 
     def get_translated_tag(self, tag_name):
         return self.contents['translatable'].get(tag_name)
+
+    def get_translated_video_tag(self, tag_name):
+        return self.contents['video_tags'].get(tag_name)
 
 
 class DirectoryStructure(object):

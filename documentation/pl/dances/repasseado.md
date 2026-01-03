@@ -7,10 +7,22 @@
 ## Jak tańczyć
 
 <details>
-<summary><big>Kliknij by rozwinąć</big></summary>
+<summary><big>Wideo instruktażowe 1</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/mlELdda0XNE?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Wideo instruktażowe 2</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ggSZ6DNmme4?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Wideo instruktażowe 3</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/vvqlDD7OalM?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Wideo instruktażowe 4</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/x990IJWbm38?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 

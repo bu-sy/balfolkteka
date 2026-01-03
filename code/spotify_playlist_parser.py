@@ -9,29 +9,34 @@ my_dir = os.path.realpath(os.path.dirname(__file__))
 dances_sources_glob = os.path.realpath(os.path.join(my_dir, '..', 'sources', 'dances', "*.yaml"))
 
 class SpotifyCaller(object):
-    def __init__(self, token_id):# TODO add authorization flow with client_id and client_secret
+    def __init__(self, token_id):
         self.request_headers = {
             'Authorization': f'Bearer {token_id}'
         }
 
     def get_tracks(self, playlist_id):
-        response = requests.get(f"https://api.spotify.com/v1/playlists/{playlist_id}/tracks", headers=self.request_headers)
-        response.raise_for_status()
-        result = response.json()
         all_tracks = []
-        for item_in_the_list in result['items']:
-            track = item_in_the_list['track']
-            if not track['external_urls'].get('spotify'):# Omit -> track is pulled from spotify
-                continue
-            all_tracks.append({
-                'artist': ', '.join(sorted([artist['name'] for artist in track['artists']])),
-                'track_name': track['name'],
-                'links': [{
-                    'portal': 'Spotify',
-                    'link': track['external_urls']['spotify']
-                }],
-                'from_playlist': [f"https://open.spotify.com/playlist/{playlist_id}"]
-            })
+        next_url_to_call = f"https://api.spotify.com/v1/playlists/{playlist_id}/tracks"
+        while next_url_to_call:
+            response = requests.get(next_url_to_call, headers=self.request_headers)
+            response.raise_for_status()
+            result = response.json()
+            next_url_to_call = result['next']
+
+            for item_in_the_list in result['items']:
+                track = item_in_the_list['track']
+                if not track['external_urls'].get('spotify'):# Omit -> track is pulled from spotify
+                    continue
+                all_tracks.append({
+                    'artist': ', '.join(sorted([artist['name'] for artist in track['artists']])),
+                    'track_name': track['name'],
+                    'links': [{
+                        'portal': 'Spotify',
+                        'link': track['external_urls']['spotify']
+                    }],
+                    'from_playlist': [f"https://open.spotify.com/playlist/{playlist_id}"]
+                })
+
         return all_tracks
 
 

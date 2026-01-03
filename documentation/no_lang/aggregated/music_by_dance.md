@@ -1,6 +1,10 @@
 [An Dro (104)](music_by_dance/an_dro.md)
 
+[Avant Deux (0)](music_by_dance/avant_deux.md)
+
 [Bal Keff (5)](music_by_dance/bal_keff.md)
+
+[Bal Limousine (0)](music_by_dance/bal_limousine.md)
 
 [Bourrée 2 temps (223)](music_by_dance/bourree_2_temps.md)
 
@@ -43,6 +47,10 @@
 [Mardi Gras (2)](music_by_dance/mardi_gras.md)
 
 [Mazurka (135)](music_by_dance/mazurka.md)
+
+[Mazurka 11 temps (0)](music_by_dance/mazurka_11_temps.md)
+
+[Mazurka 5 temps (0)](music_by_dance/mazurka_5_temps.md)
 
 [Pas de Sept (1)](music_by_dance/pas_de_sept.md)
 

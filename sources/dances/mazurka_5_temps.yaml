@@ -1,0 +1,8 @@
+id: mazurka_5_temps
+name: Mazurka 5 temps
+connected_dances:
+- mazurka
+- mazurka_11_temps
+links:
+  playlists:
+    - link: https://open.spotify.com/playlist/2fekKatWMT64RpOuDc2qcm

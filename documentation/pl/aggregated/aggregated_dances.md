@@ -1,10 +1,14 @@
-# Lista wszystkich tańców (39)
+# Lista wszystkich tańców (43)
 
 [Powrót do listy stron](../home.md)
 
 [An Dro](../dances/an_dro.md)
 
+[Avant Deux](../dances/avant_deux.md)
+
 [Bal Keff](../dances/bal_keff.md)
+
+[Bal Limousine](../dances/bal_limousine.md)
 
 [Bourrée 2 temps (Bourree na 2)](../dances/bourree_2_temps.md)
 
@@ -47,6 +51,10 @@
 [Mardi Gras](../dances/mardi_gras.md)
 
 [Mazurka](../dances/mazurka.md)
+
+[Mazurka 11 temps](../dances/mazurka_11_temps.md)
+
+[Mazurka 5 temps](../dances/mazurka_5_temps.md)
 
 [Pas de Sept](../dances/pas_de_sept.md)
 

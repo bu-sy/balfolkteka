@@ -1,5 +1,8 @@
 id: mazurka
 name: Mazurka
+connected_dances:
+- mazurka_5_temps
+- mazurka_11_temps
 links:
   examples:
   - link: https://www.youtube.com/watch?v=ego-sRUC0a8
@@ -10,6 +13,7 @@ links:
   - link: https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
   - link: https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - link: https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
+#  - link: https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   tracks:
   - artist: Ablaye Cissoko, Cyrille Brotto
     track_name: Rencontre

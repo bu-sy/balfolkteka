@@ -12,6 +12,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0fEmMlBhaScUpsoHdgsoN1
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=U-ziXP2Ve7k
     from_playlist:
     - https://open.spotify.com/playlist/7zgHJzThp1oLdgG70wAcXZ
   - artist: Nubia
@@ -19,6 +21,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4iaMV0KXek5a33rFdYwT6b
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=DHONKax2x30
     from_playlist:
     - https://open.spotify.com/playlist/7zgHJzThp1oLdgG70wAcXZ
   - artist: Trio Loubelya
@@ -26,5 +30,7 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3wTknJVxFA4CufASrxM1hM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=iZlm2yXXbRk
     from_playlist:
     - https://open.spotify.com/playlist/7zgHJzThp1oLdgG70wAcXZ

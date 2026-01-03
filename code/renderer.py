@@ -160,7 +160,7 @@ def render_music_by_dance(all_dances, directory_structure):
     current_file = directory_structure.get_aggregated_music_by_dance()
     write_file(
         "\n\n".join([
-            link(f"{dance.get('name')} ({number_of_tracks[dance.get('id')]})", directory_structure.get_music_by_dance(
+            link(f"{dance.get('name')} ({number_of_tracks.get(dance.get('id'), 0)})", directory_structure.get_music_by_dance(
                 dance,
                 relative_to=current_file)
              ) for dance in sorted(all_dances, key=lambda x: x.get('id'))

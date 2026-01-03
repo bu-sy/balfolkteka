@@ -26,7 +26,7 @@
 
 [E (56)](music_alphabetically/on_letter_E.md)
 
-[F (66)](music_alphabetically/on_letter_F.md)
+[F (67)](music_alphabetically/on_letter_F.md)
 
 [G (52)](music_alphabetically/on_letter_G.md)
 

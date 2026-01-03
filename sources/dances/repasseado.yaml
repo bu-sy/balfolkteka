@@ -167,6 +167,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/07haojcQecqTDpvpCkKVzS
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=YofyX-RSbkM
     from_playlist:
     - https://open.spotify.com/playlist/5LRx46HzgxpKawOrdqeZg0
   - artist: Trasga

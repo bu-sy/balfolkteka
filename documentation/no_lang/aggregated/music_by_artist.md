@@ -1428,7 +1428,7 @@
 
 [Orquestrina Trama (1)](music_by_artist/orquestrina_trama.md)
 
-[Отава Ё (5)](music_by_artist/otava_io.md)
+[Отава Ё (6)](music_by_artist/otava_io.md)
 
 [Oubéret (1)](music_by_artist/ouberet.md)
 

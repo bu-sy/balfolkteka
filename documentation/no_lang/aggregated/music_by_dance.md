@@ -54,7 +54,7 @@
 
 [Pas de Sept (1)](music_by_dance/pas_de_sept.md)
 
-[Polka (114)](music_by_dance/polka.md)
+[Polka (115)](music_by_dance/polka.md)
 
 [Porcher (2)](music_by_dance/porcher.md)
 

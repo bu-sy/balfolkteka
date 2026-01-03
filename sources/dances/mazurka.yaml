@@ -1759,9 +1759,11 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1xcFvMtrUwD8w2UJYu90D1
+    - portal: Soundcloud
+      link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A664301018&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Le bal de l'éphémère
     track_name: Moire
     links:
@@ -1776,9 +1778,11 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2b6A3nFzYgH9PHYeusYg2T
+    - portal: Soundcloud
+      link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A664307216&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Les Brayauds
     track_name: 'Medley: Mazurka de rivet / La petit baigneuse'
     links:

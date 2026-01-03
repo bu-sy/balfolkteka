@@ -21,7 +21,7 @@
 
 - [Valse 5 temps](valse_5_temps.md)
 
-- [Valse 11 temps](valse_11_temps.md)
+- [Valse 8 temps](valse_8_temps.md)
 
 ## Utwory (12)
 

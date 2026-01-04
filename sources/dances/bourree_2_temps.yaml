@@ -12,6 +12,9 @@ connected_dances:
 links:
   instructions:
   - link: https://www.youtube.com/watch?v=dDAQ6OFr6Oc
+    tags:
+      - in_italian
+      - in_english
   playlists:
   - link: https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
   - link: https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2

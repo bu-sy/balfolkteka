@@ -3,6 +3,8 @@ name: Congo de Captieux
 links:
   examples:
   - link: https://www.youtube.com/watch?v=ZHovppdfZBk
+    tags:
+      - video_from_workshops
   playlists:
   - link: https://open.spotify.com/playlist/3F1mXUA2KN8A3oDHlwu6lG
   - link: https://open.spotify.com/playlist/7JemKuXU0WIwnqM5AKd30F

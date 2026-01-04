@@ -7,9 +7,12 @@ tags:
 links:
   instructions:
   - link: https://www.youtube.com/watch?v=A8AO1zcHD1o
-  examples:
+    tags:
+      - in_english
   - link: https://www.youtube.com/watch?v=oeqQZKvSyNE
-    type: example_video
+    tags:
+      - recording_of_dancers
+      - in_french
   playlists:
   - link: https://open.spotify.com/playlist/5IbcMd4YyTBwJuIggoi0dD
   - link: https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd

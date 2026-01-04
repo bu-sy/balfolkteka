@@ -48,7 +48,9 @@ alt_names:
 video_tags:
   video_from_workshops: "Nagranie z warsztatów"
   recording_of_dancers: "Nagranie tancerzy"
-  recording_from_balfolk: "Nagranie z balfolku"
+  recording_from_balfolk: "Nagranie z potańcówki"
+  recording_from_dance_contest: "Nagranie z konkursu tańca"
   in_french: "Po francusku"
   in_english: "Po angielsku"
   in_polish: "Po polsku"
+  in_italian: "Po włosku"

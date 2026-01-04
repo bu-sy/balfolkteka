@@ -1,7 +1,14 @@
 id: avant_deux
 name: Avant Deux
 links:
-  # examples: TODO
+  instructions:
+  - link: https://www.youtube.com/watch?v=TIsyMdbZNKk
+    tags:
+      - in_italian
+  examples:
+    - link: https://www.youtube.com/watch?v=esQ6cb2E6R4
+      tags:
+        - recording_from_balfolk
   playlists:
   - link: https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
   tracks:

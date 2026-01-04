@@ -1,9 +1,14 @@
 id: cercle_circassien
 name: Cercle Circassien
 links:
+  instructions:
+  - link: https://www.youtube.com/watch?v=X8iQtOlS8YI
+    tags:
+      - in_french
   examples:
   - link: https://www.youtube.com/watch?v=BbLJ4z5EiE4
-  - link: https://www.youtube.com/watch?v=X8iQtOlS8YI
+    tags:
+      - recording_of_dancers
   playlists:
   - link: https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
   - link: https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz

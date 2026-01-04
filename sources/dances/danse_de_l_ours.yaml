@@ -3,6 +3,12 @@ name: Danse de l'Ours
 links:
   examples:
   - link: https://www.youtube.com/watch?v=X9za_AMxhtM
+    tags:
+      - recording_from_balfolk
+  - link: https://www.youtube.com/watch?v=hyJxjjr95VE
+    tags:
+      - video_from_workshops
+      - in_french
   playlists:
   - link: https://open.spotify.com/playlist/0wgFA5FZvEomzQqUct5CbQ
   tracks:

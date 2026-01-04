@@ -7,8 +7,12 @@ tags:
 links:
   instructions:
   - link: https://www.youtube.com/watch?v=0H5PQkqkElc
+    tags:
+      - in_french
   examples:
   - link: https://www.youtube.com/watch?v=Hn5SAbFGOVE
+    tags:
+      - recording_from_dance_contest
   playlists:
   - link: https://open.spotify.com/playlist/69jxBdkZeiRERsiYiIJyyD
   tracks:

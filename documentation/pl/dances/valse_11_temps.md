@@ -23,6 +23,6 @@
 
 - [Valse 8 temps](valse_8_temps.md)
 
-## Utwory (12)
+## Utwory (11)
 
 [Utwory do tańca](../../no_lang/aggregated/music_by_dance/valse_11_temps.md)

@@ -115,7 +115,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: AedO
     track_name: Bouquet bloumé
     links:
@@ -249,12 +249,13 @@ links:
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
   - artist: Andrea Capezzuoli
     track_name: La voile au vent / Au château d'hirondelle / Catogan
+    blacklist: true #Unavailable
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3qo5eZ1lqu3CY1fewvP078
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Andrea Capezzuoli E Compagnia
     track_name: Bourrée - Live
     links:
@@ -263,15 +264,16 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Andrea Capezzuoli E Compagnia
+    blacklist: true #unavailable
     track_name: Bourrée del ciucat - bourrée de thiers
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1QFtS3IMIrycUV5MIDOrRN
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: André Popp y Su Orquesta, Jacques Brel
     track_name: La Bourrée Du Célibataire
     links:

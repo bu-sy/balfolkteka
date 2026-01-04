@@ -102,9 +102,7 @@
 
 [André Popp y Su Orquesta (1)](music_by_artist/andre_popp_y_su_orquesta.md)
 
-[Andrea Capezzuoli (1)](music_by_artist/andrea_capezzuoli.md)
-
-[Andrea Capezzuoli E Compagnia (4)](music_by_artist/andrea_capezzuoli_e_compagnia.md)
+[Andrea Capezzuoli E Compagnia (1)](music_by_artist/andrea_capezzuoli_e_compagnia.md)
 
 [Andreas Tophøj (1)](music_by_artist/andreas_tophoj.md)
 

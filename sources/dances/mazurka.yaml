@@ -122,13 +122,14 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Andrea Capezzuoli E Compagnia
+    blacklist: true #unavailable
     track_name: Marzuka senza nome
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/08aj923PfZE75CXP61nfcc
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Arbadétorne
     track_name: Mazurka dessous le rosier blanc
     links:

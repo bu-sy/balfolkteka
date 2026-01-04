@@ -1,4 +1,4 @@
-## Bourrée 2 temps (311)
+## Bourrée 2 temps (309)
 
 <hr>
 
@@ -297,29 +297,11 @@
 
 <hr>
 
-<h3>Andrea Capezzuoli - <b>La voile au vent / Au château d'hirondelle / Catogan</b></h3>
-
-<details>
-<summary><big>Spotify</big></summary>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3qo5eZ1lqu3CY1fewvP078?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</details>
-
-<hr>
-
 <h3>Andrea Capezzuoli E Compagnia - <b>Bourrée - Live</b></h3>
 
 <details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6L6O5BFB7DMo8PJPGKwl8v?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</details>
-
-<hr>
-
-<h3>Andrea Capezzuoli E Compagnia - <b>Bourrée del ciucat - bourrée de thiers</b></h3>
-
-<details>
-<summary><big>Spotify</big></summary>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1QFtS3IMIrycUV5MIDOrRN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 <hr>

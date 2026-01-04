@@ -16,13 +16,14 @@ links:
   - link: https://open.spotify.com/playlist/3Axsxp4dyH31cDiL9vjPkY
   tracks:
   - artist: Andrea Capezzuoli E Compagnia
+    blacklist: true #unavailable
     track_name: Teresa è Tornata a Cantare
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3BXXBSnZoJFuJiBWTONBI2
     from_playlist:
     - https://open.spotify.com/playlist/3Axsxp4dyH31cDiL9vjPkY
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Aurélien Claranbaux
     track_name: Les 11
     links:

@@ -520,8 +520,6 @@
 
 [Duo Oliver-Sentou (5)](music_by_artist/duo_oliver_sentou.md)
 
-[Duo Pastis (3)](music_by_artist/duo_pastis.md)
-
 [Duo Pennec Bertrand (5)](music_by_artist/duo_pennec_bertrand.md)
 
 [Duo Pilartz Gielen (9)](music_by_artist/duo_pilartz_gielen.md)
@@ -582,7 +580,7 @@
 
 [Eric Desgrugillers (1)](music_by_artist/eric_desgrugillers.md)
 
-[Eric THEZE (9)](music_by_artist/eric_theze.md)
+[Eric Thézé (8)](music_by_artist/eric_theze.md)
 
 [Érik Marchand (1)](music_by_artist/erik_marchand.md)
 
@@ -602,7 +600,7 @@
 
 [Estbel (3)](music_by_artist/estbel.md)
 
-[Estrad (6)](music_by_artist/estrad.md)
+[Estrad (2)](music_by_artist/estrad.md)
 
 [Estremìa (1)](music_by_artist/estremia.md)
 
@@ -1322,8 +1320,6 @@
 
 [Mira (1)](music_by_artist/mira.md)
 
-[Mireille Ben Ensemble (1)](music_by_artist/mireille_ben_ensemble.md)
-
 [Mister Klof (13)](music_by_artist/mister_klof.md)
 
 [Modena City Ramblers (1)](music_by_artist/modena_city_ramblers.md)
@@ -1620,7 +1616,7 @@
 
 [Samuel PARMENTIER (1)](music_by_artist/samuel_parmentier.md)
 
-[Samuel Thézé (5)](music_by_artist/samuel_theze.md)
+[Samuel Thézé (4)](music_by_artist/samuel_theze.md)
 
 [Samurai Accordion (1)](music_by_artist/samurai_accordion.md)
 
@@ -1932,7 +1928,7 @@
 
 [Vassilli (1)](music_by_artist/vassilli.md)
 
-[Vegetal Jam (2)](music_by_artist/vegetal_jam.md)
+[Vegetal Jam (6)](music_by_artist/vegetal_jam.md)
 
 [Velha Gaiteira (3)](music_by_artist/velha_gaiteira.md)
 
@@ -1978,7 +1974,7 @@
 
 [Wim Claeys (1)](music_by_artist/wim_claeys.md)
 
-[Wim te Groen (7)](music_by_artist/wim_te_groen.md)
+[Wim te Groen (6)](music_by_artist/wim_te_groen.md)
 
 [Winifred Horan (1)](music_by_artist/winifred_horan.md)
 
@@ -2028,13 +2024,13 @@
 
 [Zayendo (4)](music_by_artist/zayendo.md)
 
-[Zef (29)](music_by_artist/zef.md)
+[Zef (28)](music_by_artist/zef.md)
 
 [Zero 7 (1)](music_by_artist/zero_7.md)
 
 [Zetod (1)](music_by_artist/zetod.md)
 
-[zffrs (6)](music_by_artist/zffrs.md)
+[zffrs (5)](music_by_artist/zffrs.md)
 
 [Zirp (6)](music_by_artist/zirp.md)
 

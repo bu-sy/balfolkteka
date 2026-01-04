@@ -944,6 +944,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/2zHebVsR6T5fuDahaFLQ3w
     - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Vegetal Jam
+    track_name: Polka regadera
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7GxKIhClQxo6l2yuikEZCY
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=JXq3gFP9krE
+    from_playlist:
+    - https://open.spotify.com/playlist/5E98ffJHf8h58DSUP6XUKU
   - artist: Warsaw Village Band
     track_name: Polka Emigrantka
     links:

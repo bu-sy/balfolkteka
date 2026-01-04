@@ -188,12 +188,13 @@ links:
     - https://open.spotify.com/playlist/6aRUcSTqY91CcEv5pYYhyi
   - artist: Duo Pastis
     track_name: Huit a 8
+    blacklist: true #Unavailable on Spotify
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5U60fpfyEdXMDk9PKNjlJQ
     from_playlist:
     - https://open.spotify.com/playlist/5E1uU55QUfcZMBqdwAjB69
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Duo TTC
     track_name: Sue's
     links:

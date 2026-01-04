@@ -530,12 +530,13 @@ links:
     - https://open.spotify.com/playlist/2B6R31s05xT1LMh1deOh71
   - artist: Duo Pastis
     track_name: La Souris Triste
+    blacklist: true #Unavailable on Spotify
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3hke2QerAgDPInLfZv3R2B
     from_playlist:
     - https://open.spotify.com/playlist/6NVbK3vks1qXQGandRKS5W
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: EmBRUN
     track_name: La Belle Dame / Hanterdrone
     links:

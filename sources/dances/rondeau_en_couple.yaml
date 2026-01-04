@@ -293,9 +293,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3bIyEhTeIONIHs2X8bUJAS
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=E7aReSx8c98
     from_playlist:
     - https://open.spotify.com/playlist/5CJBAa3xGvf5yJKNPlL0wA
-    no_youtube_link: true
   - artist: Orfeo
     track_name: Eria Rond'or (Rondo)
     links:

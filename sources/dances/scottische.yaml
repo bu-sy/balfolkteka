@@ -2509,7 +2509,7 @@ links:
       link: https://open.spotify.com/track/05FzaZ3X6bJn20ScAcz2pE
     from_playlist:
     - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Trio Dhoore
     track_name: DMG / Pater Lieven / Spring Monday
     links:
@@ -2619,6 +2619,15 @@ links:
       link: https://open.spotify.com/track/7g7IOtYmZsMd901TlSG442
     - portal: YouTube
       link: https://www.youtube.com/watch?v=KqbN_oJ2BqY
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Vegetal Jam
+    track_name: Coles scottish de Bruselas
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5jIO6D5kh7graANLNwIOWs
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=tFM-OIeygNI
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Vegetal Jam

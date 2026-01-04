@@ -1286,6 +1286,7 @@ links:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Eric THEZE, Samuel THEZE
     track_name: Eros mazurka
+    blacklist: true #Duplicate, Spotify unavailable
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6xTSmaz6eLSvRSkivx9Vcp
@@ -2473,9 +2474,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6QgNswDWUT5zEAvFT1mIpz
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_MfHSYg_z6E
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
   - artist: Naragonia
     track_name: Le soldat chez sa mère
     links:
@@ -2876,7 +2878,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/2EwAWKzvcwVf8CcVJiW7EJ
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=JhdD-TyVZTo
+      link: https://www.youtube.com/watch?v=T83uvCgTIzw
     from_playlist:
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Rémi Geffroy
@@ -3423,6 +3425,24 @@ links:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Vegetal Jam
+    track_name: Jazz mazurka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2aEF4pMBr0fjuNAguPWpk0
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=l3ZqdlE21AI
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+  - artist: Vegetal Jam
+    track_name: Jazz mazurka (Bonus Track)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0RTIiyYhsO83QELtwkKUXY
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=RjBDKVg35dQ
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Viorel
     track_name: JAX
     links:
@@ -3471,6 +3491,7 @@ links:
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Wim te Groen
     track_name: Eerste Mazurka
+    blacklist: true #Duplicate
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5zgzPRN7DP49q0AwzK1E1k
@@ -3659,17 +3680,21 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2m73Nq3dCg954S8h00arbt
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ZPNaN22b1D0
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
     no_youtube_link: true
   - artist: Zef, zffrs
     track_name: Musike mazurka
+    blacklist: true #Duplicate
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2KVJoIaH57KA8EUk0MKkVa
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=fhIavKGAokY
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
   - artist: Zef, zffrs
     track_name: Solitude
     links:

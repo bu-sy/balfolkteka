@@ -589,21 +589,23 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
   - artist: Estrad
+    blacklist: true #Unavailable on Spotify
     track_name: Jump At the Sun - Fall Down the Moon
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2SsymBNF8viH5JByq04OMQ
     from_playlist:
     - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Estrad
+    blacklist: true #Unavailable on Spotify
     track_name: Le bec de l'Orient
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1AkRQHttvFKVSx4TvPcXb9
     from_playlist:
     - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Fahrenheit
     track_name: La plaine (cercle circassien)
     links:
@@ -1112,7 +1114,7 @@ links:
       link: https://open.spotify.com/track/2qWE55wr8rxDrRvrXtDPoq
     from_playlist:
     - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Trio Loubelya
     track_name: La quadrature du cercle
     links:

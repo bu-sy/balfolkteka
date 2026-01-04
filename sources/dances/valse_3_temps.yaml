@@ -1493,13 +1493,14 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
   - artist: Estrad
+    blacklist: true #Unavailable on Spotify
     track_name: Le porcher de compiègne
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5XruPnVV5sw6Wk6UEQNYsl
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Everybody Loves an Outlaw
     track_name: I See Red
     links:
@@ -2637,9 +2638,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7622tGpIOOmGH45uyaBQw8
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=tVCExnFgF9E
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
   - artist: Naragonia
     track_name: Samen Op de Tractor
     links:
@@ -3577,7 +3579,7 @@ links:
       link: https://open.spotify.com/track/6XUnICCbro93Zq7c9uYv1X
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Trio Dhoore
     track_name: Malzacherwals / The Riss Family
     links:

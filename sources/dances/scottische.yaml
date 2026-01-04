@@ -952,7 +952,7 @@ links:
       link: https://open.spotify.com/track/03nFIQdgP93hw92RNg3Hfl
     from_playlist:
     - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Duo L'Hêtre Heureux
     track_name: Les sept sens
     links:

@@ -156,7 +156,7 @@
 
 <hr>
 
-<h3>Coriandre - <b>Si on se cache</b> (Polska (rund polska), Valse 3 temps)</h3>
+<h3>Coriandre - <b>Si on se cache</b> (Mazurka, Polska (rund polska), Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

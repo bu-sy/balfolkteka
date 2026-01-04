@@ -100,7 +100,7 @@
 
 <hr>
 
-<h3>Trio Loubelya - <b>Hallux</b> (Mazurka 5 temps)</h3>
+<h3>Trio Loubelya - <b>Hallux</b> (Mazurka, Mazurka 5 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

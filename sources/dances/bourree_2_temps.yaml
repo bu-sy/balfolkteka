@@ -13,8 +13,8 @@ links:
   instructions:
   - link: https://www.youtube.com/watch?v=dDAQ6OFr6Oc
     tags:
-      - in_italian
-      - in_english
+    - in_italian
+    - in_english
   playlists:
   - link: https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
   - link: https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
@@ -591,13 +591,14 @@ links:
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
     no_youtube_link: true #Verified
   - artist: Benoît Michaud, Zabou Guérin
+    blacklist: true
     track_name: Bourriches
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0heTtXoQex3EiHkyiL8GFs
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Benoît Michaud, Zabou Guérin
     track_name: Y a Moy1
     links:
@@ -1145,15 +1146,16 @@ links:
       link: https://open.spotify.com/track/3y5DGM3yQ1KZydDZZyzxVr
     from_playlist:
     - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Duo Gestrikt
     track_name: Bourrée zonder naam
+    blacklist: true #Unavailable on spotify
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4NUs9ZyDdz1pT6mgXdPvoR
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Duo Nello
     track_name: John O'Gaunt Morris Men / I'll go and Enlist for a Sailor
     links:

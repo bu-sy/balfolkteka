@@ -6,7 +6,7 @@
 
 [Bal Limousine (7)](music_by_dance/bal_limousine.md)
 
-[Bourrée 2 temps (309)](music_by_dance/bourree_2_temps.md)
+[Bourrée 2 temps (307)](music_by_dance/bourree_2_temps.md)
 
 [Bourrée 3 temps (150)](music_by_dance/bourree_3_temps.md)
 
@@ -46,7 +46,7 @@
 
 [Mardi Gras (2)](music_by_dance/mardi_gras.md)
 
-[Mazurka (347)](music_by_dance/mazurka.md)
+[Mazurka (386)](music_by_dance/mazurka.md)
 
 [Mazurka 11 temps (3)](music_by_dance/mazurka_11_temps.md)
 

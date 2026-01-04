@@ -7,13 +7,13 @@ connected_dances:
 - bourree_2_temps
 links:
   instructions:
-    - link: https://www.youtube.com/watch?v=sMucND-txAY
-      tags:
-        - in_italian
+  - link: https://www.youtube.com/watch?v=sMucND-txAY
+    tags:
+    - in_italian
   examples:
   - link: https://www.youtube.com/watch?v=8S_jL0XEMvE
     tags:
-      - recording_of_dancers
+    - recording_of_dancers
   playlists:
   - link: https://open.spotify.com/playlist/0dIC0MyWfQvOVYtteqtLft
   - link: https://open.spotify.com/playlist/60rT8z0AbQ5ZQIrWsvSOWq

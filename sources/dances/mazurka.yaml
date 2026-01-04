@@ -14,6 +14,7 @@ links:
   - link: https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - link: https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - link: https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - link: https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   tracks:
   - artist: 21 BOuTONS
     track_name: Ullan Masurkka - Vanha Masurkka
@@ -59,6 +60,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=EFzFebzy9Fw
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Accordzêam
     track_name: Natzurka
@@ -72,7 +74,16 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Adriano Sangineto
+    track_name: Rue Nobel
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2wFYnzs0XLC65DOGYXNsFm
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+    no_youtube_link: true
   - artist: Airboxes
     track_name: Bosvelden
     links:
@@ -93,6 +104,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=kDGrHg5cpkc
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Alina Orlova
     track_name: Ruduo Tau Tinka
@@ -111,6 +123,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=sLN3lilVvog
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Andoorn
     track_name: Kwaak (mazurka)
@@ -128,8 +141,18 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/08aj923PfZE75CXP61nfcc
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
     no_youtube_link: true #Verified
+  - artist: Andrea Kipara Balgera
+    track_name: Mazurkotish
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5qnytu2iNoZS0X9csFGZlv
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=1ne-Ia1j94w
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Arbadétorne
     track_name: Mazurka dessous le rosier blanc
     links:
@@ -266,6 +289,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=nPsH8NnZh0g
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Aurélien Claranbaux
     track_name: Maritxu - Quantum
@@ -285,6 +309,7 @@ links:
       link: https://www.youtube.com/watch?v=sS44qp99NEY
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Bagad de Lann Bihoué
     track_name: Mazurka
@@ -331,6 +356,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=5g86oseEFaE
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Ballsy Swing
     track_name: Atlantis Octopus (Mazurka)
@@ -378,6 +404,14 @@ links:
       link: https://www.youtube.com/watch?v=CSV3HDEQznc
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Baltazar Montanaro, Sophie Cavez
+    track_name: Moufflekes
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/57nAM1N7wbxPjw6wCG3jqu
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+    no_youtube_link: true
   - artist: Bargainatt
     track_name: Au bord de l'eau
     links:
@@ -453,6 +487,14 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Blowzabella
+    track_name: The Origin Of The World
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2zsMwPPZRObLt3tRfS7aEm
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+    no_youtube_link: true
+  - artist: Blowzabella
     track_name: The Origin of the World
     links:
     - portal: Spotify
@@ -468,6 +510,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=quGPf2MfgKE
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Blue Reed
     track_name: Magnitsky Mazurka
@@ -477,6 +520,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=e_MVNq6pS1g
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Blue Reed
     track_name: Mazurka in blu
@@ -487,6 +531,7 @@ links:
       link: https://www.youtube.com/watch?v=AOyFJngAe4o
     from_playlist:
     - https://open.spotify.com/playlist/2hL4rLYe9FdRs1pgbQyyy1
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Blue Reed
     track_name: Quando V. incontrò il mondo
@@ -523,6 +568,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=IPP_9he009A
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Brotto-Lopez
     track_name: La Candèla
@@ -533,6 +579,7 @@ links:
       link: https://www.youtube.com/watch?v=weNVc1G8cYY
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Brotto-Lopez
@@ -563,6 +610,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=OIbgnmZkPbI
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Brotto-Lopez
     track_name: Tres son seroletas - Chant de la vallée d'Ossau
@@ -607,6 +655,15 @@ links:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
     no_youtube_link: true
   - artist: Bruno Le Tron, François Heim
+    track_name: Les yeux de Nina
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0CZNbcqTSnsfwpjVvWZCxm
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=jE2tnJ9ho0E
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+  - artist: Bruno Le Tron, François Heim
     track_name: Tessazurka
     links:
     - portal: Spotify
@@ -615,6 +672,7 @@ links:
       link: https://www.youtube.com/watch?v=4_wB8KKoxGc
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Bruno Le Tron, Laurent Cabané, Olivier Le Gallo
     track_name: Le Pinson du Nord
@@ -672,6 +730,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Castanha é Vinovèl
     track_name: Aigueta - Mazurka
     links:
@@ -680,6 +739,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=21bjGc9fVg0
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Castanha é Vinovèl
     track_name: Maridon - Mazurka
@@ -689,6 +749,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=kPaZqx9fudI
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Cecilia
     track_name: Mazurca 'La Principessa'
@@ -735,6 +796,15 @@ links:
       link: https://www.youtube.com/watch?v=-evQzzOCIT4
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Claudio Carboni, Riccardo Tesi
+    track_name: Suite di mazurke - Tra veglia e sonno, Mazurka di S.Benedetto
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5qSNta82N0ROACez48hkDa
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=x-kHU8qxxHw
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Corentin Gidrol, Nicolas Canavaggia, Tralala Lovers
     track_name: Mazurka du pangolin
     links:
@@ -753,7 +823,17 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=PA815_jYnZE
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Coriandre
+    track_name: Si on se cache
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2dYeFEbhEwSSFSVXzCYLwM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=NOmBNvuzTEA
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Coriandre
     track_name: Un jorn benleu - Un jour peut-être
     links:
@@ -782,6 +862,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/1hHb12xfbPFsyEWz4lyzyk
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Dahù
     track_name: Paredes
@@ -791,6 +872,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=w3UuZGrVVak
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Decibal
     track_name: Tout le monde y font l'amour
@@ -918,6 +1000,7 @@ links:
       link: https://www.youtube.com/watch?v=_Xf0TRJvXYo
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Duo Absynthe
     track_name: La nonchalante
     links:
@@ -926,6 +1009,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=riHMf23CxLI
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Duo Absynthe
     track_name: Mazurka à Clément
@@ -936,6 +1020,7 @@ links:
       link: https://www.youtube.com/watch?v=L_j0ppqZ-d8
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Duo Absynthe
     track_name: Morcelune - Remastered
@@ -958,6 +1043,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/2hL4rLYe9FdRs1pgbQyyy1
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Duo Absynthe
     track_name: Petekindjewals (Depardu)
@@ -976,6 +1062,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=Y_59ALtDL4Y
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Duo Anthracite
     track_name: Les Amants du Mois de Mai (Mazurka)
@@ -1018,6 +1105,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     - https://open.spotify.com/playlist/2hL4rLYe9FdRs1pgbQyyy1
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Duo Blain-Leyzour
     track_name: Sur la grand'route (Mazurka)
@@ -1030,6 +1118,15 @@ links:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Duo Bottasso
+    track_name: Magicicada
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2KIg1uURyZXdOmZyXMpnqM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=603dL7nO-3s
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+  - artist: Duo Bottasso
     track_name: The Rose of Raby - Incantata
     links:
     - portal: Spotify
@@ -1037,6 +1134,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=wezaNX-m-ag
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Duo Bottasso, Simone Sims Longo
     track_name: Samarazurka
@@ -1047,6 +1145,7 @@ links:
       link: https://www.youtube.com/watch?v=eWm51twuiEY
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Duo Gestrikt
     track_name: Zebrazurka
@@ -1103,6 +1202,15 @@ links:
       link: https://www.youtube.com/watch?v=SF_5G27EPyQ
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+  - artist: Duo Pilartz Gielen
+    track_name: Les loups du Cantal - Mazurkas auvergnates
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3QMazm2ELIPoe2ydLEk9WH
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=OgLNmd4L65I
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Duo TTC
     track_name: Mazurka d'augères basses / Kervigen
     links:
@@ -1176,6 +1284,15 @@ links:
       link: https://www.youtube.com/watch?v=dUVSGfptUwo
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Eric THEZE, Samuel THEZE
+    track_name: Eros mazurka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6xTSmaz6eLSvRSkivx9Vcp
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=f0EPf6Q0_Ko
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Eric Thézé
     track_name: Eros Mazurka
     links:
@@ -1185,6 +1302,15 @@ links:
       link: https://www.youtube.com/watch?v=f0EPf6Q0_Ko
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Estbel
+    track_name: Öö Ja Päeva Vahel
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1qntKk0aaOajH2pRdSg1lb
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=8UhRRZ755-c
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Estrad
     track_name: Mazzzurka Zzzen
     links:
@@ -1203,13 +1329,30 @@ links:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
     no_youtube_link: true
   - artist: Fabio Colussi
+    track_name: L'aiguilette
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/76x4XzJLeldBbL8wTUTp5j
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+    no_youtube_link: true
+  - artist: Fabio Colussi
     track_name: L'attesa di Camilla
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1j5dKGOx8I2OefT3EJFjEy
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
     no_youtube_link: true #Verified
+  - artist: Fabio Colussi
+    track_name: Le Doute de Marlène
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1fI4G89lG39u7RWlSxkeM0
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+    no_youtube_link: true
   - artist: Fabio Colussi
     track_name: Mazumar
     links:
@@ -1236,6 +1379,7 @@ links:
       link: https://www.youtube.com/watch?v=3Sy1sEwk-Sk
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Fahrenheit
     track_name: Solitude (mazurka)
@@ -1246,6 +1390,7 @@ links:
       link: https://www.youtube.com/watch?v=TAL7sj3xZgU
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Femme Folk
     track_name: Mazurka stanca
@@ -1284,6 +1429,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/0zqzY4PCmXautm1C32MwXg
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Gianmaria Testa
@@ -1302,6 +1448,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=pvqk9QpKncM
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Gonnagles
     track_name: Mazurka Middernacht
@@ -1311,6 +1458,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=5BhLqKXNZH8
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Grand orchestre d'Auvergne
     track_name: Mazurkas d'Auvergne
@@ -1329,6 +1477,7 @@ links:
       link: https://www.youtube.com/watch?v=SUIGlO-N1-I
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Gwenn Guiffant, Le Bal en Chantier
@@ -1348,6 +1497,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=rchlKTooPQo
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Göze
     track_name: Mazurka des Tuilleries
@@ -1358,6 +1508,7 @@ links:
       link: https://www.youtube.com/watch?v=YaGOAetu2YI
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Hamon Martin Quintet
     track_name: Et si l'idée coulait de source (Mazurka)
@@ -1375,6 +1526,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=73H-95vMEPQ
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Hidrae
     track_name: Schelvis
@@ -1429,6 +1581,7 @@ links:
       link: https://open.spotify.com/track/1G7kC4SQdLciFJSYmteKWE
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
     no_youtube_link: true #Verified
   - artist: Komred
@@ -1467,6 +1620,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=ttqO73zDcTg
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Kv Express
     track_name: Jonyboy
@@ -1475,7 +1629,10 @@ links:
       link: https://open.spotify.com/track/5DCnqsJMgtpvSlzB3J9YXO
     - portal: YouTube
       link: https://www.youtube.com/watch?v=67Ids8psUq8
+    - portal: Spotify
+      link: https://open.spotify.com/track/4WloIffkyvyer1pbBKDmDy
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Kv Express
     track_name: Les coccibulles
@@ -1486,6 +1643,7 @@ links:
       link: https://www.youtube.com/watch?v=4EiE8IEUD_c
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Kv Express
     track_name: Loulou
@@ -1496,6 +1654,7 @@ links:
       link: https://www.youtube.com/watch?v=gdXjo-4P0I4
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Kv Express
     track_name: Nu niet later, niet elders maar hier
@@ -1505,6 +1664,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=bI6Jj1zPuBw
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Kv Express
     track_name: Soli
@@ -1553,6 +1713,7 @@ links:
       link: https://www.youtube.com/watch?v=Rk_CEr0HmRo
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: La Bricole
     track_name: La manchotte (Mazurka)
@@ -1646,6 +1807,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=1fw4jN0B65Y
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Le Bal Brotto Lopez, Les Ogres De Barback
@@ -1657,6 +1819,7 @@ links:
       link: https://www.youtube.com/watch?v=pQ2ghfA_5w4
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Le Bal en Chantier
     track_name: Belle d'un soir
@@ -1706,6 +1869,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/1oB5bcdB1JoYZpeYDFSozT
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Le Sextet à Claques
@@ -1716,6 +1880,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=qrZI3FxjPO0
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Le Sextet à Claques
     track_name: La p'tite fée
@@ -1726,6 +1891,7 @@ links:
       link: https://www.youtube.com/watch?v=SZfuDHAA4is
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Le Sextet à Claques
     track_name: Là, si on vous faisait plaisir...
@@ -1735,6 +1901,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=39N1DEy98_M
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Le Sextet à Claques
     track_name: Nass
@@ -1744,6 +1911,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=QSjwXV6m-do
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Le Sextet à Claques
     track_name: Trafic d'orgasmes
@@ -1754,6 +1922,7 @@ links:
       link: https://www.youtube.com/watch?v=69KHzbde2GE
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Le bal de l'éphémère
     track_name: Fil de lune
@@ -1784,6 +1953,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
     no_youtube_link: true #Verified
+  - artist: Leana & Hartwin
+    track_name: Siidilipp - Silk sails
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3MGSFBZspcp8Zpca9i7JPS
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=jcya8CdIAJ0
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Les Brayauds
     track_name: 'Medley: Mazurka de rivet / La petit baigneuse'
     links:
@@ -1839,6 +2017,7 @@ links:
       link: https://www.youtube.com/watch?v=__8myaNDfsg
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Les Zéoles
     track_name: Petite aube (Mazurka-Valse)
@@ -1858,6 +2037,7 @@ links:
       link: https://www.youtube.com/watch?v=5XzPCi5KoSY
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Les genoux
     track_name: Balladaï / Mazurka
@@ -1897,6 +2077,7 @@ links:
       link: https://open.spotify.com/track/3Rz1WqTOXWI8omXk8JKeb0
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Lirio
     track_name: Mazurka voor een mus
@@ -1909,6 +2090,7 @@ links:
       link: https://open.spotify.com/track/1xScXw5uLaBaWlcNjpnl8X
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Lo Cor de la Plana
     track_name: Masurka Mafiosa Marselhesa
@@ -1946,6 +2128,23 @@ links:
       link: https://www.youtube.com/watch?v=fGcoq0i-xMk
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Lorenzo Tempesti
+    track_name: Bluesurka in A Minor
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0UCzlL6j2lQLfGSxpoVzUq
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=iaz07XVr5xk
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+  - artist: Lorenzo Tempesti
+    track_name: Take me with you
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6RezehKFCbIcRfCqOJdxmU
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+    no_youtube_link: true
   - artist: Lou Tapage
     track_name: L'inconnu de la Limoise
     links:
@@ -1966,6 +2165,15 @@ links:
     - https://open.spotify.com/playlist/2hL4rLYe9FdRs1pgbQyyy1
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: LyraDanz
+    track_name: Dans le train
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1QS2lxIPToQ7EkmVZsflUV
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=7QZfWzAxF8M
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+  - artist: LyraDanz
     track_name: Daydreamer
     links:
     - portal: Spotify
@@ -1973,6 +2181,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=mIzLBc7mZSk
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: MANdolinMAN
     track_name: Mazurka Houtem
@@ -2046,6 +2255,15 @@ links:
       link: https://www.youtube.com/watch?v=pNqQMTervOY
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Marialla
+    track_name: Oyouskova (Mazurka)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6qWaotXcWEEInErCneCXCn
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=OqTGk1rS5kI
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Marta Maślanka, WoWaKin
     track_name: TamTa Dyna
     links:
@@ -2126,6 +2344,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=I6UpmGALke4
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Mister Klof
     track_name: Les souvenirs de demain - mazurka des tisonniers
@@ -2135,6 +2354,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=CUAFDB31yRc
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Moizbat
     track_name: La pechardière
@@ -2191,6 +2411,7 @@ links:
       link: https://bandcamp.com/EmbeddedPlayer/album=1025616882/size=small/bgcol=ffffff/linkcol=0687f5/track=105066460/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
     no_youtube_link: true #Verified
   - artist: NOU
@@ -2217,8 +2438,36 @@ links:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
+  - artist: Naragonia
+    track_name: Boumboumpwetpwet
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3211KthYvcLVAIooQJIWV4
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=EayLbAiCtL8
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+  - artist: Naragonia
+    track_name: Chavirage
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0J2ZOfxG1f5ZBph5f3YZpg
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=BtXpEhNdqmg
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+  - artist: Naragonia
+    track_name: Dois Galoes
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4AFSgg6RwH0X7yJUFw5JI3
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=LZMEHo60GB0
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Naragonia
     track_name: Le Passeur
     links:
@@ -2237,6 +2486,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/7dsBI8WY6NcJQtOSJJyCaB
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Naragonia
     track_name: Little Thea
@@ -2255,8 +2505,11 @@ links:
       link: https://open.spotify.com/track/6s52uf47lr4FPNjEfw71qd
     - portal: YouTube
       link: https://www.youtube.com/watch?v=yZGJSF4qoss
+    - portal: Spotify
+      link: https://open.spotify.com/track/0BxkJz5E6NeVuHCV3co2sj
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Naragonia
     track_name: Tourbillonne
@@ -2265,7 +2518,10 @@ links:
       link: https://open.spotify.com/track/75tgjswvk92bI6NhvMLXfy
     - portal: YouTube
       link: https://www.youtube.com/watch?v=kcUvdRA4FeQ
+    - portal: Spotify
+      link: https://open.spotify.com/track/0kMIhyDQxuygUSzrRqA0tg
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Naragonia
     track_name: Zébus / The Black Storck
@@ -2273,8 +2529,18 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/6BEDCVZWwEyDYtq31zah3n
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
     no_youtube_link: true
+  - artist: Naragonia Quartet
+    track_name: Het Noorden
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4OMCmLrNey1FcaHa40kT1D
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=adgd0O-nQT8
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Naragonia Quartet
     track_name: Momento Pierrot
     links:
@@ -2284,6 +2550,7 @@ links:
       link: https://www.youtube.com/watch?v=rcEVCfxNmbc
     from_playlist:
     - https://open.spotify.com/playlist/2hL4rLYe9FdRs1pgbQyyy1
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Naragonia Quartet
     track_name: The Lilly Ponds
@@ -2295,6 +2562,7 @@ links:
       link: https://www.youtube.com/watch?v=mrzCGFD4IDc
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Naragonia, Naragonia Quartet
     track_name: Momento Pierrot
@@ -2341,6 +2609,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=GxOZ9-SjgLk
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Nostrad
     links:
@@ -2368,6 +2637,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=DrwBkyAm1lY
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Nubia
     track_name: De Narcis & Fietsen in de Regen
@@ -2401,6 +2671,7 @@ links:
       link: https://open.spotify.com/track/0hQDp9avc1pQ0oHzMLAscc
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Nubia
     track_name: Schaduwwind & Regnskurar
@@ -2420,6 +2691,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=DHONKax2x30
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: ORAJ
     track_name: Décharmée
@@ -2509,6 +2781,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/7F9uPDOkuXSuFTs6XOftZ3
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
     no_youtube_link: true
   - artist: Pichard Vincendeau, Stevan Vincendeau, Willy Pichard
@@ -2538,6 +2811,7 @@ links:
       link: https://www.youtube.com/watch?v=M1JOQgRmFGA
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Rachel Averly
     track_name: Mazurka à rigal
@@ -2548,6 +2822,7 @@ links:
       link: https://www.youtube.com/watch?v=bR_fWifXFx4
     from_playlist:
     - https://open.spotify.com/playlist/2hL4rLYe9FdRs1pgbQyyy1
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Raphnin Maurel
     track_name: Indifférence
     links:
@@ -2575,6 +2850,15 @@ links:
       link: https://www.youtube.com/watch?v=OPJTCuTx3Kw
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Riccardo Tesi
+    track_name: Mazurka del nonno
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3Di5LDWgr6kXCu8KGOJkPP
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=kXkNLCbWxWs
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Rémi Geffroy
     track_name: Au bord de l'eau (mazurka)
     links:
@@ -2584,7 +2868,17 @@ links:
       link: https://www.youtube.com/watch?v=sf4VKsWb9Uw
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Rémi Geffroy
+    track_name: Empathie
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2EwAWKzvcwVf8CcVJiW7EJ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=JhdD-TyVZTo
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Rémi Geffroy
     track_name: Homéostasie
     links:
@@ -2609,6 +2903,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=k-LYoHP0Wy4
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Rémi Geffroy
     track_name: Nouveau départ
@@ -2616,6 +2911,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/5bib2hFi2eVk9mwAvjcw5V
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
     no_youtube_link: true
   - artist: Rémi Geffroy
@@ -2625,7 +2921,10 @@ links:
       link: https://open.spotify.com/track/02zRbwV2l60IYeKFqKq5yx
     - portal: YouTube
       link: https://www.youtube.com/watch?v=_IpOpfaDac0
+    - portal: Spotify
+      link: https://open.spotify.com/track/5dIwQStQCHu3QiYmb5mJgB
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Shillelagh
     track_name: Klompenmazurka - Live
@@ -2680,6 +2979,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=byuC5cqo1d0
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Snaarmaarwaar
     track_name: Lumi
@@ -2703,6 +3003,7 @@ links:
       link: https://open.spotify.com/track/46GWPltSVzQiRFCr4Qbvfp
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Snaarmaarwaar
@@ -2779,6 +3080,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Stefano Baldan
+    track_name: Amor mio
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4WRanZmy1rLNuJdHPH9Jg7
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=wAAF2pTK8PY
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+  - artist: Stefano Baldan
     track_name: In Punta di Piedi
     links:
     - portal: Spotify
@@ -2786,6 +3096,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=MZQyx2DSrhQ
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Stefano Baldan
     track_name: In punta di piedi
@@ -2795,6 +3106,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
     no_youtube_link: true
+  - artist: Stefano Baldan
+    track_name: La manicure
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4Ou5YYrMaAc64NyupJ8FX7
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=MZQyx2DSrhQ
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Sylvain Butté
     track_name: La paire de Saulxures
     links:
@@ -2865,6 +3185,7 @@ links:
       link: https://www.youtube.com/watch?v=Mk8msw3FRcE
     from_playlist:
     - https://open.spotify.com/playlist/2hL4rLYe9FdRs1pgbQyyy1
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Tref
@@ -2876,6 +3197,15 @@ links:
       link: https://www.youtube.com/watch?v=uosR8i1cHNk
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Tref
+    track_name: Walsque
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7LS9Nh5d2jArJB1cw94DvN
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=iqOA1MILE_o
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Tribal Jâze
     track_name: Les poissons
     links:
@@ -2915,6 +3245,7 @@ links:
       link: https://www.youtube.com/watch?v=5HiTlKkEZRA
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Trio Dhoore
     track_name: Parachute
@@ -2925,6 +3256,7 @@ links:
       link: https://www.youtube.com/watch?v=dW9ENISyHKk
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Trio Dhoore
     track_name: Vihmazurka / Kodumaa
@@ -2935,7 +3267,26 @@ links:
       link: https://www.youtube.com/watch?v=9wjzBMO1nUo
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Trio Dhoore
+    track_name: Voor Od en Sára
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/75sPiUxy4f5ePYS0gJOxwa
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=XoA2AWp_YQY
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+  - artist: Trio Loubelya
+    track_name: Hallux
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0npDnBbTYwQ3iPhCn7RBlB
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=7U6jD-1zg1U
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Trio Loubelya
     track_name: Il neige à porto
     links:
@@ -2945,6 +3296,7 @@ links:
       link: https://www.youtube.com/watch?v=OXVorqItVNM
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Trio Loubelya
@@ -2955,6 +3307,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=xYRjLCjaGjU
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Trio Loubelya
     track_name: Mazurkamille ( Mazurka )
@@ -2965,6 +3318,7 @@ links:
       link: https://www.youtube.com/watch?v=nmR71xJM9nM
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Trio Loubelya
     track_name: Mouchti ( mazurka )
@@ -2975,6 +3329,7 @@ links:
       link: https://www.youtube.com/watch?v=cyeutrbX-NI
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Trio Loubelya
     track_name: Panne à Ibiza
@@ -3028,7 +3383,35 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=juM_RKjsYAg
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Valentin Barray
+    track_name: Les départs
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6eCiVrGs0QMKS8vOIcaV5A
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=tgxCO8dY0UA
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+  - artist: Valentin Barray
+    track_name: Les ruines
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6Q3G8BSkfJ9YZv8FvOLIcd
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=gtpgcX1A0mM
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+  - artist: Valentin Barray
+    track_name: Mazurka Sequenza
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5SSU64WngshddwDap9m435
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=t3r8_1Gn5CQ
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Valentin Barray
     track_name: Mazurkina
     links:
@@ -3038,6 +3421,7 @@ links:
       link: https://www.youtube.com/watch?v=WrrmN6pI3wo
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Viorel
     track_name: JAX
@@ -3076,6 +3460,24 @@ links:
       link: https://www.youtube.com/watch?v=bEUutYVe3Ug
     from_playlist:
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
+  - artist: Wim Claeys
+    track_name: Lut Zit Op den Oven
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/42cZ3jMz5e3pOHfHEhsMYJ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=E9mOu34Bh0Q
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+  - artist: Wim te Groen
+    track_name: Eerste Mazurka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5zgzPRN7DP49q0AwzK1E1k
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=VuY_R9qFZbY
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Wim te Groen
     track_name: Eerste Mazurka (mazurka /scottish)
     links:
@@ -3086,6 +3488,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Wim te Groen
+    track_name: Lead Out (Mazurka)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7ErJYOskSZOFjBz1mHbFIX
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ZppL7olww6w
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+  - artist: Wim te Groen
     track_name: Wat Een Leuk Walsje (Mazurka)
     links:
     - portal: Spotify
@@ -3094,6 +3505,7 @@ links:
       link: https://www.youtube.com/watch?v=_Eqbm_WieNM
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Wim te Groen
     blacklist: true #duplicate
     track_name: Wat een leuk walsje (mazurka)
@@ -3125,6 +3537,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Wouter en De Draak
     track_name: Monsieur 7
@@ -3135,6 +3548,7 @@ links:
       link: https://www.youtube.com/watch?v=7TczVdhQNEA
     from_playlist:
     - https://open.spotify.com/playlist/2lW7vnegM0NOiwURNEg7CR
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Wouter en De Draak
     track_name: Zon op de Glijbaan
@@ -3144,6 +3558,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=W2X7HkCYR_w
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Wouter en De Draak
     track_name: Zon op de glijbaan
@@ -3160,6 +3575,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/4lJZQUrxrWJ87x6ziUsULP
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
     no_youtube_link: true
   - artist: Zayendo
@@ -3168,6 +3584,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/3A1RFGtuDfHeRhSp7tjRgk
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
     no_youtube_link: true
   - artist: Zef
@@ -3178,6 +3595,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=m1t_UmmQUqg
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Zef
     track_name: L'abeille
@@ -3187,6 +3605,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=5zQxgPEq9Ys
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Zef
     track_name: L'incertain
@@ -3214,7 +3633,17 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=p3884mTf_dE
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Zef
+    track_name: Mazurka de la Beluse
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1tUsf6xEbRzxMUp4jnW8KB
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=nKHPzC2NxyU
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Zef
     track_name: Musike mazurka
     links:
@@ -3223,6 +3652,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=fhIavKGAokY
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Zef, zffrs
     track_name: Gentleman's Blues
@@ -3258,6 +3688,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=HCQcW0fInzg
     from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Zlabya
     track_name: Les animaux et les choses - Live
@@ -3298,6 +3729,23 @@ links:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     no_youtube_link: true #Verified
   - artist: ba.fnu
+    track_name: Mazurská (mazurka)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/22XgeVeQdhnQ78yAUAyuoo
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=OkT2h14eO6A
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+  - artist: ba.fnu
+    track_name: Zabili
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4Y99IRL05aOXxmPy46c3MB
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+    no_youtube_link: true
+  - artist: ba.fnu
     track_name: Zabili. Mazurka
     links:
     - portal: Spotify
@@ -3307,3 +3755,11 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     no_youtube_link: true #Verified
+  - artist: ba.fnu
+    track_name: m.zurka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0uX6UuO4aGzAKuqaUBhLL7
+    from_playlist:
+    - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+    no_youtube_link: true

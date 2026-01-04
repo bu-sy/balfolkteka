@@ -24,6 +24,6 @@
 
 - [Mazurka 11 temps](mazurka_11_temps.md)
 
-## Utwory (347)
+## Utwory (386)
 
 [Utwory do tańca](../../no_lang/aggregated/music_by_dance/mazurka.md)

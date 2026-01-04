@@ -282,7 +282,7 @@ links:
       link: https://open.spotify.com/track/1EB393DEh29FFU0zPmcOLs
     from_playlist:
     - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Duo Massarelli
     track_name: Mimà
     links:

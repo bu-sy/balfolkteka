@@ -4,11 +4,11 @@ links:
   instructions:
   - link: https://www.youtube.com/watch?v=X8iQtOlS8YI
     tags:
-      - in_french
+    - in_french
   examples:
   - link: https://www.youtube.com/watch?v=BbLJ4z5EiE4
     tags:
-      - recording_of_dancers
+    - recording_of_dancers
   playlists:
   - link: https://open.spotify.com/playlist/6H1Bhubsx4wGig40BbAVeO
   - link: https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
@@ -483,9 +483,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3IAu6P3yYeD9h7ohkXKZ0o
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=r4fDC3szv_I
     from_playlist:
     - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
-    no_youtube_link: true
   - artist: Duo L'Hêtre Heureux
     track_name: La croisade
     links:

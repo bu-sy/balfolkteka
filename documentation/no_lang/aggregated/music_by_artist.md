@@ -24,7 +24,7 @@
 
 [Adolfo Osta (1)](music_by_artist/adolfo_osta.md)
 
-[Adriano Sangineto (4)](music_by_artist/adriano_sangineto.md)
+[Adriano Sangineto (5)](music_by_artist/adriano_sangineto.md)
 
 [AedO (2)](music_by_artist/aedo.md)
 
@@ -104,6 +104,8 @@
 
 [Andrea Capezzuoli E Compagnia (1)](music_by_artist/andrea_capezzuoli_e_compagnia.md)
 
+[Andrea Kipara Balgera (1)](music_by_artist/andrea_kipara_balgera.md)
+
 [Andreas Tophøj (1)](music_by_artist/andreas_tophoj.md)
 
 [Andreas Utnem (2)](music_by_artist/andreas_utnem.md)
@@ -166,7 +168,7 @@
 
 [B-YAN (1)](music_by_artist/b_yan.md)
 
-[ba.fnu (18)](music_by_artist/ba_fnu.md)
+[ba.fnu (21)](music_by_artist/ba_fnu.md)
 
 [Bachir Rouimi (1)](music_by_artist/bachir_rouimi.md)
 
@@ -200,7 +202,7 @@
 
 [Ballsy Swing (23)](music_by_artist/ballsy_swing.md)
 
-[Baltazar Montanaro (7)](music_by_artist/baltazar_montanaro.md)
+[Baltazar Montanaro (8)](music_by_artist/baltazar_montanaro.md)
 
 [Baltic Crossing (1)](music_by_artist/baltic_crossing.md)
 
@@ -232,7 +234,7 @@
 
 [Benoit Mager (9)](music_by_artist/benoit_mager.md)
 
-[Benoît Michaud (3)](music_by_artist/benoit_michaud.md)
+[Benoît Michaud (2)](music_by_artist/benoit_michaud.md)
 
 [Bernard Desblancs (1)](music_by_artist/bernard_desblancs.md)
 
@@ -248,7 +250,7 @@
 
 [Bleizi Ruz (2)](music_by_artist/bleizi_ruz.md)
 
-[Blowzabella (13)](music_by_artist/blowzabella.md)
+[Blowzabella (14)](music_by_artist/blowzabella.md)
 
 [Blue Reed (16)](music_by_artist/blue_reed.md)
 
@@ -278,7 +280,7 @@
 
 [Bruno Chaveiro (1)](music_by_artist/bruno_chaveiro.md)
 
-[Bruno Le Tron (12)](music_by_artist/bruno_le_tron.md)
+[Bruno Le Tron (13)](music_by_artist/bruno_le_tron.md)
 
 [ByTikZyz (1)](music_by_artist/bytikzyz.md)
 
@@ -357,6 +359,8 @@
 [Cilantrio (1)](music_by_artist/cilantrio.md)
 
 [Claude Puisségur (1)](music_by_artist/claude_puissegur.md)
+
+[Claudio Carboni (1)](music_by_artist/claudio_carboni.md)
 
 [Clément Rousse (8)](music_by_artist/clement_rousse.md)
 
@@ -498,7 +502,7 @@
 
 [Duo Blain-Leyzour (12)](music_by_artist/duo_blain_leyzour.md)
 
-[Duo Bottasso (3)](music_by_artist/duo_bottasso.md)
+[Duo Bottasso (4)](music_by_artist/duo_bottasso.md)
 
 [Duo Brotto Milleret (6)](music_by_artist/duo_brotto_milleret.md)
 
@@ -506,7 +510,7 @@
 
 [Duo De Schepper-Sanczuk (4)](music_by_artist/duo_de_schepper_sanczuk.md)
 
-[Duo Gestrikt (6)](music_by_artist/duo_gestrikt.md)
+[Duo Gestrikt (5)](music_by_artist/duo_gestrikt.md)
 
 [Duo L'Hêtre Heureux (9)](music_by_artist/duo_l_hetre_heureux.md)
 
@@ -520,7 +524,7 @@
 
 [Duo Pennec Bertrand (5)](music_by_artist/duo_pennec_bertrand.md)
 
-[Duo Pilartz Gielen (8)](music_by_artist/duo_pilartz_gielen.md)
+[Duo Pilartz Gielen (9)](music_by_artist/duo_pilartz_gielen.md)
 
 [Duo Sciapò (1)](music_by_artist/duo_sciapo.md)
 
@@ -578,7 +582,7 @@
 
 [Eric Desgrugillers (1)](music_by_artist/eric_desgrugillers.md)
 
-[Eric Thézé (8)](music_by_artist/eric_theze.md)
+[Eric THEZE (9)](music_by_artist/eric_theze.md)
 
 [Érik Marchand (1)](music_by_artist/erik_marchand.md)
 
@@ -596,7 +600,7 @@
 
 [Esquisse (9)](music_by_artist/esquisse.md)
 
-[Estbel (2)](music_by_artist/estbel.md)
+[Estbel (3)](music_by_artist/estbel.md)
 
 [Estrad (6)](music_by_artist/estrad.md)
 
@@ -622,7 +626,7 @@
 
 [Fabian Beghin (3)](music_by_artist/fabian_beghin.md)
 
-[Fabio Colussi (2)](music_by_artist/fabio_colussi.md)
+[Fabio Colussi (4)](music_by_artist/fabio_colussi.md)
 
 [Fabio Vernizzi (1)](music_by_artist/fabio_vernizzi.md)
 
@@ -702,7 +706,7 @@
 
 [François Corneloup (1)](music_by_artist/francois_corneloup.md)
 
-[François Heim (2)](music_by_artist/francois_heim.md)
+[François Heim (3)](music_by_artist/francois_heim.md)
 
 [François Robin (1)](music_by_artist/francois_robin.md)
 
@@ -1128,7 +1132,7 @@
 
 [Leah Song (1)](music_by_artist/leah_song.md)
 
-[Leana & Hartwin (1)](music_by_artist/leana_hartwin.md)
+[Leana & Hartwin (2)](music_by_artist/leana_hartwin.md)
 
 [Lena Jonsson Trio (1)](music_by_artist/lena_jonsson_trio.md)
 
@@ -1190,6 +1194,8 @@
 
 [Lorenzo Monguzzi (1)](music_by_artist/lorenzo_monguzzi.md)
 
+[Lorenzo Tempesti (2)](music_by_artist/lorenzo_tempesti.md)
+
 [Los Musaicos (1)](music_by_artist/los_musaicos.md)
 
 [Lou Dalfin (1)](music_by_artist/lou_dalfin.md)
@@ -1204,7 +1210,7 @@
 
 [Lúnasa (1)](music_by_artist/lunasa.md)
 
-[LyraDanz (8)](music_by_artist/lyradanz.md)
+[LyraDanz (9)](music_by_artist/lyradanz.md)
 
 [M-1 (1)](music_by_artist/m_1.md)
 
@@ -1247,6 +1253,8 @@
 [Maria Dunn (1)](music_by_artist/maria_dunn.md)
 
 [Maria Kalaniemi (1)](music_by_artist/maria_kalaniemi.md)
+
+[Marialla (1)](music_by_artist/marialla.md)
 
 [Marian Iacob Maciuca (1)](music_by_artist/marian_iacob_maciuca.md)
 
@@ -1342,9 +1350,9 @@
 
 [Nae Plans (1)](music_by_artist/nae_plans.md)
 
-[Naragonia (54)](music_by_artist/naragonia.md)
+[Naragonia (57)](music_by_artist/naragonia.md)
 
-[Naragonia Quartet (22)](music_by_artist/naragonia_quartet.md)
+[Naragonia Quartet (23)](music_by_artist/naragonia_quartet.md)
 
 [Natalie Merchant (1)](music_by_artist/natalie_merchant.md)
 
@@ -1556,7 +1564,7 @@
 
 [Regis Huiban (1)](music_by_artist/regis_huiban.md)
 
-[Rémi Geffroy (32)](music_by_artist/remi_geffroy.md)
+[Rémi Geffroy (33)](music_by_artist/remi_geffroy.md)
 
 [Renat Jurie (1)](music_by_artist/renat_jurie.md)
 
@@ -1566,7 +1574,7 @@
 
 [rhizottome (2)](music_by_artist/rhizottome.md)
 
-[Riccardo Tesi (3)](music_by_artist/riccardo_tesi.md)
+[Riccardo Tesi (5)](music_by_artist/riccardo_tesi.md)
 
 [Riffarrica (1)](music_by_artist/riffarrica.md)
 
@@ -1612,7 +1620,7 @@
 
 [Samuel PARMENTIER (1)](music_by_artist/samuel_parmentier.md)
 
-[Samuel Thézé (4)](music_by_artist/samuel_theze.md)
+[Samuel Thézé (5)](music_by_artist/samuel_theze.md)
 
 [Samurai Accordion (1)](music_by_artist/samurai_accordion.md)
 
@@ -1694,7 +1702,7 @@
 
 [Sons d'Embat (1)](music_by_artist/sons_d_embat.md)
 
-[Sophie Cavez (8)](music_by_artist/sophie_cavez.md)
+[Sophie Cavez (9)](music_by_artist/sophie_cavez.md)
 
 [Sous le pont (1)](music_by_artist/sous_le_pont.md)
 
@@ -1708,7 +1716,7 @@
 
 [Startijenn (12)](music_by_artist/startijenn.md)
 
-[Stefano Baldan (3)](music_by_artist/stefano_baldan.md)
+[Stefano Baldan (5)](music_by_artist/stefano_baldan.md)
 
 [Stefano Principini (1)](music_by_artist/stefano_principini.md)
 
@@ -1842,7 +1850,7 @@
 
 [Traucatèrme (1)](music_by_artist/traucaterme.md)
 
-[Tref (8)](music_by_artist/tref.md)
+[Tref (9)](music_by_artist/tref.md)
 
 [Treizh (1)](music_by_artist/treizh.md)
 
@@ -1862,7 +1870,7 @@
 
 [Trio as Sud-Est (1)](music_by_artist/trio_as_sud_est.md)
 
-[Trio Dhoore (15)](music_by_artist/trio_dhoore.md)
+[Trio Dhoore (16)](music_by_artist/trio_dhoore.md)
 
 [Trio Forj (3)](music_by_artist/trio_forj.md)
 
@@ -1910,7 +1918,7 @@
 
 [Vädur (1)](music_by_artist/vadur.md)
 
-[Valentin Barray (2)](music_by_artist/valentin_barray.md)
+[Valentin Barray (5)](music_by_artist/valentin_barray.md)
 
 [Valtos (1)](music_by_artist/valtos.md)
 
@@ -1968,7 +1976,9 @@
 
 [Willy Pichard (6)](music_by_artist/willy_pichard.md)
 
-[Wim te Groen (5)](music_by_artist/wim_te_groen.md)
+[Wim Claeys (1)](music_by_artist/wim_claeys.md)
+
+[Wim te Groen (7)](music_by_artist/wim_te_groen.md)
 
 [Winifred Horan (1)](music_by_artist/winifred_horan.md)
 
@@ -2012,13 +2022,13 @@
 
 [Yvon Plamour (1)](music_by_artist/yvon_plamour.md)
 
-[Zabou Guérin (4)](music_by_artist/zabou_guerin.md)
+[Zabou Guérin (3)](music_by_artist/zabou_guerin.md)
 
 [Zakouska (1)](music_by_artist/zakouska.md)
 
 [Zayendo (4)](music_by_artist/zayendo.md)
 
-[Zef (28)](music_by_artist/zef.md)
+[Zef (29)](music_by_artist/zef.md)
 
 [Zero 7 (1)](music_by_artist/zero_7.md)
 

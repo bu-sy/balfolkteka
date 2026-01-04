@@ -180,9 +180,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1sEO2spxjHhhijT0iycRXo
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=wp2ErPKlfrc
     from_playlist:
     - https://open.spotify.com/playlist/5tOW7NfOK86YaJ4cluE0Do
-    no_youtube_link: true
   - artist: Zlabya
     track_name: Les Îles Sandwich
     links:

@@ -4,6 +4,6 @@
 
 **Nazwa**: Bal Limousine
 
-## Utwory (7)
+## Utwory (6)
 
 [Utwory do tańca](../../no_lang/aggregated/music_by_dance/bal_limousine.md)

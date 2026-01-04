@@ -722,8 +722,6 @@
 
 [Gabriel Fernadez (1)](music_by_artist/gabriel_fernadez.md)
 
-[Gabriel Lenoir (1)](music_by_artist/gabriel_lenoir.md)
-
 [Gaëlle Lelarge (1)](music_by_artist/gaelle_lelarge.md)
 
 [Gaëtan Samson (1)](music_by_artist/gaetan_samson.md)
@@ -1712,7 +1710,7 @@
 
 [Startijenn (12)](music_by_artist/startijenn.md)
 
-[Stefano Baldan (5)](music_by_artist/stefano_baldan.md)
+[Stefano Baldan (3)](music_by_artist/stefano_baldan.md)
 
 [Stefano Principini (1)](music_by_artist/stefano_principini.md)
 

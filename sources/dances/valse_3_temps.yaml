@@ -3471,9 +3471,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3LlIUeWlosYtkSSf60UGWf
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=-xo5YbabcsQ
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
   - artist: The Hot Club Of San Francisco
     track_name: Giselle
     links:

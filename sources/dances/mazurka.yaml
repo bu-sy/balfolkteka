@@ -2530,10 +2530,11 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6BEDCVZWwEyDYtq31zah3n
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=gNgHLujYEjY
     from_playlist:
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
   - artist: Naragonia Quartet
     track_name: Het Noorden
     links:
@@ -2776,7 +2777,7 @@ links:
       link: https://open.spotify.com/track/5a0JUU3wMBwNPNm3AZOYtr
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Peut-être Jeanne
     track_name: Palco quatro
     links:
@@ -2785,7 +2786,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Pichard Vincendeau, Stevan Vincendeau, Willy Pichard
     track_name: Vermel
     links:
@@ -2915,7 +2916,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Rémi Geffroy
     track_name: Passé simple
     links:
@@ -2962,7 +2963,7 @@ links:
       link: https://open.spotify.com/track/6lfNtsUnp9PGjxrsYvNKSy
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Skolvan
     track_name: Coquin cherche coquine - Mazurka
     links:
@@ -3102,21 +3103,22 @@ links:
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
   - artist: Stefano Baldan
     track_name: In punta di piedi
+    blacklist: true #Unavailable on Spotify
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3KiklDQLGv54R389Lxkh1O
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Stefano Baldan
     track_name: La manicure
+    blacklist: true #Unavailable on Spotify
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4Ou5YYrMaAc64NyupJ8FX7
-    - portal: YouTube
-      link: https://www.youtube.com/watch?v=MZQyx2DSrhQ
     from_playlist:
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
+    no_youtube_link: true #Verified
   - artist: Sylvain Butté
     track_name: La paire de Saulxures
     links:
@@ -3158,9 +3160,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1Ieqx0jcFXtYECr5P0hIHq
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=be6LEE97EO4
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
   - artist: Tiennet Simonnin
     track_name: Sa Mazurka - Studio de la Ferme
     links:

@@ -4,7 +4,7 @@
 
 [Bal Keff (5)](music_by_dance/bal_keff.md)
 
-[Bal Limousine (7)](music_by_dance/bal_limousine.md)
+[Bal Limousine (6)](music_by_dance/bal_limousine.md)
 
 [Bourrée 2 temps (304)](music_by_dance/bourree_2_temps.md)
 
@@ -46,7 +46,7 @@
 
 [Mardi Gras (2)](music_by_dance/mardi_gras.md)
 
-[Mazurka (385)](music_by_dance/mazurka.md)
+[Mazurka (383)](music_by_dance/mazurka.md)
 
 [Mazurka 11 temps (3)](music_by_dance/mazurka_11_temps.md)
 

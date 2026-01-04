@@ -52,13 +52,14 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/2y1yOErY5dGxq4y7SFHkfC
   - artist: Gabriel Lenoir
+    blacklist: true #Unavailable on Spotify
     track_name: Bal Limousine
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3e9Jsz91M9wJj2Uxy1tivd
     from_playlist:
     - https://open.spotify.com/playlist/2y1yOErY5dGxq4y7SFHkfC
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Petit Piment
     track_name: Un grand chapeau - La coquille de ses bras
     links:

@@ -70,7 +70,7 @@
 
 [Polska (rund polska) (43)](music_by_dance/rund_polska.md)
 
-[Scottish (309)](music_by_dance/scottish.md)
+[Scottish (308)](music_by_dance/scottish.md)
 
 [Scottish impaire (20)](music_by_dance/scottish_impaire.md)
 
@@ -78,10 +78,10 @@
 
 [Valse 11 temps (11)](music_by_dance/valse_11_temps.md)
 
-[Valse 3 temps (411)](music_by_dance/valse_3_temps.md)
+[Valse 3 temps (407)](music_by_dance/valse_3_temps.md)
 
 [Valse 5 temps (79)](music_by_dance/valse_5_temps.md)
 
-[Valse 8 temps (47)](music_by_dance/valse_8_temps.md)
+[Valse 8 temps (46)](music_by_dance/valse_8_temps.md)
 
 [Zwiefacher (3)](music_by_dance/zwiefacher.md)

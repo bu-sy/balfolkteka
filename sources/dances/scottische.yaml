@@ -66,9 +66,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2qckxIwybRh5kqZ5ncW8nK
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=RGq-AdwE-tY
     from_playlist:
     - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
-    no_youtube_link: true
   - artist: Ad Vielle Que Pourra
     track_name: Schottische Du Stockfish
     links:
@@ -209,9 +210,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3z9thcSrcVh4MxYaPrKFTf
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=vT8aHg6Mq48
     from_playlist:
     - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
-    no_youtube_link: true
   - artist: Arcandela
     track_name: Scottiche Sansvette (scottich)
     links:
@@ -777,9 +779,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4NQnvJ5dzjfr0D1dYx4V1S
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=m64J8h4BLlo
     from_playlist:
     - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
-    no_youtube_link: true
   - artist: Diwall
     track_name: Scotch brein
     links:
@@ -1357,7 +1360,7 @@ links:
       link: https://open.spotify.com/track/2PsLhroc1msC2didPIEIkG
     from_playlist:
     - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Komred
     track_name: Atiligérienne bis
     links:
@@ -1462,12 +1465,13 @@ links:
     - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
   - artist: La cuivraille
     track_name: Scottish Des Terrils
+    blacklist: true #Unavailable
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2mA4xlWHhtTkRnUHYmBqd7
     from_playlist:
     - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Laurent Geoffroy
     track_name: Las Ranas Maulladoras
     links:
@@ -2215,7 +2219,7 @@ links:
       link: https://open.spotify.com/track/00c6UtrMLqxoM6KosGCbXF
     from_playlist:
     - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Peut-être Jeanne
     track_name: L'entrée du fou
     links:
@@ -2223,7 +2227,7 @@ links:
       link: https://open.spotify.com/track/6tknExffekAekTmHb4ECNg
     from_playlist:
     - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Phonix
     track_name: Nordlys Schottish
     links:
@@ -2315,7 +2319,7 @@ links:
       link: https://open.spotify.com/track/6Q3FvmncrOedhLSX4cEw06
     from_playlist:
     - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Rémi Geffroy
     track_name: Le danseur de cordes
     links:
@@ -2323,7 +2327,7 @@ links:
       link: https://open.spotify.com/track/0SUfuQU1vIA6UN23rCOThB
     from_playlist:
     - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Rémi Geffroy
     track_name: Les larmes de sable
     links:
@@ -2383,9 +2387,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1WsUtNzeugFgWdqikqoFzr
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=SrVBxhTMaQY
     from_playlist:
     - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
-    no_youtube_link: true
   - artist: Solune duo
     track_name: Copacabana - Scottish
     links:
@@ -2436,9 +2441,11 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/06J7niKvpNeKiZAl4Vy9Cc
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=386596612/size=small/bgcol=ffffff/linkcol=0687f5/track=2658834053/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Ten Strings and a Goat Skin
     track_name: Huginn & muninn
     links:

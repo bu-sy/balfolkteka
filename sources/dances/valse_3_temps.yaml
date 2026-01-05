@@ -70,13 +70,14 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
   - artist: Accordzêam, Dominique Grange, Tardi
+    blacklist: true #Unavailable
     track_name: Petits morts du mois d'août
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4BAEtHjLAUzwoCZJMZqn8b
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Ad Vielle Que Pourra
     track_name: Cine Citta
     links:
@@ -204,9 +205,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0zarhGDsox6yizohzPOf1x
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=283H9ZwMTF0
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
   - artist: Alma Sinti
     track_name: Nostalgia Gitana
     links:
@@ -221,9 +223,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/07JOG5CVIvp5uHIFCl56BY
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=EDXX66AT5bY
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
   - artist: Amorroma
     track_name: Klokkengelui - Elly op donderdag
     links:
@@ -538,12 +541,13 @@ links:
     - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - artist: Beat Bouet Trio
     track_name: La valse des canuts
+    blacklist: true #Unavailable
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3xBANwjouDMK0R75Gjpmqd
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Billie Eilish
     track_name: idontwannabeyouanymore
     links:
@@ -699,7 +703,7 @@ links:
       link: https://open.spotify.com/track/0JWn3ELNCol8TELNyD1eVj
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: C Duncan
     track_name: The Wedding Song
     links:
@@ -1057,9 +1061,11 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/774WskGJZswZsaDYjAJqUJ
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=4081181834/size=small/bgcol=ffffff/linkcol=0687f5/track=2938015343/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Daniel Diges
     track_name: Algo pequeñito
     links:
@@ -1101,9 +1107,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4CKeeHahPQ7rdc9FJFyDVU
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=G0jtxsvwF4A
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
-    no_youtube_link: true
   - artist: David Munnelly, Mick Conneely
     track_name: 'Waltzes: Shoe the Donkey / The Emigrant’s Letter / Liza Lynn'
     links:
@@ -1374,21 +1381,23 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
   - artist: Duo Tanghe - Coudroy
+    blacklist: true #Unavailable
     track_name: Mariannas Vals
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2tZvJXxAjciX4M2c9pYI9W
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Duo Tanghe - Coudroy
     track_name: Valse À Hum
+    blacklist: true #Unavailable
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5Jn6yhsQm0EXk6IVnRBLeL
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Duo Vargoz
     track_name: Valses à Felicien
     links:
@@ -1881,9 +1890,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6viToId3gn70dbE6ktiyir
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=AyMC65JRgSY
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
-    no_youtube_link: true
   - artist: Janusz Prusinowski Kompania
     track_name: Gdzie jest ta mitość
     links:
@@ -2667,9 +2677,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1TIbLXGqqwnnxq0uAZijBX
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_uBjMhp_Vn0
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
   - artist: Naragonia Quartet
     blacklist: true #Duplicate
     track_name: Batiska
@@ -3040,7 +3051,7 @@ links:
       link: https://open.spotify.com/track/2j3DIz26W7lpn09tSa4Czc
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Rakija Klezmer Orkestar
     track_name: Romanish
     links:
@@ -3048,7 +3059,7 @@ links:
       link: https://open.spotify.com/track/1PYLnxOdQ1WtBaYZRfkcaL
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Raphnin Maurel
     track_name: La fin du monde / Place de Salers
     links:
@@ -3148,7 +3159,7 @@ links:
       link: https://open.spotify.com/track/4Cf7fj5oAztkpDcNAJywdZ
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Salvatjonas
     track_name: Ombreta per ombreta
     links:
@@ -3538,9 +3549,11 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1MQgvdXIiSYkr3lE8hHEo0
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=2861639636/size=small/bgcol=ffffff/linkcol=0687f5/track=4028912/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Tribal Jâze
     track_name: L'autre valse
     links:
@@ -3747,17 +3760,19 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2DbrR6OWzrbR9x1UthhfYz
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Gq7wo_5sL80
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
   - artist: Yuji Nomi
     track_name: Waltz "Katzen Blut"
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1jxbEpJO05x0p81wVwYACl
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=rtXL7oopjhg
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
   - artist: Yvette Horner
     track_name: Brise Napolitaine - 1956
     links:

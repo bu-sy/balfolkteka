@@ -16,7 +16,7 @@
 
 [Accordeon Melancolique (1)](music_by_artist/accordeon_melancolique.md)
 
-[Accordzêam (16)](music_by_artist/accordzeam.md)
+[Accordzêam (15)](music_by_artist/accordzeam.md)
 
 [Ad Vielle Que Pourra (5)](music_by_artist/ad_vielle_que_pourra.md)
 
@@ -218,7 +218,7 @@
 
 [Bastien Fontanille (2)](music_by_artist/bastien_fontanille.md)
 
-[Beat Bouet Trio (13)](music_by_artist/beat_bouet_trio.md)
+[Beat Bouet Trio (12)](music_by_artist/beat_bouet_trio.md)
 
 [Becky Price (1)](music_by_artist/becky_price.md)
 
@@ -474,8 +474,6 @@
 
 [Dominig Bouchaud (1)](music_by_artist/dominig_bouchaud.md)
 
-[Dominique Grange (1)](music_by_artist/dominique_grange.md)
-
 [Donder in't hooi (1)](music_by_artist/donder_in_t_hooi.md)
 
 [Doolin' (1)](music_by_artist/doolin_.md)
@@ -529,8 +527,6 @@
 [Duo Sciapò (1)](music_by_artist/duo_sciapo.md)
 
 [Duo Sionneau/Gielen (8)](music_by_artist/duo_sionneau_gielen.md)
-
-[Duo Tanghe - Coudroy (2)](music_by_artist/duo_tanghe_coudroy.md)
 
 [Duo TTC (6)](music_by_artist/duo_ttc.md)
 
@@ -1067,8 +1063,6 @@
 [La Bricole (2)](music_by_artist/la_bricole.md)
 
 [La Chavannee (2)](music_by_artist/la_chavannee.md)
-
-[La cuivraille (1)](music_by_artist/la_cuivraille.md)
 
 [La Forcelle (10)](music_by_artist/la_forcelle.md)
 
@@ -1766,8 +1760,6 @@
 
 [Tarantella Sin Fronteras (1)](music_by_artist/tarantella_sin_fronteras.md)
 
-[Tardi (1)](music_by_artist/tardi.md)
-
 [Tatu Trio (1)](music_by_artist/tatu_trio.md)
 
 [Té (1)](music_by_artist/te.md)
@@ -2039,7 +2031,5 @@
 [Zirp (6)](music_by_artist/zirp.md)
 
 [Zlabya (15)](music_by_artist/zlabya.md)
-
-[Zurca (1)](music_by_artist/zurca.md)
 
 [Zurgó (1)](music_by_artist/zurgo.md)

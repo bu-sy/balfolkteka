@@ -137,9 +137,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4Lt7IfiDcg4GerbTZFIh3y
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=A58_HYtaqFY
     from_playlist:
     - https://open.spotify.com/playlist/5E1uU55QUfcZMBqdwAjB69
-    no_youtube_link: true
   - artist: Celina Da Piedade
     track_name: 0,8
     links:
@@ -257,7 +258,7 @@ links:
       link: https://open.spotify.com/track/5KSyplD66c21lA5KR9mAIq
     from_playlist:
     - https://open.spotify.com/playlist/5E1uU55QUfcZMBqdwAjB69
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Les Folkeux de Pie
     track_name: La valse à octavie
     links:
@@ -471,10 +472,11 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/3tHeYUx1eIrQraUTOEeGec
   - artist: Zurca
+    blacklist: true #Unavailable
     track_name: Valse à 8 temps
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0Wqj2kQYqzGGxr37d3cXoX
     from_playlist:
     - https://open.spotify.com/playlist/5E1uU55QUfcZMBqdwAjB69
-    no_youtube_link: true
+    no_youtube_link: true #Verified

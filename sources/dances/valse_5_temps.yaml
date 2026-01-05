@@ -642,7 +642,7 @@ links:
       link: https://open.spotify.com/track/768WQEcJ3mCvSTNdBsHenC
     from_playlist:
     - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Rémi Geffroy
     track_name: Elle
     links:
@@ -665,7 +665,7 @@ links:
       link: https://open.spotify.com/track/14BmOUSi9qSN9L08jZTRZp
     from_playlist:
     - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Sous les quais
     track_name: Valse à 5 temps
     links:

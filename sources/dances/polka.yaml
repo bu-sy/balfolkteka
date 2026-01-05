@@ -303,41 +303,50 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7kzZ9qDsYIzAmPkW3Lh4zS
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=3328376683/size=small/bgcol=ffffff/linkcol=0687f5/track=695387390/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/2zHebVsR6T5fuDahaFLQ3w
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Edita Gumauskaitė
     track_name: Senoviška Polka
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4K6ra58REqOKJEB7EUoaSa
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=3328376683/size=small/bgcol=ffffff/linkcol=0687f5/track=2072924386/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/2zHebVsR6T5fuDahaFLQ3w
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Edita Gumauskaitė
     track_name: Skambučių Polka
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1v4bbwtqLIse3Ed8BpEsvm
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=3328376683/size=small/bgcol=ffffff/linkcol=0687f5/track=3124004710/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/2zHebVsR6T5fuDahaFLQ3w
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Edita Gumauskaitė
     track_name: Vilniaus Krašto Polka
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/15rw6N77to4yENF9HFGkXd
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=3328376683/size=small/bgcol=ffffff/linkcol=0687f5/track=248549458/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/2zHebVsR6T5fuDahaFLQ3w
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Edita Gumauskaitė, Smetonos Ūsai
     track_name: Gegutė - Marius Narbutis Remix
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0ayClpolYMsYRGbe2V4OR5
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=KpttRpx2sow
     from_playlist:
     - https://open.spotify.com/playlist/2zHebVsR6T5fuDahaFLQ3w
-    no_youtube_link: true
   - artist: Electrad
     track_name: La Polka du Moulinet (Polka)
     links:
@@ -513,7 +522,7 @@ links:
       link: https://open.spotify.com/track/4jAKIDak335zLDifInDlUw
     from_playlist:
     - https://open.spotify.com/playlist/2zHebVsR6T5fuDahaFLQ3w
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Kv Express
     track_name: Polka Barou
     links:
@@ -611,7 +620,7 @@ links:
       link: https://open.spotify.com/track/0VJCNlnyz3iOH7yZn848rZ
     from_playlist:
     - https://open.spotify.com/playlist/2zHebVsR6T5fuDahaFLQ3w
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: MandoTrio
     track_name: Mihkli I polka
     links:
@@ -627,7 +636,7 @@ links:
       link: https://open.spotify.com/track/6LWZi0kX1YejBPT2BZkgbW
     from_playlist:
     - https://open.spotify.com/playlist/2zHebVsR6T5fuDahaFLQ3w
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Michal Dvorak, Vivaldianno
     track_name: Fiesta Batucada
     links:
@@ -735,7 +744,7 @@ links:
       link: https://open.spotify.com/track/2rZWkCDFPRXzMs8uUkVk5j
     from_playlist:
     - https://open.spotify.com/playlist/2zHebVsR6T5fuDahaFLQ3w
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Ratilio
     track_name: Polka
     links:
@@ -743,7 +752,7 @@ links:
       link: https://open.spotify.com/track/0ApjEeHVBoYQg6I8Jzv8r3
     from_playlist:
     - https://open.spotify.com/playlist/2zHebVsR6T5fuDahaFLQ3w
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Ratilio
     track_name: 'Polka: Tumba Tumba'
     links:
@@ -751,7 +760,7 @@ links:
       link: https://open.spotify.com/track/2WdKSTQdt0bRST2VgyB0lG
     from_playlist:
     - https://open.spotify.com/playlist/2zHebVsR6T5fuDahaFLQ3w
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Ratilio
     track_name: 'Polka: Šeškus Gaudo Voverytį'
     links:
@@ -759,7 +768,7 @@ links:
       link: https://open.spotify.com/track/57IqIcJm7rHaRVOKztZSrW
     from_playlist:
     - https://open.spotify.com/playlist/2zHebVsR6T5fuDahaFLQ3w
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Ratilio
     track_name: Senoji Polka
     links:
@@ -767,7 +776,7 @@ links:
       link: https://open.spotify.com/track/0jMfbVs8g9Cftbal3RLtck
     from_playlist:
     - https://open.spotify.com/playlist/2zHebVsR6T5fuDahaFLQ3w
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Ratilio
     track_name: Žirnikų Polka
     links:
@@ -775,7 +784,7 @@ links:
       link: https://open.spotify.com/track/4Y4EdeMygoTiDF1JIBemKN
     from_playlist:
     - https://open.spotify.com/playlist/2zHebVsR6T5fuDahaFLQ3w
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Serge Desaunay
     track_name: La polka chinoise
     links:
@@ -825,25 +834,28 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5oI96DjRpc04vllH4UOBNw
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=17d4U4TumvA
     from_playlist:
     - https://open.spotify.com/playlist/2zHebVsR6T5fuDahaFLQ3w
-    no_youtube_link: true
   - artist: Smetonos Ūsai
     track_name: Bosų Polka
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3E3SIXQm4tjDJfJHelBYZD
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=e64DFNzn6Bw
     from_playlist:
     - https://open.spotify.com/playlist/2zHebVsR6T5fuDahaFLQ3w
-    no_youtube_link: true
   - artist: Smetonos Ūsai
     track_name: Paškevičiaus Polka
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6ONUpdVWdZgsybwSsVty38
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=8iXnlAdRZHI
     from_playlist:
     - https://open.spotify.com/playlist/2zHebVsR6T5fuDahaFLQ3w
-    no_youtube_link: true
   - artist: Sterne
     track_name: Polka
     links:
@@ -997,7 +1009,7 @@ links:
       link: https://open.spotify.com/track/3XpWxA4tr8LSYKlTCTJFb1
     from_playlist:
     - https://open.spotify.com/playlist/2zHebVsR6T5fuDahaFLQ3w
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Отава Ё
     track_name: Polkas Nyman
     links:

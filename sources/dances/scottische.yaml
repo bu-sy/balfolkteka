@@ -1912,7 +1912,7 @@ links:
       link: https://open.spotify.com/track/0PwXbexEPoqzHnm2yXDbCc
     from_playlist:
     - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Marc Perrone
     track_name: Esperanza
     links:
@@ -2860,7 +2860,7 @@ links:
       link: https://open.spotify.com/track/5fStawfHHbyR8LiEojolD4
     from_playlist:
     - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Šakar Makar
     track_name: Bezmenas
     links:
@@ -2868,7 +2868,7 @@ links:
       link: https://open.spotify.com/track/0i1s6SFlPueotoLVrZHniV
     from_playlist:
     - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Отава Ё
     track_name: Ой, Дуся, ой, Маруся (казачья лезгинка)
     links:

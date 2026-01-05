@@ -1422,25 +1422,31 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4oV2ap5x7NShbKt16cDwCj
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=3328376683/size=small/bgcol=ffffff/linkcol=0687f5/track=3193525044/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Edita Gumauskaitė
     track_name: Pražudytas Gyvenimas
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1LOuCQWTubBEW8gLeHJ1Hi
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=3328376683/size=small/bgcol=ffffff/linkcol=0687f5/track=860290781/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Edita Gumauskaitė
     track_name: Senoviškas Valsas
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3e6eO6rZ5AVNMVqwOlLBYU
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=3328376683/size=small/bgcol=ffffff/linkcol=0687f5/track=304732008/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Edita Gumauskaitė, Marius Narbutis
     track_name: Vanduo be kojų
     links:
@@ -3059,7 +3065,7 @@ links:
       link: https://open.spotify.com/track/0uqHbSgLq6GAuCFiV30q6h
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Red Hot Chili Peppers
     track_name: Breaking The Girl
     links:
@@ -3231,17 +3237,19 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7HPM1Dq7q1i0DMSfgGMqHk
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=GY5uSPY98vI
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
   - artist: Smetonos Ūsai
     track_name: Ukmergės Valsas
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5C43OCvYIOJE1PrAoBzQ1O
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=2CbQ5aizVb0
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
   - artist: Smiley
     track_name: Vals
     links:

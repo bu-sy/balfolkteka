@@ -1324,6 +1324,11 @@
 <h3><b>Senoviška Polka</b> - Edita Gumauskaitė (Polka)</h3>
 
 <details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3328376683/size=small/bgcol=ffffff/linkcol=0687f5/track=2072924386/transparent=true/" seamless></iframe>
+</details>
+
+<details>
 <summary><big>Spotify</big></summary>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4K6ra58REqOKJEB7EUoaSa?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
@@ -1331,6 +1336,11 @@
 <hr>
 
 <h3><b>Senoviškas Valsas</b> - Edita Gumauskaitė (Valse 3 temps)</h3>
+
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3328376683/size=small/bgcol=ffffff/linkcol=0687f5/track=304732008/transparent=true/" seamless></iframe>
+</details>
 
 <details>
 <summary><big>Spotify</big></summary>
@@ -1671,6 +1681,11 @@
 <hr>
 
 <h3><b>Skambučių Polka</b> - Edita Gumauskaitė (Polka)</h3>
+
+<details>
+<summary><big>Bandcamp</big></summary>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3328376683/size=small/bgcol=ffffff/linkcol=0687f5/track=3124004710/transparent=true/" seamless></iframe>
+</details>
 
 <details>
 <summary><big>Spotify</big></summary>

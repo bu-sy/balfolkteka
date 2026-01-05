@@ -2739,13 +2739,14 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Zayendo
+    blacklist: true #Unavailable on Spotify
     track_name: Chapeloise de Seguret
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2OucFhgrDGfUg8YRzzqwP4
     from_playlist:
     - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Zef
     track_name: Arrow in the Milky Way
     links:
@@ -2788,9 +2789,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/17yV3hBEsxrcuhDpkxPZFG
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ea3UER-X4NY
     from_playlist:
     - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
-    no_youtube_link: true
   - artist: Zirp
     track_name: Schottisch Lounge
     links:

@@ -20,9 +20,9 @@
 
 [A (193)](music_alphabetically/on_letter_A.md)
 
-[B (193)](music_alphabetically/on_letter_B.md)
+[B (192)](music_alphabetically/on_letter_B.md)
 
-[C (134)](music_alphabetically/on_letter_C.md)
+[C (133)](music_alphabetically/on_letter_C.md)
 
 [D (127)](music_alphabetically/on_letter_D.md)
 
@@ -40,23 +40,23 @@
 
 [K (63)](music_alphabetically/on_letter_K.md)
 
-[L (393)](music_alphabetically/on_letter_L.md)
+[L (389)](music_alphabetically/on_letter_L.md)
 
-[M (229)](music_alphabetically/on_letter_M.md)
+[M (224)](music_alphabetically/on_letter_M.md)
 
-[N (52)](music_alphabetically/on_letter_N.md)
+[N (50)](music_alphabetically/on_letter_N.md)
 
 [O (36)](music_alphabetically/on_letter_O.md)
 
-[P (157)](music_alphabetically/on_letter_P.md)
+[P (156)](music_alphabetically/on_letter_P.md)
 
 [Q (16)](music_alphabetically/on_letter_Q.md)
 
 [R (102)](music_alphabetically/on_letter_R.md)
 
-[S (222)](music_alphabetically/on_letter_S.md)
+[S (221)](music_alphabetically/on_letter_S.md)
 
-[T (120)](music_alphabetically/on_letter_T.md)
+[T (118)](music_alphabetically/on_letter_T.md)
 
 [U (24)](music_alphabetically/on_letter_U.md)
 
@@ -68,4 +68,4 @@
 
 [Y (7)](music_alphabetically/on_letter_Y.md)
 
-[Z (18)](music_alphabetically/on_letter_Z.md)
+[Z (17)](music_alphabetically/on_letter_Z.md)

@@ -483,13 +483,14 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
   - artist: Baltazar Montanaro, Sophie Cavez
+    blacklist: true #Unavailable on Spotify
     track_name: Blanche
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7c1CFSoa2o2cGlh69xvkVn
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Baltazar Montanaro, Sophie Cavez
     track_name: Cmoll Vals
     links:
@@ -500,21 +501,23 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
   - artist: Baltazar Montanaro, Sophie Cavez
+    blacklist: true #Unavailable on Spotify
     track_name: Ni huy ni non
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2j9evnHVLjwgYYZymEQdo2
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Baltazar Montanaro, Sophie Cavez
+    blacklist: true #Unavailable on Spotify
     track_name: Poisson d'avril
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/02qgvho4FVyMJIhV00saGF
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Barbara Pravi
     track_name: Voilà
     links:
@@ -676,17 +679,19 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4SgE1pqKVM1A7zU6lMGrCb
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=aVlTEDUd5z8
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
   - artist: Bruno Le Tron, Franck Fagon, Laurent Cabané, Olivier Le Gallo
     track_name: Windy Welly
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/12cQMEUCF1IyuUHUZrg6hT
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=aYmONpk9AII
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
   - artist: ByTikZyz
     track_name: Vilniaus Valsas
     links:
@@ -3620,13 +3625,14 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
   - artist: Tukki Bukki
+    blacklist: true #Unavailable on Spotify
     track_name: Man Ak Yow
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3RcsK75UZh1nZETvAPRLpq
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Ulman
     track_name: Waltz Luberon
     links:

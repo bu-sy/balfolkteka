@@ -46,7 +46,7 @@
 
 [Mardi Gras (2)](music_by_dance/mardi_gras.md)
 
-[Mazurka (383)](music_by_dance/mazurka.md)
+[Mazurka (371)](music_by_dance/mazurka.md)
 
 [Mazurka 11 temps (3)](music_by_dance/mazurka_11_temps.md)
 
@@ -70,7 +70,7 @@
 
 [Polska (rund polska) (43)](music_by_dance/rund_polska.md)
 
-[Scottish (310)](music_by_dance/scottish.md)
+[Scottish (309)](music_by_dance/scottish.md)
 
 [Scottish impaire (20)](music_by_dance/scottish_impaire.md)
 
@@ -78,9 +78,9 @@
 
 [Valse 11 temps (11)](music_by_dance/valse_11_temps.md)
 
-[Valse 3 temps (415)](music_by_dance/valse_3_temps.md)
+[Valse 3 temps (411)](music_by_dance/valse_3_temps.md)
 
-[Valse 5 temps (80)](music_by_dance/valse_5_temps.md)
+[Valse 5 temps (79)](music_by_dance/valse_5_temps.md)
 
 [Valse 8 temps (47)](music_by_dance/valse_8_temps.md)
 

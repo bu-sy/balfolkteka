@@ -83,7 +83,7 @@ links:
       link: https://open.spotify.com/track/2wFYnzs0XLC65DOGYXNsFm
     from_playlist:
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Airboxes
     track_name: Bosvelden
     links:
@@ -405,13 +405,14 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Baltazar Montanaro, Sophie Cavez
+    blacklist: true #Unavailable on Spotify
     track_name: Moufflekes
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/57nAM1N7wbxPjw6wCG3jqu
     from_playlist:
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Bargainatt
     track_name: Au bord de l'eau
     links:
@@ -491,17 +492,20 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2zsMwPPZRObLt3tRfS7aEm
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=TdwaUm1QDv0
     from_playlist:
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
-    no_youtube_link: true
   - artist: Blowzabella
+    blacklist: true #Duplicate
     track_name: The Origin of the World
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1aZy7PvHHsTkuj29ObdesH
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=TdwaUm1QDv0
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
   - artist: Blue Reed
     track_name: Incontrôlable
     links:
@@ -635,25 +639,28 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0MjHK9xHRfrArBLRLDLnZy
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=BLjbrIw1bes
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
   - artist: Bruno Le Tron, Franck Fagon, Laurent Cabané
     track_name: Les Vallées de la Jordanne
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6BS4qTw6FfToZbYgGQrJwo
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=3QNP59npztI
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
   - artist: Bruno Le Tron, Franck Fagon, Laurent Cabané, Olivier Le Gallo
     track_name: L'ouchka / Reel and Blues
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2GfmMJwPQuY0TpPwCr0TZ8
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=YTVzSOkW4L0
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
   - artist: Bruno Le Tron, François Heim
     track_name: Les yeux de Nina
     links:
@@ -679,9 +686,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4NI0spoHhoc9vexagTFRCV
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=OQshDilCuNM
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
   - artist: Camille Raibaud, Florent Rousset, Kévin Balzan, Trio Loubelya
     track_name: Mazurka Tropicoule
     links:
@@ -888,9 +896,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1tG5jdp6BTJv3wspHOynFs
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=AdckF8EFjrs
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
   - artist: DiaTon
     track_name: Castifao/mazurka du Trappeur
     links:
@@ -907,7 +916,7 @@ links:
       link: https://open.spotify.com/track/5YS5jvX3fSda6aaHTcWgMc
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Djal
     track_name: L'allumeuse et l'aveugle / crépuscule - Live
     links:
@@ -1259,13 +1268,14 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/53LdczjSKG8Ut9V9hgUQsV
   - artist: Emelie Waldken, Pascal Rüegger
+    blacklist: true #Unavailable on Spotify
     track_name: L'autre Route
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0hNoC5AYUU8Zy6JpS6hh4z
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Emmanuel Pariselle
     track_name: La nonchalante
     links:
@@ -1328,16 +1338,18 @@ links:
       link: https://open.spotify.com/track/1QCWUoqEbgdtwrh1YdP65v
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Fabio Colussi
     track_name: L'aiguilette
+    blacklist: true #Unavailable on Spotify
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/76x4XzJLeldBbL8wTUTp5j
     from_playlist:
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Fabio Colussi
+    blacklist: true #Unavailable on Spotify
     track_name: L'attesa di Camilla
     links:
     - portal: Spotify
@@ -1347,15 +1359,17 @@ links:
     - https://open.spotify.com/playlist/7zLae0fRrnm2EHmBUvFqzY
     no_youtube_link: true #Verified
   - artist: Fabio Colussi
+    blacklist: true #Unavailable on Spotify
     track_name: Le Doute de Marlène
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1fI4G89lG39u7RWlSxkeM0
     from_playlist:
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Fabio Colussi
     track_name: Mazumar
+    blacklist: true #Unavailable on Spotify
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/59yyjSWjBWiutnTAAM6ceD
@@ -1438,9 +1452,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/7ANXZd4fW1ZhzTB5ekZCGi
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=rqzmb_6BqdQ
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
   - artist: Gonnagles
     track_name: Kraambed Mazurka
     links:
@@ -1468,7 +1483,7 @@ links:
       link: https://open.spotify.com/track/5GUOWAylxEbozPZbSORRDN
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Groove Factory
     track_name: À l'Ombre des Cèdres
     links:
@@ -1516,9 +1531,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5k7MBDIR85tUKgM8NkujVD
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=dfTjNYTJ31o
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
   - artist: Hamon Martin Quintet
     track_name: Le chanteur à la voix d'or (Mazurka)
     links:
@@ -1553,9 +1569,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1OlXlGCPlxtHH7VY20TpKG
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=oIGNeunxbJg
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
   - artist: Karamaus
     track_name: Perla
     links:
@@ -1572,7 +1589,7 @@ links:
       link: https://open.spotify.com/track/43puJQaswwtVxnQMEARG8I
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Kitus
     track_name: Mazurka de St Alyre
     links:
@@ -2143,9 +2160,10 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6RezehKFCbIcRfCqOJdxmU
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Cs38-8f5d6A
     from_playlist:
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
-    no_youtube_link: true
   - artist: Lou Tapage
     track_name: L'inconnu de la Limoise
     links:
@@ -3165,13 +3183,14 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Tiennet Simonnin
+    blacklist: true #Unavailable on Spotify
     track_name: Sa Mazurka - Studio de la Ferme
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1vDMEBvOzG3poNlPK8DdvC
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Tournesol
     track_name: Virginie la mazurka des maris
     links:
@@ -3364,13 +3383,14 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Tukki Bukki
+    blacklist: true #Unavailable on Spotify
     track_name: Nomades
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3lqGydjelipNSFhQ9RlKst
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Vach'inton.g
     track_name: Azur
     links:
@@ -3594,6 +3614,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Zayendo
+    blacklist: true #Unavailable on Spotify
     track_name: Mazurk'afro
     links:
     - portal: Spotify
@@ -3601,8 +3622,9 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Zayendo
+    blacklist: true #Unavailable on Spotify
     track_name: Mazurka des bois
     links:
     - portal: Spotify
@@ -3610,7 +3632,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Zef
     track_name: Andy's Place
     links:
@@ -3687,7 +3709,6 @@ links:
       link: https://www.youtube.com/watch?v=ZPNaN22b1D0
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
-    no_youtube_link: true
   - artist: Zef, zffrs
     track_name: Musike mazurka
     blacklist: true #Duplicate
@@ -3766,13 +3787,16 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: ba.fnu
+    blacklist: true #Duplicate
     track_name: Zabili
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4Y99IRL05aOXxmPy46c3MB
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=2861639636/size=small/bgcol=ffffff/linkcol=0687f5/track=1746080224/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: ba.fnu
     track_name: Zabili. Mazurka
     links:
@@ -3788,6 +3812,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0uX6UuO4aGzAKuqaUBhLL7
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=2861639636/size=small/bgcol=ffffff/linkcol=0687f5/track=4076851641/transparent=true/
     from_playlist:
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
-    no_youtube_link: true
+    no_youtube_link: true #Verified

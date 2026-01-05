@@ -126,13 +126,14 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
   - artist: Baltazar Montanaro, Sophie Cavez
+    blacklist: true #Unavailable on Spotify
     track_name: Torgnoles en cinq
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1HHUhoGWL5dKm5uZ95RBaB
     from_playlist:
     - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
-    no_youtube_link: true
+    no_youtube_link: true #Verified
   - artist: Beat Bouet Trio
     track_name: Itinéraires
     links:

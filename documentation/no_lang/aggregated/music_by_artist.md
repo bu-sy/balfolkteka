@@ -168,7 +168,7 @@
 
 [B-YAN (1)](music_by_artist/b_yan.md)
 
-[ba.fnu (21)](music_by_artist/ba_fnu.md)
+[ba.fnu (20)](music_by_artist/ba_fnu.md)
 
 [Bachir Rouimi (1)](music_by_artist/bachir_rouimi.md)
 
@@ -202,7 +202,7 @@
 
 [Ballsy Swing (23)](music_by_artist/ballsy_swing.md)
 
-[Baltazar Montanaro (8)](music_by_artist/baltazar_montanaro.md)
+[Baltazar Montanaro (3)](music_by_artist/baltazar_montanaro.md)
 
 [Baltic Crossing (1)](music_by_artist/baltic_crossing.md)
 
@@ -250,7 +250,7 @@
 
 [Bleizi Ruz (2)](music_by_artist/bleizi_ruz.md)
 
-[Blowzabella (14)](music_by_artist/blowzabella.md)
+[Blowzabella (13)](music_by_artist/blowzabella.md)
 
 [Blue Reed (16)](music_by_artist/blue_reed.md)
 
@@ -566,8 +566,6 @@
 
 [EmBRUN (5)](music_by_artist/embrun.md)
 
-[Emelie Waldken (1)](music_by_artist/emelie_waldken.md)
-
 [Emilie Manescau (1)](music_by_artist/emilie_manescau.md)
 
 [Emilyn Stam (1)](music_by_artist/emilyn_stam.md)
@@ -625,8 +623,6 @@
 [F.B.A. (1)](music_by_artist/f_b_a_.md)
 
 [Fabian Beghin (3)](music_by_artist/fabian_beghin.md)
-
-[Fabio Colussi (4)](music_by_artist/fabio_colussi.md)
 
 [Fabio Vernizzi (1)](music_by_artist/fabio_vernizzi.md)
 
@@ -1460,8 +1456,6 @@
 
 [Pas De Quoi (2)](music_by_artist/pas_de_quoi.md)
 
-[Pascal Rüegger (1)](music_by_artist/pascal_ruegger.md)
-
 [Passant Par Paris (2)](music_by_artist/passant_par_paris.md)
 
 [PásztorHóra (1)](music_by_artist/pasztorhora.md)
@@ -1708,7 +1702,7 @@
 
 [Sons d'Embat (1)](music_by_artist/sons_d_embat.md)
 
-[Sophie Cavez (9)](music_by_artist/sophie_cavez.md)
+[Sophie Cavez (4)](music_by_artist/sophie_cavez.md)
 
 [Sous le pont (1)](music_by_artist/sous_le_pont.md)
 
@@ -1824,7 +1818,7 @@
 
 [Tidiane Dia (1)](music_by_artist/tidiane_dia.md)
 
-[Tiennet Simonnin (5)](music_by_artist/tiennet_simonnin.md)
+[Tiennet Simonnin (4)](music_by_artist/tiennet_simonnin.md)
 
 [Tim Dup (1)](music_by_artist/tim_dup.md)
 
@@ -1899,8 +1893,6 @@
 [Trouzerion (1)](music_by_artist/trouzerion.md)
 
 [Tud (5)](music_by_artist/tud.md)
-
-[Tukki Bukki (2)](music_by_artist/tukki_bukki.md)
 
 [Turfu (4)](music_by_artist/turfu.md)
 
@@ -2034,7 +2026,7 @@
 
 [Zakouska (1)](music_by_artist/zakouska.md)
 
-[Zayendo (4)](music_by_artist/zayendo.md)
+[Zayendo (1)](music_by_artist/zayendo.md)
 
 [Zef (28)](music_by_artist/zef.md)
 

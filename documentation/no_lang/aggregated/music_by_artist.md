@@ -334,6 +334,8 @@
 
 [Charanga (1)](music_by_artist/charanga.md)
 
+[Charles Quimbert (1)](music_by_artist/charles_quimbert.md)
+
 [Chava Alberstein (1)](music_by_artist/chava_alberstein.md)
 
 [Chiquinha Gonzaga (1)](music_by_artist/chiquinha_gonzaga.md)
@@ -500,7 +502,7 @@
 
 [Duo Bastringue (1)](music_by_artist/duo_bastringue.md)
 
-[Duo Blain-Leyzour (12)](music_by_artist/duo_blain_leyzour.md)
+[Duo Blain-Leyzour (14)](music_by_artist/duo_blain_leyzour.md)
 
 [Duo Bottasso (4)](music_by_artist/duo_bottasso.md)
 
@@ -552,7 +554,7 @@
 
 [Elanor (4)](music_by_artist/elanor.md)
 
-[Electrad (8)](music_by_artist/electrad.md)
+[Electrad (9)](music_by_artist/electrad.md)
 
 [Élisa Trebouville (4)](music_by_artist/elisa_trebouville.md)
 
@@ -594,9 +596,9 @@
 
 [Erwan Moal (7)](music_by_artist/erwan_moal.md)
 
-[Erwann Tobie (3)](music_by_artist/erwann_tobie.md)
+[Erwann Tobie (4)](music_by_artist/erwann_tobie.md)
 
-[Esquisse (9)](music_by_artist/esquisse.md)
+[Esquisse (10)](music_by_artist/esquisse.md)
 
 [Estbel (3)](music_by_artist/estbel.md)
 
@@ -688,7 +690,7 @@
 
 [FMB (1)](music_by_artist/fmb.md)
 
-[Follenn (4)](music_by_artist/follenn.md)
+[Follenn (5)](music_by_artist/follenn.md)
 
 [Follia (1)](music_by_artist/follia.md)
 
@@ -737,6 +739,8 @@
 [Geir Egil Larsen (1)](music_by_artist/geir_egil_larsen.md)
 
 [Geitungen (1)](music_by_artist/geitungen.md)
+
+[Gentiane (1)](music_by_artist/gentiane.md)
 
 [Geronimo (5)](music_by_artist/geronimo.md)
 
@@ -808,7 +812,7 @@
 
 [Hamon Martin Quartet (2)](music_by_artist/hamon_martin_quartet.md)
 
-[Hamon Martin Quintet (8)](music_by_artist/hamon_martin_quintet.md)
+[Hamon Martin Quintet (9)](music_by_artist/hamon_martin_quintet.md)
 
 [Hans Helewaut (1)](music_by_artist/hans_helewaut.md)
 
@@ -824,7 +828,7 @@
 
 [HEDIYYE (1)](music_by_artist/hediyye.md)
 
-[Heikki Bourgault (1)](music_by_artist/heikki_bourgault.md)
+[Heikki Bourgault (2)](music_by_artist/heikki_bourgault.md)
 
 [Henry Mancini (1)](music_by_artist/henry_mancini.md)
 
@@ -1106,11 +1110,15 @@
 
 [Laüsa (8)](music_by_artist/lausa.md)
 
+[LBZH (1)](music_by_artist/lbzh.md)
+
 [Le Bal Brotto Lopez (9)](music_by_artist/le_bal_brotto_lopez.md)
 
 [Le bal de l'éphémère (21)](music_by_artist/le_bal_de_l_ephemere.md)
 
 [Le Bal en Chantier (19)](music_by_artist/le_bal_en_chantier.md)
+
+[Le Big Stal (1)](music_by_artist/le_big_stal.md)
 
 [Le Bour Bodros (11)](music_by_artist/le_bour_bodros.md)
 
@@ -1271,6 +1279,8 @@
 [Mary Shannon (1)](music_by_artist/mary_shannon.md)
 
 [Massalès Brouff (7)](music_by_artist/massales_brouff.md)
+
+[Mathieu Hamon (1)](music_by_artist/mathieu_hamon.md)
 
 [Matmatah (1)](music_by_artist/matmatah.md)
 
@@ -1581,6 +1591,8 @@
 [Rodrigo y Gabriela (2)](music_by_artist/rodrigo_y_gabriela.md)
 
 [Roland Becker (1)](music_by_artist/roland_becker.md)
+
+[Roland Brou (1)](music_by_artist/roland_brou.md)
 
 [Romain Chéré (1)](music_by_artist/romain_chere.md)
 
@@ -1927,6 +1939,8 @@
 [Vassilli (1)](music_by_artist/vassilli.md)
 
 [Vegetal Jam (6)](music_by_artist/vegetal_jam.md)
+
+[Vegvisir (1)](music_by_artist/vegvisir.md)
 
 [Velha Gaiteira (3)](music_by_artist/velha_gaiteira.md)
 

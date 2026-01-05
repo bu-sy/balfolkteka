@@ -1,0 +1,113 @@
+id: rond_paludier
+name: Rond Paludier
+links:
+  instructions:
+  - link: https://www.youtube.com/watch?v=TfqZyd23A4c
+    tags:
+    - in_french
+  examples:
+  - link: https://www.youtube.com/watch?v=6yLog-XeHIM
+    tags:
+    - recording_from_dance_contest
+  playlists:
+  - link: https://open.spotify.com/playlist/7v0OjJtS2D93f4y1jRKDH4
+  tracks:
+  - artist: Charles Quimbert, Mathieu Hamon, Roland Brou
+    track_name: Sous la feuille (rond paludier)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5miJfeifxmmx5rbmKLHYB0
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=A6Vn72LwH0E
+    from_playlist:
+    - https://open.spotify.com/playlist/7v0OjJtS2D93f4y1jRKDH4
+  - artist: Duo Blain-Leyzour
+    track_name: L'alouette grise (Rond paludier)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/53gJQz94EnLEJPHeUlGiSI
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=XBzjNPk7AVI
+    from_playlist:
+    - https://open.spotify.com/playlist/7v0OjJtS2D93f4y1jRKDH4
+  - artist: Duo Blain-Leyzour
+    track_name: Rond paludier
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6PHttms8NEC1g1sWshE48I
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=wBFKxLMs7IA
+    from_playlist:
+    - https://open.spotify.com/playlist/7v0OjJtS2D93f4y1jRKDH4
+  - artist: Electrad
+    track_name: Allant à la Chasse (Rond Paludier)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0wdCazMqysK30eYvLz5YKm
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=wuspREChEOU
+    from_playlist:
+    - https://open.spotify.com/playlist/7v0OjJtS2D93f4y1jRKDH4
+  - artist: Erwann Tobie, Heikki Bourgault
+    track_name: Le grand lit carré - Pâquerette - rond paludier
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0WyG7tWhwLterAzEh0TI9T
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Pr85mf4YzC4
+    from_playlist:
+    - https://open.spotify.com/playlist/7v0OjJtS2D93f4y1jRKDH4
+  - artist: Esquisse
+    track_name: Tchou-Tchou - Rond paludier
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0lOI8kh69gurgfCTnd7oXQ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=_a31c87Q8P8
+    from_playlist:
+    - https://open.spotify.com/playlist/7v0OjJtS2D93f4y1jRKDH4
+  - artist: Follenn
+    track_name: Suzanne - Rond paludier
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3xMSS4jmXxIVQLlQwB7mHM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=kOaOFsuSu8g
+    from_playlist:
+    - https://open.spotify.com/playlist/7v0OjJtS2D93f4y1jRKDH4
+  - artist: Hamon Martin Quintet
+    track_name: L'histoire de ma vie (Rond paludier)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/47zAtccTft4b6XvEOmGLV9
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=2BksZv-0KT0
+    from_playlist:
+    - https://open.spotify.com/playlist/7v0OjJtS2D93f4y1jRKDH4
+  - artist: LBZH
+    track_name: Ronds paludiers
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0SSMViMQu1UWWUugE6rCOf
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=s7MKN5EOepI
+    from_playlist:
+    - https://open.spotify.com/playlist/7v0OjJtS2D93f4y1jRKDH4
+  - artist: Le Big Stal
+    track_name: Ronds paludiers - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0MlznDq0JoRe3PT5ETFWiN
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=zWIZD5gb6qE
+    from_playlist:
+    - https://open.spotify.com/playlist/7v0OjJtS2D93f4y1jRKDH4
+  - artist: Vegvisir
+    track_name: Le Rond Paludier
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/34lFQUSZuspk8Wack67T0H
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=wAhBx-DvVLc
+    from_playlist:
+    - https://open.spotify.com/playlist/7v0OjJtS2D93f4y1jRKDH4

@@ -64,11 +64,13 @@
 
 [Rond de Saint-Vincent (38)](music_by_dance/rond_de_saint_vincent.md)
 
+[Rond Paludier (11)](music_by_dance/rond_paludier.md)
+
 [Rondeau en couple (40)](music_by_dance/rondeau_en_couple.md)
 
 [Polska (rund polska) (43)](music_by_dance/rund_polska.md)
 
-[Scottish (309)](music_by_dance/scottish.md)
+[Scottish (310)](music_by_dance/scottish.md)
 
 [Scottish impaire (20)](music_by_dance/scottish_impaire.md)
 

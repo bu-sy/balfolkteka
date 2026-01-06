@@ -66,6 +66,9 @@ links:
     - https://open.spotify.com/playlist/0MCGnArGMUQeEiaDFBG95y
   - artist: Duivelspack
     track_name: Chapelloise (feat. Das Niveau & Anette Gebauer)
+    merge_with:
+      artist: Anette Gebauer, Das Niveau, Duivelspack
+      track_name: Chapelloise
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6PtrPIFE5l9vOIIA7wdSVx

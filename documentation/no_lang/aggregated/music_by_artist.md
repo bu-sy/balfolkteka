@@ -490,7 +490,7 @@
 
 [Duetu (1)](music_by_artist/duetu.md)
 
-[Duivelspack (2)](music_by_artist/duivelspack.md)
+[Duivelspack (1)](music_by_artist/duivelspack.md)
 
 [Duo Abbas Thézé (8)](music_by_artist/duo_abbas_theze.md)
 

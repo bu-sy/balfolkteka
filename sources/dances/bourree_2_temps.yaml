@@ -2386,8 +2386,10 @@ links:
     - https://open.spotify.com/playlist/0pyq1Rdsdqh0Maxty4GEOQ
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
   - artist: Naragonia Quartet
-    blacklist: true #duplicate
     track_name: Gij Met Mij
+    merge_with:
+      artist: Naragonia, Naragonia Quartet
+      track_name: Gij Met Mij
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/35fXkfyKsnCUXPYbamstsd

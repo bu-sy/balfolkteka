@@ -40,9 +40,9 @@
 
 [K (62)](music_alphabetically/on_letter_K.md)
 
-[L (388)](music_alphabetically/on_letter_L.md)
+[L (387)](music_alphabetically/on_letter_L.md)
 
-[M (220)](music_alphabetically/on_letter_M.md)
+[M (219)](music_alphabetically/on_letter_M.md)
 
 [N (50)](music_alphabetically/on_letter_N.md)
 
@@ -52,7 +52,7 @@
 
 [Q (16)](music_alphabetically/on_letter_Q.md)
 
-[R (101)](music_alphabetically/on_letter_R.md)
+[R (100)](music_alphabetically/on_letter_R.md)
 
 [S (220)](music_alphabetically/on_letter_S.md)
 

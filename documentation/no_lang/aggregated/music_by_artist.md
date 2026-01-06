@@ -1208,7 +1208,7 @@
 
 [M-1 (1)](music_by_artist/m_1.md)
 
-[Ma petite (6)](music_by_artist/ma_petite.md)
+[Ma petite (5)](music_by_artist/ma_petite.md)
 
 [Mafila Ko (1)](music_by_artist/mafila_ko.md)
 
@@ -1722,7 +1722,7 @@
 
 [Stephen Sanchez (1)](music_by_artist/stephen_sanchez.md)
 
-[Sterne (10)](music_by_artist/sterne.md)
+[Sterne (9)](music_by_artist/sterne.md)
 
 [Stevan Vincendeau (8)](music_by_artist/stevan_vincendeau.md)
 
@@ -2020,7 +2020,7 @@
 
 [Zayendo (1)](music_by_artist/zayendo.md)
 
-[Zef (28)](music_by_artist/zef.md)
+[Zef (27)](music_by_artist/zef.md)
 
 [Zero 7 (1)](music_by_artist/zero_7.md)
 
@@ -2030,6 +2030,6 @@
 
 [Zirp (6)](music_by_artist/zirp.md)
 
-[Zlabya (15)](music_by_artist/zlabya.md)
+[ZLABYA (15)](music_by_artist/zlabya.md)
 
 [Zurgó (1)](music_by_artist/zurgo.md)

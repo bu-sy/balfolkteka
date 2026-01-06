@@ -46,7 +46,7 @@
 
 [Mardi Gras (2)](music_by_dance/mardi_gras.md)
 
-[Mazurka (369)](music_by_dance/mazurka.md)
+[Mazurka (368)](music_by_dance/mazurka.md)
 
 [Mazurka 11 temps (3)](music_by_dance/mazurka_11_temps.md)
 
@@ -62,7 +62,7 @@
 
 [Rond de Landéda (7)](music_by_dance/rond_de_landeda.md)
 
-[Rond de Saint-Vincent (38)](music_by_dance/rond_de_saint_vincent.md)
+[Rond de Saint-Vincent (37)](music_by_dance/rond_de_saint_vincent.md)
 
 [Rond Paludier (11)](music_by_dance/rond_paludier.md)
 

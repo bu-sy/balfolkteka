@@ -11,14 +11,14 @@ def merge_music(all_music):
         else:
             music_not_to_merge.append(music)
 
-    music_list = sorted(music_not_to_merge, key=lambda x: (x.artist, x.track_name))
+    music_list = sorted(music_not_to_merge, key=lambda x: (x.artist.lower(), x.track_name.lower()))
 
     # First merge - based on the same artist/track_name combination
     all_music_filtered = music_list[0:1]
     for music in music_list[1:]:
         if all_music_filtered[-1].same_metadata(music, case_sensitive_check=False):
             print(
-                f"Found {all_music_filtered[-1].print_metadata()}' for {all_music_filtered[-1].get_dances_as_string()} and {music.get_dances_as_string()}. Merging")
+                f"Found {all_music_filtered[-1].print_metadata()} for {all_music_filtered[-1].get_dances_as_string()} and {music.get_dances_as_string()}. Merging")
 
             _merge_records(all_music_filtered[-1], music)
         else:

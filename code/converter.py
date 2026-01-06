@@ -59,8 +59,13 @@ class TrackRecord(object):
             blacklist=dict_obj.get('blacklist', False)
         )
 
-    def add_dance(self, dance):
-        self.dances.add(dance)
+    def merge_music_links(self, another_track_record):
+        for another_music_link in another_track_record.music_links:
+            if not any(another_music_link.link == music_link.link for music_link in self.music_links):
+                self.music_links.append(another_music_link)
+
+    def add_dances(self, dances):
+        self.dances.update(dances)
 
     def get_dances(self):
         return ", ".join(sorted(list(self.dances)))
@@ -83,6 +88,10 @@ class YamlDefinedEntity(object):
 class DanceFile(YamlDefinedEntity):
     def __init__(self, file_path):
         super(DanceFile, self).__init__(file_path)
+        self.music_links = None
+
+    def get_readable_name(self):
+        return self.get('name')
 
     def get_links(self):
         return self.get('links', {})
@@ -93,9 +102,11 @@ class DanceFile(YamlDefinedEntity):
         ]
 
     def get_music_links(self):
-        return [
-            TrackRecord.from_dict(track_obj) for track_obj in self.get_links().get('tracks', [])
-        ]
+        if not self.music_links:
+            self.music_links = [
+                TrackRecord.from_dict(track_obj) for track_obj in self.get_links().get('tracks', [])
+            ]
+        return self.music_links
 
     def get_instruction_link(self):
         return [
@@ -225,7 +236,7 @@ all_music = []
 for dance in all_dances:
     for music in dance.get_music_links():
         if not music.blacklist:
-            music.add_dance(dance.get('name'))
+            music.add_dances([dance.get_readable_name()])
             all_music.append(music)
 
 all_music = sorted(all_music, key=lambda x: (x.artist, x.track_name))
@@ -233,12 +244,23 @@ all_music_filtered = all_music[0:1]  # Finding duplicates, track that were categ
 for i in range(0, len(all_music)-1):
     if all_music[i].artist == all_music[i+1].artist and all_music[i].track_name == all_music[i+1].track_name  :
         print(f"Found {all_music[i].artist} - '{all_music[i].track_name}' for {all_music[i].get_dances()} and {all_music[i+1].get_dances()}. Merging")
-        all_music_filtered[-1].add_dance(all_music[i+1].get_dances())
+        all_music_filtered[-1].add_dances(all_music[i+1].dances)
+        all_music_filtered[-1].merge_music_links(all_music[i+1])
     else:
         all_music_filtered.append(all_music[i+1])
 
 assert len(all_music_filtered) == len(set(all_music_filtered))
 all_music = all_music_filtered
+
+#Adding tracks to the dances back after merging
+dance_name_to_object = {}
+for dance in all_dances:
+    dance.music_links = []
+    dance_name_to_object[dance.get_readable_name()] = dance
+
+for music in all_music:
+    for dance_readable_name in music.dances:
+        dance_name_to_object[dance_readable_name].music_links.append(music)
 
 #VERIFY FOR DUPLICATE LINKS
 youtube_links = {}

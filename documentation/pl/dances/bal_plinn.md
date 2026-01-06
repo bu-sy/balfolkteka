@@ -1,8 +1,8 @@
-# Suite Plinn
+# Bal Plinn
 
 [Powrót do listy tańców](../aggregated/aggregated_dances.md)
 
-**Nazwa**: Suite Plinn
+**Nazwa**: Bal Plinn
 
 ## Przykłady
 
@@ -26,8 +26,8 @@
 
 - [Plinn](plinn.md)
 
-- [Bal Plinn](bal_plinn.md)
+- [Suite Plinn](suite_plinn.md)
 
-## Utwory (1)
+## Utwory (2)
 
-[Utwory do tańca](../../no_lang/aggregated/music_by_dance/suite_plinn.md)
+[Utwory do tańca](../../no_lang/aggregated/music_by_dance/bal_plinn.md)

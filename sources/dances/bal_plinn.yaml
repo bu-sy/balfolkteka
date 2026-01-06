@@ -1,0 +1,35 @@
+id: bal_plinn
+name: Bal Plinn
+connected_dances:
+- plinn
+- suite_plinn
+links:
+  instructions:
+  - link: https://www.youtube.com/watch?v=5JrqcsbHQ2c
+    tags:
+    - in_french
+  examples:
+  - link: https://www.youtube.com/watch?v=wrmBxOgijiw
+    tags:
+    - recording_from_balfolk
+  playlists:
+  - link: https://open.spotify.com/playlist/74js3ECWD0ppiPFsPBif1p
+  tracks:
+  - artist: Carré Manchot
+    track_name: Plinn (Bal)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4MEddkdTVmNBOu5AvKEtBl
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=1eeh-xsixYc
+    from_playlist:
+    - https://open.spotify.com/playlist/74js3ECWD0ppiPFsPBif1p
+  - artist: Kendirvi
+    track_name: Ar Beg Melen - Dañs Plin (bal)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/56hnfAIIeTc7ObgqiuZg7g
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=hoHnAqheunc
+    from_playlist:
+    - https://open.spotify.com/playlist/74js3ECWD0ppiPFsPBif1p

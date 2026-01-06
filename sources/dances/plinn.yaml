@@ -1,7 +1,8 @@
 id: plinn
 name: Plinn
 connected_dances:
-  - suite_plinn
+- suite_plinn
+- bal_plinn
 links:
   instructions:
   - link: https://www.youtube.com/watch?v=bam-iBRClyc
@@ -20,6 +21,8 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/2PalTY7OU8UfPey5iXQOhg
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=-yRwuIjjJ48
     from_playlist:
     - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
   - artist: Kornog
@@ -27,5 +30,7 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/55P3yfhdxRu4kTxIzdBzJe
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=DQtZlzvm9fI
     from_playlist:
     - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4

@@ -26,6 +26,8 @@
 
 - [Suite Plinn](suite_plinn.md)
 
+- [Bal Plinn](bal_plinn.md)
+
 ## Utwory (2)
 
 [Utwory do tańca](../../no_lang/aggregated/music_by_dance/plinn.md)

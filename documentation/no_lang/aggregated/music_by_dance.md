@@ -6,6 +6,8 @@
 
 [Bal Limousine (6)](music_by_dance/bal_limousine.md)
 
+[Bal Plinn (2)](music_by_dance/bal_plinn.md)
+
 [Bourrée 2 temps (302)](music_by_dance/bourree_2_temps.md)
 
 [Bourrée 3 temps (150)](music_by_dance/bourree_3_temps.md)

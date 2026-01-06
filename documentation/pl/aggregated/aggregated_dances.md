@@ -1,4 +1,4 @@
-# Lista wszystkich tańców (46)
+# Lista wszystkich tańców (47)
 
 [Powrót do listy stron](../home.md)
 
@@ -9,6 +9,8 @@
 [Bal Keff](../dances/bal_keff.md)
 
 [Bal Limousine](../dances/bal_limousine.md)
+
+[Bal Plinn](../dances/bal_plinn.md)
 
 [Bourrée 2 temps (Bourree na 2)](../dances/bourree_2_temps.md)
 

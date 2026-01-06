@@ -18,7 +18,7 @@
 
 [? (1)](music_alphabetically/on_letter_?.md)
 
-[A (193)](music_alphabetically/on_letter_A.md)
+[A (194)](music_alphabetically/on_letter_A.md)
 
 [B (191)](music_alphabetically/on_letter_B.md)
 
@@ -48,7 +48,7 @@
 
 [O (36)](music_alphabetically/on_letter_O.md)
 
-[P (155)](music_alphabetically/on_letter_P.md)
+[P (156)](music_alphabetically/on_letter_P.md)
 
 [Q (16)](music_alphabetically/on_letter_Q.md)
 

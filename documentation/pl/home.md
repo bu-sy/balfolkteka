@@ -1,3 +1,3 @@
-[Lista wszystkich tańców (46)](aggregated/aggregated_dances.md)
+[Lista wszystkich tańców (47)](aggregated/aggregated_dances.md)
 
-[Lista wszystkich utworów (2604)](dances/music_redirect.md)
+[Lista wszystkich utworów (2606)](dances/music_redirect.md)

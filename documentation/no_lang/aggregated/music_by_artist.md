@@ -312,7 +312,7 @@
 
 [Caroline Loyal Marion (1)](music_by_artist/caroline_loyal_marion.md)
 
-[Carré Manchot (24)](music_by_artist/carre_manchot.md)
+[Carré Manchot (25)](music_by_artist/carre_manchot.md)
 
 [Casals Sabaté (1)](music_by_artist/casals_sabate.md)
 
@@ -1010,7 +1010,7 @@
 
 [Kelten Zonder Grenzen (4)](music_by_artist/kelten_zonder_grenzen.md)
 
-[Kendirvi (7)](music_by_artist/kendirvi.md)
+[Kendirvi (8)](music_by_artist/kendirvi.md)
 
 [Kepa Junkera (2)](music_by_artist/kepa_junkera.md)
 

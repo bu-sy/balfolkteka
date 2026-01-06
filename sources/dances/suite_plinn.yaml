@@ -1,7 +1,8 @@
 id: suite_plinn
 name: Suite Plinn
 connected_dances:
-  - plinn
+- plinn
+- bal_plinn
 links:
   instructions:
   - link: https://www.youtube.com/watch?v=5JrqcsbHQ2c
@@ -19,5 +20,7 @@ links:
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4jQdpie4b8K2JMi9yM0BcM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=a2dT849chHE
     from_playlist:
     - https://open.spotify.com/playlist/15z0YxuizuwKw9Vq0hgFeA

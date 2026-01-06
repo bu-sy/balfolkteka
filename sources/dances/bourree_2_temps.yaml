@@ -1803,6 +1803,9 @@ links:
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
   - artist: Kv Express
     track_name: Janelle
+    merge_with:
+      artist: Jo Zanders, Kv Express
+      track_name: Janelle
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1nrn1qIUSg2HHhnZ5l1YqR
@@ -2581,7 +2584,7 @@ links:
     - portal: Spotify
       link: https://open.spotify.com/track/0MdUKKTKOAh6JBKGiz236M
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=nYppjK1CGo0
+      link: https://www.youtube.com/watch?v=OoVzNrgtjmA
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05

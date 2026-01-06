@@ -1006,6 +1006,9 @@ links:
     - https://open.spotify.com/playlist/6NVbK3vks1qXQGandRKS5W
   - artist: Naragonia Quartet
     track_name: Lilac / Dave the Watchman
+    merge_with:
+      artist: Naragonia, Naragonia Quartet
+      track_name: Lilac / Dave the Watchman
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/0O9Nzchufie8U0DdMlpT44

@@ -2564,6 +2564,9 @@ links:
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
   - artist: Naragonia Quartet
     track_name: Momento Pierrot
+    merge_with:
+      artist: Naragonia, Naragonia Quartet
+      track_name: Momento Pierrot
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4mOKDWizLuMSWKt1Q6LI3T

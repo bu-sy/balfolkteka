@@ -580,6 +580,9 @@ links:
     - https://open.spotify.com/playlist/6h6kFIokNdHjWVcoydm0Rz
   - artist: Elanor
     track_name: Blown Away & Nuit Noire
+    merge_with:
+      artist: Elanor
+      track_name: Blown Away - Nuit Noire
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/3OiyXSaYmVC1rzfASYCQIy

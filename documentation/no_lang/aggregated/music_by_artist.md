@@ -548,7 +548,7 @@
 
 [Ekko Trio (3)](music_by_artist/ekko_trio.md)
 
-[Elanor (4)](music_by_artist/elanor.md)
+[Elanor (3)](music_by_artist/elanor.md)
 
 [Electrad (9)](music_by_artist/electrad.md)
 
@@ -1042,7 +1042,7 @@
 
 [Kreiz Breizh Akademi (1)](music_by_artist/kreiz_breizh_akademi.md)
 
-[Kv Express (22)](music_by_artist/kv_express.md)
+[Kv Express (21)](music_by_artist/kv_express.md)
 
 [Kvarts (3)](music_by_artist/kvarts.md)
 
@@ -1346,7 +1346,7 @@
 
 [Naragonia (57)](music_by_artist/naragonia.md)
 
-[Naragonia Quartet (23)](music_by_artist/naragonia_quartet.md)
+[Naragonia Quartet (21)](music_by_artist/naragonia_quartet.md)
 
 [Natalie Merchant (1)](music_by_artist/natalie_merchant.md)
 

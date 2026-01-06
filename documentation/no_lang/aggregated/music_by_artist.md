@@ -310,7 +310,7 @@
 
 [Caroline Loyal Marion (1)](music_by_artist/caroline_loyal_marion.md)
 
-[Carré Manchot (20)](music_by_artist/carre_manchot.md)
+[Carré Manchot (24)](music_by_artist/carre_manchot.md)
 
 [Casals Sabaté (1)](music_by_artist/casals_sabate.md)
 

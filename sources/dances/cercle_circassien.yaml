@@ -334,7 +334,43 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Carré Manchot
+    track_name: Cercle circassien (from album Laÿou !)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1inw7X9svbXH5GEbaG85DD
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=d3Kp7uL-YUY
+  - artist: Carré Manchot
+    track_name: Cercle Circassien (from album 20 ans - la compile !)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6NvOBQTY2LqvbpVWToWNRm
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=vaOhilnXf2I
+  - artist: Carré Manchot
+    track_name: Cercle circassien (from album Krenn-ha-krak)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3yEYuqkIrcVK7oNmEUU2Hl
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=y_YqKabWF2U
+  - artist: Carré Manchot
+    track_name: Cercle circassien (from album Pell Zo)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6hA2aIMSVcVIYI6QrkXsBb
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=VDkHaBhIqkc
+  - artist: Carré Manchot
+    track_name: Cercle circassien (from album Mamm an Avaloù)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5CAuFrGAVeLgV0tWhBUEin
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=SgBWEtbG9N8
+  - artist: Carré Manchot
     track_name: Cercle Circassien
+    blacklist: true #This gets confused with other tracks with the same name. Creating manual records
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/6NvOBQTY2LqvbpVWToWNRm
@@ -344,6 +380,7 @@ links:
     - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
   - artist: Carré Manchot
     track_name: Cercle circassien
+    blacklist: true #This gets confused with other tracks with the same name. Creating manual records
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1inw7X9svbXH5GEbaG85DD

@@ -22,7 +22,7 @@
 
 [B (192)](music_alphabetically/on_letter_B.md)
 
-[C (130)](music_alphabetically/on_letter_C.md)
+[C (134)](music_alphabetically/on_letter_C.md)
 
 [D (126)](music_alphabetically/on_letter_D.md)
 

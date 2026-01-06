@@ -1,0 +1,23 @@
+id: suite_plinn
+name: Suite Plinn
+connected_dances:
+  - plinn
+links:
+  instructions:
+  - link: https://www.youtube.com/watch?v=5JrqcsbHQ2c
+    tags:
+    - in_french
+  examples:
+  - link: https://www.youtube.com/watch?v=wrmBxOgijiw
+    tags:
+    - recording_from_balfolk
+  playlists:
+  - link: https://open.spotify.com/playlist/15z0YxuizuwKw9Vq0hgFeA
+  tracks:
+  - artist: Annie Ebrel
+    track_name: Suite Plinn - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4jQdpie4b8K2JMi9yM0BcM
+    from_playlist:
+    - https://open.spotify.com/playlist/15z0YxuizuwKw9Vq0hgFeA

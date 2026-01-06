@@ -1,4 +1,4 @@
-# Lista wszystkich tańców (44)
+# Lista wszystkich tańców (46)
 
 [Powrót do listy stron](../home.md)
 
@@ -58,6 +58,8 @@
 
 [Pas de Sept](../dances/pas_de_sept.md)
 
+[Plinn](../dances/plinn.md)
+
 [Polka](../dances/polka.md)
 
 [Polska (rund polska)](../dances/rund_polska.md)
@@ -77,6 +79,8 @@
 [Scottish](../dances/scottische.md)
 
 [Scottish impaire](../dances/scottish_impaire.md)
+
+[Suite Plinn](../dances/suite_plinn.md)
 
 [Tricot](../dances/tricot.md)
 

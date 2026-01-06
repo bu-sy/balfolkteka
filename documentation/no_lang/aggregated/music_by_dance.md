@@ -54,6 +54,8 @@
 
 [Pas de Sept (1)](music_by_dance/pas_de_sept.md)
 
+[Plinn (2)](music_by_dance/plinn.md)
+
 [Polka (115)](music_by_dance/polka.md)
 
 [Porcher (2)](music_by_dance/porcher.md)
@@ -73,6 +75,8 @@
 [Scottish (306)](music_by_dance/scottish.md)
 
 [Scottish impaire (20)](music_by_dance/scottish_impaire.md)
+
+[Suite Plinn (1)](music_by_dance/suite_plinn.md)
 
 [Tricot (23)](music_by_dance/tricot.md)
 

@@ -118,13 +118,15 @@
 
 [Anne-Lise Foy (10)](music_by_artist/anne_lise_foy.md)
 
-[Annie Ebrel (3)](music_by_artist/annie_ebrel.md)
+[Annie Ebrel (4)](music_by_artist/annie_ebrel.md)
 
 [Annwn (2)](music_by_artist/annwn.md)
 
 [Antikvariniai Kašpirovskio dantys (1)](music_by_artist/antikvariniai_kaspirovskio_dantys.md)
 
 [Antoine Dawans (3)](music_by_artist/antoine_dawans.md)
+
+[Antonin Volson (1)](music_by_artist/antonin_volson.md)
 
 [Antti Paalanen (1)](music_by_artist/antti_paalanen.md)
 
@@ -658,7 +660,7 @@
 
 [Flavia Escartin (4)](music_by_artist/flavia_escartin.md)
 
-[Fleuves (6)](music_by_artist/fleuves.md)
+[Fleuves (7)](music_by_artist/fleuves.md)
 
 [Floating Sofa Quartet (10)](music_by_artist/floating_sofa_quartet.md)
 
@@ -1032,7 +1034,7 @@
 
 [Komred (15)](music_by_artist/komred.md)
 
-[Kornog (3)](music_by_artist/kornog.md)
+[Kornog (4)](music_by_artist/kornog.md)
 
 [Korriganed (1)](music_by_artist/korriganed.md)
 
@@ -2003,6 +2005,8 @@
 [Yann-Fañch Kemener Trio (1)](music_by_artist/yann_fanch_kemener_trio.md)
 
 [Yannig Noguet (1)](music_by_artist/yannig_noguet.md)
+
+[Youn Kamm (1)](music_by_artist/youn_kamm.md)
 
 [Yousef Zayed (1)](music_by_artist/yousef_zayed.md)
 

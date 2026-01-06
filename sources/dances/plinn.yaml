@@ -1,0 +1,31 @@
+id: plinn
+name: Plinn
+connected_dances:
+  - suite_plinn
+links:
+  instructions:
+  - link: https://www.youtube.com/watch?v=bam-iBRClyc
+    tags:
+    - video_from_workshops
+    - in_french
+  examples:
+  - link: https://www.youtube.com/watch?v=XUUu01-aUXA
+    tags:
+    - video_from_workshops
+  playlists: #TODO go through https://open.spotify.com/playlist/3cDLcJNnHeNE2m0lErVR3w
+  - link: https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  tracks:
+  - artist: Antonin Volson, Fleuves, Youn Kamm
+    track_name: Dañs plinn
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2PalTY7OU8UfPey5iXQOhg
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - artist: Kornog
+    track_name: Dans Plinn
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/55P3yfhdxRu4kTxIzdBzJe
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4

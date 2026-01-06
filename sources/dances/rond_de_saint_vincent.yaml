@@ -74,12 +74,27 @@ links:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
     - https://open.spotify.com/playlist/7BOeaxu0flSfAaA7jETqw9
   - artist: Carré Manchot
+    track_name: Rond de Saint-Vincent (#2)
+    links:
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=SC5_KpMLOaQ
+    - portal: Spotify
+      link: https://open.spotify.com/track/5peaYpz9dzei5E40rjMjks
+  - artist: Carré Manchot
+    track_name: Rond de Saint-Vincent (#1)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5mBCXcKMkpdQHxGiR8Uacv
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=MQ_SGjZ72WE
+  - artist: Carré Manchot
+    blacklist: true #This record has 2 different spotify tracks. Blacklisted it and created 2 separate manually
     track_name: Rond de Saint-Vincent
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/5mBCXcKMkpdQHxGiR8Uacv
     - portal: YouTube
-      link: https://www.youtube.com/watch?v=BhxSnKw0TM4
+      link: https://www.youtube.com/watch?v=MQ_SGjZ72WE
     - portal: Spotify
       link: https://open.spotify.com/track/5peaYpz9dzei5E40rjMjks
     from_playlist:

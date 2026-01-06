@@ -979,6 +979,9 @@ links:
     - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: Duo Pilartz Gielen
     track_name: Suite de gigues irlandaises
+    merge_with:
+      artist: Adeline Ghilain, Duo Pilartz Gielen
+      track_name: Suite de gigues irlandaises
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/4qMyxzhVrb9JGRYD7RcBd2

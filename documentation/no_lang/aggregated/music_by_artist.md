@@ -310,7 +310,7 @@
 
 [Caroline Loyal Marion (1)](music_by_artist/caroline_loyal_marion.md)
 
-[Carré Manchot (19)](music_by_artist/carre_manchot.md)
+[Carré Manchot (20)](music_by_artist/carre_manchot.md)
 
 [Casals Sabaté (1)](music_by_artist/casals_sabate.md)
 
@@ -522,7 +522,7 @@
 
 [Duo Pennec Bertrand (5)](music_by_artist/duo_pennec_bertrand.md)
 
-[Duo Pilartz Gielen (9)](music_by_artist/duo_pilartz_gielen.md)
+[Duo Pilartz Gielen (8)](music_by_artist/duo_pilartz_gielen.md)
 
 [Duo Sciapò (1)](music_by_artist/duo_sciapo.md)
 

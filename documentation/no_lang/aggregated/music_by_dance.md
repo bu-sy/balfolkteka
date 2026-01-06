@@ -62,7 +62,7 @@
 
 [Rond de Landéda (7)](music_by_dance/rond_de_landeda.md)
 
-[Rond de Saint-Vincent (37)](music_by_dance/rond_de_saint_vincent.md)
+[Rond de Saint-Vincent (38)](music_by_dance/rond_de_saint_vincent.md)
 
 [Rond Paludier (11)](music_by_dance/rond_paludier.md)
 
@@ -70,7 +70,7 @@
 
 [Polska (rund polska) (43)](music_by_dance/rund_polska.md)
 
-[Scottish (307)](music_by_dance/scottish.md)
+[Scottish (306)](music_by_dance/scottish.md)
 
 [Scottish impaire (20)](music_by_dance/scottish_impaire.md)
 

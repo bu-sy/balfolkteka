@@ -52,9 +52,9 @@
 
 [Q (16)](music_alphabetically/on_letter_Q.md)
 
-[R (100)](music_alphabetically/on_letter_R.md)
+[R (101)](music_alphabetically/on_letter_R.md)
 
-[S (220)](music_alphabetically/on_letter_S.md)
+[S (219)](music_alphabetically/on_letter_S.md)
 
 [T (118)](music_alphabetically/on_letter_T.md)
 

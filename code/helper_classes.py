@@ -29,10 +29,25 @@ class MusicLinkRecord(object):
             link=dict_obj.get('link')
         )
 
-class TrackRecord(object):
-    def __init__(self, artist, track_name, music_links, tags, lyrics, blacklist, merge_with):
+class TrackRecordMetadata(object):
+    def __init__(self, artist, track_name):
         self.artist = artist
         self.track_name = track_name
+
+    @classmethod
+    def from_dict(cls, dict_obj):
+        return TrackRecordMetadata(
+            artist=dict_obj.get('artist'),
+            track_name=dict_obj.get('track_name')
+        )
+
+    def same_metadata(self, other):
+        return self.artist == other.artist and self.track_name == other.track_name
+
+
+class TrackRecord(TrackRecordMetadata):
+    def __init__(self, artist, track_name, music_links, tags, lyrics, blacklist, merge_with=None):
+        super(TrackRecord, self).__init__(artist, track_name)
         self.music_links = music_links
         self.tags = tags
         self.blacklist = blacklist
@@ -51,7 +66,7 @@ class TrackRecord(object):
             tags=dict_obj.get('tags') or [],
             lyrics=dict_obj.get('lyrics'),
             blacklist=dict_obj.get('blacklist', False),
-            merge_with=dict_obj.get('merge_with', {})
+            merge_with=TrackRecordMetadata.from_dict(dict_obj.get('merge_with')) if 'merge_with' in dict_obj else None
         )
 
     def merge_music_links(self, another_track_record):
@@ -62,7 +77,7 @@ class TrackRecord(object):
     def add_dances(self, dances):
         self.dances.update(dances)
 
-    def get_dances(self):
+    def get_dances_as_string(self):
         return ", ".join(sorted(list(self.dances)))
 
 

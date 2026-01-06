@@ -58,7 +58,7 @@ def music_collapsible_section(music, display_dance_name, artist_first=True):
 
     return "\n\n".join([
         "<hr>",
-        f"<h3>{get_first_part(music.artist, music.track_name)}" + (f" ({music.get_dances()})" if display_dance_name else "") + "</h3>"
+        f"<h3>{get_first_part(music.artist, music.track_name)}" + (f" ({music.get_dances_as_string()})" if display_dance_name else "") + "</h3>"
     ] + [
         collapsible(music_link.portal, embed_track(music_link))
         for music_link

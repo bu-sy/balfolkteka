@@ -41,8 +41,21 @@ class TrackRecordMetadata(object):
             track_name=dict_obj.get('track_name')
         )
 
-    def same_metadata(self, other):
-        return self.artist == other.artist and self.track_name == other.track_name
+    def same_metadata(self, other, case_sensitive_check=True):
+        def compare(A, B):
+            if case_sensitive_check:
+                return A == B
+            else:
+                return A.lower() == B.lower()
+
+        return all(
+            compare(value_A, value_B)
+            for value_A, value_B
+            in [(self.artist, other.artist), (self.track_name, other.track_name)]
+        )
+
+    def print_metadata(self):
+        return f"{self.artist} - '{self.track_name}'"
 
 
 class TrackRecord(TrackRecordMetadata):

@@ -12,15 +12,17 @@ def merge_music(all_music):
             music_not_to_merge.append(music)
 
     music_list = sorted(music_not_to_merge, key=lambda x: (x.artist, x.track_name))
-    all_music_filtered = music_list[0:1]  # Finding duplicates, track that were categorized as multiple dances
-    for i in range(0, len(music_list) - 1):
-        if music_list[i].same_metadata(music_list[i+1]):
-            print(
-                f"Found {music_list[i].artist} - '{music_list[i].track_name}' for {music_list[i].get_dances_as_string()} and {music_list[i + 1].get_dances_as_string()}. Merging")
 
-            _merge_records(all_music_filtered[-1], music_list[i + 1])
+    # First merge - based on the same artist/track_name combination
+    all_music_filtered = music_list[0:1]
+    for music in music_list[1:]:
+        if all_music_filtered[-1].same_metadata(music, case_sensitive_check=False):
+            print(
+                f"Found {all_music_filtered[-1].print_metadata()}' for {all_music_filtered[-1].get_dances_as_string()} and {music.get_dances_as_string()}. Merging")
+
+            _merge_records(all_music_filtered[-1], music)
         else:
-            all_music_filtered.append(music_list[i + 1])
+            all_music_filtered.append(music)
 
     assert len(all_music_filtered) == len(set(all_music_filtered))
     return all_music_filtered

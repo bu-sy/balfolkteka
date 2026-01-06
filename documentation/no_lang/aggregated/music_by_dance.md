@@ -6,13 +6,13 @@
 
 [Bal Limousine (6)](music_by_dance/bal_limousine.md)
 
-[Bourrée 2 temps (304)](music_by_dance/bourree_2_temps.md)
+[Bourrée 2 temps (303)](music_by_dance/bourree_2_temps.md)
 
 [Bourrée 3 temps (150)](music_by_dance/bourree_3_temps.md)
 
 [Branle de Noirmoutier (22)](music_by_dance/branle_de_noirmoutier.md)
 
-[Cercle Circassien (128)](music_by_dance/cercle_circassien.md)
+[Cercle Circassien (125)](music_by_dance/cercle_circassien.md)
 
 [Chapelloise (36)](music_by_dance/chapelloise.md)
 
@@ -36,7 +36,7 @@
 
 [Hanter Dro (132)](music_by_dance/hanter_dro.md)
 
-[Kost ar c'hoad (38)](music_by_dance/kost_ar_c_hoad.md)
+[Kost ar c'hoad (37)](music_by_dance/kost_ar_c_hoad.md)
 
 [Madison (1)](music_by_dance/madison.md)
 
@@ -46,7 +46,7 @@
 
 [Mardi Gras (2)](music_by_dance/mardi_gras.md)
 
-[Mazurka (371)](music_by_dance/mazurka.md)
+[Mazurka (369)](music_by_dance/mazurka.md)
 
 [Mazurka 11 temps (3)](music_by_dance/mazurka_11_temps.md)
 
@@ -78,10 +78,10 @@
 
 [Valse 11 temps (11)](music_by_dance/valse_11_temps.md)
 
-[Valse 3 temps (407)](music_by_dance/valse_3_temps.md)
+[Valse 3 temps (405)](music_by_dance/valse_3_temps.md)
 
-[Valse 5 temps (79)](music_by_dance/valse_5_temps.md)
+[Valse 5 temps (78)](music_by_dance/valse_5_temps.md)
 
-[Valse 8 temps (46)](music_by_dance/valse_8_temps.md)
+[Valse 8 temps (45)](music_by_dance/valse_8_temps.md)
 
 [Zwiefacher (3)](music_by_dance/zwiefacher.md)

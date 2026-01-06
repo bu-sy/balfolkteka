@@ -1797,9 +1797,6 @@ links:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Lirio
     track_name: Scottish à bruno & scottish vreeswijk
-    merge_with:
-      artist: Lirio
-      track_name: Scottish à Bruno & Scottish Vreeswijk
     links:
     - portal: Spotify
       link: https://open.spotify.com/track/1ZSBcSTtaHOl9rQsX7zVWM

@@ -310,7 +310,7 @@
 
 [Caroline Loyal Marion (1)](music_by_artist/caroline_loyal_marion.md)
 
-[Carré Manchot (20)](music_by_artist/carre_manchot.md)
+[Carré Manchot (19)](music_by_artist/carre_manchot.md)
 
 [Casals Sabaté (1)](music_by_artist/casals_sabate.md)
 
@@ -1042,7 +1042,7 @@
 
 [Kreiz Breizh Akademi (1)](music_by_artist/kreiz_breizh_akademi.md)
 
-[Kv Express (23)](music_by_artist/kv_express.md)
+[Kv Express (22)](music_by_artist/kv_express.md)
 
 [Kvarts (3)](music_by_artist/kvarts.md)
 
@@ -1168,7 +1168,7 @@
 
 [Lionel Neyssenssas (1)](music_by_artist/lionel_neyssenssas.md)
 
-[Lirio (19)](music_by_artist/lirio.md)
+[Lirio (18)](music_by_artist/lirio.md)
 
 [Litha (1)](music_by_artist/litha.md)
 
@@ -1518,7 +1518,7 @@
 
 [Planchée (8)](music_by_artist/planchee.md)
 
-[Plantec (22)](music_by_artist/plantec.md)
+[Plantec (20)](music_by_artist/plantec.md)
 
 [Plattform K+k Vienna (1)](music_by_artist/plattform_k_k_vienna.md)
 
@@ -1556,7 +1556,7 @@
 
 [Regis Huiban (1)](music_by_artist/regis_huiban.md)
 
-[Rémi Geffroy (33)](music_by_artist/remi_geffroy.md)
+[Rémi Geffroy (31)](music_by_artist/remi_geffroy.md)
 
 [Renat Jurie (1)](music_by_artist/renat_jurie.md)
 
@@ -1722,7 +1722,7 @@
 
 [Stephen Sanchez (1)](music_by_artist/stephen_sanchez.md)
 
-[Sterne (12)](music_by_artist/sterne.md)
+[Sterne (10)](music_by_artist/sterne.md)
 
 [Stevan Vincendeau (8)](music_by_artist/stevan_vincendeau.md)
 
@@ -1980,7 +1980,7 @@
 
 [Woodlands (1)](music_by_artist/woodlands.md)
 
-[Wouter en De Draak (24)](music_by_artist/wouter_en_de_draak.md)
+[Wouter en De Draak (21)](music_by_artist/wouter_en_de_draak.md)
 
 [WoWaKin (1)](music_by_artist/wowakin.md)
 

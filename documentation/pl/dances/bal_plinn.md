@@ -7,8 +7,8 @@
 ## Przykłady
 
 <details>
-<summary><big>Przykład 1 (Nagranie z potańcówki)</big></summary>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/wrmBxOgijiw?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+<summary><big>Przykład 1 (Nagranie z konkursu tańca)</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/cObYS0SGRpg?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <br>
@@ -17,7 +17,7 @@
 
 <details>
 <summary><big>Wideo instruktażowe 1 (Po francusku)</big></summary>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/5JrqcsbHQ2c?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/60c1_KzkiHE?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
 <br>

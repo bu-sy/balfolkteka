@@ -1126,6 +1126,15 @@ links:
       link: https://www.youtube.com/watch?v=8OFFHfUgMEY
     from_playlist:
     - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Spontus
+    track_name: Les vacances de Mr Joe 3
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4V4HpJvPyxkrn6nSm0jjjq
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=jjpeW0t3-4s
+    from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
   - artist: Startijenn
     track_name: Backpaker
     links:

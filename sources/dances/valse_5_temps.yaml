@@ -34,6 +34,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/13jgMhYYcLbApiEnB4G7JQ
     - https://open.spotify.com/playlist/14n9vMKARFouT5dXDdV56f
+  - artist: Alzamantes
+    track_name: Non Dormire
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2S3tYLYXEAnqEG7CkylM5N
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=8Ucsvr1l3Cs
+    from_playlist:
+    - https://open.spotify.com/playlist/0IR30VEjD5oPb5XDcpJGP7
   - artist: Ambrozijn
     track_name: Voktijn
     links:

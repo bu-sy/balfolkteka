@@ -78,7 +78,7 @@
 
 [Almeeva (1)](music_by_artist/almeeva.md)
 
-[Alzamantes (3)](music_by_artist/alzamantes.md)
+[Alzamantes (6)](music_by_artist/alzamantes.md)
 
 [Amarcord Wien (1)](music_by_artist/amarcord_wien.md)
 
@@ -1710,7 +1710,7 @@
 
 [Spiritualized (1)](music_by_artist/spiritualized.md)
 
-[Spontus (4)](music_by_artist/spontus.md)
+[Spontus (8)](music_by_artist/spontus.md)
 
 [Spoum (1)](music_by_artist/spoum.md)
 

@@ -285,6 +285,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
   - artist: Spontus
+    track_name: Les petits pas
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/53vm09wvD337pauvdgjCBe
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=VaBz50mHQXY
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - artist: Spontus
     track_name: Plinn
     links:
     - portal: YouTube

@@ -115,6 +115,15 @@ links:
       link: https://www.youtube.com/watch?v=2WejDC4E6lI
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Alzamantes
+    track_name: Calma Mia
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4adKFpKmQTDVqufsm2M9zB
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=oc4cwgp6EeA
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Ampouailh
     track_name: Skañv (mazurka)
     links:
@@ -3148,6 +3157,15 @@ links:
       link: https://www.youtube.com/watch?v=3X2w5iFvICg
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Spontus
+    track_name: Une carrière bien remplie - Mazurka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1ZVySxj5vJWM1URvQcOUnr
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=EdfDj_Cy9jI
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Stefano Baldan
     track_name: Amor mio
     links:

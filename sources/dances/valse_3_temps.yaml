@@ -218,6 +218,15 @@ links:
       link: https://www.youtube.com/watch?v=cAxJAVShCvE
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
+  - artist: Alzamantes
+    track_name: Ali Finte
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2Mw3p2xKPQ7OMCqlHnLhFF
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=-5c6iwI1XcY
+    from_playlist:
+    - https://open.spotify.com/playlist/6Frtoa6VNsp0n814HSZEfG
   - artist: Amarcord Wien, Dmitri Shostakovich
     track_name: Walzer, No. 2
     links:

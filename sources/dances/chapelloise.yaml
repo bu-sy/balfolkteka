@@ -327,6 +327,15 @@ links:
       link: https://www.youtube.com/watch?v=MYEp2vEIr9Q
     from_playlist:
     - https://open.spotify.com/playlist/5IbcMd4YyTBwJuIggoi0dD
+  - artist: Spontus
+    track_name: L'Ehpad 7
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0RVSoQz5Ixyb3kAD3y3HH3
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=2cY1PPd8psA
+    from_playlist:
+    - https://open.spotify.com/playlist/0MCGnArGMUQeEiaDFBG95y
   - artist: Vicki Swan & Jonny Dyer
     track_name: Driving Home Chapelloise
     links:

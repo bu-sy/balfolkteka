@@ -12,9 +12,9 @@
 
 [Branle de Noirmoutier (22)](music_by_dance/branle_de_noirmoutier.md)
 
-[Cercle Circassien (130)](music_by_dance/cercle_circassien.md)
+[Cercle Circassien (131)](music_by_dance/cercle_circassien.md)
 
-[Chapelloise (37)](music_by_dance/chapelloise.md)
+[Chapelloise (38)](music_by_dance/chapelloise.md)
 
 [Congo de Captieux (18)](music_by_dance/congo_de_captieux.md)
 
@@ -46,7 +46,7 @@
 
 [Mardi Gras (2)](music_by_dance/mardi_gras.md)
 
-[Mazurka (372)](music_by_dance/mazurka.md)
+[Mazurka (374)](music_by_dance/mazurka.md)
 
 [Mazurka 11 temps (3)](music_by_dance/mazurka_11_temps.md)
 
@@ -54,7 +54,7 @@
 
 [Pas de Sept (1)](music_by_dance/pas_de_sept.md)
 
-[Plinn/Bal Plinn (33)](music_by_dance/plinn_and_ball.md)
+[Plinn/Bal Plinn (34)](music_by_dance/plinn_and_ball.md)
 
 [Polka (115)](music_by_dance/polka.md)
 
@@ -82,9 +82,9 @@
 
 [Valse 11 temps (11)](music_by_dance/valse_11_temps.md)
 
-[Valse 3 temps (408)](music_by_dance/valse_3_temps.md)
+[Valse 3 temps (409)](music_by_dance/valse_3_temps.md)
 
-[Valse 5 temps (78)](music_by_dance/valse_5_temps.md)
+[Valse 5 temps (79)](music_by_dance/valse_5_temps.md)
 
 [Valse 8 temps (45)](music_by_dance/valse_8_temps.md)
 

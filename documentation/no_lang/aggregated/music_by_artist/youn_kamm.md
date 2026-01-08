@@ -2,7 +2,7 @@
 
 <hr>
 
-<h3>Antonin Volson, Fleuves, Youn Kamm - <b>Dañs plinn</b> (Plinn)</h3>
+<h3>Antonin Volson, Fleuves, Youn Kamm - <b>Dañs plinn</b> (Plinn/Bal Plinn)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

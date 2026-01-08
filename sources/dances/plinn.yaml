@@ -1,11 +1,14 @@
-id: plinn
-name: Plinn
+id: plinn_and_ball
+name: Plinn/Bal Plinn
 connected_dances:
 - suite_plinn
-- bal_plinn
 links:
   instructions:
   - link: https://www.youtube.com/watch?v=bam-iBRClyc
+    tags:
+    - video_from_workshops
+    - in_french
+  - link: https://www.youtube.com/watch?v=60c1_KzkiHE
     tags:
     - video_from_workshops
     - in_french
@@ -13,9 +16,40 @@ links:
   - link: https://www.youtube.com/watch?v=XUUu01-aUXA
     tags:
     - video_from_workshops
-  playlists: #TODO go through https://open.spotify.com/playlist/3cDLcJNnHeNE2m0lErVR3w
+  - link: https://www.youtube.com/watch?v=cObYS0SGRpg
+    tags:
+    - recording_from_dance_contest
+  playlists:
   - link: https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - link: https://open.spotify.com/playlist/74js3ECWD0ppiPFsPBif1p
   tracks:
+  - artist: Annie Ebrel, Erwan Hamon, Janick Martin, Orchestre national de Bretagne
+    track_name: Sant Fonik Plinn (Bal)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3bQJFa1cGXqnRxzfgGwIpU
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=2W3DTCytpUI
+    from_playlist:
+    - https://open.spotify.com/playlist/74js3ECWD0ppiPFsPBif1p
+  - artist: Annie Ebrel, Erwan Hamon, Janick Martin, Orchestre national de Bretagne
+    track_name: Sant Fonik Plinn (Ton hir)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4Jwi0KG4akkajc2rYV4GQq
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ikc5qfpOi0s
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - artist: Annie Ebrel, Erwan Hamon, Janick Martin, Orchestre national de Bretagne
+    track_name: Sant Fonik plinn (Ton berr)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6Q7HTltuWxY8K8S8PXPTxV
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=k1LA1l5apyI
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
   - artist: Antonin Volson, Fleuves, Youn Kamm
     track_name: Dañs plinn
     links:
@@ -23,6 +57,150 @@ links:
       link: https://open.spotify.com/track/2PalTY7OU8UfPey5iXQOhg
     - portal: YouTube
       link: https://www.youtube.com/watch?v=-yRwuIjjJ48
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - artist: Carré Manchot
+    track_name: Plinn (Bal)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4MEddkdTVmNBOu5AvKEtBl
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=1eeh-xsixYc
+    from_playlist:
+    - https://open.spotify.com/playlist/74js3ECWD0ppiPFsPBif1p
+  - artist: Carré Manchot, Marcel Le Guilloux
+    track_name: Plinn (Ton doubl)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/65A6wkRnKSfgACNPED806Q
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=jAHD1e7SjqI
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - artist: Carré Manchot, Marcel Le Guilloux
+    track_name: Plinn (Ton simpl)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5vvGNdMzpwGxcCfFTqsHYS
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=DEHzAN2krgA
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - artist: Eben
+    track_name: Dinaskañ
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3QIhoUoS3CmmX8z1HmM1Bh
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=jCp4RnN-xe0
+    from_playlist:
+    - https://open.spotify.com/playlist/74js3ECWD0ppiPFsPBif1p
+  - artist: Eben
+    track_name: Douar nevez
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0We66XClQKzbvcqdTtTF37
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=OlqIQxouF60
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - artist: Eben
+    track_name: Hent ahez
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0OQIolpAYMWu1cCM3kgu1A
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=vXhr-sKQGfg
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - artist: Electrad
+    track_name: Dans Plinn (Ton Simpl Plinn)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0yIFsEpbFU0mmUnwABUSUu
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=r9S5F3jBUhw
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - artist: Jean-Charles Guichen
+    track_name: Aerouant Ruz
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6KfIUZb73eOoTMFxjueFfU
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Baza65Fcnxk
+    from_playlist:
+    - https://open.spotify.com/playlist/74js3ECWD0ppiPFsPBif1p
+  - artist: Jean-Charles Guichen
+    track_name: Argoad
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3tNVRvE0Il5iGlsZOulx65
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Wisd9jncQSs
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - artist: Jean-Charles Guichen
+    track_name: Plinn Braz - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7DylSvIVZVuQBiDlqpSNM3
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=wJfYzIqd0uw
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - artist: Kendirvi
+    track_name: Ar Beg Melen - Dañs Plin (bal)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/56hnfAIIeTc7ObgqiuZg7g
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=hoHnAqheunc
+    from_playlist:
+    - https://open.spotify.com/playlist/74js3ECWD0ppiPFsPBif1p
+  - artist: Kendirvi
+    track_name: Ar Beg Melen - Dañs Plin (ton diwezhañ)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3cKu6JcaAIUjRCpaaiSdAP
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=dIFR1mwWh0s
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - artist: Kendirvi
+    track_name: Ar Beg Melen - Dañs Plin (ton kentañ)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/62hXXn9xKFpfPYGEgZxEFV
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=YZNL3K69Pto
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - artist: Kerbedig
+    track_name: Dañs plin, bal - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3pmKFsq7OGEiXTQ4PJ4KPu
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=mWTVEcsAzHk
+    from_playlist:
+    - https://open.spotify.com/playlist/74js3ECWD0ppiPFsPBif1p
+  - artist: Kerbedig
+    track_name: Dañs plin, ton berr - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0Ls6lfvbIuN9YwJaud7EUR
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=FeUKAsCPT5k
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - artist: Kerbedig
+    track_name: Dañs plin, ton hir - Live
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3rpjkDLT8sykShSNuFxTdw
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=zWOXFXioLY8
     from_playlist:
     - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
   - artist: Kornog
@@ -34,8 +212,107 @@ links:
       link: https://www.youtube.com/watch?v=DQtZlzvm9fI
     from_playlist:
     - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - artist: Le Bour Bodros
+    track_name: DLF - Plinn
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7ah71nLMXgROz3ETamtruf
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Ug8ookDFoiI
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - artist: NIJ
+    track_name: Callisto - Ton Simpl Plinn
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7vtrVJy8vsRV5oKGJoUC3R
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=2YqUcdl6fKc
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - artist: NIJ
+    track_name: Calycé - Ton Doubl Plinn
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/763vqTnEgRzseJVaRNOwyS
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=IRGU2vGzmck
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - artist: NIJ
+    track_name: Cyllène - Bal Plinn
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2LJJkTGJUo3wzDpOmmpdZ5
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=lGC8Zww_Z5o
+    from_playlist:
+    - https://open.spotify.com/playlist/74js3ECWD0ppiPFsPBif1p
+  - artist: Red Cardell
+    track_name: Plinn bal hasard
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/43VeiQ365QPtVpb00FuJen
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=sEdxKIAN240
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - artist: Ruz Reor
+    track_name: Bal Plinn
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0gScUcXVJxf0HZEZWkMD2i
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=-nMtSFN6ICg
+    from_playlist:
+    - https://open.spotify.com/playlist/74js3ECWD0ppiPFsPBif1p
+  - artist: Ruz Reor
+    track_name: Plinn ton doubl
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2uhiBeAIpmuk2EHKXYJQRo
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=vDPHApYSVq8
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - artist: Ruz Reor
+    track_name: Plinn ton simpl
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7l9KMvOuRP9txR1JNS8PEw
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=HXxwAIm-uxg
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
   - artist: Spontus
     track_name: Plinn
     links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=KSzguM3TdC8
+  - artist: Wipidoup
+    track_name: Berr berr (Ton simpl) - Dañs tro plinn
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2sh2SxtbzcO5cLI6Uy1L0j
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=B54R2KGXsso
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4
+  - artist: Wipidoup
+    track_name: Ehan ehan (Bal) - Dañs tro plinn
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0LUZ4dISLbCnjNGZdmI3eM
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=0fCX-A1jn_8
+    from_playlist:
+    - https://open.spotify.com/playlist/74js3ECWD0ppiPFsPBif1p
+  - artist: Wipidoup
+    track_name: Hir hir (Ton doubl) - Dañs tro plinn
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/65RppfJcXOez88xq5UipIf
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=EreoKc3oT_Y
+    from_playlist:
+    - https://open.spotify.com/playlist/0TkFz8r5yIt0xqrvCtiHM4

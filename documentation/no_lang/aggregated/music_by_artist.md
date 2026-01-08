@@ -40,7 +40,7 @@
 
 [Alain Buhé (1)](music_by_artist/alain_buhe.md)
 
-[Alain Pennec (9)](music_by_artist/alain_pennec.md)
+[Alain Pennec (10)](music_by_artist/alain_pennec.md)
 
 [Alain Pennec Quartet (2)](music_by_artist/alain_pennec_quartet.md)
 
@@ -118,7 +118,7 @@
 
 [Anne-Lise Foy (10)](music_by_artist/anne_lise_foy.md)
 
-[Annie Ebrel (4)](music_by_artist/annie_ebrel.md)
+[Annie Ebrel (7)](music_by_artist/annie_ebrel.md)
 
 [Annwn (2)](music_by_artist/annwn.md)
 
@@ -312,7 +312,7 @@
 
 [Caroline Loyal Marion (1)](music_by_artist/caroline_loyal_marion.md)
 
-[Carré Manchot (25)](music_by_artist/carre_manchot.md)
+[Carré Manchot (27)](music_by_artist/carre_manchot.md)
 
 [Casals Sabaté (1)](music_by_artist/casals_sabate.md)
 
@@ -538,7 +538,7 @@
 
 [E-leizh (1)](music_by_artist/e_leizh.md)
 
-[Eben (4)](music_by_artist/eben.md)
+[Eben (7)](music_by_artist/eben.md)
 
 [Edgar Trio (1)](music_by_artist/edgar_trio.md)
 
@@ -552,7 +552,7 @@
 
 [Elanor (3)](music_by_artist/elanor.md)
 
-[Electrad (9)](music_by_artist/electrad.md)
+[Electrad (10)](music_by_artist/electrad.md)
 
 [Élisa Trebouville (4)](music_by_artist/elisa_trebouville.md)
 
@@ -586,7 +586,7 @@
 
 [Erno Korpershoek (1)](music_by_artist/erno_korpershoek.md)
 
-[Erwan Hamon (2)](music_by_artist/erwan_hamon.md)
+[Erwan Hamon (5)](music_by_artist/erwan_hamon.md)
 
 [Erwan Menguy (2)](music_by_artist/erwan_menguy.md)
 
@@ -840,7 +840,7 @@
 
 [Hot Griselda (6)](music_by_artist/hot_griselda.md)
 
-[Hotel Palindrone (13)](music_by_artist/hotel_palindrone.md)
+[Hotel Palindrone (14)](music_by_artist/hotel_palindrone.md)
 
 [I Fratelli Tarzanelli (1)](music_by_artist/i_fratelli_tarzanelli.md)
 
@@ -882,7 +882,7 @@
 
 [Jan-Paul van der Hoeven (1)](music_by_artist/jan_paul_van_der_hoeven.md)
 
-[Janick Martin (1)](music_by_artist/janick_martin.md)
+[Janick Martin (4)](music_by_artist/janick_martin.md)
 
 [Janusz Prusinowski Kompania (1)](music_by_artist/janusz_prusinowski_kompania.md)
 
@@ -894,7 +894,7 @@
 
 [Jean Blanchard (1)](music_by_artist/jean_blanchard.md)
 
-[Jean-Charles Guichen (4)](music_by_artist/jean_charles_guichen.md)
+[Jean-Charles Guichen (7)](music_by_artist/jean_charles_guichen.md)
 
 [Jean-Christophe Cholet (1)](music_by_artist/jean_christophe_cholet.md)
 
@@ -1010,11 +1010,11 @@
 
 [Kelten Zonder Grenzen (4)](music_by_artist/kelten_zonder_grenzen.md)
 
-[Kendirvi (8)](music_by_artist/kendirvi.md)
+[Kendirvi (10)](music_by_artist/kendirvi.md)
 
 [Kepa Junkera (2)](music_by_artist/kepa_junkera.md)
 
-[Kerbedig (2)](music_by_artist/kerbedig.md)
+[Kerbedig (5)](music_by_artist/kerbedig.md)
 
 [Kévin Balzan (1)](music_by_artist/kevin_balzan.md)
 
@@ -1112,7 +1112,7 @@
 
 [Le Big Stal (1)](music_by_artist/le_big_stal.md)
 
-[Le Bour Bodros (11)](music_by_artist/le_bour_bodros.md)
+[Le Bour Bodros (12)](music_by_artist/le_bour_bodros.md)
 
 [Le Diable à 4 (1)](music_by_artist/le_diable_a_4.md)
 
@@ -1146,7 +1146,7 @@
 
 [Les frères Kervadec (2)](music_by_artist/les_freres_kervadec.md)
 
-[Les Frères Paranthoën (2)](music_by_artist/les_freres_paranthoen.md)
+[Les Frères Paranthoën (3)](music_by_artist/les_freres_paranthoen.md)
 
 [Les Galvodeux (1)](music_by_artist/les_galvodeux.md)
 
@@ -1241,6 +1241,8 @@
 [Marais Vendéen (1)](music_by_artist/marais_vendeen.md)
 
 [Marc Perrone (3)](music_by_artist/marc_perrone.md)
+
+[Marcel Le Guilloux (2)](music_by_artist/marcel_le_guilloux.md)
 
 [Marcel Loeffler (1)](music_by_artist/marcel_loeffler.md)
 
@@ -1366,7 +1368,7 @@
 
 [Nigel Eaton (8)](music_by_artist/nigel_eaton.md)
 
-[NIJ (5)](music_by_artist/nij.md)
+[NIJ (8)](music_by_artist/nij.md)
 
 [Nina Nordvall Vahlberg (1)](music_by_artist/nina_nordvall_vahlberg.md)
 
@@ -1420,7 +1422,7 @@
 
 [Orchestre International des Guides et Scouts d'Europe (1)](music_by_artist/orchestre_international_des_guides_et_scouts_d_europe.md)
 
-[Orchestre national de Bretagne (1)](music_by_artist/orchestre_national_de_bretagne.md)
+[Orchestre national de Bretagne (4)](music_by_artist/orchestre_national_de_bretagne.md)
 
 [Orfeo (16)](music_by_artist/orfeo.md)
 
@@ -1554,7 +1556,7 @@
 
 [Ratilio (7)](music_by_artist/ratilio.md)
 
-[Red Cardell (2)](music_by_artist/red_cardell.md)
+[Red Cardell (3)](music_by_artist/red_cardell.md)
 
 [Red Hot Chili Peppers (2)](music_by_artist/red_hot_chili_peppers.md)
 
@@ -1608,7 +1610,7 @@
 
 [Ruth Hunter and Ruthie Dornfeld (1)](music_by_artist/ruth_hunter_and_ruthie_dornfeld.md)
 
-[Ruz Reor (6)](music_by_artist/ruz_reor.md)
+[Ruz Reor (9)](music_by_artist/ruz_reor.md)
 
 [Šakar Makar (4)](music_by_artist/sakar_makar.md)
 
@@ -1978,7 +1980,7 @@
 
 [Winifred Horan (1)](music_by_artist/winifred_horan.md)
 
-[Wipidoup (1)](music_by_artist/wipidoup.md)
+[Wipidoup (4)](music_by_artist/wipidoup.md)
 
 [Wolgemut (2)](music_by_artist/wolgemut.md)
 

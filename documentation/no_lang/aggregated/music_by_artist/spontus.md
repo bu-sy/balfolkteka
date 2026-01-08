@@ -44,7 +44,7 @@
 
 <hr>
 
-<h3>Spontus - <b>Plinn</b> (Plinn)</h3>
+<h3>Spontus - <b>Plinn</b> (Plinn/Bal Plinn)</h3>
 
 <details>
 <summary><big>YouTube</big></summary>

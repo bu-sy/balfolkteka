@@ -16,7 +16,7 @@
 
 <hr>
 
-<h3>Kornog - <b>Dans Plinn</b> (Plinn)</h3>
+<h3>Kornog - <b>Dans Plinn</b> (Plinn/Bal Plinn)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

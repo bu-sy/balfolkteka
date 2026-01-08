@@ -24,10 +24,8 @@
 
 ### Powiązane tańce
 
-- [Plinn](plinn.md)
+- [Plinn/Bal Plinn](plinn.md)
 
-- [Bal Plinn](bal_plinn.md)
-
-## Utwory (2)
+## Utwory (5)
 
 [Utwory do tańca](../../no_lang/aggregated/music_by_dance/suite_plinn.md)

@@ -14,6 +14,7 @@ links:
     - recording_from_balfolk
   playlists:
   - link: https://open.spotify.com/playlist/15z0YxuizuwKw9Vq0hgFeA
+  - link: https://open.spotify.com/playlist/19MIXxaBDhwl8YefkDagGB
   tracks:
   - artist: Annie Ebrel
     track_name: Suite Plinn - Live
@@ -24,3 +25,12 @@ links:
       link: https://www.youtube.com/watch?v=a2dT849chHE
     from_playlist:
     - https://open.spotify.com/playlist/15z0YxuizuwKw9Vq0hgFeA
+  - artist: Ball Noir
+    track_name: Drifting (Suite Plinn)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4K6UOvtkZE9eGtBRBdUQae
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=3f0m3kR1SR8
+    from_playlist:
+    - https://open.spotify.com/playlist/19MIXxaBDhwl8YefkDagGB

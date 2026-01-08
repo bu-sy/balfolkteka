@@ -186,6 +186,24 @@ links:
       link: https://www.youtube.com/watch?v=3K8ZGdjlguM
     from_playlist:
     - https://open.spotify.com/playlist/57ENhtXnDalTUj1w1w7L8W
+  - artist: Ball Noir
+    track_name: Bitter Dreams (Cercle)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1xKDtUQiAgHRyNh6yifW9W
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Nyu90gkSACA
+    from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
+  - artist: Ball Noir
+    track_name: Time Marches On (Cercle)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0ktlhDe4QMkvwNHBDmaPUs
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=BQIxwTn3PdY
+    from_playlist:
+    - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
   - artist: Ballsy Swing
     track_name: Bonus
     links:

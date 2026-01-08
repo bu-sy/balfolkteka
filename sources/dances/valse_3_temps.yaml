@@ -449,6 +449,24 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
+  - artist: Ball Noir
+    track_name: Never Again (Waltz)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3X25iqmsbzhNA1j5639Lja
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=3VWF73-Xkdk
+    from_playlist:
+    - https://open.spotify.com/playlist/6Frtoa6VNsp0n814HSZEfG
+  - artist: Ball Noir
+    track_name: The River Runs Black (Waltz)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2vSHEzDYi8ePIOhsMWdWUZ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=yCRD7-Nk_7Y
+    from_playlist:
+    - https://open.spotify.com/playlist/6Frtoa6VNsp0n814HSZEfG
   - artist: Balla Vogala
     track_name: La valse à ollu / my favourite things
     links:
@@ -3026,6 +3044,15 @@ links:
       link: https://www.youtube.com/watch?v=IqsRwWR-sho
     from_playlist:
     - https://open.spotify.com/playlist/0Yr7kMghga9qAOEkgL9Ifo
+  - artist: Portmanteau
+    track_name: Vals
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6bqx2cQdZGQ0q1ohmiDuDC
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=3R0GNGI6-IQ
+    from_playlist:
+    - https://open.spotify.com/playlist/6Frtoa6VNsp0n814HSZEfG
   - artist: Radůza
     track_name: Ať Není Mi Líto
     links:

@@ -210,6 +210,15 @@ links:
       link: https://www.youtube.com/watch?v=jBQmsiLi2CY
     from_playlist:
     - https://open.spotify.com/playlist/6NVbK3vks1qXQGandRKS5W
+  - artist: Ball Noir
+    track_name: Opus 38 (Hanterdro)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5dTNaKnyyTVNTg2wvXeu8J
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=dKlvig9qW_A
+    from_playlist:
+    - https://open.spotify.com/playlist/25fWKPzv5TegVwGq4DrWTb
   - artist: Barba Loutig
     track_name: Eit ma kreskei ar garantez
     links:
@@ -1111,6 +1120,15 @@ links:
     - https://open.spotify.com/playlist/3Gj8CVlHUO9Oba7Ib0IV4S
     - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
     - https://open.spotify.com/playlist/6NVbK3vks1qXQGandRKS5W
+  - artist: Portmanteau
+    track_name: Languidic
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6HPMZUDp2SCX1S7J4Pa2VH
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=wzjimiOZIyQ
+    from_playlist:
+    - https://open.spotify.com/playlist/25fWKPzv5TegVwGq4DrWTb
   - artist: Potes Flor' (Diou Flo)
     track_name: Hanter Dro
     links:

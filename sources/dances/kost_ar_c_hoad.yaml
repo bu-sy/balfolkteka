@@ -82,6 +82,15 @@ links:
       link: https://www.youtube.com/watch?v=JUT7KVX-tFk
     from_playlist:
     - https://open.spotify.com/playlist/0g3LUsF2I7jbUNuCugqm2O
+  - artist: Ball Noir
+    track_name: 66 Strings of Doom (Kost Ar C'hoad)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4XQIl6UeNDyHnF4uO5768Z
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=bPNNS8ro0s8
+    from_playlist:
+    - https://open.spotify.com/playlist/1tCvBl3LHJOn4maksaUXBx
   - artist: Carré Manchot
     track_name: Kost Er Hoed
     links:
@@ -297,6 +306,15 @@ links:
       link: https://www.youtube.com/watch?v=3NzaFunKx6U
     from_playlist:
     - https://open.spotify.com/playlist/2yMyRimR4t8Jx6zUl60dOI
+  - artist: Spontus
+    track_name: An Huneour - Kost er hœt
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2PKHSZGltviRAul9oObTq0
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=d1j4cEIq6ko
+    from_playlist:
+    - https://open.spotify.com/playlist/1tCvBl3LHJOn4maksaUXBx
   - artist: Sterne
     track_name: Kost ar C'hoat
     links:

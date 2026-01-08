@@ -94,6 +94,15 @@ links:
       link: https://www.youtube.com/watch?v=yv9qbBV860o
     from_playlist:
     - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
+  - artist: Ball Noir
+    track_name: SOS (Bourree)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/62a1DtLrV3azSwE67deOac
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Xgjy-6r__m8
+    from_playlist:
+    - https://open.spotify.com/playlist/1WUytEw4LQUtV8HxDeZ7O0
   - artist: Ballsy Swing
     track_name: Marcheciel - Bourrée des gaziers
     links:
@@ -1147,6 +1156,24 @@ links:
       link: https://open.spotify.com/track/6saCBgkghku8haPq3a9DcI
     - portal: YouTube
       link: https://www.youtube.com/watch?v=Ekc04UIRv-o
+    from_playlist:
+    - https://open.spotify.com/playlist/1WUytEw4LQUtV8HxDeZ7O0
+  - artist: Portmanteau
+    track_name: Air Force
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3lQcfAU83ThflVqXx8PJYD
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=vYHBTmtS5y4
+    from_playlist:
+    - https://open.spotify.com/playlist/1WUytEw4LQUtV8HxDeZ7O0
+  - artist: Portmanteau
+    track_name: Auvergne
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0YnUUYO84LrfcUmL7lnPtn
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=TyIMF99-skg
     from_playlist:
     - https://open.spotify.com/playlist/1WUytEw4LQUtV8HxDeZ7O0
   - artist: Pèire Boissièra

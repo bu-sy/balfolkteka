@@ -322,6 +322,15 @@ links:
       link: https://www.youtube.com/watch?v=w4rKRhlVZFM
     from_playlist:
     - https://open.spotify.com/playlist/3vGeSvKQYKTZDWR1OosTBI
+  - artist: Portmanteau
+    track_name: Very Jeune (gavotte de l'aven)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3VFSk0Z0EXtw2yf4MJ79C7
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=aQ24ZA7KUco
+    from_playlist:
+    - https://open.spotify.com/playlist/3vGeSvKQYKTZDWR1OosTBI
   - artist: Rémi Geffroy
     track_name: Maladire
     links:

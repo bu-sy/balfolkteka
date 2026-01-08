@@ -367,6 +367,33 @@ links:
       link: https://www.youtube.com/watch?v=u6_6DwasRYM
     from_playlist:
     - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Ball Noir
+    track_name: Ceasars Descent (Scottisch)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7rb5L1zAMBiMfOPd0vOVgU
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=9ZHVpV8YNYA
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Ball Noir
+    track_name: Scottish of Death (Remastered)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2Ev0RTpAubSyUE9RDgepHq
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=sADHYvU1tT4
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Ball Noir
+    track_name: Shaking Ground (Scottish)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7xh6T32taDQSk9Lp3iRN43
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=jUSErlYD2Bo
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Ballsy Swing
     track_name: Les pulls à Lucas (Chapelloise)
     links:
@@ -2290,6 +2317,42 @@ links:
       link: https://www.youtube.com/watch?v=Bkwt9icICWs
     from_playlist:
     - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Portmanteau
+    track_name: Härjedalsschottis
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4xo1GJtkzlDZTlTtQCLBSB
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=xV9YOOSFXuc
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Portmanteau
+    track_name: Longwater (schottishe)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2u0KYEreRYbJAeeQrdskJV
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=QsWsETprtCY
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Portmanteau
+    track_name: Midsommerschottish (schottishe)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0e2C0OPfwiCzRuSEyamybb
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=qyAH001n19c
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Portmanteau
+    track_name: Urbaine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6srrJwJjQdIAGhgt0tmZpL
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=KKKoQ1cOnww
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Raphnin Maurel
     track_name: Scottish à Cattinaux / Bourrée à Jean Pons / Giatte Des Combrailles
     links:

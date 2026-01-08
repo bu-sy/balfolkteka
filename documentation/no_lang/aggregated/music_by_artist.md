@@ -196,7 +196,7 @@
 
 [Baliskis (3)](music_by_artist/baliskis.md)
 
-[Ball Noir (4)](music_by_artist/ball_noir.md)
+[Ball Noir (19)](music_by_artist/ball_noir.md)
 
 [Balla Vogala (1)](music_by_artist/balla_vogala.md)
 
@@ -1528,6 +1528,8 @@
 
 [Poolidor (3)](music_by_artist/poolidor.md)
 
+[Portmanteau (16)](music_by_artist/portmanteau.md)
+
 [Potes Flor' (Diou Flo) (1)](music_by_artist/potes_flor_diou_flo_.md)
 
 [Psapp (1)](music_by_artist/psapp.md)
@@ -1706,7 +1708,7 @@
 
 [Spiritualized (1)](music_by_artist/spiritualized.md)
 
-[Spontus (1)](music_by_artist/spontus.md)
+[Spontus (3)](music_by_artist/spontus.md)
 
 [Spoum (1)](music_by_artist/spoum.md)
 

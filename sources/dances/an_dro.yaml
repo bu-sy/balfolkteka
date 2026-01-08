@@ -882,6 +882,15 @@ links:
       link: https://www.youtube.com/watch?v=K4KsjqxGMDo
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Portmanteau
+    track_name: An dro (an dro)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1etYT2cHNIE125OHDFQL4Q
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=DVDNPqvkwuU
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Rozenn Talec, Yannig Noguet
     track_name: Au mois de mai (Andro)
     links:
@@ -937,6 +946,15 @@ links:
       link: https://www.youtube.com/watch?v=y7mNJyUp1Fc
     from_playlist:
     - https://open.spotify.com/playlist/5pFDfiCI5pUS7eu7JLrAJB
+  - artist: Spontus
+    track_name: An dro
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/66DEMLamfHPCzinb5MBDPX
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=B1qnR-AEbE0
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: Startijenn
     track_name: Skeud (Radio Edit) [An dro]
     links:

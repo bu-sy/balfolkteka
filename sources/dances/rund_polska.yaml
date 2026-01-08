@@ -38,6 +38,15 @@ links:
       link: https://www.youtube.com/watch?v=TQ8_D9iDjVs
     from_playlist:
     - https://open.spotify.com/playlist/2c5CxFhGWiL0huxjATES1Z
+  - artist: Ball Noir
+    track_name: After the Storm (Polska)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3aJWrQgwR2bjniJHt4wrVm
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=fAiaNwHiqZQ
+    from_playlist:
+    - https://open.spotify.com/playlist/2YasVhvJQOTOake4ppVpUe
   - artist: Ballsy Swing
     track_name: "Polska de Chambàrat: Pad'poufs (Polska-Bourée 3 Tps)"
     links:

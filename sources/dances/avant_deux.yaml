@@ -11,6 +11,7 @@ links:
     - recording_from_balfolk
   playlists:
   - link: https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - link: https://open.spotify.com/playlist/1HXIG3B12kNEfmy1q45EbH
   tracks:
   - artist: Arbadétorne
     track_name: Avant-Deux aux quatre coins
@@ -156,6 +157,15 @@ links:
       link: https://www.youtube.com/watch?v=34E_BYe_ZS4
     from_playlist:
     - https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - artist: Portmanteau
+    track_name: Avant-deux
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0PUCNEJJWTNvBmjcZWHweP
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=0XASE3gwzV4
+    from_playlist:
+    - https://open.spotify.com/playlist/1HXIG3B12kNEfmy1q45EbH
   - artist: Sterne
     track_name: En avant deux de Saint-Cast
     links:

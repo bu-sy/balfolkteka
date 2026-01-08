@@ -358,6 +358,33 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Ball Noir
+    track_name: Dead Wood Song (Mazurka)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1LkKVSNKJ1chODClB4xXht
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=MJmU2uwiwrI
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+  - artist: Ball Noir
+    track_name: Mazurka of Death (Remastered)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7tqZpzSqHhDroT4hYwPNcy
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=I5f6e9KKH3c
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+  - artist: Ball Noir
+    track_name: The Veil (Mazurka)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2zFW7HOEF6KV1Fv34g40Wp
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=4rp-R78vljY
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Ballsy Swing
     track_name: Atlantis Octopus (Mazurka)
     links:
@@ -2837,6 +2864,24 @@ links:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Portmanteau
+    track_name: Camdence
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3WVqB6TDI4FJQAtcT6hjSR
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=nBxzU7kMLx0
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+  - artist: Portmanteau
+    track_name: Mazurka à Clément (mazurka)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3qoap43zBpvEhhdYRhm2GI
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=L2CzNlgUzS4
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Rachel Averly
     track_name: Mazurka à rigal
     links:

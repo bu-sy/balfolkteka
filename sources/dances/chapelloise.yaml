@@ -299,6 +299,15 @@ links:
       link: https://open.spotify.com/track/0Uu8qMhYWK5Vewurxoe3ZM
     from_playlist:
     - https://open.spotify.com/playlist/6yGsiRssuU9QlR2nTCGDWd
+  - artist: Portmanteau
+    track_name: Pericondine
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6LOGjY46Ljuq7b4Yr5CRUB
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=RfuJ9lvyavE
+    from_playlist:
+    - https://open.spotify.com/playlist/0MCGnArGMUQeEiaDFBG95y
   - artist: Rémi Geffroy
     track_name: Ek dwi Tin (chapelloise)
     links:

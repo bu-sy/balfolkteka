@@ -1708,7 +1708,7 @@
 
 [Spiritualized (1)](music_by_artist/spiritualized.md)
 
-[Spontus (3)](music_by_artist/spontus.md)
+[Spontus (4)](music_by_artist/spontus.md)
 
 [Spoum (1)](music_by_artist/spoum.md)
 

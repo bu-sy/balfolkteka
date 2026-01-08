@@ -56,7 +56,7 @@
 
 [Pas de Sept (1)](music_by_dance/pas_de_sept.md)
 
-[Plinn (2)](music_by_dance/plinn.md)
+[Plinn (3)](music_by_dance/plinn.md)
 
 [Polka (115)](music_by_dance/polka.md)
 

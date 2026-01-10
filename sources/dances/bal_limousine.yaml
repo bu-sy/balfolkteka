@@ -1,7 +1,14 @@
 id: bal_limousine
 name: Bal Limousine
 links:
-  # examples: TODO
+  instructions:
+  - link: https://www.youtube.com/watch?v=Lp4xyg7d26M
+    tags:
+    - in_polish
+  examples:
+  - link: https://www.youtube.com/watch?v=4N2DjVPLzzE
+    tags:
+    - video_from_workshops
   playlists:
   - link: https://open.spotify.com/playlist/2y1yOErY5dGxq4y7SFHkfC
   tracks:

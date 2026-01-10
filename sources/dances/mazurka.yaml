@@ -124,6 +124,16 @@ links:
       link: https://www.youtube.com/watch?v=oc4cwgp6EeA
     from_playlist:
     - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+  - artist: Alzamantes
+    track_name: Se son more moriranno
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/49r34fQDT7ZdwK83XACcR8
+    - portal: Soundcloud
+      link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A167699063&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
+    no_youtube_link: true #Verified
   - artist: Ampouailh
     track_name: Skañv (mazurka)
     links:

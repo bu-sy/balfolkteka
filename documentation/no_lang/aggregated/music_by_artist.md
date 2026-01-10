@@ -78,7 +78,7 @@
 
 [Almeeva (1)](music_by_artist/almeeva.md)
 
-[Alzamantes (6)](music_by_artist/alzamantes.md)
+[Alzamantes (11)](music_by_artist/alzamantes.md)
 
 [Amarcord Wien (1)](music_by_artist/amarcord_wien.md)
 

@@ -2,6 +2,9 @@ id: scottish
 name: Scottish
 links:
   instructions:
+  - link: https://www.youtube.com/watch?v=2DZK7SbupMw
+    tags:
+    - in_polish
   - link: https://www.youtube.com/watch?v=y1mfTqRCfyg
   examples:
   - link: https://www.youtube.com/watch?v=qzuP3u4BtCU
@@ -142,6 +145,16 @@ links:
       link: https://www.youtube.com/watch?v=BTyjR-ZwDec
     from_playlist:
     - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: Alzamantes
+    track_name: Jacobites
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7avEawzqvR67bBe7f6Ipe1
+    - portal: Soundcloud
+      link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A167699075&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+    no_youtube_link: true #Verified
   - artist: Ana Fridman, Chiquinha Gonzaga
     track_name: Sultana
     links:

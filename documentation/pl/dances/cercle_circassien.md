@@ -18,7 +18,12 @@
 ## Jak tańczyć
 
 <details>
-<summary><big>Wideo instruktażowe 1 (Po francusku)</big></summary>
+<summary><big>Wideo instruktażowe 1 (Po polsku)</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Q0JrtLWEbL8?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Wideo instruktażowe 2 (Po francusku)</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/X8iQtOlS8YI?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 

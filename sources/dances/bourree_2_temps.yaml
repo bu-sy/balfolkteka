@@ -11,6 +11,9 @@ connected_dances:
 - bourree_3_temps
 links:
   instructions:
+  - link: https://www.youtube.com/watch?v=w3ffpdX2v9M
+    tags:
+    - in_polish
   - link: https://www.youtube.com/watch?v=dDAQ6OFr6Oc
     tags:
     - in_italian
@@ -215,6 +218,11 @@ links:
       link: https://www.youtube.com/watch?v=sdakmYEfFLI
     from_playlist:
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
+  - artist: Alzamantes
+    track_name: Bourrèe
+    links:
+    - portal: Soundcloud
+      link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A79766771&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
   - artist: Alzamantes
     track_name: Nuova Lena
     links:

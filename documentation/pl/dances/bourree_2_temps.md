@@ -9,7 +9,12 @@
 ## Jak tańczyć
 
 <details>
-<summary><big>Wideo instruktażowe 1 (Po włosku) (Po angielsku)</big></summary>
+<summary><big>Wideo instruktażowe 1 (Po polsku)</big></summary>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/w3ffpdX2v9M?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
+</details>
+
+<details>
+<summary><big>Wideo instruktażowe 2 (Po włosku) (Po angielsku)</big></summary>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/dDAQ6OFr6Oc?si=o5m25aE8fmLWDh3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy"></iframe>
 </details>
 
@@ -19,6 +24,6 @@
 
 - [Bourrée 3 temps](bourree_3_temps.md)
 
-## Utwory (304)
+## Utwory (305)
 
 [Utwory do tańca](../../no_lang/aggregated/music_by_dance/bourree_2_temps.md)

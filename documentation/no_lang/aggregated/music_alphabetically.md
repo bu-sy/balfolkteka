@@ -28,7 +28,7 @@
 
 [D (137)](music_alphabetically/on_letter_D.md)
 
-[E (58)](music_alphabetically/on_letter_E.md)
+[E (59)](music_alphabetically/on_letter_E.md)
 
 [F (67)](music_alphabetically/on_letter_F.md)
 
@@ -46,11 +46,11 @@
 
 [M (221)](music_alphabetically/on_letter_M.md)
 
-[N (52)](music_alphabetically/on_letter_N.md)
+[N (53)](music_alphabetically/on_letter_N.md)
 
 [O (37)](music_alphabetically/on_letter_O.md)
 
-[P (164)](music_alphabetically/on_letter_P.md)
+[P (166)](music_alphabetically/on_letter_P.md)
 
 [Q (16)](music_alphabetically/on_letter_Q.md)
 

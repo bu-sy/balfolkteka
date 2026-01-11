@@ -8,6 +8,6 @@
 
 - [Scottish](scottische.md)
 
-## Utwory (20)
+## Utwory (21)
 
 [Utwory do tańca](../../no_lang/aggregated/music_by_dance/scottish_impaire.md)

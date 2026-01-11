@@ -63,6 +63,15 @@ links:
       link: https://www.youtube.com/watch?v=rooGcllK3Yo
     from_playlist:
     - https://open.spotify.com/playlist/564LseciVL43fExqhdGAa2
+  - artist: Dr. Ka
+    track_name: Schobos - Ungerade Schottisch
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7Iw253X8lmvZdpVByrdQ07
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=kh8pWQzLprY
+    from_playlist:
+    - https://open.spotify.com/playlist/5tOW7NfOK86YaJ4cluE0Do
   - artist: Elye Cuthbertson, Sam Sweeney
     track_name: The Doorbell and the Breadmaker (feat. Sam Sweeney)
     links:

@@ -46,11 +46,13 @@
 
 [Mardi Gras (2)](music_by_dance/mardi_gras.md)
 
-[Mazurka (375)](music_by_dance/mazurka.md)
+[Mazurka (376)](music_by_dance/mazurka.md)
 
 [Mazurka 11 temps (3)](music_by_dance/mazurka_11_temps.md)
 
 [Mazurka 5 temps (1)](music_by_dance/mazurka_5_temps.md)
+
+[Pas d’étè (2)](music_by_dance/pas_d_ete.md)
 
 [Pas de Sept (1)](music_by_dance/pas_de_sept.md)
 
@@ -64,7 +66,7 @@
 
 [Rond de Landéda (7)](music_by_dance/rond_de_landeda.md)
 
-[Rond de Saint-Vincent (38)](music_by_dance/rond_de_saint_vincent.md)
+[Rond de Saint-Vincent (39)](music_by_dance/rond_de_saint_vincent.md)
 
 [Rond Paludier (11)](music_by_dance/rond_paludier.md)
 
@@ -74,7 +76,7 @@
 
 [Scottish (314)](music_by_dance/scottish.md)
 
-[Scottish impaire (20)](music_by_dance/scottish_impaire.md)
+[Scottish impaire (21)](music_by_dance/scottish_impaire.md)
 
 [Suite Plinn (5)](music_by_dance/suite_plinn.md)
 

@@ -268,7 +268,7 @@
 
 <hr>
 
-<h3>Dr. Ka - <b>Schobos - Ungerade Schottisch</b> (Scottish)</h3>
+<h3>Dr. Ka - <b>Schobos - Ungerade Schottisch</b> (Scottish, Scottish impaire)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

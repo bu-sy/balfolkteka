@@ -1,4 +1,4 @@
-# Lista wszystkich tańców (46)
+# Lista wszystkich tańców (47)
 
 [Powrót do listy stron](../home.md)
 
@@ -55,6 +55,8 @@
 [Mazurka 11 temps](../dances/mazurka_11_temps.md)
 
 [Mazurka 5 temps](../dances/mazurka_5_temps.md)
+
+[Pas d’étè](../dances/pas_d_ete.md)
 
 [Pas de Sept](../dances/pas_de_sept.md)
 

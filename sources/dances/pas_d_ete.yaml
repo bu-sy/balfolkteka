@@ -1,0 +1,31 @@
+id: pas_d_ete
+name: Pas d’étè
+links:
+  instructions:
+  - link: https://www.youtube.com/watch?v=_PniP9YDQnI
+    tags:
+    - in_english
+  examples:
+  - link: https://www.youtube.com/watch?v=j79RHenThys
+    tags:
+    - recording_of_dancers
+  - link: https://www.youtube.com/watch?v=JitrEyaOh_M
+    tags:
+    - recording_from_balfolk
+  playlists:
+  - link: https://open.spotify.com/playlist/0Y17uyrI9mbrC5B0butNQU
+  tracks:
+  - artist: Duo Guerbigny Thébaut
+    links:
+    - link: https://www.youtube.com/watch?v=pyFZH3Ofdc0
+      portal: YouTube
+    track_name: Pas D'été de Médoeux
+  - artist: Uma Coisa Em Forma de Assim
+    track_name: Pas de Ete
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6nqi6sb5fyrUZUeKc7pR7J
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=fKxRlDXCGTc
+    from_playlist:
+    - https://open.spotify.com/playlist/0Y17uyrI9mbrC5B0butNQU

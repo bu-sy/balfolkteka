@@ -16,7 +16,7 @@
 
 [Accordeon Melancolique (1)](music_by_artist/accordeon_melancolique.md)
 
-[Accordzêam (15)](music_by_artist/accordzeam.md)
+[Accordzêam (16)](music_by_artist/accordzeam.md)
 
 [Ad Vielle Que Pourra (5)](music_by_artist/ad_vielle_que_pourra.md)
 
@@ -124,7 +124,7 @@
 
 [Antikvariniai Kašpirovskio dantys (1)](music_by_artist/antikvariniai_kaspirovskio_dantys.md)
 
-[Antoine Dawans (3)](music_by_artist/antoine_dawans.md)
+[Antoine Dawans (4)](music_by_artist/antoine_dawans.md)
 
 [Antonin Volson (1)](music_by_artist/antonin_volson.md)
 
@@ -514,6 +514,8 @@
 
 [Duo Gestrikt (5)](music_by_artist/duo_gestrikt.md)
 
+[Duo Guerbigny Thébaut (1)](music_by_artist/duo_guerbigny_thebaut.md)
+
 [Duo L'Hêtre Heureux (9)](music_by_artist/duo_l_hetre_heureux.md)
 
 [Duo Massarelli (4)](music_by_artist/duo_massarelli.md)
@@ -548,7 +550,7 @@
 
 [EHALE (1)](music_by_artist/ehale.md)
 
-[Ekko Trio (3)](music_by_artist/ekko_trio.md)
+[Ekko Trio (4)](music_by_artist/ekko_trio.md)
 
 [Elanor (3)](music_by_artist/elanor.md)
 
@@ -1186,7 +1188,7 @@
 
 [Loogaroo (8)](music_by_artist/loogaroo.md)
 
-[Lorcan Fahy (3)](music_by_artist/lorcan_fahy.md)
+[Lorcan Fahy (4)](music_by_artist/lorcan_fahy.md)
 
 [Lorenzo Monguzzi (1)](music_by_artist/lorenzo_monguzzi.md)
 
@@ -1440,7 +1442,7 @@
 
 [P. Garriau (1)](music_by_artist/p_garriau.md)
 
-[Pablo Golder (3)](music_by_artist/pablo_golder.md)
+[Pablo Golder (4)](music_by_artist/pablo_golder.md)
 
 [Pacho Andean (1)](music_by_artist/pacho_andean.md)
 
@@ -1901,6 +1903,8 @@
 [Ulli Boegershausen (1)](music_by_artist/ulli_boegershausen.md)
 
 [Ulman (1)](music_by_artist/ulman.md)
+
+[Uma Coisa Em Forma de Assim (1)](music_by_artist/uma_coisa_em_forma_de_assim.md)
 
 [Urban Trad (1)](music_by_artist/urban_trad.md)
 

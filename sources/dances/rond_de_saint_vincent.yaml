@@ -23,6 +23,15 @@ links:
       link: https://www.youtube.com/watch?v=hN64YHXAI9A
     from_playlist:
     - https://open.spotify.com/playlist/3lEy0ERolXf4ASaWlubt5u
+  - artist: Accordzêam
+    track_name: Englishman in New-York
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6GLlMfYLcjAsyhqAP6DFCp
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=OPvsm-RroqE
+    from_playlist:
+    - https://open.spotify.com/playlist/7BOeaxu0flSfAaA7jETqw9
   - artist: Ampouailh
     track_name: Tri bali 41vet (Ronds de Saint-Vincent)
     links:

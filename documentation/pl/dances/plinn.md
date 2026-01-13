@@ -36,6 +36,6 @@
 
 - [Suite Plinn](suite_plinn.md)
 
-## Utwory (34)
+## Utwory (35)
 
 [Utwory do tańca](../../no_lang/aggregated/music_by_dance/plinn_and_ball.md)

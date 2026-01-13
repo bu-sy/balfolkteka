@@ -16,6 +16,15 @@ links:
       link: https://www.youtube.com/watch?v=MmKIwR59TUw
     from_playlist:
     - https://open.spotify.com/playlist/2HNIFzNnpaS3bFCmbWx2Ec
+  - artist: Ciac Boum
+    track_name: Mardi Gras "Selvaggio"
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3qPEd7oie019hI9FPOmTT9
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=M5AGuTjXeDI
+    from_playlist:
+    - https://open.spotify.com/playlist/2HNIFzNnpaS3bFCmbWx2Ec
   - artist: Jeremiah McLane & Ruthie Dornfeld
     track_name: Mardi Gras
     links:

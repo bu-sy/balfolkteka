@@ -576,6 +576,15 @@ links:
       link: https://www.youtube.com/watch?v=_leL92VP8Is
     from_playlist:
     - https://open.spotify.com/playlist/26XRj0qzZdaTNmVmHPRjyt
+  - artist: Bargainatt
+    track_name: La valse d'ambre
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/04d4ZFqzQIVikYhP5FpjyS
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=KZ18Gt_Q8mw
+    from_playlist:
+    - https://open.spotify.com/playlist/6Frtoa6VNsp0n814HSZEfG
   - artist: Beat Bouet Trio
     track_name: La valse des canuts
     blacklist: true #Unavailable
@@ -1008,6 +1017,24 @@ links:
       link: https://www.youtube.com/watch?v=Dx8xKJWcEkc
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
+  - artist: Ciac Boum
+    track_name: Valse "Les filles du Passavent"
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2jsy1HT1K4tkIVoW1yvIcF
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=0w7qTJPjdtQ
+    from_playlist:
+    - https://open.spotify.com/playlist/6Frtoa6VNsp0n814HSZEfG
+  - artist: Ciac Boum
+    track_name: Valse à Janelle
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6oyBXzCpqMzZs87eaVLrKn
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=lwQjtCdgcfs
+    from_playlist:
+    - https://open.spotify.com/playlist/6Frtoa6VNsp0n814HSZEfG
   - artist: Ciac Boum, Colin Delzant, Romain Chéré
     track_name: Sous La Fleur D'Oranger
     links:
@@ -2926,6 +2953,15 @@ links:
       link: https://www.youtube.com/watch?v=QZW5TW18Ymk
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Ormuz
+    track_name: Valse des jouets / Valse du souhait
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6z3vNE4QmbZkqB5znXFlsO
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=6WN_6XO_8ys
+    from_playlist:
+    - https://open.spotify.com/playlist/6Frtoa6VNsp0n814HSZEfG
   - artist: Oîma
     track_name: Magosto
     links:
@@ -3045,6 +3081,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
+  - artist: Plantec
+    track_name: Dañs ar Seienn - Valse
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5rAiUM4qYzfWDht1wKYawi
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Xm-5r3re2Gk
+    from_playlist:
+    - https://open.spotify.com/playlist/6Frtoa6VNsp0n814HSZEfG
   - artist: Plantec
     track_name: Mojo (Valse)
     links:
@@ -3288,6 +3333,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=I1t-S8atk9U
     from_playlist:
+    - https://open.spotify.com/playlist/6Frtoa6VNsp0n814HSZEfG
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
   - artist: Smetonos Ūsai
     track_name: Trainio Valsas
@@ -3590,6 +3636,15 @@ links:
       link: https://www.youtube.com/watch?v=eym6e3w5dcs
     from_playlist:
     - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
+  - artist: Tref
+    track_name: Valse hésitation
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1GE0lM49pvlLMykPcw02MG
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=uosR8i1cHNk
+    from_playlist:
+    - https://open.spotify.com/playlist/6Frtoa6VNsp0n814HSZEfG
   - artist: Treizh, ba.fnu
     track_name: Coustik Bihan
     links:

@@ -189,6 +189,15 @@ links:
       link: https://www.youtube.com/watch?v=yvX5X4OqrD4
     from_playlist:
     - https://open.spotify.com/playlist/6CU2bKeDiXRFbsXerC2BL8
+  - artist: Ciac Boum
+    track_name: Polka à Micheneau
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3c81PjjYLmjuBxome9wSNZ
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=TTwT4L7XGEI
+    from_playlist:
+    - https://open.spotify.com/playlist/5E98ffJHf8h58DSUP6XUKU
   - artist: Detchko
     track_name: Comme à l'habitude
     links:
@@ -937,6 +946,15 @@ links:
       link: https://www.youtube.com/watch?v=_KUuEv_jXsw
     from_playlist:
     - https://open.spotify.com/playlist/2zHebVsR6T5fuDahaFLQ3w
+  - artist: Triskill
+    track_name: Polka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/1RBEjNh5XddSsFjG4mDdhg
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=URmzaktUDUc
+    from_playlist:
+    - https://open.spotify.com/playlist/5E98ffJHf8h58DSUP6XUKU
   - artist: Trolska Polska
     track_name: Krølle Bølle-polka
     links:

@@ -49,6 +49,15 @@ links:
       link: https://www.youtube.com/watch?v=DVuLCR5X2a8
     from_playlist:
     - https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - artist: Ciac Boum
+    track_name: Avant-Deux Méli Mélo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3vGLQQgphTGWn9EzHtxHp9
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=yyLIZPQf0Ko
+    from_playlist:
+    - https://open.spotify.com/playlist/1HXIG3B12kNEfmy1q45EbH
   - artist: Duo Blain-Leyzour
     track_name: Avant-Deux de travers
     links:
@@ -184,3 +193,12 @@ links:
       link: https://www.youtube.com/watch?v=dzBfP3kuLA8
     from_playlist:
     - https://open.spotify.com/playlist/0JvZiBxSoOhEw56umvJxQz
+  - artist: Triskill
+    track_name: Avant-deux de long
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2nN4iq4pHM6ptg5LkNwzTL
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=KsqgzOymcG8
+    from_playlist:
+    - https://open.spotify.com/playlist/1HXIG3B12kNEfmy1q45EbH

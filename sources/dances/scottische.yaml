@@ -593,6 +593,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Brotto-Lopez
+    track_name: Bolèga te - Escoticha
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2nxebT4FLGo4UcWTDIJZRW
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=NlnfOH72MsY
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: Brotto-Lopez
     track_name: Diga Figa - Escotticha
     links:
     - portal: Spotify
@@ -729,6 +738,15 @@ links:
       link: https://www.youtube.com/watch?v=j8iua_2A12M
     from_playlist:
     - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Ciac Boum
+    track_name: Scottish de la Borne
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3h3imL1zt3cFyBZrPW3MsD
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=DWAHSlPuea4
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Coriandre
     track_name: Bella ciao - Live
     links:
@@ -2230,6 +2248,15 @@ links:
       link: https://www.youtube.com/watch?v=QdLUmz8Fyus
     from_playlist:
     - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+  - artist: Ormuz
+    track_name: Suite de Scottishs
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0TIabDvAoxNAWXmrH1N187
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=SjdIHHFWoDs
+    from_playlist:
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Patxi eta Batbiru
     track_name: Txapel mix (Txapeloaz)
     links:
@@ -2817,6 +2844,7 @@ links:
       link: https://www.youtube.com/watch?v=zjgzw_94yYc
     from_playlist:
     - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
+    - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
   - artist: Yann-Fañch Kemener, ba.fnu
     track_name: Scottish
     links:

@@ -212,7 +212,7 @@
 
 [Barbara Pravi (1)](music_by_artist/barbara_pravi.md)
 
-[Bargainatt (24)](music_by_artist/bargainatt.md)
+[Bargainatt (25)](music_by_artist/bargainatt.md)
 
 [BAROK (3)](music_by_artist/barok.md)
 
@@ -220,7 +220,7 @@
 
 [Bastien Fontanille (2)](music_by_artist/bastien_fontanille.md)
 
-[Beat Bouet Trio (12)](music_by_artist/beat_bouet_trio.md)
+[Beat Bouet Trio (13)](music_by_artist/beat_bouet_trio.md)
 
 [Becky Price (1)](music_by_artist/becky_price.md)
 
@@ -278,7 +278,7 @@
 
 [Brotto Lopez Sextet (4)](music_by_artist/brotto_lopez_sextet.md)
 
-[Brotto-Lopez (11)](music_by_artist/brotto_lopez.md)
+[Brotto-Lopez (12)](music_by_artist/brotto_lopez.md)
 
 [Bruno Chaveiro (1)](music_by_artist/bruno_chaveiro.md)
 
@@ -358,7 +358,7 @@
 
 [Christine Lurquin (1)](music_by_artist/christine_lurquin.md)
 
-[Ciac Boum (12)](music_by_artist/ciac_boum.md)
+[Ciac Boum (21)](music_by_artist/ciac_boum.md)
 
 [Cilantrio (1)](music_by_artist/cilantrio.md)
 
@@ -1118,6 +1118,8 @@
 
 [Le Diable à 4 (1)](music_by_artist/le_diable_a_4.md)
 
+[Le Driadi (1)](music_by_artist/le_driadi.md)
+
 [Le Grand Barouf (4)](music_by_artist/le_grand_barouf.md)
 
 [Le Mange Bal (7)](music_by_artist/le_mange_bal.md)
@@ -1430,7 +1432,7 @@
 
 [Original Occitana (1)](music_by_artist/original_occitana.md)
 
-[Ormuz (4)](music_by_artist/ormuz.md)
+[Ormuz (7)](music_by_artist/ormuz.md)
 
 [Orquestrina Trama (1)](music_by_artist/orquestrina_trama.md)
 
@@ -1524,7 +1526,7 @@
 
 [Planchée (8)](music_by_artist/planchee.md)
 
-[Plantec (20)](music_by_artist/plantec.md)
+[Plantec (21)](music_by_artist/plantec.md)
 
 [Plattform K+k Vienna (1)](music_by_artist/plattform_k_k_vienna.md)
 
@@ -1882,7 +1884,7 @@
 
 [Trio14 (1)](music_by_artist/trio14.md)
 
-[Triskill (1)](music_by_artist/triskill.md)
+[Triskill (5)](music_by_artist/triskill.md)
 
 [Tristan Le Breton (1)](music_by_artist/tristan_le_breton.md)
 

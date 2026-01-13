@@ -231,6 +231,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=TRAMFUnmaxc
     from_playlist:
+    - https://open.spotify.com/playlist/1WUytEw4LQUtV8HxDeZ7O0
     - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
   - artist: Brotto-Lopez
     track_name: Trinhon de Bergon Para lo lop - Suite de bourrées à 3 temps
@@ -240,6 +241,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=1Ut8m2LYWQc
     from_playlist:
+    - https://open.spotify.com/playlist/1WUytEw4LQUtV8HxDeZ7O0
     - https://open.spotify.com/playlist/7iT9HlxA8prjDzIQI00Jrg
   - artist: CPC, KKC Orchestra
     track_name: Cau te mena

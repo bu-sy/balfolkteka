@@ -166,6 +166,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=bTE8s3p753A
     from_playlist:
+    - https://open.spotify.com/playlist/3Jrp8mpVQZusdrG98oSCSO
     - https://open.spotify.com/playlist/7BOeaxu0flSfAaA7jETqw9
   - artist: Edgar Trio, Regis Huiban
     track_name: Le chant des lucioles (Rond de Saint-Vincent)
@@ -389,6 +390,15 @@ links:
       link: https://www.youtube.com/watch?v=Cw-PgTIK9Ys
     from_playlist:
     - https://open.spotify.com/playlist/0r4yI4NYJagZcDNZjGd95M
+  - artist: Triskill
+    track_name: Saint-Vincent
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7kzGJ7SMrRIZSpuAHUtAGx
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=Y-nKmGV8blo
+    from_playlist:
+    - https://open.spotify.com/playlist/3Jrp8mpVQZusdrG98oSCSO
   - artist: Tud
     track_name: Rond de Saint Vincent
     links:

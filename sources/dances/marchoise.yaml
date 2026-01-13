@@ -8,6 +8,7 @@ links:
   playlists:
   - link: https://open.spotify.com/playlist/1aZIzlVcrtTPIANv5e6Ll4
   - link: https://open.spotify.com/playlist/7Kfc700EIfKVlbYiP4pfLT
+  - link: https://open.spotify.com/playlist/0EzMbwvImk22pMqEMG9uS8
   tracks:
   - artist: Aimé Bozier
     track_name: La marchoise
@@ -46,6 +47,15 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/1aZIzlVcrtTPIANv5e6Ll4
     no_youtube_link: true #Verified
+  - artist: Ciac Boum
+    track_name: Marchoise "Plaisantement" - "Bourrée Ratatam"
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4ZSCoigEGtLUPhwlqPmGAi
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=rsAoIyOzQW4
+    from_playlist:
+    - https://open.spotify.com/playlist/0EzMbwvImk22pMqEMG9uS8
   - artist: Le Grand Barouf
     track_name: Marchoise à Perrine
     links:

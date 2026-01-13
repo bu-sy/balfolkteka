@@ -669,6 +669,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=OIbgnmZkPbI
     from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Brotto-Lopez
@@ -859,6 +860,15 @@ links:
       link: https://www.youtube.com/watch?v=-evQzzOCIT4
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Ciac Boum
+    track_name: Mazurkas à Auzaneau et Moïse
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/4u4yXTRglSKAxBpDYx3Nl6
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ee13j8iw4VM
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Claudio Carboni, Riccardo Tesi
     track_name: Suite di mazurke - Tra veglia e sonno, Mazurka di S.Benedetto
     links:
@@ -1912,6 +1922,15 @@ links:
       link: https://www.youtube.com/watch?v=8MJWGa5x3hw
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Le Driadi
+    track_name: Profumi (mazurka)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3DZzOcfDJcqbjKDcVw0bNG
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=auv_bRbQonM
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Le Matrioske
     track_name: Habibi (Mazurka francese)
     links:
@@ -3458,6 +3477,15 @@ links:
       link: https://www.youtube.com/watch?v=gcfoIGx-KZY
     from_playlist:
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
+  - artist: Triskill
+    track_name: Mazurka
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/7t0iJxY3NK7nnVMIcnImfW
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=IhMJjT33Kqc
+    from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
   - artist: Trolska Polska
     track_name: Far vel
     links:
@@ -3783,6 +3811,7 @@ links:
     - portal: YouTube
       link: https://www.youtube.com/watch?v=fhIavKGAokY
     from_playlist:
+    - https://open.spotify.com/playlist/1bqshVE3KxSiAhxLS6YYcT
     - https://open.spotify.com/playlist/5QbiVG06vHAc90P1u4LUQG
     - https://open.spotify.com/playlist/5eocpIpjnJ8R1kFOn00Vp0
   - artist: Zef, zffrs

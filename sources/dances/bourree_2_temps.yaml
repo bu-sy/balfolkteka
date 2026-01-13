@@ -459,6 +459,7 @@ links:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/1FNWhBURVWAhtZaLvqayx3
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
   - artist: Bal O'Gadjo
@@ -470,6 +471,7 @@ links:
       link: https://www.youtube.com/watch?v=1eLmaoZ04sc
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
     - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Bal O'Gadjo
@@ -2015,6 +2017,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
     - https://open.spotify.com/playlist/5q3FipOJvprNkj9Dyczvqy
     no_youtube_link: true #Verified
@@ -2108,6 +2111,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/04Sg9yYfmhOec4JReygK58
     - https://open.spotify.com/playlist/3ovvMT8f3QCfZYl2CwNuUr
+    - https://open.spotify.com/playlist/4PQXStYb5JHjACmIExZLI2
     - https://open.spotify.com/playlist/4cKMYV4obu0neABC8pyu05
     - https://open.spotify.com/playlist/7hfFlz4laNQSoOhne0v32i
   - artist: Les genoux

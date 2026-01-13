@@ -9,6 +9,14 @@ links:
   playlists:
   - link: https://open.spotify.com/playlist/7uoH9qLbb4EZPb76n38v1A
   tracks:
+  - artist: Beat Bouet Trio
+    track_name: Galop Nantillais
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/25BHGym6IEIjLPB9fqvo0Q
+    from_playlist:
+    - https://open.spotify.com/playlist/7uoH9qLbb4EZPb76n38v1A
+    no_youtube_link: true #Verified
   - artist: Bernard Loffet
     track_name: Galop Nantais
     links:

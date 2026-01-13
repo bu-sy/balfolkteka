@@ -43,6 +43,15 @@ links:
     - https://open.spotify.com/playlist/50ztJARsYERh5bN24BaQhM
     - https://open.spotify.com/playlist/6mtTR46QK4LwZ6zUSCk70O
   - artist: Ciac Boum
+    track_name: Suite Maraîchines "Nin-non" - "I n'aé pas d'argent"
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3B8YMj7z2TnVvO5up4iNlN
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=ZGN8Vr1hkvw
+    from_playlist:
+    - https://open.spotify.com/playlist/6ULURD94hBNJogf7oByGGB
+  - artist: Ciac Boum
     track_name: Suite de maraichines
     links:
     - portal: Spotify
@@ -202,6 +211,7 @@ links:
     from_playlist:
     - https://open.spotify.com/playlist/0RetIIIsTDwh2I1DLzRnAT
     - https://open.spotify.com/playlist/5W8TpmF3iyqbfB2P2XN2G6
+    - https://open.spotify.com/playlist/6ULURD94hBNJogf7oByGGB
     - https://open.spotify.com/playlist/6mtTR46QK4LwZ6zUSCk70O
   - artist: Stevan Vincendeau, Willy Pichard
     track_name: Les brumes (maraîchine)

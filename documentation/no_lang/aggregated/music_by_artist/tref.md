@@ -100,7 +100,7 @@
 
 <hr>
 
-<h3>Tref - <b>Valse hésitation</b> (Mazurka)</h3>
+<h3>Tref - <b>Valse hésitation</b> (Mazurka, Valse 3 temps)</h3>
 
 <details>
 <summary><big>Spotify</big></summary>

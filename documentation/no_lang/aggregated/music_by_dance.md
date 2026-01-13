@@ -1,6 +1,6 @@
 [An Dro (113)](music_by_dance/an_dro.md)
 
-[Avant Deux (19)](music_by_dance/avant_deux.md)
+[Avant Deux (21)](music_by_dance/avant_deux.md)
 
 [Bal Keff (5)](music_by_dance/bal_keff.md)
 
@@ -26,7 +26,7 @@
 
 [Fandango & Arin Arin (46)](music_by_dance/fandango_arin_arin.md)
 
-[Galop Nantais (10)](music_by_dance/galop_nantais.md)
+[Galop Nantais (11)](music_by_dance/galop_nantais.md)
 
 [Gavotte caresse / Gavotte de Grenoble (39)](music_by_dance/gavotte_de_grenoble.md)
 
@@ -40,13 +40,13 @@
 
 [Madison (1)](music_by_dance/madison.md)
 
-[Maraîchine (22)](music_by_dance/maraichine.md)
+[Maraîchine (23)](music_by_dance/maraichine.md)
 
-[Marchoise (6)](music_by_dance/marchoise.md)
+[Marchoise (7)](music_by_dance/marchoise.md)
 
-[Mardi Gras (2)](music_by_dance/mardi_gras.md)
+[Mardi Gras (3)](music_by_dance/mardi_gras.md)
 
-[Mazurka (376)](music_by_dance/mazurka.md)
+[Mazurka (379)](music_by_dance/mazurka.md)
 
 [Mazurka 11 temps (3)](music_by_dance/mazurka_11_temps.md)
 
@@ -56,9 +56,9 @@
 
 [Pas de Sept (1)](music_by_dance/pas_de_sept.md)
 
-[Plinn/Bal Plinn (34)](music_by_dance/plinn_and_ball.md)
+[Plinn/Bal Plinn (35)](music_by_dance/plinn_and_ball.md)
 
-[Polka (115)](music_by_dance/polka.md)
+[Polka (117)](music_by_dance/polka.md)
 
 [Porcher (2)](music_by_dance/porcher.md)
 
@@ -66,7 +66,7 @@
 
 [Rond de Landéda (7)](music_by_dance/rond_de_landeda.md)
 
-[Rond de Saint-Vincent (39)](music_by_dance/rond_de_saint_vincent.md)
+[Rond de Saint-Vincent (40)](music_by_dance/rond_de_saint_vincent.md)
 
 [Rond Paludier (11)](music_by_dance/rond_paludier.md)
 
@@ -74,7 +74,7 @@
 
 [Polska (rund polska) (44)](music_by_dance/rund_polska.md)
 
-[Scottish (314)](music_by_dance/scottish.md)
+[Scottish (317)](music_by_dance/scottish.md)
 
 [Scottish impaire (21)](music_by_dance/scottish_impaire.md)
 
@@ -84,7 +84,7 @@
 
 [Valse 11 temps (11)](music_by_dance/valse_11_temps.md)
 
-[Valse 3 temps (410)](music_by_dance/valse_3_temps.md)
+[Valse 3 temps (416)](music_by_dance/valse_3_temps.md)
 
 [Valse 5 temps (79)](music_by_dance/valse_5_temps.md)
 

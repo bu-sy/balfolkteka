@@ -2255,6 +2255,15 @@ links:
       link: https://www.youtube.com/watch?v=XMOjc-njorA
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
+  - artist: La Valise
+    track_name: De Dame Et D'homme
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/0Go4r7PKrGA0U61N98ETIx
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=7s_5nRt2m2I
+    from_playlist:
+    - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
   - artist: Latché Swing
     track_name: Valse a Bamboula
     links:
@@ -2889,6 +2898,15 @@ links:
     track_name: Unborn
     from_playlist:
     - https://open.spotify.com/playlist/7pdnnMWdg4Uchn2IGJBJPu
+  - artist: Ojûn
+    track_name: Lettre à l'oiseau
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2t1hRnOX5xQsfQ352Y0lP0
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=dPxLdyip8oc
+    from_playlist:
+    - https://open.spotify.com/playlist/6sKRJw2CGgrvOfBtQRdvdv
   - artist: Olla Vogala
     track_name: Le Philtre
     links:

@@ -1086,6 +1086,8 @@
 
 [La Sylva (1)](music_by_artist/la_sylva.md)
 
+[La Valise (3)](music_by_artist/la_valise.md)
+
 [Lars Lilholt (1)](music_by_artist/lars_lilholt.md)
 
 [Latché Swing (1)](music_by_artist/latche_swing.md)
@@ -1401,6 +1403,8 @@
 [Obscurus Orbis (1)](music_by_artist/obscurus_orbis.md)
 
 [Oîma (4)](music_by_artist/oima.md)
+
+[Ojûn (1)](music_by_artist/ojun.md)
 
 [Olav Luksengård Mjelva (1)](music_by_artist/olav_luksengard_mjelva.md)
 

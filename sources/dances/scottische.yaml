@@ -1527,6 +1527,15 @@ links:
       link: https://www.youtube.com/watch?v=zNolJSJjXbQ
     from_playlist:
     - https://open.spotify.com/playlist/65oHtlmUyPwyHKncELiYas
+  - artist: La Valise
+    track_name: Rio Antigo
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/5SsjMRB2VyboNAoTIS5UFk
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=e3b8zDsJwl8
+    from_playlist:
+    - https://open.spotify.com/playlist/2zcJO5otbmYkrqwTs9S81j
   - artist: La cuivraille
     track_name: Scottish Des Terrils
     blacklist: true #Unavailable

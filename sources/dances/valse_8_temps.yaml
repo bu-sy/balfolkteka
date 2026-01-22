@@ -242,6 +242,15 @@ links:
       link: https://www.youtube.com/watch?v=WjrVUi8uXSc
     from_playlist:
     - https://open.spotify.com/playlist/5ENzeSmn9biGAsXGYGyTN2
+  - artist: La Valise
+    track_name: Zaspom
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6JiZYpJBqZAeLFsJOfUsi1
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=AG903JuBoGY
+    from_playlist:
+    - https://open.spotify.com/playlist/5E1uU55QUfcZMBqdwAjB69
   - artist: Laurent Geoffroy
     track_name: Parapluie Noir / Pasla
     links:

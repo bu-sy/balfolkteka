@@ -151,6 +151,9 @@ class TranslationFile(YamlDefinedEntity):
     def get_page_name(self, page_name):
         return self.contents['pages'][page_name]
 
+    def get_other_sources(self, source_name):
+        return self.contents['other_sources'][source_name]
+
     def get_alt_name(self, dance_name):
         return self.contents['alt_names'].get(dance_name)
 
@@ -174,6 +177,7 @@ class DirectoryStructure(object):
         self.music_by_artist_directory = os.path.join(self.global_aggregated, 'music_by_artist')
         self.music_by_dance_directory = os.path.join(self.global_aggregated, 'music_by_dance')
         self.music_alphabetically_directory = os.path.join(self.global_aggregated, 'music_alphabetically')
+        self.external_links_file_path = os.path.join(self.sources_path, 'other', 'external_links.yaml')
 
     def _get_path(self, full_path, relative_to=None):
         if not relative_to:

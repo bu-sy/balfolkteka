@@ -13,6 +13,9 @@ all_translations = [
     TranslationFile(translation_file) for translation_file in glob.glob(os.path.join(directoryStructure.translations_path, '*.yaml'))
 ]
 
+other_sources = YamlDefinedEntity(directoryStructure.external_links_file_path)
+other_sources.load()
+
 for dance in all_dances:
     dance.load()
 
@@ -59,6 +62,7 @@ all_artists = render_music_by_artist(all_music, directoryStructure)
 render_music_by_track_name(all_music, directoryStructure)
 render_music_by_dance(all_dances, directoryStructure)
 
+
 for translation in all_translations:
     print(f"Processing translation {translation.name}")
     translation.load()
@@ -79,6 +83,7 @@ for translation in all_translations:
     render_home_page(
         translation,
         directory_structure_for_translation,
+        other_sources.contents,
         number_of_tracks=len(all_music),
         number_of_dances=len(all_dances)
     )

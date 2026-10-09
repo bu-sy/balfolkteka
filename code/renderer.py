@@ -7,6 +7,9 @@ def write_file(contents, file_path):
     with open(file_path, 'w') as file_obj:
         file_obj.write(contents)
 
+def header(text, degree=2):
+    return f"<h{degree}>{text}</h{degree}>"
+
 def link(link_text, link_path):
     return f"[{link_text}]({link_path})"
 
@@ -294,12 +297,13 @@ def render_music_redirect_page(loaded_translation, directory_structure, number_o
     )
 
 
-def render_home_page(loaded_translation, directory_structure, number_of_tracks, number_of_dances):
+def render_home_page(loaded_translation, directory_structure, other_sources, number_of_tracks, number_of_dances):
     def get_text_to_display(text_to_load_from_translation, number_to_display):
         return f"{loaded_translation.get_page_name(text_to_load_from_translation)} ({number_to_display})"
 
     write_file(
         '\n\n'.join([
+        header(loaded_translation.get_keyword('internal_sources')),
         link(
             get_text_to_display('aggregated_list_of_dances', number_of_dances),
             directory_structure.get_aggregated_dances_path(directory_structure.get_home_page_path())
@@ -307,7 +311,14 @@ def render_home_page(loaded_translation, directory_structure, number_of_tracks, 
         link(
             get_text_to_display('aggregated_list_of_music', number_of_tracks),
             directory_structure.get_music_redirect_page(directory_structure.get_home_page_path())
-        )
+        ),
+        '\n- '.join([header(loaded_translation.get_keyword('other_sources'))] +
+              [
+                  link(
+                      loaded_translation.get_other_sources(key), value
+                  ) for key, value in other_sources.items()
+              ]
+            ),
         ]),
         directory_structure.get_home_page_path()
     )

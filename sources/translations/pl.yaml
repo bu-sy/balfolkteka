@@ -16,6 +16,8 @@ keywords:
   click_to_expand: Kliknij by rozwinąć
   back_to_list_of_dances: Powrót do listy tańców
   back_to_the_list_of_pages: Powrót do listy stron
+  internal_sources: Wewnętrzne zasoby
+  other_sources: Inne źródła
 pages:
   main_page: Strona główna
   aggregated_list_of_dances: Lista wszystkich tańców
@@ -25,6 +27,10 @@ pages:
   list_of_music_by_dance: Utwory pogrupowane po tańcach
   list_of_music_sorted_alphabetically: Utwory pogrupowane alfabetycznie
   music_for_dance: Utwory do tańca
+other_sources: #TODO expand descriptions
+  balfolk_videohelp: Balfolkowa wideopomoc
+  balfolk_discord_pl_waw: Discord
+  bal_libre: Inicjatywa BalLibre
 translatable:
   _in_pairs: "W parach"
   _in_fours: "W czwórkach"

@@ -1396,6 +1396,8 @@
 
 [Novar (10)](music_by_artist/novar.md)
 
+[Nozride (1)](music_by_artist/nozride.md)
+
 [Nubia (15)](music_by_artist/nubia.md)
 
 [Obal (10)](music_by_artist/obal.md)

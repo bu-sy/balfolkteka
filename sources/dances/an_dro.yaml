@@ -743,6 +743,17 @@ links:
       link: https://www.youtube.com/watch?v=EeCi52CgBYA
     from_playlist:
     - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
+  - artist: Nozride
+    track_name: An Dro Nevez
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/3chAlDIelysbjb1jp5l7Ar
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=6hmAGgD02C4
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=2286850671/size=small/bgcol=ffffff/linkcol=0687f5/track=4254171028/transparent=true/
+    from_playlist:
+    - https://open.spotify.com/playlist/3tj3Elnc1HAnh29jxODiiO
   - artist: OMIRI
     track_name: Dentro da Matriz
     links:

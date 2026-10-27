@@ -2266,6 +2266,13 @@ links:
       link: https://www.youtube.com/watch?v=SjdIHHFWoDs
     from_playlist:
     - https://open.spotify.com/playlist/7dw1T98vq0pI8i6nzPSa4c
+  - artist: OSSO (oscillateurs sonneurs)
+    track_name: Duderc'h (Scottish)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/2V7bxsQhrGBWTp73XaVZdN
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=BBA7VcRJfts
   - artist: Patxi eta Batbiru
     track_name: Txapel mix (Txapeloaz)
     links:

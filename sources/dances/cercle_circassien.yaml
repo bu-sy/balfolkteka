@@ -143,6 +143,11 @@ links:
       link: https://www.youtube.com/watch?v=CuWaJOPsxbI
     from_playlist:
     - https://open.spotify.com/playlist/5LaAadZVQzZIhCREtmGLdX
+  - artist: Apolkalypse
+    track_name: The Filtering Banshee
+    links:
+    - portal: Bandcamp
+      link: https://bandcamp.com/EmbeddedPlayer/album=2682778536/size=small/bgcol=ffffff/linkcol=0687f5/track=900255365/transparent=true/
   - artist: Arvest
     track_name: Setu aze
     links:

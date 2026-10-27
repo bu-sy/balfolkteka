@@ -130,6 +130,8 @@
 
 [Antti Paalanen (1)](music_by_artist/antti_paalanen.md)
 
+[Apolkalypse (1)](music_by_artist/apolkalypse.md)
+
 [Ar Re Yaouank (1)](music_by_artist/ar_re_yaouank.md)
 
 [Arbadétorne (15)](music_by_artist/arbadetorne.md)
@@ -1441,6 +1443,8 @@
 [Ormuz (7)](music_by_artist/ormuz.md)
 
 [Orquestrina Trama (1)](music_by_artist/orquestrina_trama.md)
+
+[OSSO (oscillateurs sonneurs) (2)](music_by_artist/osso_oscillateurs_sonneurs_.md)
 
 [Отава Ё (5)](music_by_artist/otava_io.md)
 

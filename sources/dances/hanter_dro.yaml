@@ -1072,6 +1072,13 @@ links:
       link: https://www.youtube.com/watch?v=LG6NLPZXRzo
     from_playlist:
     - https://open.spotify.com/playlist/5Zv9WpDbbQ3Q5qCm2FPUWk
+  - artist: OSSO (oscillateurs sonneurs)
+    track_name:  Ordre étant (Hanter-dro)
+    links:
+    - portal: Spotify
+      link: https://open.spotify.com/track/6y3tuydeABWWdDZzs8j4zX
+    - portal: YouTube
+      link: https://www.youtube.com/watch?v=eAIf4MbrPE0
   - artist: Pas De Quoi
     track_name: Hanter Dro
     links:

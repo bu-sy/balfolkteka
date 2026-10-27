@@ -93,32 +93,32 @@ def render_dance(loaded_dance, loaded_translation, all_dances, directory_structu
     #             for tag_name in loaded_dance.get('variants', [])
     #         ]))
 
-    if loaded_examples := loaded_dance.get_examples():
-        lines.append(secondary_header(loaded_translation.get_keyword('examples')))
-        for idx, example in enumerate(loaded_examples, start=1):
-            collapsible_summary = " ".join([
-                loaded_translation.get_keyword('example'),
-                str(idx)
-            ] + [f"({loaded_translation.get_translated_video_tag(tag_name)})" for tag_name in example.tags])
-            lines.append(collapsible(
-                collapsible_summary,
-                embed_youtube(example.link)) #TODO allow embeding dailymotion videos
-            )
-        lines.append('<br>')
-
-    if loaded_instructions := loaded_dance.get_instruction_link():
-        lines.append(secondary_header(loaded_translation.get_keyword('how_to_dance')))
-        for idx, instructions in enumerate(loaded_instructions, start=1):
-            collapsible_summary = " ".join([
-               loaded_translation.get_keyword('instruction_video'),
-               str(idx)
-            ] + [f"({loaded_translation.get_translated_video_tag(tag_name)})" for tag_name in instructions.get("tags", [])])
-            lines.append(collapsible(
-                collapsible_summary,
-                embed_youtube(instructions['link']))
-            )
-
-        lines.append('<br>')
+    # if loaded_examples := loaded_dance.get_examples():
+    #     lines.append(secondary_header(loaded_translation.get_keyword('examples')))
+    #     for idx, example in enumerate(loaded_examples, start=1):
+    #         collapsible_summary = " ".join([
+    #             loaded_translation.get_keyword('example'),
+    #             str(idx)
+    #         ] + [f"({loaded_translation.get_translated_video_tag(tag_name)})" for tag_name in example.tags])
+    #         lines.append(collapsible(
+    #             collapsible_summary,
+    #             embed_youtube(example.link)) #TODO allow embeding dailymotion videos
+    #         )
+    #     lines.append('<br>')
+    #
+    # if loaded_instructions := loaded_dance.get_instruction_link():
+    #     lines.append(secondary_header(loaded_translation.get_keyword('how_to_dance')))
+    #     for idx, instructions in enumerate(loaded_instructions, start=1):
+    #         collapsible_summary = " ".join([
+    #            loaded_translation.get_keyword('instruction_video'),
+    #            str(idx)
+    #         ] + [f"({loaded_translation.get_translated_video_tag(tag_name)})" for tag_name in instructions.get("tags", [])])
+    #         lines.append(collapsible(
+    #             collapsible_summary,
+    #             embed_youtube(instructions['link']))
+    #         )
+    #
+    #     lines.append('<br>')
 
     if loaded_dance.get('connected_dances'):
         lines.append(f"### {loaded_translation.get_keyword('connected_dances')}")
@@ -304,10 +304,10 @@ def render_home_page(loaded_translation, directory_structure, other_sources, num
     write_file(
         '\n\n'.join([
         header(loaded_translation.get_keyword('internal_sources')),
-        link(
-            get_text_to_display('aggregated_list_of_dances', number_of_dances),
-            directory_structure.get_aggregated_dances_path(directory_structure.get_home_page_path())
-        ),
+        # link(
+        #     get_text_to_display('aggregated_list_of_dances', number_of_dances),
+        #     directory_structure.get_aggregated_dances_path(directory_structure.get_home_page_path())
+        # ),
         link(
             get_text_to_display('aggregated_list_of_music', number_of_tracks),
             directory_structure.get_music_redirect_page(directory_structure.get_home_page_path())
